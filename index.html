@@ -1,0 +1,95 @@
+
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>🧠 My AI Knowledge Base</title>
+        <style>
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 40px 20px; line-height: 1.6; color: #333; background-color: #f9f9f9; }
+            header { text-align: center; margin-bottom: 50px; }
+            h1 { color: #2c3e50; margin-bottom: 10px; }
+            .subtitle { color: #7f8c8d; font-size: 1.1em; }
+            
+            .timeline { position: relative; max-width: 700px; margin: 0 auto; }
+            .timeline::after { content: ''; position: absolute; width: 4px; background-color: #e9ecef; top: 0; bottom: 0; left: 20px; margin-left: -2px; }
+            
+            .card {
+                position: relative;
+                background-color: white;
+                border-radius: 8px;
+                padding: 20px;
+                margin-left: 50px;
+                margin-bottom: 30px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+                border-left: 5px solid #3498db;
+                transition: transform 0.2s;
+            }
+            .card:hover { transform: translateY(-2px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); }
+            
+            .card::before {
+                content: '';
+                position: absolute;
+                width: 16px; 
+                height: 16px;
+                left: -38px; /* Adjust based on margin-left */
+                background-color: white;
+                border: 4px solid #3498db;
+                top: 20px;
+                border-radius: 50%;
+                z-index: 1;
+            }
+            
+            .date-badge { 
+                background: #3498db; 
+                color: white; 
+                padding: 4px 10px; 
+                border-radius: 20px; 
+                font-size: 0.85em; 
+                font-weight: bold; 
+                display: inline-block;
+                margin-bottom: 10px;
+            }
+            
+            .highlight-text { color: #555; margin-bottom: 15px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+            
+            .read-btn { 
+                display: inline-block; 
+                text-decoration: none; 
+                color: #3498db; 
+                font-weight: bold; 
+                border: 1px solid #3498db; 
+                padding: 6px 15px; 
+                border-radius: 4px; 
+                font-size: 0.9em;
+                transition: all 0.2s;
+            }
+            .read-btn:hover { background: #3498db; color: white; }
+            
+            .empty-state { text-align: center; color: #999; margin-top: 50px; }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>🧠 My AI Knowledge Base</h1>
+            <div class="subtitle">Personal Archive of Daily AI Intelligence</div>
+        </header>
+        
+        <div class="timeline">
+    
+            <div class="card">
+                <div class="date-badge">2025-12-20</div>
+                <div class="highlight-text">本文以趣味测试形式，推出20道Agentic AI专业难题，满分100分，旨在评估读者对智能体AI技术的掌握程度。测试内容涵盖核心概念、应用场景及前沿挑战，既可作为学习者的自我检测工具，也能激发行业从业者的技术讨论。文章采用互动式设计，提升读者参与感，同时隐含对Agentic AI技术普及的推动意图。</div>
+                <a href="reports/daily_report_2025-12-20.html" class="read-btn">Read Report →</a>
+            </div>
+        
+            <div class="card">
+                <div class="date-badge">2025-12-15</div>
+                <div class="highlight-text">迪士尼宣布投入10亿美元与OpenAI达成战略合作，计划利用先进AI技术重塑旗下经典IP和明星形象。这一重磅投资标志着传统娱乐巨头全面拥抱人工智能转型，旨在通过智能内容生成、虚拟角色互动等创新应用，为老牌IP注入新活力，重新激活粉丝经济。此举或将颠覆传统内容创作模式，引领娱乐产业进入AI驱动的新时代。</div>
+                <a href="reports/daily_report_2025-12-15.html" class="read-btn">Read Report →</a>
+            </div>
+        
+        </div>
+    </body>
+    </html>
+    
