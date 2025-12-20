@@ -193,6 +193,9 @@ def generate_markdown(articles_by_category, highlight_desc, target_date):
     return content
 
 def generate_html(articles_by_category, highlight_desc, target_date):
+    # Calculate Total
+    total_count = sum(len(v) for v in articles_by_category.values())
+    
     html = f"""
     <!DOCTYPE html>
     <html lang="zh-CN">
