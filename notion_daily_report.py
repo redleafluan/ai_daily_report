@@ -270,13 +270,16 @@ def generate_html(articles_by_category, highlight_desc, target_date):
             /* Mobile Responsiveness */
             @media (max-width: 768px) {{
                 .dashboard-grid {{
-                    grid-template-columns: 1fr;
+                    column-count: 1;
                 }}
             }}
         </style>
     </head>
     <body>
-        <h1>📅 Daily AI Report <span style="font-size:0.6em;color:#777">| {target_date}</span></h1>
+        <h1>📅 Daily AI Report</h1>
+        <div class="meta-info">
+            {target_date} | 共收录 <b>{total_count}</b> 篇精选内容
+        </div>
         
         <div class="highlight-box">
             <div class="summary-title">🌟 今日看点 (Highlights)</div>
@@ -521,14 +524,28 @@ def send_feishu_card(webhook_url, title, summary, articles_by_category, target_d
     """Send a structured Feishu Interactive Card."""
     print(f"Sending Feishu Card to {webhook_url}...")
     
+    daily_url = f"{GITHUB_PAGES_BASE}reports/daily_report_{target_date}.html"
+    
+    # Calculate Total
+    total_count = sum(len(v) for v in articles_by_category.values())
+
     # 1. Build Header
     card_content = {
         "config": {"wide_screen_mode": True},
         "header": {
-            "title": {"tag": "plain_text", "content": f"📅 AI日报 | {target_date}"},
+            "title": {"tag": "plain_text", "content": f"📅 AI日报 | {target_date} (共{total_count}篇)"},
             "template": "blue"
         },
         "elements": [
+            # Top Links
+            {
+                "tag": "div",
+                "text": {
+                    "tag": "lark_md", 
+                    "content": f"🏠 [访问知识库首页]({GITHUB_PAGES_BASE})  |  📄 [阅读今日完整日报 (Web)]({daily_url})"
+                }
+            },
+            {"tag": "hr"},
             {
                 "tag": "div",
                 "text": {"tag": "lark_md", "content": f"**🌟 今日看点**\n{summary}"}
