@@ -31,25 +31,5 @@ cd daily_report
 python3 notion_daily_report.py
 ```
 
-### 3. 数据与发布 (FAQ)
-
-#### Q: 如何发布到微信公众号？
-A: 打开生成的 `html` 预览页面，直接 **Command+A 全选 -> Command+C 复制**，粘贴到微信公众号编辑器即可。现在的排版已经针对移动端阅读优化。
-
-#### Q: 如何搭建 GitHub Pages 网站？
-1. 在 GitHub 创建空仓库。
-2. 在终端执行（仅第一次）：
-    ```bash
-    cd daily_report
-    git init
-    git remote add origin <您的仓库地址>
-    git branch -M main
-    ```
-3. 以后脚本会自动执行 `git push`！
-4. 在 GitHub 设置里开启 Pages (Source: main)。
-
-#### Q: JSON文件有什么用？
-A: 它是给程序看的“元数据”。如果您以后想做一个“AI 问答机器人”来查询您的历史日报，直接把 `reports/*.json` 喂给它即可。
-
 ---
 *Created by DeepMind Agent*
