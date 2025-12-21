@@ -4,7 +4,12 @@ on:
     schedule:
         # Runs at 02:00 UTC everyday (10:00 AM Beijing Time)
         - cron: "0 2 * * *"
-    workflow_dispatch: # Allows manual run from GitHub interface
+    workflow_dispatch:
+        inputs:
+            target_date:
+                description: "Date to generate report for (YYYY-MM-DD)"
+                required: false
+                default: ""
 
 permissions:
     contents: write # Allow pushing back to repo
@@ -12,6 +17,8 @@ permissions:
 jobs:
     build:
         runs-on: ubuntu-latest
+        env:
+            TZ: "Asia/Shanghai" # Set timezone to Beijing Time
 
         steps:
             - name: Checkout code
@@ -40,7 +47,12 @@ jobs:
                   FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
                   DATABASE_ID: ${{ secrets.DATABASE_ID }}
               run: |
-                  # The repo root contains the script directly
-                  # The script generates files and commits/pushes them internally.
-                  # Since we pre-configured git auth above, the script's 'git push' should work.
-                  python notion_daily_report.py
+                  # Determine date argument
+                  if [ -n "${{ github.event.inputs.target_date }}" ]; then
+                    DATE_ARG="--date ${{ github.event.inputs.target_date }}"
+                  else
+                    DATE_ARG=""
+                  fi
+
+                  # Run script (Repo root contains the script)
+                  python notion_daily_report.py $DATE_ARG
