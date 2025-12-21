@@ -1,0 +1,47 @@
+name: Daily AI Report
+
+on:
+    schedule:
+        # Runs at 02:00 UTC everyday (10:00 AM Beijing Time)
+        - cron: "0 2 * * *"
+    workflow_dispatch: # Allows manual run from GitHub interface
+
+permissions:
+    contents: write # Allow pushing back to repo
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v3
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.9"
+
+            - name: Install dependencies
+              run: |
+                  pip install requests
+
+            - name: Configure Git for Push
+              run: |
+                  git config --global user.name "AI Agent Bot"
+                  git config --global user.email "bot@example.com"
+                  # Authenticate using the GITHUB_TOKEN provided automatically by GitHub
+                  git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+            - name: Run Daily Report Script
+              env:
+                  NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+                  DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+                  FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+                  DATABASE_ID: ${{ secrets.DATABASE_ID }}
+              run: |
+                  # Enter the directory and run the script
+                  cd daily_report
+                  # The script generates files and commits/pushes them internally.
+                  # Since we pre-configured git auth above, the script's 'git push' should work.
+                  python notion_daily_report.py

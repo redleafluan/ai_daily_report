@@ -13,12 +13,21 @@ from collections import defaultdict
 from html.parser import HTMLParser
 
 # --- Configuration ---
-NOTION_TOKEN = "ntn_W157212211790Of6npaBWZhhxxde9ti1FDcABWA2PLw2rR"
-DATABASE_ID = "18005db4ae0580f08860ff2b20e42e44"
-DEEPSEEK_API_KEY = "sk-4cd620c0fcfc49668c6b1e7b8c70c746"
+# Secrets must be set in Environment Variables (or GitHub Secrets)
+NOTION_TOKEN = os.environ.get("NOTION_TOKEN")
+DATABASE_ID = os.environ.get("DATABASE_ID", "18005db4ae0580f08860ff2b20e42e44") # Default ID preserved
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
-FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/6f7c6542-0818-4284-a925-25dadf5353db"
+FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK")
 GITHUB_PAGES_BASE = "https://redleafluan.github.io/ai_daily_report/"
+
+# Check for missing secrets
+if not all([NOTION_TOKEN, DEEPSEEK_API_KEY, FEISHU_WEBHOOK]):
+    print("⚠️  Warning: Missing Environment Variables.")
+    print("   Please set NOTION_TOKEN, DEEPSEEK_API_KEY, and FEISHU_WEBHOOK.")
+    # For local backward compatibility during transition, you could uncomment below:
+    # NOTION_TOKEN = "original_token"
+    # ... but we are moving to Cloud.
 
 # Use today's date for filtering
 TODAY = datetime.date.today().isoformat() 
