@@ -40,8 +40,7 @@ jobs:
                   FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
                   DATABASE_ID: ${{ secrets.DATABASE_ID }}
               run: |
-                  # Enter the directory and run the script
-                  cd daily_report
+                  # The repo root contains the script directly
                   # The script generates files and commits/pushes them internally.
                   # Since we pre-configured git auth above, the script's 'git push' should work.
                   python notion_daily_report.py
