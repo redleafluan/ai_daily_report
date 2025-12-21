@@ -18,6 +18,7 @@ DATABASE_ID = "18005db4ae0580f08860ff2b20e42e44"
 DEEPSEEK_API_KEY = "sk-4cd620c0fcfc49668c6b1e7b8c70c746"
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
 FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/6f7c6542-0818-4284-a925-25dadf5353db"
+GITHUB_PAGES_BASE = "https://redleafluan.github.io/ai_daily_report/"
 
 # Use today's date for filtering
 TODAY = datetime.date.today().isoformat() 
