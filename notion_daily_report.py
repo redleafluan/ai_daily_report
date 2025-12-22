@@ -297,6 +297,18 @@ def generate_html(articles_by_category, highlight_desc, target_date):
         <div class="meta-info">
             {target_date} | 共收录 <b>{total_count}</b> 篇精选内容
         </div>
+
+        <!-- Social Reading Guide -->
+        <div style="background: #e8f4fd; border-left: 4px solid #3498db; padding: 12px 15px; margin: 20px 0; border-radius: 4px; font-size: 0.95em; color: #2c3e50;">
+            <b>📝 开启社交阅读：</b>
+            本页面已集成 
+            <a href="https://hypothes.is/" target="_blank" style="color: #3498db; text-decoration: underline;">Hypothesis</a> 
+            批注插件。
+            <br>👆 <b>选中任意文字</b> 即可高亮或发表评论。点击右侧 <span style="background: #eee; padding: 2px 5px; border-radius: 3px;">&gt;</span> 箭头查看讨论。
+            (首次使用需免费注册账号)
+        </div>
+        
+        <script src="https://hypothes.is/embed.js" async></script>
         
         <div class="highlight-box">
             <div class="summary-title">🌟 今日看点 (Highlights)</div>
