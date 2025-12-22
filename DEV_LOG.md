@@ -1,6 +1,17 @@
 # Daily Report Development Log
 
-This document records the development history, key decisions, and troubleshooting steps for the Daily AI Report project.
+> **📝 Protocol**: This document is the official history of the project.
+> **When to update**: At the end of every significant development session or feature release.
+> **Who updates**: The AI Assistant (Antigravity).
+
+## Template
+```markdown
+### [YYYY-MM-DD] Feature Name
+- **Goal**: ...
+- **Changes**: ...
+- **Outcome**: ...
+```
+---
 
 ## 2025-12-20 ~ 12-22: Cloud Migration & Stabilization
 **Goal**: Move the daily report from local execution (unstable due to sleep mode) to GitHub Actions (Cloud).
