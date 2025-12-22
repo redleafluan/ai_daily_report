@@ -56,3 +56,12 @@ jobs:
 
                   # Run script (Repo root contains the script)
                   python notion_daily_report.py $DATE_ARG
+
+      - name: Sync Annotations (Optional)
+        env:
+          HYPOTHESIS_TOKEN: ${{ secrets.HYPOTHESIS_TOKEN }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_NOTES_DB_ID: ${{ secrets.NOTION_NOTES_DB_ID }}
+        run: |
+          # This script handles its own graceful exit if secrets are missing
+          python sync_hypothesis.py
