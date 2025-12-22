@@ -66,7 +66,7 @@ def push_to_notion(annotation):
         "Name": {"title": [{"text": {"content": title_content}}]}, # The main column
         "URL": {"url": uri},
         "Quote": {"rich_text": [{"text": {"content": text}}]},
-        "Created At": {"date": {"start": annotation['created'][:10]}} 
+        "Date": {"date": {"start": annotation['created'][:10]}} 
     }
     
     headers = {
