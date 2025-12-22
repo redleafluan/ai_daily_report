@@ -14,20 +14,24 @@ from html.parser import HTMLParser
 
 # --- Configuration ---
 # Secrets must be set in Environment Variables (or GitHub Secrets)
-NOTION_TOKEN = os.environ.get("NOTION_TOKEN")
-DATABASE_ID = os.environ.get("DATABASE_ID", "18005db4ae0580f08860ff2b20e42e44") # Default ID preserved
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY")
+NOTION_TOKEN = os.environ.get("NOTION_TOKEN", "").strip()
+DATABASE_ID = os.environ.get("DATABASE_ID", "18005db4ae0580f08860ff2b20e42e44").strip()
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "").strip()
 DEEPSEEK_API_URL = "https://api.deepseek.com/chat/completions"
-FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK")
+FEISHU_WEBHOOK = os.environ.get("FEISHU_WEBHOOK", "").strip()
 GITHUB_PAGES_BASE = "https://redleafluan.github.io/ai_daily_report/"
 
-# Check for missing secrets
+# --- Debug & Validation ---
+print("-" * 30)
+print("Config Check:")
+print(f"Notion Token: {'OK' if NOTION_TOKEN else 'MISSING'} ({len(NOTION_TOKEN)} chars)")
+print(f"DeepSeek Key: {'OK' if DEEPSEEK_API_KEY else 'MISSING'} ({len(DEEPSEEK_API_KEY)} chars)")
+print(f"Feishu Hook : {'OK' if FEISHU_WEBHOOK else 'MISSING'} (Starts with: {FEISHU_WEBHOOK[:30]}...)")
+print("-" * 30)
+
 if not all([NOTION_TOKEN, DEEPSEEK_API_KEY, FEISHU_WEBHOOK]):
-    print("⚠️  Warning: Missing Environment Variables.")
-    print("   Please set NOTION_TOKEN, DEEPSEEK_API_KEY, and FEISHU_WEBHOOK.")
-    # For local backward compatibility during transition, you could uncomment below:
-    # NOTION_TOKEN = "original_token"
-    # ... but we are moving to Cloud.
+    print("❌ Critical Error: Missing Environment Variables.")
+    sys.exit(1) # Force fail so GitHub Action turns Red
 
 # Use today's date for filtering
 TODAY = datetime.date.today().isoformat() 
