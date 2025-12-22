@@ -381,6 +381,8 @@ def get_daily_report(target_date):
             
             if not results:
                 print(f"No articles found for {target_date}.")
+                # Send a "No Content" notification so user knows script ran successfully
+                send_feishu_card(FEISHU_WEBHOOK, "今日暂无更新", "Notion 数据库中未找到今日 ({}) 的新文章。".format(target_date), {}, target_date)
                 return
 
             # --- Process Data ---
