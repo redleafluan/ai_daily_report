@@ -38,6 +38,16 @@
   - Added `Config Check` logs to identifying missing keys.
   - Confirmed keys must be in **Repository Secrets**, not Environment Secrets.
 
+### 4. Feature: Social Reading & Knowledge Loop
+- **Hypothesis Integration**:
+  - Injected `hypothesis.js` into the HTML report.
+  - Added a visual User Guide ("How to Annotate") to the report header.
+- **Bi-directional Sync**:
+  - Created `sync_hypothesis.py` script.
+  - **Logic**: Fetches user's highlights from Hypothesis API -> Creates new pages in Notion "Reading Notes" DB.
+  - **Automation**: Added a secondary job in GitHub Actions to run this sync daily.
+- **Outcome**: Users can now annotate the static website, and those notes are automatically backed up to their private Notion knowledge base.
+
 ---
 
 ## Roadmap / Next Steps
