@@ -1,0 +1,102 @@
+# 📅 Daily AI Report - 2025-12-22
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **18** 篇内容。
+> **今日看点**: 本文介绍了一个实用的Prompt技巧，旨在帮助用户挖掘自身隐藏的天赋和潜能。通过特定的提示词设计，引导用户进行自我探索和认知，发现平时未被注意到的才能特质。文章聚焦于个人成长和自我提升领域，提供了一种基于AI交互的自我发现方法。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Agentic AI]** 国际顶尖高校联合发布进化论，揭示自主智能系统发展路径
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247545921&idx=1&sn=f55c128bf93b8111a8c609e1e95e7467&chksm=ea7d5ee62312dbb3b325428bb70baecacec9aff4af8f3702b68e5dcfbe36897b6940264aa002&mpshare=1&scene=1&srcid=1222DysGprHMiPl7dNsuYItK&sharer_shareinfo=b0ffebde42429bca0db65cec2d404862&sharer_shareinfo_first=b0ffebde42429bca0db65cec2d404862)
+*   📝 全球多所顶尖高校联合发布关于Agentic AI的进化论研究报告，系统阐述了自主智能系统从基础感知到高级决策的演进路径。报告指出，下一代AI将突破传统响应式框架，实现真正的目标导向和持续学习能力，这标志着人工智能从工具向合作伙伴的范式转变。
+*   ⏰ *22:10*
+
+#### **[Gemini 3]** 预训练负责人揭秘：从数据无限到数据有限，顶尖AI模型训练范式正在转型
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650014994&idx=1&sn=d95ec0c49b2951f50bac9d5fac13ac61&chksm=8985f39f04b5419a52798299a62138d620195b4b0bf2ec746f002c1a3b968a7695bca4197feb&mpshare=1&scene=1&srcid=1222PUi5cB22npugeZSu79IY&sharer_shareinfo=3642658fe8ea3fcdb49c0f7604bc269d&sharer_shareinfo_first=3642658fe8ea3fcdb49c0f7604bc269d)
+*   📝 Gemini 3预训练负责人深度剖析AI模型训练新趋势。随着高质量数据日益稀缺，行业正从“数据无限”时代转向“数据有限”新范式。文章揭示训练顶尖模型的核心考量，包括数据质量优化、算法效率提升和计算资源分配策略，为AI研发提供关键洞察。
+*   ⏰ *09:31*
+
+#### **[LangChain Agent]** 年度报告揭示最大障碍与最快落地场景
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247521790&idx=1&sn=9f710a1ca2047dcf71fcc88a2ea7e7bc&chksm=c1fbf604daaf7267960d5ee7ff20ef01164ff5c8f3d8b7904ce91fbda23471f63cc70496d37e&mpshare=1&scene=1&srcid=1222D7CFxpQYk26v9LpyjiRB&sharer_shareinfo=5cb58ae615dfcb7a265a2fd6fc5391d8&sharer_shareinfo_first=5cb58ae615dfcb7a265a2fd6fc5391d8)
+*   📝 LangChain Agent年度报告指出，输出质量仍是当前Agent技术面临的最大挑战，直接影响实际应用效果。报告同时识别出客服和研究领域成为Agent技术最快落地的两大场景，显示出特定垂直领域的应用潜力。这一发现为AI Agent的发展方向提供了重要参考，揭示了技术瓶颈与市场机会并存的现状。
+*   ⏰ *20:20*
+
+#### **[MiniMax]** 首次开源Tokenizer，揭示明确的Scaling Law规律
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247856197&idx=2&sn=e76dad4b5b02548d9df0e01fd05fa327&chksm=e9a1c9504cc03238008b3220817a7716d6e07233d8f21510de47a09113af88ddca24ecf27566&mpshare=1&scene=1&srcid=1222niUhEVuoMWCxeDm58tmD&sharer_shareinfo=cde2742ea65cbc6529abd8b6ac28c1d6&sharer_shareinfo_first=cde2742ea65cbc6529abd8b6ac28c1d6)
+*   📝 MiniMax海螺视频团队首次开源其Tokenizer技术，并证实该组件同样遵循明确的Scaling Law规律。这一发现打破了业界对Scaling Law仅适用于大型模型的传统认知，为模型架构优化提供了新的理论依据。开源举措将推动整个AI社区对模型缩放规律的深入研究，加速技术迭代。
+*   ⏰ *13:35*
+
+#### **[MiniMax海螺]** 首次开源，揭示视觉生成领域的Scaling Law
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247613791&idx=1&sn=98d7422cf66a96e26f1db629ce02f4e2&chksm=966d246742e29cf606f1bb69e189484f1f93d7f8e5698e294ad3372538f20a6936c6ec1441cc&mpshare=1&scene=1&srcid=1222O7ixYakqaaHWmQlSDxbT&sharer_shareinfo=2466d8d65b3ccdf93b246fcf991ced80&sharer_shareinfo_first=2466d8d65b3ccdf93b246fcf991ced80)
+*   📝 MiniMax海螺模型首次开源，在AI视觉生成领域发现了关键的Scaling Law规律。这一突破性发现为视觉生成模型的性能扩展提供了理论依据，可能推动整个行业的技术演进。开源举措将加速相关研究和应用开发，对生成式AI领域具有重要战略意义。
+*   ⏰ *14:31*
+
+#### **[物理驱动ML]** Nature力荐新范式，突破传统算法瓶颈
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247515942&idx=1&sn=17029708884d81b962867dd1358473f2&chksm=c3c2ccf6a7a436ccb31a9a0c73a840b0b2705e8da695d02974bb3e4be08b0efe1ac8e3f800af&mpshare=1&scene=1&srcid=1222y8SBVvokgoEXywZ8gXV8&sharer_shareinfo=18f96e700ccbc413a662cf3fca6290f5&sharer_shareinfo_first=18f96e700ccbc413a662cf3fca6290f5)
+*   📝 Nature期刊推荐物理驱动机器学习新范式，将物理定律与数据驱动方法结合，有望解决传统机器学习在复杂系统建模中的局限性。该方法通过整合物理约束提升模型可解释性和泛化能力，为科学计算、工程优化等领域带来突破性进展。
+*   ⏰ *10:11*
+
+#### **[迪士尼雪宝]** 工程师用AI打造真实版，防融化技术成最大挑战
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247505708&idx=1&sn=fc11cf94d8b936017c6a6ec75af916a1&chksm=ce1f56fd39dae3550907f42acdbb220a8827802d68bf6ac2ed64ae2dd8875f34147e19c158ef&mpshare=1&scene=1&srcid=12222hRxVILnOmGbLQE4mqPV&sharer_shareinfo=909f0ed995c0f8a2a2b1d142d22e691d&sharer_shareinfo_first=909f0ed995c0f8a2a2b1d142d22e691d)
+*   📝 迪士尼工程师团队成功制造出真实版《冰雪奇缘》角色雪宝Olaf，但保持其不“融化”成为技术难题。报道透露工程师通过大量AI训练来模拟雪宝的物理特性，涉及复杂的温度控制、材料科学和机器学习算法，展现了娱乐科技与人工智能的深度融合。
+*   ⏰ *16:06*
+
+### 📰 行业新闻
+#### **[MiniMax]** 人均95后团队，账上超十亿美金，叩响港股大门
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651008283&idx=1&sn=3af861ba41b67370e75a305b8a20adea&chksm=853afd88bbc4c98b23324aa31c3ee0ab9adaddd2ee686174457ea80b71a7f7295a286b5e7f9c&mpshare=1&scene=1&srcid=1222LnylQuJReMZpTqP9Ym1S&sharer_shareinfo=5cf23646c6d3bc2c416a908bbbcbf3f3&sharer_shareinfo_first=5cf23646c6d3bc2c416a908bbbcbf3f3)
+*   📝 AI独角兽MiniMax以人均95后的年轻团队阵容，携超十亿美元现金储备，正式启动港股上市进程。这家备受瞩目的生成式AI公司凭借技术实力和资本优势，正加速冲击资本市场，或将重塑中国AI产业格局。
+*   ⏰ *09:38*
+
+#### **[谷歌Robotaxi]** 硅谷停电导致服务中断，竞争对手趁机嘲讽
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247856617&idx=1&sn=a6af8879e5dd4a8d2384e1be4c84a8fd&chksm=e9c563cc3e10b6ece57b83dd30b315712f1e23c11b0549e794b1f4f92e78847a6a5ce695b55e&mpshare=1&scene=1&srcid=1222oNqXfx8oiDKy3Wu68G0y&sharer_shareinfo=0d569b2ae0224a45f897d8b268e9ae94&sharer_shareinfo_first=0d569b2ae0224a45f897d8b268e9ae94)
+*   📝 硅谷地区停电事件导致谷歌Robotaxi服务全面瘫痪，暴露了自动驾驶服务对基础设施的高度依赖。特斯拉CEO马斯克借此机会公开嘲讽，强调自家系统不受影响，凸显了不同技术路线在可靠性方面的差异。这一事件不仅暴露了自动驾驶商业化进程中的脆弱环节，也引发了行业对冗余系统和应急方案的深度思考。
+*   ⏰ *17:49*
+
+### 🧠 提示词与教程
+#### **[隐藏天赋挖掘]** 实用Prompt助你发现潜在才能
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647678138&idx=1&sn=7257d200e639081bce9f2c78e5a0b941&chksm=f1e3359119593512200d88b3f87df6d6cb6e745741611d8ad8ba8cc11706a8e8b1a68fb1cbd6&mpshare=1&scene=1&srcid=1222IBV2yIYpX2Xb7gNVsEu3&sharer_shareinfo=8f1d9e9bbe88dedea419b47dc5db5af7&sharer_shareinfo_first=8f1d9e9bbe88dedea419b47dc5db5af7)
+*   📝 本文介绍了一个实用的Prompt技巧，旨在帮助用户挖掘自身隐藏的天赋和潜能。通过特定的提示词设计，引导用户进行自我探索和认知，发现平时未被注意到的才能特质。文章聚焦于个人成长和自我提升领域，提供了一种基于AI交互的自我发现方法。
+*   ⏰ *09:29*
+
+### 💡 深度观点
+#### **[吴恩达]** 最新发声：大模型通往AGI还需数年，呼吁做好长期苦战准备
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247511349&idx=1&sn=6a3017ef2a70ff1d36c4e9cc86c7dc9f&chksm=cfd81695928c9c2c4e029548281028919c3fafc9ff9150586b5b632f0a20d38c5987493ae3ba&mpshare=1&scene=1&srcid=1222UNI5IW8eKVDswVIQPuUY&sharer_shareinfo=50ec4f2bffb5272aae979d2605a0ac55&sharer_shareinfo_first=50ec4f2bffb5272aae979d2605a0ac55)
+*   📝 AI领域权威专家吴恩达近日发表重要观点，明确指出当前大模型技术距离实现通用人工智能（AGI）仍需数年时间。他强调行业需保持理性预期，做好长期投入和技术攻坚的准备，这一判断为当前过热的大模型发展热潮提供了冷静的思考视角。
+*   ⏰ *22:10*
+
+#### **[谷歌AGI论文]** 颠覆性观点：AGI本质是公司而非神明
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652656640&idx=1&sn=3a7bd3e404c8f891ffcf24666379b548&chksm=f00d70379a6ee9868f4174adc462103eb87d605434fb81bbb8a3f6458e303f904010008c903f&mpshare=1&scene=1&srcid=12225MmWWea7vC96UbqSSMrg&sharer_shareinfo=32d29825d7e05035cc53d09c1e91a20b&sharer_shareinfo_first=32d29825d7e05035cc53d09c1e91a20b)
+*   📝 谷歌最新论文由辛顿高徒压轴发布，提出颠覆性观点：AGI并非神秘存在，其本质更接近“一家公司”的运作模式。该研究挑战了传统AI神化叙事，从组织架构角度重新定义通用人工智能，为AGI发展提供全新理论框架，引发学界对AI本质的深度反思。
+*   ⏰ *13:35*
+
+#### **[谷歌工程负责人]** 自曝2026年实现AI编程完整工作流，经典软件工程纪律在AI时代更重要
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655933657&idx=1&sn=d8e964d960f13343266c74650e9809eb&chksm=bc35e9158d5dd553f90b6b5c8a08bc03fc84c52459ff05d2c0d10d0a31e7baa4fe97afd1681f&mpshare=1&scene=1&srcid=1222bZgRUsMVRVTwQYAwOzhR&sharer_shareinfo=4d9b50a77f346a847e9693389010d186&sharer_shareinfo_first=4d9b50a77f346a847e9693389010d186)
+*   📝 谷歌工程负责人透露，AI无法完全取代程序员，但到2026年将实现全流程AI编程工作流。他强调经典软件工程纪律不仅没有过时，在AI时代反而更加重要。这一观点挑战了AI将淘汰程序员的流行叙事，指出AI工具需要与传统工程方法结合才能发挥最大价值。
+*   ⏰ *14:31*
+
+### 🔧 工具与应用
+#### **[Bloom]** 开源AI行为自动化评估工具，提升模型安全测试效率
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6947eaa6000000001e016490?app_platform=ios&app_version=9.13.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBdn94Fy9nPr_7aFDnACloxPli58FKYGKrLMVxIK4x1TI=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1766367463&share_id=6b8bdf217ddb4a9c93b4fa9f31ecbcf4)
+*   📝 Anthropic推出开源工具Bloom，专注于AI行为的自动化评估，旨在系统化测试模型的安全性和可靠性。该工具通过标准化流程，帮助开发者快速识别潜在风险，推动AI安全领域的透明化与协作。此举标志着行业在模型治理方面迈出重要一步，为构建可信AI生态提供技术支撑。
+*   ⏰ *09:37*
+
+#### **[Bloom]** 发布自动化行为评估Agent，提升AI安全与性能监控
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69481e78000000001e00b4b8?app_platform=ios&app_version=9.13.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBtLaEkOdjF4BpVAwBrbI41zTtdILDkcMYGuN-SznZKe4=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1766400452&share_id=d533ea3cf7af47129f2e700b23063914)
+*   📝 Anthropic推出Bloom自动化行为评估Agent，专注于AI系统的实时监控与安全评估。该工具通过自动化分析模型行为，识别潜在风险与性能瓶颈，为开发者提供深度洞察。此举标志着AI安全领域从被动防御转向主动评估，有望提升大模型部署的可靠性与透明度。
+*   ⏰ *18:47*
+
+#### **[Claude Skills]** 功能更新带来全新体验，优化用户交互界面
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247499297&idx=1&sn=713381482ba74d6ddc61ab61d237f641&chksm=c0e8982cae369715577bab81a5adde95a57696f25bf459f21850f4f5cc97958c10bcfc185d49&mpshare=1&scene=1&srcid=12227q2UpCwYL8JdQR8aA6xT&sharer_shareinfo=315031a92d19ee537f7ec03ad6ed76d2&sharer_shareinfo_first=315031a92d19ee537f7ec03ad6ed76d2)
+*   📝 Claude Skills近期进行了重要更新，主要涉及前端代码优化和错误监控机制的改进。更新内容包括字体缩放适配、页面加载时间追踪、错误报告系统增强等。这些技术调整旨在提升用户体验的稳定性和流畅度，特别是在移动端访问时的表现。虽然更新内容偏向技术底层，但反映了产品团队对性能优化的持续投入。
+*   ⏰ *13:30*
+
+#### **[Qwen-lmage-Layered]** 实现精准图片编辑，指哪改哪无需重绘
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk0ODg4NDI5NA==&mid=2247486704&idx=1&sn=155c938c7f2f11296a597633f04de234&chksm=c2c4e6dd8a40df3a1500c9b159dc7c02ddfe3f1db650a774e68f4b7b02b85e0f8b09b3d2e9dd&mpshare=1&scene=1&srcid=1222ByC4nlLnuhMRTeot0S7p&sharer_shareinfo=0fdf5b73c8effce2ba41bcf6f8599122&sharer_shareinfo_first=0fdf5b73c8effce2ba41bcf6f8599122)
+*   📝 Qwen-lmage-Layered技术突破传统图片编辑局限，通过分层处理实现精准定位修改，用户可直接指定区域进行编辑而无需整体重绘。该技术大幅提升图片编辑效率与精度，为设计师、内容创作者提供革命性工具，有望改变现有图片处理工作流程。
+*   ⏰ *14:30*
+
+#### **[钉钉+千问]** 工程师用AI工具破解港口安全难题，效率提升惊人
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NjI4MzM4MQ==&mid=2660257675&idx=1&sn=a6e82809a3d5d422f88a5312e035e641&chksm=85bdf8d32b8f7f49f64a919e6e504b76656572670cca69b48ab03b8dddbd85641ea16b5215a3&mpshare=1&scene=1&srcid=1222kVRt09cHLY6SbGNB8CzL&sharer_shareinfo=c10bd8e64e72a56ec7318ab98eb736ad&sharer_shareinfo_first=c10bd8e64e72a56ec7318ab98eb736ad)
+*   📝 山东港口工程师团队巧妙结合钉钉的协同能力与千问的AI分析功能，针对安全生产这一行业痛点展开技术攻坚。他们通过实时数据监控、风险预警和智能决策支持，将传统安全管理模式升级为智能化解决方案，显著降低了事故发生率，展现了AI在工业场景中的实际应用价值。
+*   ⏰ *15:04*
+
