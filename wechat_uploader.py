@@ -31,24 +31,31 @@ def get_access_token():
         return None
 
 def upload_cover_image(token):
-    """Upload a default cover image. 
-    Since we don't have a dynamic cover, we create a simple 1x1 pixel image or use a default one.
-    Here we generate a simple solid color image in memory to upload."""
+    """Upload the default cover image."""
+    # Try multiple possible paths to be robust
+    possible_paths = [
+        "daily_report/assets/cover.jpg", # From Repo Root (GitHub Actions)
+        "assets/cover.jpg",              # From daily_report dir (Local)
+        "/Users/hongyeluan/Desktop/antigravity/daily_report/assets/cover.jpg" # Absolute (Dev)
+    ]
     
-    # Create a simple Red png (100x100) base64
-    # This is just valid raw bytes for a PNG file
-    # (A simple red dot)
-    img_data = base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAdElEQVR4nO3TSw3AQAwEwTyd8EMP00P/FAy8DRw20MzA2fd79y/wf5AIEiGCRJAIESSCRIggESRCBIkgESJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgScwArWQE/qUu89AAAAABJRU5ErkJggg==")
-    
-    # Save to temp file
-    temp_cover = "temp_cover.png"
-    with open(temp_cover, "wb") as f:
-        f.write(img_data)
+    cover_path = None
+    for p in possible_paths:
+        if os.path.exists(p):
+            cover_path = p
+            break
+            
+    if not cover_path:
+        print(f"⚠️ Cover image missing in {possible_paths}. Generating Red Dot fallback.")
+        img_data = base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAdElEQVR4nO3TSw3AQAwEwTyd8EMP00P/FAy8DRw20MzA2fd79y/wf5AIEiGCRJAIESSCRIggESRCBIkgESJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgSQSJIhAgScwArWQE/qUu89AAAAABJRU5ErkJggg==")
+        with open("temp_cover.png", "wb") as f:
+            f.write(img_data)
+        cover_path = "temp_cover.png"
         
     url = f"https://api.weixin.qq.com/cgi-bin/material/add_material?access_token={token}&type=image"
     
     try:
-        files = {'media': open(temp_cover, 'rb')}
+        files = {'media': open(cover_path, 'rb')}
         resp = requests.post(url, files=files)
         data = resp.json()
         if "media_id" in data:
@@ -155,14 +162,28 @@ def main():
     target_date = sys.argv[1] if len(sys.argv) > 1 else datetime.datetime.now().strftime("%Y-%m-%d")
     json_path = f"reports/daily_report_{target_date}.json"
     
-    if not os.path.exists(json_path):
-        print(f"⚠️ JSON report for {target_date} not found at {json_path}")
+    # Try different paths to find the report
+    possible_paths = [
+        json_path,
+        os.path.join(os.path.dirname(__file__), json_path),
+        os.path.join("daily_report", json_path)
+    ]
+    
+    final_json_path = None
+    for p in possible_paths:
+        if os.path.exists(p):
+            final_json_path = p
+            break
+
+    if not final_json_path:
+        print(f"⚠️ JSON report for {target_date} not found. Searched in: {possible_paths}")
+        # Not finding a report is a valid case (e.g. no articles today), so just exit
         return
 
-    print(f"🚀 Starting WeChat Upload for {target_date}...")
+    print(f"🚀 Starting WeChat Upload for {target_date} from {final_json_path}...")
     
     # 1. Read JSON
-    with open(json_path, "r", encoding="utf-8") as f:
+    with open(final_json_path, "r", encoding="utf-8") as f:
         json_data = json.load(f)
         
     # 2. Get Token
@@ -174,10 +195,20 @@ def main():
     if not media_id: return
     
     # 4. Generate HTML
-    html_content = format_wechat_html(json_data, target_date)
+    report_html = format_wechat_html(json_data, target_date)
+    
+    # 4.1 Process Guide
+    guide_html = ""
+    guide_path = "daily_report/GUIDE_FOR_READERS.md"
+    if os.path.exists(guide_path):
+        with open(guide_path, "r", encoding="utf-8") as f:
+            guide_md = f.read()
+            guide_html = md_to_wechat_html(guide_md)
+    else:
+        print("⚠️ Guide file not found, skipping second article.")
     
     # 5. Upload Draft
-    upload_draft(token, media_id, html_content, target_date)
+    upload_draft(token, media_id, report_html, guide_html, target_date)
 
 if __name__ == "__main__":
     main()
