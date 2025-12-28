@@ -65,3 +65,9 @@ jobs:
         run: |
           # This script handles its own graceful exit if secrets are missing
           python sync_hypothesis.py
+
+      - name: Upload to WeChat Draft
+        env:
+          WECHAT_APP_ID: ${{ secrets.WECHAT_APP_ID }}
+          WECHAT_APP_SECRET: ${{ secrets.WECHAT_APP_SECRET }}
+        run: python wechat_uploader.py ${{ github.event.inputs.target_date }}
