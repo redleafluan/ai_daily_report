@@ -1,0 +1,470 @@
+
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Daily AI Report - 2025-12-31</title>
+        <style>
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background-color: #f4f5f7; }
+            h1 { color: #2c3e50; border-bottom: 2px solid #eaeaea; padding-bottom: 15px; margin-bottom: 30px; text-align: center; }
+            
+            /* Highlight Section (Full Width) */
+            .highlight-box { 
+                background-color: #fff; 
+                border-top: 4px solid #E74C3C; 
+                padding: 20px; 
+                border-radius: 8px; 
+                margin-bottom: 30px; 
+                box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            }
+            .summary-title { font-weight: bold; color: #d35400; margin-bottom: 10px; font-size: 1.2em; }
+            
+            /* Dashboard Grid (Masonry Layout) */
+            .dashboard-grid {
+                column-count: 2;
+                column-gap: 25px;
+            }
+            
+            /* Category Card */
+            .category-card {
+                background: #fff;
+                border-radius: 12px;
+                padding: 20px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+                border: 1px solid #e1e4e8;
+                margin-bottom: 25px; /* Spacing between items in column */
+                break-inside: avoid; /* Prevent card from splitting across columns */
+            }
+            
+            .cat-header {
+                border-bottom: 2px solid #f0f0f0;
+                padding-bottom: 10px;
+                margin-bottom: 15px;
+                font-size: 1.3em;
+                font-weight: bold;
+                color: #2c3e50;
+            }
+            
+            /* Article Item inside Category */
+            .article-item {
+                padding-bottom: 15px;
+                margin-bottom: 15px;
+                border-bottom: 1px dashed #eee;
+            }
+            .article-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+            
+            .article-title-row { display: block; margin-bottom: 6px; line-height: 1.4; }
+            .entity-badge { 
+                background: #e1ecf4; 
+                color: #39739d; 
+                padding: 2px 6px; 
+                border-radius: 4px; 
+                font-size: 0.8em; 
+                font-weight: 600; 
+                margin-right: 6px; 
+                display: inline-block;
+            }
+            
+            .article-link { font-weight: bold; text-decoration: none; color: #2c3e50; font-size: 1.05em; }
+            .article-link:hover { color: #0366d6; }
+            
+            .article-summary { font-size: 0.9em; color: #666; margin-top: 5px; }
+            .article-time { font-size: 0.8em; color: #bbb; margin-left: 5px; }
+
+            /* Mobile Responsiveness */
+            @media (max-width: 768px) {
+                .dashboard-grid {
+                    column-count: 1;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>📅 Daily AI Report</h1>
+        <div class="meta-info">
+            2025-12-31 | 共收录 <b>31</b> 篇精选内容
+        </div>
+
+        <!-- Social Reading Guide -->
+        <div style="background: #e8f4fd; border-left: 4px solid #3498db; padding: 12px 15px; margin: 20px 0; border-radius: 4px; font-size: 0.95em; color: #2c3e50;">
+            <b>📝 开启社交阅读：</b>
+            本页面已集成 
+            <a href="https://hypothes.is/" target="_blank" style="color: #3498db; text-decoration: underline;">Hypothesis</a> 
+            批注插件。
+            <br>👆 <b>选中任意文字</b> 即可高亮或发表评论。点击右侧 <span style="background: #eee; padding: 2px 5px; border-radius: 3px;">&gt;</span> 箭头查看讨论。
+            (首次使用需免费注册账号)
+        </div>
+        
+        <script src="https://hypothes.is/embed.js" async></script>
+        
+        <div class="highlight-box">
+            <div class="summary-title">🌟 今日看点 (Highlights)</div>
+            <p>斯坦福研究团队基于信息论提出颠覆性观点：在本地运行的小型模型才是实现智能体（Agent）的终极方案。该研究挑战了当前依赖云端大模型的行业趋势，论证了本地化部署在响应速度、隐私保护和计算效率上的核心优势，可能引发AI架构设计的范式转变。</p>
+        </div>
+        
+        <div class="dashboard-grid">
+    
+        <div class="category-card">
+            <div class="cat-header">🤖 模型与技术</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">AI实验室</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652659438&idx=1&sn=ba0371efd5aa13636278deef305dc0da&chksm=f09b58d6b9158159a58f62f228a3ecd32233f894fc87faa9b8431050d2a659eb8cb8e493234c&mpshare=1&scene=1&srcid=1231UwU7rE7FayBD3Vygra21&sharer_shareinfo=12ab7db67294763314785099a446f563&sharer_shareinfo_first=12ab7db67294763314785099a446f563" target="_blank" class="article-link">未经编程自主涌现惊人能力，引发行业震动</a>
+                    <span class="article-time">15:41</span>
+                </div>
+                <div class="article-summary">
+                    三家顶级实验室同时披露，其AI系统在未经特定编程的情况下，自发涌现出超出预期的复杂能力。这一现象挑战了传统AI开发范式，暗示模型可能具备自主学习和演化潜力，引发业界对AI安全与可控性的深度担忧。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">DeepMind</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652659613&idx=1&sn=e83ed377d42d496c71d70a082d26ea75&chksm=f0fa4d84f576337fd38c51c1e1cf68e0d6c9fcce693d142d721121b99b5dc88d09d7d826861a&mpshare=1&scene=1&srcid=12313R6UnqCXvjZULtWaat2a&sharer_shareinfo=f58ec6591d3d145b3e9dd8f29ea5508e&sharer_shareinfo_first=f58ec6591d3d145b3e9dd8f29ea5508e" target="_blank" class="article-link">内部视角揭秘：Scaling Law未死，算力仍是核心驱动力</a>
+                    <span class="article-time">23:24</span>
+                </div>
+                <div class="article-summary">
+                    DeepMind内部视角首次公开，明确驳斥了Scaling Law已死的论调。文章指出，计算能力依然是AI发展的根本驱动力，模型性能与算力投入仍呈强相关关系。这一观点直接回应了近期业界对Scaling Law有效性的质疑，为AI发展路径提供了关键的技术判断。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">DeepSeek</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247510800&idx=1&sn=004cbccb7c7234e8509ad6b48395d76f&chksm=c37501385adcce33078143621206af70e2b3eeee0f439da603e3b7c0141d6233ecf695d5e57e&mpshare=1&scene=1&srcid=1231s7XZkp46LDrnp6vbZXEk&sharer_shareinfo=b0d2fba2e65c47e2c19588b8933ede47&sharer_shareinfo_first=b0d2fba2e65c47e2c19588b8933ede47" target="_blank" class="article-link">开源模型崛起，刷榜乱象引行业反思</a>
+                    <span class="article-time">15:21</span>
+                </div>
+                <div class="article-summary">
+                    2025年大模型格局剧变：DeepSeek凭借开源策略实现技术突破，成为行业焦点；Llama系列因商业化困境逐渐失宠；同时，评测刷榜泛滥暴露行业标准缺失，引发对模型评估体系的重塑讨论。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">LLM评测指标</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MjM5NjAzMjEyMA==&mid=2650848161&idx=1&sn=8f4fbea68f7150011184ef1f551862ac&chksm=bc2ee557628d9a7911bdad59b1019c5c3fc073f824ed70927f1a24f3e8ae8aa9ee200efd3b3b&mpshare=1&scene=1&srcid=1231mtgd3DVpngELHHsEaD5P&sharer_shareinfo=ee0ffb91aa58228bbe5039e1108d27c9&sharer_shareinfo_first=ee0ffb91aa58228bbe5039e1108d27c9" target="_blank" class="article-link">终极评测指南，全面解析评估标准与方法</a>
+                    <span class="article-time">16:52</span>
+                </div>
+                <div class="article-summary">
+                    本文深入探讨大语言模型的核心评测指标体系，从准确性、效率到实用性等多个维度提供系统化评估框架。文章旨在为开发者和研究者提供权威的评测方法论，帮助识别模型优劣，推动技术标准化发展。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Qwen-Image</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzk0ODg4NDI5NA==&mid=2247486890&idx=1&sn=cffee433098540c6859205b6edb8a223&chksm=c29a71f3d531a9af6c888683e14d97609abb306e827beb492f7b0a6a9fb438abc4b1599ecbf6&mpshare=1&scene=1&srcid=1231AjOJW9KiwOqH1dhXxQck&sharer_shareinfo=4ada9335400055e1c31c5acdc3c2a4e0&sharer_shareinfo_first=4ada9335400055e1c31c5acdc3c2a4e0" target="_blank" class="article-link">年终更新带来更细腻真实的图像生成能力</a>
+                    <span class="article-time">18:28</span>
+                </div>
+                <div class="article-summary">
+                    Qwen-Image在年终更新中实现了图像生成质量的显著提升，通过技术优化使生成的图像更加细腻逼真，细节表现力和真实感达到新高度。这次更新标志着该模型在视觉生成领域的重要突破，为AI图像生成技术设定了新的标准。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Sage</span>
+                    <a href="https://www.xiaohongshu.com/discovery/item/69529de2000000001f00ca0a?app_platform=ios&app_version=9.14.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB2nJ5eaEuWYqoB_jT4HAHXw-Ppe8RtKk0a4pdEYstHbo=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1767166468&share_id=f237aa8cd1a14bdd89a49d858da7ea0d" target="_blank" class="article-link">无需人工标注即可评估大模型，可靠性获验证</a>
+                    <span class="article-time">15:34</span>
+                </div>
+                <div class="article-summary">
+                    Sage提出LLM-as-a-Judge新方法，通过自动化评估机制替代传统人工标注，显著提升大模型评测效率与客观性。该技术突破解决了标注成本高、主观偏差等痛点，为AI模型迭代提供更可靠的反馈闭环，有望重塑行业评测标准。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">World Model</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247546176&idx=1&sn=0842e0d700e35dcc1e3c31a11aba7f51&chksm=ea45c54bc9a8f84b58614a5d3408c9909db0185e6392455509a144277d779eadd39af5ac43fe&mpshare=1&scene=1&srcid=1231n65xzAc4e69jQptebQun&sharer_shareinfo=61fa1072d23713096dca7535068ed69a&sharer_shareinfo_first=61fa1072d23713096dca7535068ed69a" target="_blank" class="article-link">从文字预测迈向世界模拟，解锁可扩展的Agentic RL新范式</a>
+                    <span class="article-time">23:24</span>
+                </div>
+                <div class="article-summary">
+                    文章探讨了World Model如何突破传统文字预测的局限，通过构建世界模拟能力为强化学习智能体提供更强大的环境理解与决策支持。这一技术演进标志着AI从被动响应向主动环境交互的关键转变，有望解决复杂任务中的泛化与可扩展性难题，为自主智能系统的发展开辟新路径。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">斯坦福</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247506118&idx=1&sn=01944c95b28aba7e07710d84dce9f6c2&chksm=cec3ce997d26984a47df57c74290c04014e1f1428f49b5868a31cf5de400533435a088b454d1&mpshare=1&scene=1&srcid=1231nxrCqVWfiGwFa7C8zNFb&sharer_shareinfo=735b95621876eb63da9509933923e95c&sharer_shareinfo_first=735b95621876eb63da9509933923e95c" target="_blank" class="article-link">信息论揭示本地小模型才是Agent最优解</a>
+                    <span class="article-time">11:37</span>
+                </div>
+                <div class="article-summary">
+                    斯坦福研究团队基于信息论提出颠覆性观点：在本地运行的小型模型才是实现智能体（Agent）的终极方案。该研究挑战了当前依赖云端大模型的行业趋势，论证了本地化部署在响应速度、隐私保护和计算效率上的核心优势，可能引发AI架构设计的范式转变。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">清华校友Nature论文</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650044530&idx=1&sn=05942002d5891e5b863c234015c1d446&chksm=8ec124afd4da8f466e5394586c586b50db6b682a842f746706d13cf449522d673c9b16a08941&mpshare=1&scene=1&srcid=12312U5Fxl4eQmMVO01ltiUe&sharer_shareinfo=1761d00ef4de39b31e31fa1aa57b364f&sharer_shareinfo_first=1761d00ef4de39b31e31fa1aa57b364f" target="_blank" class="article-link">揭示共享神经动态或成智能体通用法则</a>
+                    <span class="article-time">18:28</span>
+                </div>
+                <div class="article-summary">
+                    清华校友团队在Nature发表颠覆性研究，首次发现AI社交中存在类似人类脑电波的共享神经动态模式。这项研究揭示了智能体交互的底层神经机制，可能成为未来多智能体系统的通用设计法则，为构建更自然、高效的AI社交网络提供了全新理论基础。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">📰 行业新闻</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Kimi</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247531669&idx=1&sn=f9d5dbeeb5682653aca1c1dbb794d556&chksm=fd713d4ae6afe77ed0e3713c47a4f4b61818477738d7355613e7adbae27c992652a485ff4dd9&mpshare=1&scene=1&srcid=12317FtxFfYMUWw8D5qMlYXQ&sharer_shareinfo=6eb6e2bc73d0eea8d7f223c30d9139d4&sharer_shareinfo_first=6eb6e2bc73d0eea8d7f223c30d9139d4" target="_blank" class="article-link">完成5亿美元新融资，账上现金超百亿人民币</a>
+                    <span class="article-time">16:51</span>
+                </div>
+                <div class="article-summary">
+                    AI初创公司Kimi完成5亿美元新一轮融资，创始人杨植麟透露公司账上现金已超百亿元人民币。这笔巨额融资将加速其在AI大模型领域的研发和市场扩张，显示出资本市场对AI赛道的高度信心。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Manus</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247521960&idx=1&sn=7bbb8c8b7f2bb2ce42b45c665d48dccb&chksm=c13e0360adeae7a3b3b7503881a9d74a2dddcd57f6ce22210c2202bddfb88bfb4ffc6f0c4583&mpshare=1&scene=1&srcid=1231wWPk3zCbl6gtj2pMaPDI&sharer_shareinfo=bbe8555ef70db46577924941f70ab339&sharer_shareinfo_first=bbe8555ef70db46577924941f70ab339" target="_blank" class="article-link">出海合规关键问题全解析，避免踩坑指南</a>
+                    <span class="article-time">18:18</span>
+                </div>
+                <div class="article-summary">
+                    文章聚焦中国企业出海过程中的合规挑战，以Manus为标杆案例，系统梳理了数据隐私、本地法规、税务结构等核心风险点。作者指出，合规不仅是法律要求，更是海外市场准入的竞争壁垒，企业需建立前瞻性合规体系而非事后补救。文章警告忽视合规将导致高额罚款、业务中断甚至市场禁入，为出海企业提供了实用的风险防控框架。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Manus</span>
+                    <a href="https://cubox.pro/my/card?id=7406020169971009790" target="_blank" class="article-link">收购交易引发行业关注，战略布局值得期待</a>
+                    <span class="article-time">20:33</span>
+                </div>
+                <div class="article-summary">
+                    Manus的收购动作成为近期科技圈焦点，这一战略性举措或将重塑相关领域竞争格局。作为专业科技媒体，我们注意到该交易背后可能涉及的技术整合与市场扩张意图，值得深入追踪其后续发展及对行业生态的潜在影响。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">MiniMax</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247510776&idx=1&sn=801a031b7543ab36cdf71378fe100b27&chksm=c36d8129e1c79fbb73bd0c462aa93c0d11bd21c5d8c4d20731ee24fa6e6f1ce10bbc6cdbb20a&mpshare=1&scene=1&srcid=12312T6EivJMbWdr0vwFyCI7&sharer_shareinfo=498714e2e27956d6d5ea23ba1a3f694a&sharer_shareinfo_first=498714e2e27956d6d5ea23ba1a3f694a" target="_blank" class="article-link">今日启动招股，市值超460亿港元</a>
+                    <span class="article-time">16:51</span>
+                </div>
+                <div class="article-summary">
+                    AI独角兽MiniMax正式启动港股IPO，代码0100，市值突破460亿港元大关。此次招股标志着中国AI企业在资本市场的重要里程碑，市场关注其技术商业化前景及估值逻辑。作为国内头部AI公司，MiniMax的上市进程将影响整个行业融资生态与竞争格局。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">具身智能</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247496019&idx=1&sn=37d6efe1261896bff401e5493d3f45d5&chksm=9eba0e7be35815769822df92da1f24cac1fe040dbbb33e22b392b18d3a6f44874765cbea0061&mpshare=1&scene=1&srcid=1231KuwOJMOhuGfuZLdeGxA1&sharer_shareinfo=877f0ac33068fdf10711ef9b8f713258&sharer_shareinfo_first=877f0ac33068fdf10711ef9b8f713258" target="_blank" class="article-link">年度盘点：从先锋亮相到理性前行</a>
+                    <span class="article-time">20:39</span>
+                </div>
+                <div class="article-summary">
+                    2025年具身智能行业经历从概念热炒到务实发展的关键转折。早期炫酷演示让位于实际应用场景验证，资本回归理性，技术路线更聚焦可商业化路径。行业正从‘能做什么’转向‘该做什么’，标志着这一前沿领域进入成熟发展新阶段。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">教育学人AIED</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247489781&idx=1&sn=0e34867840b0dde731c024ff3c03e5d0&chksm=96a80784e1f44b168b1be96f932125c65226e66a84524245d56f47d5b398fe70627f58ddd1ea&mpshare=1&scene=1&srcid=12317Ee9OylG2luazpISZkoH&sharer_shareinfo=e44acfd08a59bfe80aa3abb8cf848595&sharer_shareinfo_first=e44acfd08a59bfe80aa3abb8cf848595" target="_blank" class="article-link">发布年度总结报告，揭示AI教育新趋势</a>
+                    <span class="article-time">18:24</span>
+                </div>
+                <div class="article-summary">
+                    知名AI教育平台教育学人AIED发布年度总结，通过技术数据和用户反馈分析，展示了AI在教育领域的应用进展与挑战。报告不仅回顾了平台的技术优化历程，还深入探讨了用户互动模式的变化，为行业提供了宝贵的实践参考。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">无问芯穹</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651269875&idx=1&sn=e177e12ebdd262f8b7c658db354ae16c&chksm=bc9710e9c36718149b037221b9b6da85a756d2514acbdac604027e0affc629ced661ed523ca1&mpshare=1&scene=1&srcid=12318DmrivsOYXuGLgsIgWvj&sharer_shareinfo=89f0748b4b2db28dc7fc1b9c3cd81eba&sharer_shareinfo_first=89f0748b4b2db28dc7fc1b9c3cd81eba" target="_blank" class="article-link">推理与智能体成转型关键，开源模型主导全球应用</a>
+                    <span class="article-time">15:41</span>
+                </div>
+                <div class="article-summary">
+                    AI领域正面临生死局，企业差距由一号位认知决定。无问芯穹夏立雪指出，推理能力和智能体技术带来巨大转型压力，而中国开源模型已在全球应用层面占据主导地位，技术竞争进入新阶段。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">杨植麟</span>
+                    <a href="https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzkzNDQxOTU2MQ==&mid=2247510822&idx=1&sn=7790c92ec9461b864752f8f85942401d&sharer_shareinfo_first=8129698a016aa7aa92b067c58b52fdc8&sharer_shareinfo=8129698a016aa7aa92b067c58b52fdc8" target="_blank" class="article-link">完成新一轮融资，宣布未来目标超越行业巨头</a>
+                    <span class="article-time">17:26</span>
+                </div>
+                <div class="article-summary">
+                    AI领域创业者杨植麟通过内部信宣布公司成功完成融资，并明确表示未来目标将超越Anthropic等竞争对手。这一声明展现了国内AI创业公司挑战国际巨头的雄心，也反映了当前AI投资市场的活跃态势。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">🧠 提示词与教程</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Google</span>
+                    <a href="https://www.xiaohongshu.com/discovery/item/694c978b000000001e013482?app_platform=ios&app_version=9.14.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBzy5DQKKSQvXJBF3KvN4aRGnToo2buV-hXWjGn8qNAvA=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1767185581&share_id=b1e9cf3475f14379922e03b2306f20fa" target="_blank" class="article-link">推出25天免费AI课程，打造圣诞学习盛宴</a>
+                    <span class="article-time">20:53</span>
+                </div>
+                <div class="article-summary">
+                    谷歌在圣诞季推出为期25天的免费AI课程，旨在降低AI学习门槛，推动技术普及。此举不仅为用户提供系统化学习路径，更彰显科技巨头在教育领域的战略布局，可能重塑AI人才培训市场格局。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">💡 深度观点</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">2025年AI圈</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247511470&idx=1&sn=ec78f1b710617ca3e7edc29861a2f6df&chksm=cf0ea4f51728dc901ca5c31f5d7e1f89753fe367a4659da06e94e3d87b998b2afba7d9ab36e9&mpshare=1&scene=1&srcid=1231VDsvufNUR4TNkKYAtobA&sharer_shareinfo=fde0754032235394ddf3bd5547c845e3&sharer_shareinfo_first=fde0754032235394ddf3bd5547c845e3" target="_blank" class="article-link">三大关键趋势将重塑行业格局</a>
+                    <span class="article-time">16:51</span>
+                </div>
+                <div class="article-summary">
+                    文章前瞻性地指出2025年AI领域最值得关注的三大核心事件，这些趋势将深刻影响技术发展路径、产业竞争格局和商业应用模式。作者基于当前技术演进和行业动态，提炼出具有战略意义的观察点，为从业者提供关键决策参考。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">AI 2025-2026</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247491670&idx=1&sn=1820de436498c1ddb7f6915d004e9b88&chksm=c280bf74f0afb854640a967b4183e88e9be3dc0cadbc4177317b812b6bad8be70faf9c905973&mpshare=1&scene=1&srcid=1231jqYTd9lcucMcSwjGrjOp&sharer_shareinfo=4ea936414cf84a573a2d992d08c4b874&sharer_shareinfo_first=4ea936414cf84a573a2d992d08c4b874" target="_blank" class="article-link">从聊天到干活的范式转变，AI进入实用新阶段</a>
+                    <span class="article-time">12:02</span>
+                </div>
+                <div class="article-summary">
+                    最新众包调研显示，AI发展正经历从对话交互到实际生产力工具的深刻转型。2025-2026年将成为AI从“能说”到“能干”的关键转折期，技术突破将推动AI在真实工作场景中的落地应用，标志着人工智能进入价值创造的新纪元。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">AI编程蓝皮书</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451428460&idx=1&sn=28a031a5e86b95f4aa36a1e6c0789217&chksm=b0ac55b152924786a6b660a8e790dca053c755588bfc7c9592aba7093a3693db3b7d8134d182&mpshare=1&scene=1&srcid=1231nxbc6PWe8vOlYbSxrkmC&sharer_shareinfo=03e5dc77f8b131fae098dd7f8e512b08&sharer_shareinfo_first=03e5dc77f8b131fae098dd7f8e512b08" target="_blank" class="article-link">三次转型重塑开发者生态，年终总结揭示行业变革</a>
+                    <span class="article-time">11:52</span>
+                </div>
+                <div class="article-summary">
+                    文章以个人年终总结形式，通过三次转型经历深度剖析AI编程蓝皮书对2025年开发者生态的颠覆性影响。从技术工具到方法论革新，再到行业标准建立，展现了AI编程如何从辅助工具演变为核心生产力引擎，为开发者职业路径和软件开发范式带来根本性变革。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">吴恩达</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247717141&idx=1&sn=a1f7a3c52081a9b93871e72fd1bf8c3d&chksm=e999553951bad3d5bd8ca6181892c2c2c750291ef32532ca898cea1f58de4c78a67ef20e3a91&mpshare=1&scene=1&srcid=1231fFjFY5CvMvhR7os7Fex6&sharer_shareinfo=f64c0ddcc97d3a93df04c5b0123c0eeb&sharer_shareinfo_first=f64c0ddcc97d3a93df04c5b0123c0eeb" target="_blank" class="article-link">发布2025年度总结，展望AI未来趋势</a>
+                    <span class="article-time">23:25</span>
+                </div>
+                <div class="article-summary">
+                    斯坦福大学教授、AI领域权威吴恩达发布2025年度总结报告，系统梳理过去一年人工智能领域的关键进展与突破。报告预计将涵盖大模型技术演进、行业应用落地、伦理安全挑战等核心议题，为全球AI从业者提供前瞻性洞察和战略指引。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">硅谷工程文化</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655934338&idx=1&sn=7f07da3a52fb2d89f9cb33bbacbe43dd&chksm=bc0b41c894afa63135e92fb3c2b1ead06a32adf92d968cd76660325f61d9e264d901d637bda0&mpshare=1&scene=1&srcid=1231HpAOccxJyxjNe4QFPydy&sharer_shareinfo=902761a845e2be4a9c34bf9e77048a30&sharer_shareinfo_first=902761a845e2be4a9c34bf9e77048a30" target="_blank" class="article-link">揭露自动化编程神话，工程师掌控力才是核心</a>
+                    <span class="article-time">16:51</span>
+                </div>
+                <div class="article-summary">
+                    文章尖锐批判了当前流行的全自动软件工程理念，指出真正的工程师文化并非追求无脑的vibe coding或完全自动化，而是强调工程师对代码的深度掌控和精准控制。作者认为过度自动化反而违背了工程现实，揭示了硅谷工程实践中被忽视的真相——技术掌控力远比表面效率更重要。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">经纬王华东</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA==&mid=2962186052&idx=1&sn=4ac412e5edff443088df48718f78bd1d&chksm=abb042a2a883dbefb757364079115663a7b3bd97176b2e77e341dc37806deb6f898a87eff8fa&mpshare=1&scene=1&srcid=1231D4w24rcZzOSdaBe54SSV&sharer_shareinfo=68c27c4c545afd84f13193282c2f3eb8&sharer_shareinfo_first=68c27c4c545afd84f13193282c2f3eb8" target="_blank" class="article-link">首次公开回应质疑，坦言没有隐藏信息</a>
+                    <span class="article-time">20:37</span>
+                </div>
+                <div class="article-summary">
+                    经纬创投合伙人王华东在专访中直面外界猜测，明确表示自己并无秘密可言。文章通过对话形式展现投资人的真实思考，回应了行业对其投资策略和决策过程的疑问，体现了创投圈对透明度的追求。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">辛顿</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650044530&idx=2&sn=8d74ad466c3114d1e6be42409939bdf2&chksm=8eeda8922059fc99b2099fdcbd3c83126446df97512fa8033567937ff3122dd8c2dfaf2a453a&mpshare=1&scene=1&srcid=12311uD7ewJSZIfA5zhP4jtQ&sharer_shareinfo=da7c853082a96d36ed1ccaa184f616d4&sharer_shareinfo_first=da7c853082a96d36ed1ccaa184f616d4" target="_blank" class="article-link">2025年度全景实录揭示智能演进新范式</a>
+                    <span class="article-time">18:29</span>
+                </div>
+                <div class="article-summary">
+                    文章以辛顿的视角切入，深入探讨了生物智能与硅基智能的非对称演进路径。通过技术细节与行业洞察的结合，揭示了人工智能发展的深层逻辑与未来趋势，为理解智能本质提供了独特视角。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">🔧 工具与应用</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Hey Tuya</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247859434&idx=1&sn=ecf5faf2f423eeb57177f57b7c6bb0e5&chksm=e98552535f5587c5a11a385f443e600460e7c8cc92368e55a8bb8c5d7d5a752c63a91cbe42b4&mpshare=1&scene=1&srcid=1231lnQFLlIMsbj834O55gx7&sharer_shareinfo=033678e42e303684489b454aa60483b7&sharer_shareinfo_first=033678e42e303684489b454aa60483b7" target="_blank" class="article-link">智能家居AI实现全自动服务，用户可完全解放双手</a>
+                    <span class="article-time">12:06</span>
+                </div>
+                <div class="article-summary">
+                    最新AI技术突破让智能家居系统能够主动识别用户需求并提供全方位服务。从环境调节到生活辅助，AI不再被动响应指令，而是主动预判并执行任务，真正实现“躺平式”智能生活体验。这一进展标志着家庭自动化从工具型向服务型的根本转变。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">司南评测体系</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzkyNzg1MzMxNg==&mid=2247488072&idx=1&sn=6df4baad7cafc0bb36746edb6a6b863f&chksm=c349d1fe19695b676706a2e5ff6f8ac3ef992e2d1268de90c3e701309b09c45a206842704fa7&mpshare=1&scene=1&srcid=1231ANLSRNOZUSugGd4UXxUi&sharer_shareinfo=c0c85f6bc16b9501d65c23711fa63958&sharer_shareinfo_first=15383aedfaf17c452ad9dcd3642f9004" target="_blank" class="article-link">六位一体框架全面升级，评测标准迎来重大革新</a>
+                    <span class="article-time">23:14</span>
+                </div>
+                <div class="article-summary">
+                    司南评测体系经过一年演进，其“六位一体”框架已完成系统性优化，在评测维度、方法论和标准化方面实现突破性进展。该体系通过整合多维度评估指标，为行业提供了更科学、更全面的评测基准，有望重塑技术产品评估生态。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">微博文章</span>
+                    <a href="https://weibo.com/ttarticle/x/m/show/id/2309405249633231700098" target="_blank" class="article-link">暗藏预加载机制与CSS主题切换，技术细节曝光</a>
+                    <span class="article-time">20:34</span>
+                </div>
+                <div class="article-summary">
+                    文章片段揭示了微博平台的技术实现细节，包含CSS变量定义支持明暗主题切换、加载动画样式定义，以及JavaScript预加载机制——通过XMLHttpRequest异步获取文章内容并缓存至localStorage。代码中还设置了10秒后检查版本并强制刷写的安全机制，展现了前端性能优化与用户体验设计的专业考量。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">谷歌</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457991540&idx=1&sn=807d933245263ea7cb5c666548d71880&chksm=8decac68b34ee005994192cb678967869b99a1b7407ed7b556fc2520509d43957e129202fb4c&mpshare=1&scene=1&srcid=1231a4vA08AVPAhLfYFZnzZb&sharer_shareinfo=c319544944a7f714a6d0731e6f318008&sharer_shareinfo_first=c319544944a7f714a6d0731e6f318008" target="_blank" class="article-link">开源强大工具，Selenium地位受挑战</a>
+                    <span class="article-time">16:52</span>
+                </div>
+                <div class="article-summary">
+                    谷歌最新开源工具引发行业震动，该工具在自动化测试领域展现出强大能力，直接挑战Selenium的市场地位。技术专家分析，这一开源举措可能重塑Web自动化测试生态，为开发者提供更高效、稳定的解决方案。开源策略将进一步巩固谷歌在开发者工具领域的影响力。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">其他</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">未知</span>
+                    <a href="https://pp4wk8ijqx.feishu.cn/docx/Nkj8dtKnsoIqyvxo4vdczzLbnvd" target="_blank" class="article-link">Webpage: pp4wk8ijqx.feishu.cn</a>
+                    <span class="article-time">20:36</span>
+                </div>
+                <div class="article-summary">
+                    无法抓取内容，请手动查看。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">未知</span>
+                    <a href="https://zhuanlan.zhihu.com/p/1979878710841741653?utm_source=wechat_session&utm_medium=social&s_r=0" target="_blank" class="article-link">Martin Fowler深度访谈：软件工程正迎来 40 年来最猛烈的一次地震</a>
+                    <span class="article-time">20:39</span>
+                </div>
+                <div class="article-summary">
+                    无法抓取内容，请手动查看。
+                </div>
+            </div>
+            </div>
+        </div> <!-- End dashboard-grid -->
+    </body>
+    </html>
+    
