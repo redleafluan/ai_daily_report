@@ -71,7 +71,27 @@ def upload_cover_image(token):
 def format_wechat_html(json_data, target_date):
     """Convert JSON to WeChat compatible HTML (Inline Styles)"""
     
-    total_count = sum(len(v) for v in json_data["articles"].values())
+    articles_data = json_data["articles"]
+    
+    # Handle Case 1: articles is a List (Old JSON or raw export) -> Group it now
+    if isinstance(articles_data, list):
+        grouped = {}
+        mapping = {
+            "Model Release": "🤖 模型与技术",
+            "Technique": "🤖 模型与技术",
+            "New Benchmark": "📊 评测与榜单",
+            "Survey": "💡 深度观点",
+            "Other": "📰 行业新闻"
+        }
+        for item in articles_data:
+            cat_raw = item.get('category', 'Other')
+            # Try to map if it matches keys, otherwise treat as value
+            cat_display = mapping.get(cat_raw, cat_raw) 
+            if cat_display not in grouped: grouped[cat_display] = []
+            grouped[cat_display].append(item)
+        articles_data = grouped
+
+    total_count = sum(len(v) for v in articles_data.values())
     
     # Style optimized for WeChat Mobile
     html = f"""
@@ -80,15 +100,15 @@ def format_wechat_html(json_data, target_date):
         
         <div style="background-color: #f7f7f7; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 14px; color: #666;">
             共收录 <b>{total_count}</b> 篇精选内容。<br>
-            <span style="color: #E74C3C;">🌟 今日看点：</span> {json_data['highlight']}
+            <span style="color: #E74C3C;">🌟 今日看点：</span> {json_data.get('highlight', '无重点摘要')}
         </div>
     """
     
     preferred_order = ["🤖 模型与技术", "📰 行业新闻", "🧠 提示词与教程", "💡 深度观点", "🔧 工具与应用"]
-    sorted_cats = sorted(json_data["articles"].keys(), key=lambda x: preferred_order.index(x) if x in preferred_order else 99)
+    sorted_cats = sorted(articles_data.keys(), key=lambda x: preferred_order.index(x) if x in preferred_order else 99)
     
     for cat in sorted_cats:
-        items = json_data["articles"][cat]
+        items = articles_data[cat]
         if not items: continue
         
         html += f"""
