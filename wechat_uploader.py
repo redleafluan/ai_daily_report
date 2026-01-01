@@ -90,8 +90,10 @@ def format_wechat_html(json_data, target_date):
             if cat_display not in grouped: grouped[cat_display] = []
             grouped[cat_display].append(item)
         articles_data = grouped
-
-    total_count = sum(len(v) for v in articles_data.values())
+        total_count = sum(len(v) for v in articles_data.values())
+    else:
+        # Case 2: Dict
+        total_count = sum(len(v) for v in articles_data.values())
     
     # Style optimized for WeChat Mobile
     html = f"""
@@ -100,11 +102,12 @@ def format_wechat_html(json_data, target_date):
         
         <div style="background-color: #f7f7f7; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 14px; color: #666;">
             共收录 <b>{total_count}</b> 篇精选内容。<br>
-            <span style="color: #E74C3C;">🌟 今日看点：</span> {json_data.get('highlight', '无重点摘要')}
+            <span style="color: #E74C3C;">🌟 今日看点：</span> {json_data.get('highlight', '暂无摘要')}
         </div>
     """
     
     preferred_order = ["🤖 模型与技术", "📰 行业新闻", "🧠 提示词与教程", "💡 深度观点", "🔧 工具与应用"]
+    # Sort keys
     sorted_cats = sorted(articles_data.keys(), key=lambda x: preferred_order.index(x) if x in preferred_order else 99)
     
     for cat in sorted_cats:
@@ -118,17 +121,21 @@ def format_wechat_html(json_data, target_date):
         """
         
         for item in items:
-            entity_badge = f"<span style='color: #2980b9; font-weight: bold;'>[{item['entity']}]</span>" if item['entity'] != "Unknown" else ""
+            entity_badge = f"<span style='color: #2980b9; font-weight: bold;'>[{item['entity']}]</span>" if item.get('entity') and item['entity'] != "Unknown" else ""
+            clean_title = item.get('clean_title', item.get('title', 'No Title'))
+            summary = item.get('summary', 'No Summary')
+            source = item.get('source', '网络')
+            
             html += f"""
             <section style="margin-bottom: 25px; border-bottom: 1px dashed #eee; padding-bottom: 15px;">
                 <div style="font-size: 17px; font-weight: bold; margin-bottom: 8px; line-height: 1.4;">
-                    {entity_badge} {item['clean_title']}
+                    {entity_badge} {clean_title}
                 </div>
                 <div style="font-size: 15px; color: #555; text-align: justify;">
-                    {item['summary']}
+                    {summary}
                 </div>
                 <div style="font-size: 12px; color: #999; margin-top: 5px;">
-                   来源：{item['source']} (点击文末阅读原文查看)
+                   来源：{source} (点击文末阅读原文查看)
                 </div>
             </section>
             """
@@ -217,18 +224,8 @@ def main():
     # 4. Generate HTML
     report_html = format_wechat_html(json_data, target_date)
     
-    # 4.1 Process Guide
-    guide_html = ""
-    guide_path = "daily_report/GUIDE_FOR_READERS.md"
-    if os.path.exists(guide_path):
-        with open(guide_path, "r", encoding="utf-8") as f:
-            guide_md = f.read()
-            guide_html = md_to_wechat_html(guide_md)
-    else:
-        print("⚠️ Guide file not found, skipping second article.")
-    
     # 5. Upload Draft
-    upload_draft(token, media_id, report_html, guide_html, target_date)
+    upload_draft(token, media_id, report_html, target_date)
 
 if __name__ == "__main__":
     main()
