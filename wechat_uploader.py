@@ -124,18 +124,14 @@ def format_wechat_html(json_data, target_date):
             entity_badge = f"<span style='color: #2980b9; font-weight: bold;'>[{item['entity']}]</span>" if item.get('entity') and item['entity'] != "Unknown" else ""
             clean_title = item.get('clean_title', item.get('title', 'No Title'))
             summary = item.get('summary', 'No Summary')
-            source = item.get('source', '网络')
             
             html += f"""
             <section style="margin-bottom: 25px; border-bottom: 1px dashed #eee; padding-bottom: 15px;">
                 <div style="font-size: 17px; font-weight: bold; margin-bottom: 8px; line-height: 1.4;">
                     {entity_badge} {clean_title}
                 </div>
-                <div style="font-size: 15px; color: #555; text-align: justify;">
+                <div style="font-size: 15px; color: #555; text-align: left;">
                     {summary}
-                </div>
-                <div style="font-size: 12px; color: #999; margin-top: 5px;">
-                   来源：{source} (点击文末阅读原文查看)
                 </div>
             </section>
             """
@@ -144,6 +140,7 @@ def format_wechat_html(json_data, target_date):
     html += """
     <div style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; color: #999; font-size: 12px;">
         <p>本文由 AI 自动聚合，摘要仅供参考。</p>
+        <p>文章来源已汇总至完整版报告中。</p>
         <p>👇 点击下方 <strong>[阅读原文]</strong> 查看完整版及进行笔记划线</p>
     </div>
     </div>
