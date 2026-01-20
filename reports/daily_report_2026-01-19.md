@@ -1,0 +1,76 @@
+# 📅 Daily AI Report - 2026-01-19
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **13** 篇内容。
+> **今日看点**: 本文提供了一套高效的企业分析方法论，仅需四个核心Prompt即可系统性地评估公司基本面。该方法将复杂的企业分析简化为可操作的步骤，帮助投资者、分析师和商业决策者快速抓住关键信息，避免信息过载，实现精准判断。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Claude]** 获得永久记忆功能，AI助手能力迎来革命性突破
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652665767&idx=1&sn=1935acf8bbe45fbd5e6caf15d4703a32&chksm=f0d7ec85d0c72c871a6a5579a64b0bbd15c4759b8b4947a7522f382e9a0a9f9eaef20df465dd&mpshare=1&scene=1&srcid=0119LEkv7tFWehMk4fqL09XO&sharer_shareinfo=e93728d5e76ef6fe96ad7f7087dec6f4&sharer_shareinfo_first=e93728d5e76ef6fe96ad7f7087dec6f4)
+*   📝 Anthropic旗下AI助手Claude实现重大技术升级，新增永久记忆功能，能够持续学习用户偏好与工作习惯，大幅提升个性化服务能力。这一突破性进展将彻底改变人机协作模式，为全球职场带来颠覆性变革，标志着AI从工具型助手向智能伙伴的进化迈出关键一步。
+*   ⏰ *18:34*
+
+#### **[Claude Skills]** 爆发点锁定2026年1月，技术演进迎来关键里程碑
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247492266&idx=1&sn=801e0e3b9c939a9344df9dbd079be11a&chksm=c20b1ffdf758db2d53c0a3cabb2c1ff435514be5de34db94d79c3525a6615673eb424ec4d40e&mpshare=1&scene=1&srcid=0119bC2zSk4blOJLYxIeVfpb&sharer_shareinfo=40e41247b909a4e87cff349d4485541c&sharer_shareinfo_first=40e41247b909a4e87cff349d4485541c)
+*   📝 文章聚焦Claude Skills的发展轨迹，预测其将在2026年1月迎来爆发式增长。分析指出，这一时间点并非偶然，而是技术迭代、市场准备和生态成熟度共同作用的结果。届时，Claude Skills有望在功能完善度、用户接受度和商业应用场景上实现质的飞跃，成为AI工具领域的重要转折点。
+*   ⏰ *18:40*
+
+#### **[GPT-5.2]** 最新安全报告揭示多款主流模型潜在风险
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247672943&idx=2&sn=75c99b901bc9725a8cab4b9c5a0a4db7&chksm=fd15696a76fe90291e3cb99f59ad9c20636b06d3182ea88bcf019e84df7dc9efb7a5d1bd17e8&mpshare=1&scene=1&srcid=0119IxQNQp9OqVNQ3QmLOkAQ&sharer_shareinfo=8ba3ae73445c9c159f70421d2422d88a&sharer_shareinfo_first=8ba3ae73445c9c159f70421d2422d88a)
+*   📝 一份针对GPT-5.2、Gemini 3 Pro等七款前沿大模型的安全性研究报告发布，深入剖析了当前主流AI模型在安全防护、漏洞防范等方面的表现与隐患。报告采用专业测试框架，对模型抗攻击能力、数据泄露风险等关键指标进行了系统评估，为行业安全标准制定提供了重要参考。
+*   ⏰ *14:51*
+
+#### **[Multimodal DeepResearcher]** 实现多模态图文自动生成，打破沟通壁垒
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzOTAxOTk3Nw==&mid=2247537001&idx=1&sn=08734a95b83ef4a1473cc4396a0bb673&chksm=e8d13be3792992f865979be386d900d366ad3a61f627caac7b66beb59048ba32cb55703b2778&mpshare=1&scene=1&srcid=0119iBaz7vO0vhjwA9BmDX79&sharer_shareinfo=66664c14e7fc4a07640d5d31d2fd1a7d&sharer_shareinfo_first=66664c14e7fc4a07640d5d31d2fd1a7d)
+*   📝 AAAI 2026 Oral论文提出Multimodal DeepResearcher，告别传统纯文本报告，实现多模态图文内容自动生成。该技术突破人机沟通障碍，将复杂数据转化为直观的可视化图文报告，显著提升信息传递效率和理解深度，为科研、商业分析等领域带来革命性变革。
+*   ⏰ *21:30*
+
+#### **[法律Agent]** 万字综述揭示三大核心机制与五类应用版图
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247506660&idx=1&sn=c874efa3ef9798f7183aff0bf91de1a6&chksm=ce5ede424ec3bcec25ab1a6a7d95baecf9f3272e92f24fdc045694cd3581d03f9ad564dbcb4c&mpshare=1&scene=1&srcid=0119L9q3RkztPaYs3Tl3E3XG&sharer_shareinfo=2888d6fddc702c14d646d4ab0ed54462&sharer_shareinfo_first=2888d6fddc702c14d646d4ab0ed54462)
+*   📝 CMU与斯坦福联合发布法律Agent万字综述，系统梳理了该领域的三大核心工作机制与五大应用场景。报告深入分析了法律Agent在自动化文档处理、合规审查、案例研究等关键领域的实际应用潜力，为法律科技发展提供了重要技术框架与行业洞察。
+*   ⏰ *22:22*
+
+### 📰 行业新闻
+#### **[AI心理咨询]** 立法禁止AI心理咨询，美国打响AI伦理监管第一枪
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/696c5e7b000000000a02bc83?app_platform=ios&app_version=9.17.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBGkVFzf37C_uc20WWRLCM3GCXQ_XZ4FLAprWJmu72oLk=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1768827929&share_id=bcdd336dcbb74d4c8e0b63c654d233e0)
+*   📝 美国立法禁止AI心理咨询服务，标志着全球对AI伦理监管进入实质性阶段。此举直指AI在心理健康领域的潜在风险，包括数据隐私、算法偏见和情感误导等问题，引发行业对AI应用边界的深度反思。
+*   ⏰ *21:05*
+
+#### **[Eigent]** 揭秘产品背后的生死故事，为何说它还没死？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247717898&idx=1&sn=08987cfafc475061fa9f2d1682848dc9&chksm=e9b222d331f81a35083b8439bde1cd1f8068cc840f974435a0f4226f22f103681797142a1bfa&mpshare=1&scene=1&srcid=0119qYWhXnlOnJ4Tdcp0xJ60&sharer_shareinfo=14c5a507dff72627a32a74ba737077ab&sharer_shareinfo_first=14c5a507dff72627a32a74ba737077ab)
+*   📝 文章深入剖析Eigent产品的生存现状，通过技术细节和开发日志揭示其背后的真实故事。从代码层面的错误处理机制到用户数据追踪，展现了产品在技术挑战中的挣扎与坚持，为读者呈现一个科技产品在激烈竞争中的生存图景。
+*   ⏰ *23:07*
+
+### 🧠 提示词与教程
+#### **[Prompt分析]** 掌握四个关键问题，轻松完成企业深度剖析
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/696cead4000000000e00e525?app_platform=ios&app_version=9.17.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBGkVFzf37C_uc20WWRLCM3NiWrcmDKmLCv9oExNCTfb8=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1768788088&share_id=03f80e64b9424bd6bf42a561de5f53eb)
+*   📝 本文提供了一套高效的企业分析方法论，仅需四个核心Prompt即可系统性地评估公司基本面。该方法将复杂的企业分析简化为可操作的步骤，帮助投资者、分析师和商业决策者快速抓住关键信息，避免信息过载，实现精准判断。
+*   ⏰ *10:01*
+
+### 🔧 工具与应用
+#### **[Coze Skill]** 一键生成公众号SVG，免费工具上线
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247511564&idx=1&sn=5324fdd4c98be8741ea3a9fb1a433b8e&chksm=c37a51e154b519a7f557a672100d286d8ee3657a2beea43a5aec06c84bb760d120fa8b3f46fd&mpshare=1&scene=1&srcid=0119tmO1KGF7n4QxCCn2pJBI&sharer_shareinfo=8249f2537515b2ad8471b1189ff1447f&sharer_shareinfo_first=8249f2537515b2ad8471b1189ff1447f)
+*   📝 开发者推出基于Coze平台的免费技能工具，专门用于快速生成公众号所需的SVG素材。该工具简化了内容创作者的设计流程，无需专业设计技能即可制作高质量视觉元素，体现了低代码工具在内容生产领域的应用创新。
+*   ⏰ *13:59*
+
+#### **[复旦查新系统]** 推出顶会论文查新工具，一键评估学术创新性
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651012507&idx=1&sn=7e1552a16184f7892ad3d0ebda81ef24&chksm=85f8b01cba76367f737afa1c5cf299cb50552ca8e0217a9665d6dc1d017bb77e2b40e41531c6&mpshare=1&scene=1&srcid=0119NMopk7rhO5Co1vHjimWz&sharer_shareinfo=18cc8da5d74a69506f926551b93fa9fb&sharer_shareinfo_first=18cc8da5d74a69506f926551b93fa9fb)
+*   📝 复旦大学开发了针对顶级学术会议的论文查新系统，旨在帮助研究者快速评估论文的创新性。该系统通过分析已有研究成果，判断提交论文是否具备足够的新颖性，为学术写作和投稿提供参考。此举回应了学术界对论文创新性评估的需求，有望提升研究质量。
+*   ⏰ *13:18*
+
+#### **[字节AI技能商店]** 全球首发：一句话生成AI技能，个人经验可货币化
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652665717&idx=1&sn=f78729105732a364aca2372a32ee16bc&chksm=f05ec642050486bfd1eb69ac194d55e0e57dcb1b2f1238a458a129b0fb298fa2b6abe76efefe&mpshare=1&scene=1&srcid=0119WEWAIVj7GxiF9mB6KD5G&sharer_shareinfo=6cd010addf713f2c36fa8d42cef527dd&sharer_shareinfo_first=6cd010addf713f2c36fa8d42cef527dd)
+*   📝 字节跳动推出全球首个AI技能商店，用户仅需一句话描述即可生成Coze Skills，将个人经验和专业知识转化为可售卖的AI技能。这一创新平台降低了AI技能开发门槛，为内容创作者和技术专家开辟了新的变现渠道，标志着AI应用生态向更开放、平民化的方向演进。
+*   ⏰ *13:18*
+
+#### **[字节扣子2.0]** 两年磨一剑，揭秘从工具到生态的蜕变之路
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097480&idx=1&sn=a8ef5c0fe2a0e8e2acc38f8e0cef47f8&chksm=7f3d17618100a09db5ce732809a41f5526f914f57975a8ce4bb7bddaed5b79fa8a566ac61c2a&mpshare=1&scene=1&srcid=0119FbdY4XSQh6sclwCCYEy7&sharer_shareinfo=f7c49895878e306db7761d7e9373b25a&sharer_shareinfo_first=f7c49895878e306db7761d7e9373b25a)
+*   📝 字节跳动旗下AI产品扣子迎来2.0版本重大更新，通过两年深度发展，已从单一工具演变为完整生态。本次发布不仅带来技术架构全面升级，更揭示了其在商业化、用户体验和行业整合方面的战略布局，展现出字节在AI赛道的长期野心。
+*   ⏰ *18:51*
+
+#### **[阶跃AI]** 打造桌面智能助手，目标超越Claude Cowork
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247522300&idx=1&sn=b504dc37005db6c32d187805e5a76299&chksm=c1739927d93219459e22a91db5a589e059dd0e364416505a51a4ba7210825aed619e7a9dc298&mpshare=1&scene=1&srcid=0119ywT0FXP7iXhM8VpGwrwn&sharer_shareinfo=dda1928f253e7458dd4bfd7ff2199f79&sharer_shareinfo_first=dda1928f253e7458dd4bfd7ff2199f79)
+*   📝 阶跃AI正研发桌面Agent产品，旨在提供比Claude Cowork更先进的智能助手体验。该产品聚焦桌面场景，通过深度集成与主动服务能力，试图在AI助手赛道实现差异化突破，挑战现有竞争格局。
+*   ⏰ *18:39*
+
