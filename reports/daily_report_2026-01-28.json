@@ -1,0 +1,68 @@
+{
+  "date": "2026-01-28",
+  "generated_at": "2026-01-29T11:58:56.507240",
+  "highlight": "科技行业招聘风向突变，OpenAI CEO山姆·奥特曼的最新面试题揭示行业残酷现实：单一技能已不足够，全能型人才成为新宠。面试题要求候选人具备跨领域能力，从技术架构到产品运营，从团队管理到商业变现，一人需承担传统团队的多重角色。这不仅是招聘标准的升级，更是对当前AI人才市场的精准折射——企业正在寻找能够独当一面的“超级个体”，而不再满足于只会写代码的“工具人”。",
+  "stats": {
+    "total_articles": 6,
+    "categories": {
+      "💡 深度观点": 3,
+      "🤖 模型与技术": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "只会写代码没戏了！奥特曼最新面试题曝光：1人要干1个团队的活",
+      "entity": "奥特曼",
+      "clean_title": "最新面试题曝光：1人要干1个团队的活",
+      "summary": "科技行业招聘风向突变，OpenAI CEO山姆·奥特曼的最新面试题揭示行业残酷现实：单一技能已不足够，全能型人才成为新宠。面试题要求候选人具备跨领域能力，从技术架构到产品运营，从团队管理到商业变现，一人需承担传统团队的多重角色。这不仅是招聘标准的升级，更是对当前AI人才市场的精准折射——企业正在寻找能够独当一面的“超级个体”，而不再满足于只会写代码的“工具人”。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652668386&idx=2&sn=8075ce81a510bd7670cca578ad52b81f&chksm=f0f2ef7d39870174b59a5c1753eed3072bcc0cd5d1dfc9a787c5f15ed8da561427d52ff6ffec&mpshare=1&scene=1&srcid=0128SPfvKTgqN7MUmun3mvUK&sharer_shareinfo=1ea830f902f6b10702ebff30ece04c9c&sharer_shareinfo_first=1ea830f902f6b10702ebff30ece04c9c",
+      "time": "10:23",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
+      "entity": "Kimi K2.5",
+      "clean_title": "实现录屏扒代码、截图改网页，视觉与代码融合新突破",
+      "summary": "Kimi K2.5展示了视觉与代码融合的前沿能力，通过录屏直接提取代码、截图修改网页等创新功能，将多模态交互推向新高度。这一突破不仅提升了开发效率，更预示着AI在理解视觉信息与代码逻辑结合方面的重大进展，为自动化编程和智能开发工具开辟了新路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247864589&idx=1&sn=362e27f27e4034509892d1575ad54cd1&chksm=e93af4e2f1df018bf54ca1e3445dfc5ae570aff8e4d6276af482421c69d7efbfd4862445b419&mpshare=1&scene=1&srcid=0128G1zE3AvW7KwGrx5Ug8ve&sharer_shareinfo=eb98e9b26a5ac15b451a43a435d8333a&sharer_shareinfo_first=eb98e9b26a5ac15b451a43a435d8333a",
+      "time": "10:39",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Karpathy：回不去了，被AI伤了自尊！自曝手写代码能力退化，公开与CC协作心得！马斯克：时代精神的总结！CC之父：不会出现垃圾代码末日",
+      "entity": "Karpathy",
+      "clean_title": "自曝手写代码能力退化，公开与AI协作心得",
+      "summary": "著名AI专家Karpathy坦言，长期依赖AI工具导致个人手写代码能力显著退化，引发行业对AI依赖症的深度反思。他分享了与AI协作的实践经验，马斯克评价为“时代精神的总结”，而相关技术创始人则反驳了“垃圾代码末日”的悲观预测。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655935946&idx=1&sn=55a8fd52c9d8658b51b2d374e35595cc&chksm=bc13ac22acc2b9f35f44214f70590c2f254aa3a1579f39cb660ab1a1bbafab627d3303a92d34&mpshare=1&scene=1&srcid=0128BsICFDDav3x7rZSvcVEW&sharer_shareinfo=1b6978ade6d1a4a41b34d47ea53cabc4&sharer_shareinfo_first=1b6978ade6d1a4a41b34d47ea53cabc4",
+      "time": "14:52",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Gemini 3「开眼」像素级操控！谷歌回应DeepSeek-OCR2",
+      "entity": "Gemini 3",
+      "clean_title": "实现像素级操控能力，谷歌正面回应竞争对手",
+      "summary": "谷歌最新AI模型Gemini 3展示了突破性的像素级操控技术，能够对图像内容进行精细编辑和生成。该技术突破被视为对DeepSeek-OCR2等竞争对手的直接回应，展现了谷歌在计算机视觉领域的技术实力。这一进展可能重新定义图像生成和编辑的标准，为内容创作和设计领域带来革命性变化。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652668623&idx=1&sn=ff0a56c6730ff9392ce9234893c534c8&chksm=f0cd3afac571654ccb131e6e2c5dcda33e949967336ec1b7cdc2773aa6fdab0d65e8a60e5a3c&mpshare=1&scene=1&srcid=0128yCQ6I39J7OUG7SVEbypl&sharer_shareinfo=23be08a077dd96bc4744d0a3c0085df3&sharer_shareinfo_first=23be08a077dd96bc4744d0a3c0085df3",
+      "time": "18:48",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "卡帕西最新预言：程序员正在分裂成两个物种",
+      "entity": "卡帕西",
+      "clean_title": "预言程序员群体正经历物种级分化",
+      "summary": "知名技术专家卡帕西提出震撼预言：程序员群体正在分裂为两个截然不同的物种。这一分化不仅体现在技术栈选择上，更涉及思维方式、职业路径和行业地位的深层变革。文章揭示了AI时代程序员面临的生存危机与进化机遇，对技术从业者的未来定位提出尖锐拷问。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247614532&idx=1&sn=a8df5cb84f9dbdd3d00dd8e801c173e5&chksm=9603c3dcc44d50b0a73ae340b62a8d867cc51aeb7ca8285498a9e8d3a14ce8e864ea33ee2a8b&mpshare=1&scene=1&srcid=0128hM3UCqCmVn3XzUFY9sLQ&sharer_shareinfo=9775631dc30f98ce2202f6138e8aea93&sharer_shareinfo_first=9775631dc30f98ce2202f6138e8aea93",
+      "time": "23:06",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "刚刚，AI音乐被重新定义！昆仑天工甩出新王炸，拿下全球第一",
+      "entity": "昆仑天工",
+      "clean_title": "发布新王炸产品，重新定义AI音乐，拿下全球第一",
+      "summary": "昆仑天工发布突破性AI音乐产品，以技术创新重新定义音乐生成领域，凭借卓越性能在全球范围内取得领先地位，标志着AI音乐技术进入新阶段。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014263&idx=1&sn=4934abf49299bcb215323ba82877caec&chksm=85ed4cd9d8d6f7e10a9dd99dd5ee963f41096afe10ac059637604eec7af9e2cf6c650a93a8e4&mpshare=1&scene=1&srcid=0128HejzYeBYRvBHg4VcODE2&sharer_shareinfo=c0b583c6f140b9b98c29b7c823074486&sharer_shareinfo_first=c0b583c6f140b9b98c29b7c823074486",
+      "time": "23:09",
+      "category": "🤖 模型与技术"
+    }
+  ]
+}
