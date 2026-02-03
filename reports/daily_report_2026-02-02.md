@@ -1,0 +1,51 @@
+# 📅 Daily AI Report - 2026-02-02
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **8** 篇内容。
+> **今日看点**: Claude Code官方首次发布详细教程，创始人亲自分享十大核心使用技巧，首次公开内部团队的真实工作流程和使用方法。这不仅是简单的功能说明，更是来自开发团队的一手实战经验，为开发者提供了从基础到进阶的完整指导。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[亚马逊]** 推出首个高级任务对话评估基准，引领AI对话系统新标准
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6974c26200000000280208bc?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBsEEH-SHPKr45cymfExLlhpXDUXtvLbEUCPOiYHcFohA=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770045623&share_id=802441b80b8d4b4faee3ee00ee07c3cb)
+*   📝 亚马逊联合多家机构发布首个高级任务对话评估基准，填补了复杂多轮对话系统评估领域的空白。该基准旨在更精准地衡量AI助手在真实场景中的任务完成能力，推动对话AI从简单问答向复杂协作演进，为行业提供了关键的技术评估工具。
+*   ⏰ *23:20*
+
+### 🧠 提示词与教程
+#### **[Claude Code]** 官方发布十大神级技巧，揭秘内部团队使用秘诀
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512358&idx=1&sn=8c2db7b0c08597844053d3cebd9d5d61&chksm=cf6836a6ab2f7867a709529b4f6421ac957dc112306299b8dd17b272a3ecaa24883d14a19e1c&mpshare=1&scene=1&srcid=0202bhDXyonVyeLeDfJQeq80&sharer_shareinfo=c633025bd901c4e7c8a429f8b81af157&sharer_shareinfo_first=c633025bd901c4e7c8a429f8b81af157)
+*   📝 Claude Code官方首次发布详细教程，创始人亲自分享十大核心使用技巧，首次公开内部团队的真实工作流程和使用方法。这不仅是简单的功能说明，更是来自开发团队的一手实战经验，为开发者提供了从基础到进阶的完整指导。
+*   ⏰ *10:03*
+
+### 💡 深度观点
+#### **[Agent时代]** 评估集成为产品需求文档新标准
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/697ed17c00000000220094e7?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB6LwcKOkj-MTTsvyX_Rvz2ZrrkuTyy0-ETiC4NAPeLTk=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770050451&share_id=de35daf8a2ab4a66ae4d40a06215d545)
+*   📝 文章提出在AI Agent时代，评估集正取代传统PRD成为核心开发指南。这一观点颠覆了传统产品开发流程，强调以实际性能测试数据驱动产品迭代，反映了AI技术对开发方法论的根本性重塑。
+*   ⏰ *00:41*
+
+#### **[代码]** 普通人逆袭的最大杠杆，不是AI而是它
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515359&idx=1&sn=c40e17a84eb1e70f496c32545baba89d&chksm=89ab919af611f38f69a84c58311ce5a4553c2503f34b62d7ff28e8a1becdf185abc0d0a6893c&mpshare=1&scene=1&srcid=0203dxzugmwAtAfLTuOmU4pL&sharer_shareinfo=dacc4cc873284f0093787f54523e6248&sharer_shareinfo_first=dacc4cc873284f0093787f54523e6248)
+*   📝 文章犀利指出，在当前技术浪潮中，真正能让普通人实现阶层跨越的杠杆并非AI本身，而是掌握编程能力。作者认为代码才是这个时代最公平的生产力工具，能够将创意转化为现实，创造远超AI工具的价值。这一观点挑战了当前过度聚焦AI的行业叙事，为技术从业者提供了新的思考维度。
+*   ⏰ *01:28*
+
+#### **[奥特曼]** 最新座谈揭示：注意力成为世界终极稀缺资源
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651781025&idx=1&sn=d54e723b5984d00a838ad0c72b2bae52&chksm=bcab9d8174631a206cbd21df861a93cda839803122efb3a07fc8af4a69a297cbab4db498ded4&mpshare=1&scene=1&srcid=0203qNsrtwZVDK38PcGuPDWz&sharer_shareinfo=ae8517da3673939e8324c742235b6743&sharer_shareinfo_first=ae8517da3673939e8324c742235b6743)
+*   📝 OpenAI CEO山姆·奥特曼在最新座谈中提出，在信息爆炸时代，人类注意力已成为比任何物质资源都更珍贵的稀缺品。这一观点直指AI时代核心矛盾——技术越发达，注意力越分散。文章犀利指出，谁能掌控注意力分配机制，谁就掌握了未来商业和社会的制高点。
+*   ⏰ *01:28*
+
+#### **[拾象]** 2026年AGI投资策略全公开，前瞻布局指南
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247520864&idx=1&sn=d54048501e37618c52d3f6ba389a5193&chksm=cf32a34e1ac9bfb322ab6a9b3bb730c8fcbabd33a1182589db15fbc5a0b6fe55801cb5b5d910&mpshare=1&scene=1&srcid=0202O9LySrWBAziToxOAdx8g&sharer_shareinfo=16da904710bcfe19a85a57840a5dca88&sharer_shareinfo_first=16da904710bcfe19a85a57840a5dca88)
+*   📝 拾象资本首次开源其AGI投资框架，系统阐述2026年前的人工智能投资逻辑。文章深度剖析技术演进路径、商业化拐点判断标准及风险对冲策略，为投资者提供从基础设施到应用层的全景式布局地图。这份硬核指南直击当前AI投资的核心痛点，揭示了少数头部机构的前瞻性思考。
+*   ⏰ *13:32*
+
+### 🔧 工具与应用
+#### **[Clawdbot]** 仅用Markdown文档构建永久记忆系统，颠覆传统知识管理
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247522529&idx=1&sn=e5759a7d342a09ed485487c503a9c364&chksm=c142add6735d7cf2c3d24ee705e8421661980f6e2a3db75a039da8e75f57018393530cd7150e&mpshare=1&scene=1&srcid=0202MqIEYw4BowU0tEvPawbX&sharer_shareinfo=7299576157db10ebad6eb3e01a88a451&sharer_shareinfo_first=7299576157db10ebad6eb3e01a88a451)
+*   📝 Clawdbot展示了一种革命性的知识管理方案：完全基于Markdown文档搭建永久记忆系统。该方法摒弃复杂数据库和专用软件，利用纯文本的灵活性与可移植性，实现知识的长期存储与高效检索。这种极简主义设计不仅降低了技术门槛，更确保了数据在未来数十年仍可访问，为个人和企业知识管理提供了颠覆性解决方案。
+*   ⏰ *23:34*
+
+#### **[Refly.AI]** 推出首个开源Agent技能构建器，瞄准普惠化突破
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655936141&idx=1&sn=7257545750cc5e777889197c61a2e913&chksm=bcbe6a2384e75ddbd4fa1cbc1539a1fa3c7948a3e96c527e86d2b3752d04a4984602b0613da6&mpshare=1&scene=1&srcid=0202IFyhYR2Cdf6GABVoffYY&sharer_shareinfo=9941da6b725c360b72d9d280e6c2831d&sharer_shareinfo_first=9941da6b725c360b72d9d280e6c2831d)
+*   📝 字节系AI初创Refly.AI发布业界首个开源Agent Skills Builder，创始人李锦威指出当前Agent工具多局限于专业用户，未能实现真正普惠。该产品旨在降低Agent开发门槛，让普通用户也能轻松构建智能体技能，或将推动AI助手从专业工具向大众应用转变。
+*   ⏰ *13:49*
+
