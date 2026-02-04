@@ -1,0 +1,82 @@
+# 📅 Daily AI Report - 2026-02-03
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **14** 篇内容。
+> **今日看点**: 本文深入剖析了Claude Skills的核心思考框架，通过技术代码片段展示了其底层实现逻辑。文章揭示了AI系统如何通过结构化函数和数据处理机制构建复杂技能，展现了从资源加载错误处理到性能监控的全链路设计。这种技术深度解析为开发者理解大型语言模型的内部运作提供了宝贵视角。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[AI大模型]** 全面解析技术原理与应用前景，小白也能轻松读懂
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798683&idx=1&sn=8319ed2ef27f74711c611c72f7a0e2ec&chksm=bf812eb3b949a2e70be0d26f7a56269778b4099fddee2456d11a7bdf906efc373570bde15aeb&mpshare=1&scene=1&srcid=0203KlJl9kLBBtDMud47DYi7&sharer_shareinfo=a2e8b8c785d830b1a61214111c02e3f7&sharer_shareinfo_first=a2e8b8c785d830b1a61214111c02e3f7)
+*   📝 这篇文章以通俗易懂的方式系统介绍了AI大模型的核心技术架构、训练方法和工作原理，同时深入分析了当前主流模型的性能对比与发展趋势。作者通过生动的比喻和实际案例，让复杂的技术概念变得直观可理解，既适合技术从业者查漏补缺，也适合普通读者建立系统性认知。文章还前瞻性地探讨了大模型在商业应用、内容创作和科学研究等领域的潜在影响与挑战。
+*   ⏰ *17:58*
+
+#### **[Claude Skills]** 核心思考逻辑深度解析，揭秘AI能力构建机制
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/697780990000000022038a48?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBa7J-1wv-Lgz0lLfUAbj4wVzycQ3WL8-sZ8pP1S6TMLA=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770084937&share_id=5f47a689bbf044e9a40118faa617e2d8)
+*   📝 本文深入剖析了Claude Skills的核心思考框架，通过技术代码片段展示了其底层实现逻辑。文章揭示了AI系统如何通过结构化函数和数据处理机制构建复杂技能，展现了从资源加载错误处理到性能监控的全链路设计。这种技术深度解析为开发者理解大型语言模型的内部运作提供了宝贵视角。
+*   ⏰ *10:15*
+
+### 📰 行业新闻
+#### **[中国AI教育公司]** 已服务全球5000万用户，领先达沃斯热议
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512400&idx=1&sn=d0f5255be696109e9f923c8386070841&chksm=cff92ed0e9395ecbba3f59b1aa36446c23d24db48ae373d130a30d1dc766a2f90b02b67e0885&mpshare=1&scene=1&srcid=0203Hfyw7G4jRHgkGgGlbdYe&sharer_shareinfo=d22ac5c6aa9f5923ce963b57591cf8f5&sharer_shareinfo_first=d22ac5c6aa9f5923ce963b57591cf8f5)
+*   📝 当全球精英在达沃斯论坛空谈AI未来时，中国一家AI教育公司已悄然将服务覆盖全球5000万用户群体。这不仅是商业规模的突破，更是中国AI应用落地能力的实证——在西方还在讨论伦理与监管时，中国公司已用实际服务证明了AI教育的规模化可行性。
+*   ⏰ *10:15*
+
+#### **[杨植麟]** 获邀成为2026年大模型峰会特邀嘉宾
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247866383&idx=1&sn=553cb71b869727ce2a5946face416adb&chksm=e940207d2529f936cbb35bbd53e0b7ab2ef5197ca9f18ca524d84303f55470c9a6cc8108bbce&mpshare=1&scene=1&srcid=0203mCVJY2FErUatsGlTbXki&sharer_shareinfo=440f6ebda23f5d80631b92f4bc835361&sharer_shareinfo_first=440f6ebda23f5d80631b92f4bc835361)
+*   📝 科技巨头黄仁勋已正式邀请AI专家杨植麟作为2026年大模型峰会的重要嘉宾，这一举动预示着行业对顶尖技术人才的重视，也暗示着未来大模型发展将迎来新的突破点。杨植麟的参与将为峰会带来前沿的技术视角，推动AI领域的深度交流与合作。
+*   ⏰ *21:32*
+
+### 🧠 提示词与教程
+#### **[吴恩达]** 手把手教你Skills的原理与实践
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6980ae59000000002801df6f?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBVafgu9FUUFHXy-Q1yPBoIkZHI4VInyHUnrzE7UuG2FE=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770120019&share_id=e44a6f88f4c04450b6e1b9492b6cc8dc)
+*   📝 文章疑似代码片段混入，实际内容缺失。从标题推断，应为吴恩达关于AI技能（Skills）的实践教程，可能涉及如何构建、优化和应用AI技能系统，但正文无法提供具体技术细节或教学步骤。
+*   ⏰ *20:00*
+
+### 💡 深度观点
+#### **[一人公司]** 三位先行者经验全解析，助你打造高效独立事业
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/697b2b1e0000000021028723?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBmPXV8oJ7ImYf1dbVVC6eQhEVGMAd6B5g0lJC9Cqpppc=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770085152&share_id=c8d418affac64204b903888b3f5f01db)
+*   📝 本文聚焦'一人公司'创业模式，深度剖析三位成功先行者的实战经验与策略。从资源管理到市场定位，提供系统化方法论，为追求独立创业的个体提供可复制的成功路径。文章强调效率与可持续性，是当前灵活就业趋势下的实用指南。
+*   ⏰ *10:19*
+
+#### **[谷歌Genie3]** 一夜暴跌20%，却难撼动这两个行业根基
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTgwNg==&mid=2247558450&idx=1&sn=39ddd026e82fe52185ef384fca5f5b10&chksm=cf6ee98f1633e87eb33b2c0b6845605672d5e06c8170fe328b838f91ddd261e23b4b867db094&mpshare=1&scene=1&srcid=0203uieMYqQIkJXYhSgiH3JX&sharer_shareinfo=85c8fc0fd6bde227c161153f24520d48&sharer_shareinfo_first=85c8fc0fd6bde227c161153f24520d48)
+*   📝 尽管谷歌Genie3技术实力强劲，引发市场剧烈波动，但分析指出其无法颠覆两个特定行业的现有格局。文章从技术局限性和行业壁垒角度进行剖析，揭示了AI模型在特定领域的应用边界，为投资者和从业者提供了冷静的行业观察视角。
+*   ⏰ *16:08*
+
+#### **[马克·安德森]** 称AI为现代“哲人石”，将重塑经济格局并赋能超级个体
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650016334&idx=1&sn=819de284c89b04dce649c87b77cd4e27&chksm=89a40a5c06a669ea7809d1c09875a75fa3c7d63fc0906b0b67bfdca12ff0dfd7cef5df6e63f0&mpshare=1&scene=1&srcid=02038N79mdL256RkF6UbZgzO&sharer_shareinfo=7244141df1c991f364b298b397addf18&sharer_shareinfo_first=7244141df1c991f364b298b397addf18)
+*   📝 a16z掌门人马克·安德森将AI比作“哲人石”，认为其能将普通物质（如沙子）转化为思想价值，彻底重塑全球经济格局。他强调AI不仅是技术工具，更是赋能超级个体的核心力量，将推动生产力革命和个体价值最大化。这一观点揭示了AI从技术层面向社会经济基础设施转变的关键趋势。
+*   ⏰ *21:22*
+
+### 🔧 工具与应用
+#### **[Claude Code]** 创始人亲自揭秘：团队高效开发的10个核心技巧
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247718904&idx=1&sn=7f77ee06ab57fd11bc44ab6f782cd644&chksm=e9c44e182057d4fa74139912744aa0fbfee660e95c0ab97f0d5fe0479e5f6ca4baf4f4ca6fad&mpshare=1&scene=1&srcid=0203kfhX4hRUsImkweUy5LGF&sharer_shareinfo=a9f68b71da703e4fec7cbb536e30944c&sharer_shareinfo_first=a9f68b71da703e4fec7cbb536e30944c)
+*   📝 Claude Code创始人罕见公开团队内部使用技巧，涵盖开发流程优化、错误处理机制、性能监控等实战经验。文章通过具体代码示例展示如何利用BadJs进行错误追踪、动态模块加载优化等高级技巧，为开发者提供可直接复用的解决方案。这些来自一线团队的实战经验，对提升开发效率和代码质量具有重要参考价值。
+*   ⏰ *23:09*
+
+#### **[Clawdbot]** 跨平台版本发布，打破Mac与英伟达独占限制
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014985&idx=1&sn=e3e5b73a316e7046d454adfbefabec3f&chksm=850d13085174d71dca543a213621d9c2e64af63157b5e91b46e1ce2e6658ef6f7655e5f272e1&mpshare=1&scene=1&srcid=0203CgNQJkcgcJzIwNjSAwRd&sharer_shareinfo=e9762fa5d969f37454280681612b2064&sharer_shareinfo_first=e9762fa5d969f37454280681612b2064)
+*   📝 国产AI工具Clawdbot推出跨平台版本，结束了此前仅支持Mac和英伟达硬件的局限。这一突破性进展意味着更多开发者能够使用这一工具，有望推动国产AI生态的普及和发展，降低技术使用门槛。
+*   ⏰ *12:46*
+
+#### **[Codex]** 独立应用正式上线，开启全新体验
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453480177&idx=1&sn=a19c359d2586442aba306e453f6c7389&chksm=86c17a33e8d4d6d219ef76b542ca5d7bf4725723eac6aae8f15c75bb8cf2183e6323b138e4bd&mpshare=1&scene=1&srcid=0203zqbkkI68M8PkT9WyPyHB&sharer_shareinfo=a4ccca01d63bb9e0ca7451cb6e1b175a&sharer_shareinfo_first=a4ccca01d63bb9e0ca7451cb6e1b175a)
+*   📝 Codex推出独立应用程序，标志着该技术从集成工具向独立产品的战略转型。此举不仅优化了用户体验，更可能预示着在AI应用生态中的新布局，为开发者提供更专注、更高效的工具平台。
+*   ⏰ *10:28*
+
+#### **[Codex 桌面版]** 发布全新桌面版本，用户体验大幅提升
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247492807&idx=1&sn=e786340de6946227e80add1dc0575c81&chksm=c2b91bf8322b02274a63e62d129e4156b773d720e8258b82786e7330705f77f08ec6a3203c0e&mpshare=1&scene=1&srcid=0203A5v4HieU46a8lCgpAfQ6&sharer_shareinfo=70fe3c3456f81ee866325d58af75b759&sharer_shareinfo_first=70fe3c3456f81ee866325d58af75b759)
+*   📝 OpenAI 正式推出 Codex 桌面版，解决了此前用户诟病的难用问题。新版在界面优化、响应速度和本地化处理方面均有显著改进，标志着该代码生成工具从实验阶段迈向成熟产品化。这一更新或将重新定义开发者与AI编程工具的交互方式。
+*   ⏰ *15:27*
+
+#### **[GitHub Skills]** 发现4个实用开发技巧，已在平台开源
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6973a986000000000c034d82?app_platform=ios&app_version=9.19.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBw3R-HHbF3cThO-HNHc73cy38_yBHq99lqfyl8Bx5e2k=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770085042&share_id=2c16092cbfe14d1a80c1a65afe8ec749)
+*   📝 文章介绍在GitHub上发现的4个实用开发技巧，涉及前端资源加载优化、错误监控和性能追踪等实战代码。这些技巧展示了如何通过JavaScript实现资源重试机制、错误上报和本地存储管理，对提升Web应用稳定性和用户体验具有直接参考价值。
+*   ⏰ *10:17*
+
+#### **[OpenAI Codex]** 桌面版深夜发布，一人指挥Agent军团，程序员告别996
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652670508&idx=1&sn=2a1d8d79cef84ae695821430d6b6e711&chksm=f0b6ad590ab3a3fc15668ec3802b477198f34dc4b427111b769120723b7cf1ba01e3879d78fb&mpshare=1&scene=1&srcid=02030lJUHIcgemzVvMJ4sRRe&sharer_shareinfo=cf10dce8af680afa588c52ad3d0d7407&sharer_shareinfo_first=cf10dce8af680afa588c52ad3d0d7407)
+*   📝 OpenAI Codex桌面版深夜突袭发布，支持单用户指挥多个AI代理协同工作，大幅提升编程效率。该版本针对桌面环境优化，可实现自动化代码生成、调试和部署，有望彻底改变程序员工作模式，从重复劳动中解放人力，引发行业效率革命。
+*   ⏰ *10:15*
+
