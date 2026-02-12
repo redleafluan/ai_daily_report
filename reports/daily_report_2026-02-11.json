@@ -1,0 +1,62 @@
+{
+  "date": "2026-02-11",
+  "generated_at": "2026-02-12T12:12:27.004360",
+  "highlight": "用户通过Suno音乐生成平台创作的8首歌曲全部获得签约，凸显AI音乐创作工具在商业化应用上的突破。这一案例不仅展示了AI生成内容的市场接受度，也预示着音乐创作行业正迎来技术驱动的变革。",
+  "stats": {
+    "total_articles": 5,
+    "categories": {
+      "🔧 工具与应用": 1,
+      "🧠 提示词与教程": 1,
+      "🤖 模型与技术": 1,
+      "💡 深度观点": 1,
+      "📰 行业新闻": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "太爽了，我在Suno写歌8首都被签了啊啊啊",
+      "entity": "Suno",
+      "clean_title": "8首AI创作歌曲获签约，音乐生成平台展现商业潜力",
+      "summary": "用户通过Suno音乐生成平台创作的8首歌曲全部获得签约，凸显AI音乐创作工具在商业化应用上的突破。这一案例不仅展示了AI生成内容的市场接受度，也预示着音乐创作行业正迎来技术驱动的变革。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69114f20000000000402aa1b?app_platform=ios&app_version=9.19.3&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB8jmxFxPU2HcJBlaR-DH7sGJMmXZNCb-z3qL2Nl8_w6Y=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1770776542&share_id=0d2f576f5ff0425cbebbd9c3278edeca",
+      "time": "10:22",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "《AI 工程：大模型应用开发实战》中文版出版了——翻译一本 AI 工程的书，我把翻译本身也做成了 AI 工程",
+      "entity": "AI 工程",
+      "clean_title": "中文版实战指南问世，翻译过程本身成为AI工程范例",
+      "summary": "《AI 工程：大模型应用开发实战》中文版正式出版，作者将翻译过程本身打造成AI工程实践案例。这不仅是一本技术书籍的本地化，更展示了如何运用AI工程方法论解决实际问题——包括翻译工作本身。该书为开发者提供了从理论到实践的完整路径，同时通过翻译过程的工程化处理，为读者呈现了AI工程思维在真实场景中的应用价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493190&idx=1&sn=fce18a2374fd2cebf6650058aef8a941&chksm=c2b50828d316dc19038d20c68622d65ef09f755de26782b7781405a9ebe3c7f4789abf97abeb&mpshare=1&scene=1&srcid=0211iJyeGQrpdrPFD4jbqxxy&sharer_shareinfo=621ca54b893322de4f95c537ca3d823c&sharer_shareinfo_first=621ca54b893322de4f95c537ca3d823c",
+      "time": "10:46",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "中国也有了世界第一的模型，他的名字，叫Seedance 2.0。",
+      "entity": "Seedance 2.0",
+      "clean_title": "登顶全球性能榜首，技术突破引发行业震动",
+      "summary": "中国自主研发的Seedance 2.0模型在最新评测中超越国际竞品，首次登顶全球性能榜首。该模型在多项关键指标上实现突破性进展，展现出中国在人工智能基础模型领域的强劲实力，标志着全球AI竞争格局的重要转折点。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647679903&idx=1&sn=09fd4d34355192fc940fd57809be902a&chksm=f1f19deed2f6dd8c88c1f69380c5b9b0e4766546e3a2cf45a8312c656809b55b10f033896629&mpshare=1&scene=1&srcid=0211N1I1In8oB6kItbSh2u2j&sharer_shareinfo=98e2eed97fa5e60bb2568f87a64984fd&sharer_shareinfo_first=98e2eed97fa5e60bb2568f87a64984fd",
+      "time": "10:58",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "93k星Github项目狠人！谷歌高级AI产品经理公开内部构建Agent心得：过去十年技能衡量标准已毫无价值！2026最优秀的开发者更像是导演",
+      "entity": "谷歌AI产品经理",
+      "clean_title": "公开内部Agent构建心得：技能衡量标准已过时，2026年优秀开发者将像导演",
+      "summary": "谷歌高级AI产品经理通过93k星Github项目分享Agent构建经验，直言过去十年的技能衡量标准已毫无价值。他指出，未来最优秀的开发者将更像导演，需要具备协调、整合和创意能力，而非传统编码技能。这一观点挑战了行业对开发者能力的传统认知，预示AI时代人才标准的根本性转变。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655936427&idx=1&sn=81cd7b29d17aa91f31cd7e7e2ba2ef38&chksm=bc617d02ca8685f06932776f1e76ca351361b26cf45abf3c81e73837f0b6c83eabe8cb84e4ef&mpshare=1&scene=1&srcid=0211fiPfHr9yHYHxcHmUBPNC&sharer_shareinfo=02de3671672e988900552a27fd75fff9&sharer_shareinfo_first=02de3671672e988900552a27fd75fff9",
+      "time": "18:08",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Anthropic发布2026趋势报告：人类不再写代码，改当Agent指挥官",
+      "entity": "Anthropic",
+      "clean_title": "发布2026趋势报告：人类不再写代码，改当Agent指挥官",
+      "summary": "Anthropic最新发布的2026年技术趋势报告预测，编程工作将发生根本性变革。报告指出，未来人类将不再直接编写代码，而是转变为AI Agent的指挥官，通过自然语言指令指导智能体完成复杂任务。这一转变将彻底重构软件开发流程，标志着从代码编写到智能体指挥的范式转移，对程序员职业路径和技术生态产生深远影响。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512650&idx=1&sn=9628643a9c8f9e11d18c53c8a70b3a44&chksm=cf871d2c3f538d79619c0db8e6a930e9afd493cabf164e84496d72e339fde5a4605390be90ff&mpshare=1&scene=1&srcid=02116F40ehEQxfFFB7V5PE1P&sharer_shareinfo=31302814df608171ae6c61339a4ce64a&sharer_shareinfo_first=31302814df608171ae6c61339a4ce64a",
+      "time": "22:22",
+      "category": "📰 行业新闻"
+    }
+  ]
+}
