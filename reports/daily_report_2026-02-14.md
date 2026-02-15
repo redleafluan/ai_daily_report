@@ -1,0 +1,45 @@
+# 📅 Daily AI Report - 2026-02-14
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **7** 篇内容。
+> **今日看点**: 文章聚焦AI行业领袖Dario Amodei的深度焦虑，揭示了当前人工智能快速发展背后的安全隐忧。作为行业重要人物，他的担忧反映了整个领域对技术失控风险的集体警觉，这种焦虑正在推动行业重新审视发展路径与伦理边界。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Ring-2.5-1T]** 开源万亿参数模型，IMO金牌水平推理能力，混合线性架构实现新速度
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247869091&idx=1&sn=8ed5b1d0423c642f8194e99c9ce12430&chksm=e97d21f3f43d15a657494da72d464e22fa9003c6810beeb325620ad1fac93ba5637ac194c55c&mpshare=1&scene=1&srcid=0214dWSRfiakSZrQiGC2Qq7B&sharer_shareinfo=56ed47d49b2588f0b48b96c3b2884628&sharer_shareinfo_first=56ed47d49b2588f0b48b96c3b2884628)
+*   📝 蚂蚁集团开源Ring-2.5-1T万亿参数思考模型，在数学推理能力上达到国际数学奥林匹克竞赛金牌水平，采用创新的混合线性架构显著提升推理速度。该模型突破传统大模型的计算瓶颈，为复杂逻辑任务提供新的解决方案，标志着开源AI模型在专业领域能力的重大跃升。
+*   ⏰ *10:11*
+
+#### **[小红书]** 发布移动端代码基准测试，AI代理最高通过率仅12%
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s/Xp32-mQcB-TVxAJVTjKIlw?click_id=1)
+*   📝 小红书推出SWE-Bench Mobile基准测试，评估AI代理处理亿级用户App代码库的能力。测试结果显示，即使在优化后，AI代理的最高通过率也仅为12%，凸显了AI在处理复杂、大规模真实世界代码库时仍面临巨大挑战。这一基准为衡量AI编程助手在实际工程环境中的表现提供了重要参考。
+*   ⏰ *15:00*
+
+#### **[豆包 2.0]** 重磅升级发布，附79页完整技术文档
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513064&idx=1&sn=561ccdb761ae7d1117dd2606967121ca&chksm=c380ee142b387f6d2ede66d7e0388c8634a9fcebbf52b510b31a0ab79f08c43739579ccba3a4&mpshare=1&scene=1&srcid=0214zW77ScYwlDTChk3MIxgO&sharer_shareinfo=7f0e44e097a39687622c138dab1b3250&sharer_shareinfo_first=7f0e44e097a39687622c138dab1b3250)
+*   📝 豆包模型迎来2.0版本重大更新，此次发布不仅包含模型性能的全面升级，还罕见地提供了长达79页的详细Model Card技术文档，展现了团队在模型透明度、技术细节披露方面的专业态度。这一完整的技术资料包为开发者和研究者提供了深入理解模型架构、训练过程和性能表现的宝贵资源。
+*   ⏰ *16:15*
+
+#### **[豆包 2.0]** 发布全新版本，附79页详细技术文档
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513064&idx=1&sn=561ccdb761ae7d1117dd2606967121ca&chksm=c302eeedb6f9b5886a51c2e245bead28d649052f3be1589bef424d6ca21fccb8a573eb22a3b8&mpshare=1&scene=1&srcid=0214JOiUNT7PrSYJZZ1h9G7f&sharer_shareinfo=e379d2c756a838d0cf524e76709660ff&sharer_shareinfo_first=e379d2c756a838d0cf524e76709660ff)
+*   📝 豆包模型迎来重大升级，2.0版本正式发布。此次更新不仅带来性能提升，更罕见地附上了长达79页的Model Card技术文档，详细披露模型架构、训练数据、性能指标等核心信息，展现了技术透明度和专业态度。
+*   ⏰ *16:28*
+
+### 💡 深度观点
+#### **[Dario Amodei]** AI安全焦虑加剧，行业领袖发出警告
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512719&idx=1&sn=e0dd200c217cb577940a387d2bef527b&chksm=cfb242a60ef5c318e3069d6d7446fb5cc27f0f29a551f66bd3916681777e9fc60de5287276af&mpshare=1&scene=1&srcid=021438sDtbcst44YXeVozz01&sharer_shareinfo=623d941fa4174772f7a57fae6dcf2bf4&sharer_shareinfo_first=623d941fa4174772f7a57fae6dcf2bf4)
+*   📝 文章聚焦AI行业领袖Dario Amodei的深度焦虑，揭示了当前人工智能快速发展背后的安全隐忧。作为行业重要人物，他的担忧反映了整个领域对技术失控风险的集体警觉，这种焦虑正在推动行业重新审视发展路径与伦理边界。
+*   ⏰ *10:07*
+
+#### **[建模思维]** 揭秘顶尖领导者的核心能力，重塑决策与战略
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6989a8c4000000000a03fd74?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBXrat5LxfEwo4Xsf-A95Lv136FzJ9U50SGxLHXoVqAos=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771084316&share_id=3fb4a8d0fc634b7694716c445c1ab64d)
+*   📝 文章探讨了高效领导力的关键——建模思维，强调通过构建抽象模型来简化复杂问题、预测趋势并优化决策。这种思维模式不仅提升战略规划能力，还能在动态环境中快速适应变化，是现代领导者区别于传统管理者的重要标志。
+*   ⏰ *23:52*
+
+### 🔧 工具与应用
+#### **[Obsidian]** 告别手动整理，AI智能助手革新知识管理
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69845877000000001a024ec9?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBhr_S2h4zHuwtamiqArMbpD-VPf18BisBjukWONY77_E=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771086222&share_id=eb037da571644037a2610f583df3248e)
+*   📝 知名笔记工具Obsidian迎来AI整合新突破，通过智能算法自动处理代码片段和资源加载优化，显著提升用户效率。文章揭示了其技术实现细节，包括错误监控、资源重试机制等专业功能，展现AI如何深度赋能生产力工具。
+*   ⏰ *00:23*
+
