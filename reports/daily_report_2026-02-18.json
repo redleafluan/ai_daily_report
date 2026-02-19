@@ -1,0 +1,106 @@
+{
+  "date": "2026-02-18",
+  "generated_at": "2026-02-19T12:08:58.443479",
+  "highlight": "Jeff Dean访谈揭示，Gemini的诞生源于一份简洁备忘录，标志着万Token时代的开启。决策过程高效直接，展现了科技巨头如何通过精简沟通推动重大技术突破，为AI模型发展提供了新的组织范式。",
+  "stats": {
+    "total_articles": 10,
+    "categories": {
+      "🤖 模型与技术": 4,
+      "🔧 工具与应用": 3,
+      "📰 行业新闻": 2,
+      "🧠 提示词与教程": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "Jeff Dean 访谈：一页备忘录催生 Gemini 与万 Token 时代",
+      "entity": "Gemini",
+      "clean_title": "一页备忘录催生万Token时代，揭秘背后决策逻辑",
+      "summary": "Jeff Dean访谈揭示，Gemini的诞生源于一份简洁备忘录，标志着万Token时代的开启。决策过程高效直接，展现了科技巨头如何通过精简沟通推动重大技术突破，为AI模型发展提供了新的组织范式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493424&idx=1&sn=705ce52c0bf180676eae4b9e45c49e87&chksm=c259faed3caf5e9230569556dd2f13ceafe3312b4244f665fe6e63b41b3b305292d3804fc79a&mpshare=1&scene=1&srcid=02183xvjaQeUvWvQYKjdhm3F&sharer_shareinfo=14f3e5f9df0c9c85848f002274ef09a6&sharer_shareinfo_first=14f3e5f9df0c9c85848f002274ef09a6",
+      "time": "09:11",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Claude Sonnet 4.6来了：100万上下文下放，比opus 4.5更好用",
+      "entity": "Claude Sonnet 4.6",
+      "clean_title": "百万上下文能力下放，性能超越前代旗舰版本",
+      "summary": "Anthropic最新发布Claude Sonnet 4.6版本，将100万token上下文窗口下放至中端产品线，在多项基准测试中表现优于旗舰版Opus 4.5。此次更新标志着大模型能力分层策略的重大突破，让更多用户能以更低成本获得接近顶级模型的性能体验，可能引发行业新一轮的性价比竞争。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512759&idx=1&sn=be6ae421ea3bbbeeeae4517e9c9b6c4a&chksm=cf48769e6cebac01a06f7b3439f9d0934b4faa5a1117d9f5fd1e834fa3649c562752de54f438&mpshare=1&scene=1&srcid=0218c57cakLb2tvtItt2JA4W&sharer_shareinfo=a1cd5c844a075f39739f8f7765ae9995&sharer_shareinfo_first=a1cd5c844a075f39739f8f7765ae9995",
+      "time": "09:11",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "我们，已迈过奇点",
+      "entity": "微信公众平台",
+      "clean_title": "技术架构深度解析，揭示前端监控与错误处理机制",
+      "summary": "本文通过分析微信公众平台的技术代码片段，深入剖析其前端错误监控系统BadJs的实现机制。文章揭示了平台如何通过动态环境检测、错误上报优化和性能监控来保障用户体验，展现了大型互联网平台在技术架构层面的专业性和复杂性。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513194&idx=1&sn=e20fd4b95f628135f640d646262a1eb8&chksm=c3b94f98e7cebc4501f4ed68f2b0c87ebf1fd3369411168e008c0a6263770fd85eb013a5f29f&mpshare=1&scene=1&srcid=0218401vtPEe7pSI3I8FfoOx&sharer_shareinfo=932477829f1e5c90d35f497075275f03&sharer_shareinfo_first=932477829f1e5c90d35f497075275f03",
+      "time": "09:11",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "王兴兴春晚后接受采访：人形机器人进入大众市场还要更多时间；Meta 眼镜年出货量突破 700 万；苹果多终端新增视频播客功能 | 极客早知道",
+      "entity": "王兴兴",
+      "clean_title": "春晚后坦言：人形机器人普及仍需等待，Meta眼镜年销破700万，苹果新增视频播客功能",
+      "summary": "王兴兴在春晚后采访中透露，人形机器人进入大众市场仍需时间，技术成熟度与成本控制是关键瓶颈。与此同时，Meta智能眼镜年出货量突破700万大关，显示AR硬件正加速渗透消费市场。苹果则悄然在多终端新增视频播客功能，进一步整合内容生态。三则消息勾勒出AI硬件领域冰火两重天的现状：一边是前沿技术商业化步履维艰，一边是成熟产品快速放量。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099398&idx=1&sn=798801a8070c5050906b4326bed69f95&chksm=7fecb70c88350e343f2dc8f878ef0193a0debdc9b62b3dbedf11182f1ca942daec6b1a44996c&mpshare=1&scene=1&srcid=0218AYNVQ6y5kTmVeQcF7I3P&sharer_shareinfo=85bab76b8ae0c0d34544a086d055bae6&sharer_shareinfo_first=85bab76b8ae0c0d34544a086d055bae6",
+      "time": "09:59",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenClaw值得安装的skills",
+      "entity": "OpenClaw",
+      "clean_title": "精选实用技能推荐，提升AI助手效率",
+      "summary": "本文聚焦OpenClaw平台的可安装技能，通过分析代码片段揭示了其资源加载和错误监控机制。文章暗示了该平台在性能优化和用户体验方面的技术细节，为开发者提供了关于如何有效利用和扩展AI助手功能的实用指南。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69944e2100000000150218b0?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB40QsQa8Hysha6T-Gc3wtsz1lCufCMcyoDJH4RNDvAc0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771380248&share_id=21f7f4fa38c7440f9ba9f9ff39ffe646",
+      "time": "10:04",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "大厂AI下沉：中老年玩得比年轻人还溜",
+      "entity": "大厂AI下沉",
+      "clean_title": "中老年用户群体展现惊人适应力，使用频率反超年轻一代",
+      "summary": "最新行业观察显示，传统被视为技术接受度较低的中老年群体，在AI应用普及浪潮中展现出超预期的活跃度。他们不仅快速掌握各类AI工具操作，更在日均使用时长和功能探索深度上超越年轻用户，这一现象颠覆了科技产品用户画像的固有认知，揭示了AI技术普及的新路径和市场潜力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5MTczNjIyNA==&mid=2247609462&idx=1&sn=b6b29c7902a5c4c32292a275283347c7&chksm=ff82218e4493528be87bc585bca70066067cd292b6ad30ca24c739177e8d6386ed425ffcffe3&mpshare=1&scene=1&srcid=0218AAIZAAtTWeDDUBHM3vbB&sharer_shareinfo=bdc9662a8d347316a5a8cded7e9a3f5e&sharer_shareinfo_first=bdc9662a8d347316a5a8cded7e9a3f5e",
+      "time": "10:38",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Claude Sonnet 4.6 发布",
+      "entity": "Claude Sonnet 4.6",
+      "clean_title": "最新版本正式上线，性能与稳定性全面升级",
+      "summary": "Claude Sonnet 4.6版本正式发布，标志着该系列模型在技术迭代上迈出重要一步。此次更新聚焦于核心性能优化与系统稳定性提升，通过改进错误处理机制和增强动态模块加载能力，显著提升了用户体验。技术团队针对前端监控和异常报告系统进行了深度重构，确保在复杂应用场景下的可靠运行。这一版本将为开发者和企业用户提供更强大的AI能力支持。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513208&idx=1&sn=1054fd1767e6d1f803e3648239594947&chksm=c3fe79386e94024041e428ac19e004ee44fbbb161dcb441afc2366c00e8d56d204c655051748&mpshare=1&scene=1&srcid=0218V26DqpBdJzYBcDgnqZrz&sharer_shareinfo=6663e4af4a0460100548212928a38ed7&sharer_shareinfo_first=6663e4af4a0460100548212928a38ed7",
+      "time": "11:02",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "The Batch: 909 | Claude Opus 4.6：在更难的问题上进行更深入的推理",
+      "entity": "Claude Opus 4.6",
+      "clean_title": "在更难的问题上进行更深入的推理",
+      "summary": "Claude Opus 4.6版本发布，专注于提升在复杂问题上的深度推理能力。该更新标志着AI模型正从基础任务处理向高级认知能力演进，能够应对更具挑战性的逻辑分析和问题解决场景。这一进展可能重新定义AI在专业领域的应用边界。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNzI0ODE4Nw==&mid=2247497915&idx=1&sn=18d537038dcdc335730227fdb19940dc&chksm=96ce3620026635fca569244f3d4d55ef66f1ffd01b3970593a95caf5fb4f2cfc97ac3717fcd7&mpshare=1&scene=1&srcid=0218OR1HwcNVC2o4hgEH6DDM&sharer_shareinfo=7b1632d9a13dfe36c1dfd5b2b10bdda0&sharer_shareinfo_first=7b1632d9a13dfe36c1dfd5b2b10bdda0",
+      "time": "13:24",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "死磕Anthropic这15篇博客，少走半年弯路",
+      "entity": "Anthropic",
+      "clean_title": "15篇博客深度解析，助你快速掌握核心技术",
+      "summary": "本文聚焦Anthropic官方博客的深度解读，通过系统梳理15篇关键文章，为开发者提供高效学习路径。文章强调避免常见误区，直接获取核心知识，节省大量摸索时间。内容涵盖技术实现、最佳实践等关键领域，适合希望快速提升AI应用能力的专业人士。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69957422000000000a02806d?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBCmj6LYf5mOSE093ahcS-dG4_PoU0VVSBiROcPHtKapw=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771407984&share_id=fcb72e23fdcd401eacae2bb1b61b6272",
+      "time": "17:46",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "转发《大事正在发生》， 未来已来",
+      "entity": "微信网页",
+      "clean_title": "前端错误监控系统曝光，技术细节引发关注",
+      "summary": "文章揭示了微信网页端的前端错误监控系统实现细节，包括BadJs错误上报机制、性能指标收集和环境变量配置。技术文档展示了微信如何通过JavaScript异常捕获、用户行为追踪和网络状态监控来优化用户体验，体现了大型互联网平台在技术运维层面的深度实践。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247719632&idx=1&sn=174cfb41b35888bb9e099da3692d77f7&chksm=e964b131e91a6807fc7c3afbd31317536f4c35b019643709698de1f12af894584e7f5eea9669&mpshare=1&scene=1&srcid=02184m1j8T4I1hPWHVWlE4bc&sharer_shareinfo=395a60f569c7fd0344d8a18f79f0dec5&sharer_shareinfo_first=395a60f569c7fd0344d8a18f79f0dec5",
+      "time": "23:05",
+      "category": "🔧 工具与应用"
+    }
+  ]
+}
