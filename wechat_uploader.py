@@ -123,7 +123,18 @@ def format_wechat_html(json_data, target_date):
         for item in items:
             entity_badge = f"<span style='color: #2980b9; font-weight: bold;'>[{item['entity']}]</span>" if item.get('entity') and item['entity'] != "Unknown" else ""
             clean_title = item.get('clean_title', item.get('title', 'No Title'))
+            raw_title = item.get('raw_title', clean_title)
             summary = item.get('summary', 'No Summary')
+            url = item.get('url', '')
+            
+            # Build the "文章：" link row if URL is available
+            article_link_html = ""
+            if url:
+                article_link_html = f"""
+                <div style="margin-top: 10px; font-size: 15px; color: #333;">
+                    文章：<a href="{url}" style="color: #2980b9; text-decoration: none;">【{raw_title}】</a>
+                </div>
+                """
             
             html += f"""
             <section style="margin-bottom: 25px; border-bottom: 1px dashed #eee; padding-bottom: 15px;">
@@ -133,6 +144,7 @@ def format_wechat_html(json_data, target_date):
                 <div style="font-size: 15px; color: #555; text-align: left;">
                     {summary}
                 </div>
+                {article_link_html}
             </section>
             """
             
