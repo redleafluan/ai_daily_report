@@ -1,6 +1,7 @@
 # Notion Daily Report Generator (V7 - Ultimate Edition)
 
 全自动 Notion 日报生成器。**Entity-First 设计**，由 DeepSeek AI 驱动的科技媒体级排版。
+汇总html链接：https://redleafluan.github.io/ai_daily_report/index.html
 
 ## 🌟 核心亮点 (V7)
 1.  **AI 智能重写**: 自动提取文章主角（如 `[OpenAI]`），标题更有吸引力。
