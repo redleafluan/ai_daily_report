@@ -1,0 +1,101 @@
+# 📅 Daily AI Report - 2026-02-22
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **18** 篇内容。
+> **今日看点**: Cursor设计负责人发出行业警告，指出在AI工具日益普及的背景下，仅掌握基础界面设计技能的设计师将面临职业危机。文章暗示设计行业正经历深刻变革，传统UI设计岗位需求下降，设计师需要向更高层次的交互逻辑、用户体验和AI协作能力转型。这一观点直击当前设计从业者的焦虑核心，预示行业技能结构的重大调整。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[General Intuition]** 拒绝5亿美元收购，从游戏世界构建物理直觉
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247514177&idx=1&sn=ee3bb72a2dad5a266c1b53f8442d8865&chksm=eaf572896668047e9b192cb1ee2b562bfc57c7d23b8d99f855ff5e874cf4c51ccb4296c123f0&mpshare=1&scene=1&srcid=02224d0H5lDrt5vo7bDgf8H1&sharer_shareinfo=f950da4682bb7d05ceb25ad19b66263a&sharer_shareinfo_first=f950da4682bb7d05ceb25ad19b66263a)
+*   📝 一家名为General Intuition的初创公司拒绝了OpenAI高达5亿美元的收购要约，坚持独立发展其独特技术路线。该公司专注于通过游戏世界模拟来构建物理直觉系统，旨在让AI具备更接近人类的物理环境理解能力。这一决定展现了AI领域新兴力量对技术自主权的重视，也揭示了物理直觉作为AI发展新前沿的潜力。
+*   ⏰ *15:23*
+
+#### **[GLM-5]** 被a16z评为最佳开源模型，技术报告全面解析
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513320&idx=1&sn=72c6634b088560f6cf21655f0636e3b3&chksm=c3080c0fe4fb84747f4c6a202f66ba72d37215415d0c77b132184cae0f1b8ca0e7d96a854af3&mpshare=1&scene=1&srcid=0223MCLHc1oNZxkpUP2912C1&sharer_shareinfo=ee16fe3001e7a846c6e23db0f6f092fa&sharer_shareinfo_first=ee16fe3001e7a846c6e23db0f6f092fa)
+*   📝 GLM-5技术报告引发业界关注，知名风投机构a16z将其评价为“最好的开源模型”。该模型在多项基准测试中表现优异，展现出强大的多模态理解和生成能力，有望成为开源AI领域的新标杆。技术报告详细披露了模型架构、训练数据和性能指标，为开发者提供了重要的参考依据。
+*   ⏰ *00:35*
+
+#### **[Uplift Modeling]** 破解延迟反馈难题，实现10亿级日活精准优化
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzOTAxOTk3Nw==&mid=2247537419&idx=1&sn=268f3d9cff64ca33d10e615beab445ca&chksm=e8f5e42577f882ed5f9246a439bc40fd4b60efe5f476bc64f0d440025197441c0a6f7b5c73f8&mpshare=1&scene=1&srcid=0222zlTZrym696qpjyIj7C06&sharer_shareinfo=7e7a88ea8c1f70a15e410148f43f1979&sharer_shareinfo_first=7e7a88ea8c1f70a15e410148f43f1979)
+*   📝 AAAI 2026 Oral论文揭示，通过创新技术解决延迟反馈问题，使Uplift Modeling在超大规模场景下真正落地。该技术能精准量化干预效果，优化10亿级日活产品的决策效率，为广告、推荐等业务带来革命性突破。
+*   ⏰ *19:59*
+
+### 📰 行业新闻
+#### **[AI终端应用TOP50]** 权威榜单揭晓，这些企业领跑智能硬件赛道
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5Njk3NTk0MQ==&mid=2649801157&idx=1&sn=78ad98868aa96228aa8d8c267d92359b&chksm=bfe8d3c4b023eddf2719d204ee20ae991cfa6ba383b3a9aa61ccb6d03b03a45f213bdbdeb86b&mpshare=1&scene=1&srcid=02228PiA0q4RP0SBAsaAh4ZP&sharer_shareinfo=1941a5114f400349dc554a990a3345b2&sharer_shareinfo_first=1941a5114f400349dc554a990a3345b2)
+*   📝 2025年中国AI终端应用领域最具确定性的50家公司榜单发布，揭示了在智能硬件、边缘计算和终端AI化浪潮中的领跑者。该榜单基于技术实力、市场前景和商业化能力等多维度评估，为投资者和行业观察者提供了关键参考。入选企业代表了AI从云端向终端迁移的核心力量，其技术布局将深刻影响消费电子、汽车、家居等产业的智能化进程。
+*   ⏰ *10:33*
+
+#### **[Ilya vs 奥特曼]** 内部权力斗争曝光，微软高层揭露内幕
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677053&idx=1&sn=ff0224fbe3c20e2a3bfea5c34562a9e9&chksm=f01dbeed23623a9dd73670f6888d8cd3147e5736cce3bd9526ee1afb7ea441422136d6c35977&mpshare=1&scene=1&srcid=0222KBwAQMPkuamn9MuzgkKP&sharer_shareinfo=8a1b0e6c3d173b309904cda791b1e16d&sharer_shareinfo_first=8a1b0e6c3d173b309904cda791b1e16d)
+*   📝 微软CTO爆料OpenAI内部高层权力斗争内幕，疑似因Ilya Sutskever嫉妒下属Sam Altman（奥特曼）能力过强而引发冲突。文章揭示了科技巨头内部复杂的人际关系和权力博弈，反映了AI行业快速发展背后的组织管理挑战。
+*   ⏰ *10:33*
+
+#### **[Lambert]** 招聘市场正经历「乱纪元」，行业专家揭示AI人才争夺战内幕
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017680&idx=1&sn=bf1457297cc435477bda66b334e0581c&chksm=85bc8ecedeac0dad5ec3fe0f20abc30877ef52bd4b5ad5eae750a7fc9306fbba90ede626df6d&mpshare=1&scene=1&srcid=0222Lb0ExYmd9LNhqYv7xr6T&sharer_shareinfo=022d0c7189b2457052db25e350adb18d&sharer_shareinfo_first=022d0c7189b2457052db25e350adb18d)
+*   📝 后训练领域专家Lambert指出，当前AI招聘市场正进入无序竞争的「乱纪元」。随着技术迭代加速，企业对顶尖AI人才的需求激增，导致市场出现供需失衡、标准混乱、薪资泡沫等现象。这一趋势不仅影响企业招聘效率，更可能阻碍AI技术的健康发展，行业亟需建立更规范的人才评估体系。
+*   ⏰ *19:01*
+
+#### **[《何以中国》]** 8集大型纪录片完整上线，附观看链接
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0MDEyNTg1OA==&mid=2653381815&idx=1&sn=89d64da3e0f8d898a35af6bd2e91c8fa&chksm=f318b63edb4f9f2fb67e368ac11bf68b6670028e961bcc1d2869a251b2a130ae4600fcaa4181&mpshare=1&scene=1&srcid=0222yqngtOmTG6MBL5980k4s&sharer_shareinfo=fb688db31be298bb8a3de55aac30443b&sharer_shareinfo_first=fb688db31be298bb8a3de55aac30443b)
+*   📝 备受期待的8集大型纪录片《何以中国》已正式发布，该片深度探索中华文明起源与发展脉络，采用最新考古成果与影视技术结合的方式呈现。目前所有剧集已完整上线，并附有官方观看链接，为观众提供一站式观看体验。这部纪录片被视为近年来最具分量的历史文化影像作品之一。
+*   ⏰ *08:51*
+
+#### **[中美AI]** 47天30次更新，同步加速展现最强主场优势
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870129&idx=1&sn=fdc0ec999a3f8a99a2cb3d8655787038&chksm=e94d9d00f81c3048e3b3a20d542499c2ba613be74b990d18b825d431a59d33c0c3138ca49e31&mpshare=1&scene=1&srcid=0222tv5iFrmsKTRnqkKrzf2k&sharer_shareinfo=e1161410cace2ac5eadc91f681be1b36&sharer_shareinfo_first=e1161410cace2ac5eadc91f681be1b36)
+*   📝 中美AI竞赛进入白热化阶段，47天内双方累计发布30次重大更新，展现前所未有的同步加速态势。文章深入剖析中国AI产业的核心竞争力与主场优势，揭示在这场全球技术博弈中的关键布局与战略突破点。
+*   ⏰ *19:01*
+
+#### **[生理盐水]** 宣称能冲掉10斤牙龈萎缩，医学奇迹还是营销噱头？
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/68fb401b000000000300f6bf?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBrN0mPmLw-x1KlB6v3hF3cTVhg2UUZBh91Rmpl302XbE=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771761085&share_id=0d06491018884677a950988bf596af1e)
+*   📝 文章标题声称生理盐水能冲掉10斤牙龈萎缩，但正文内容实为一段JavaScript代码，涉及网站资源加载和错误追踪功能。这明显是标题党行为，正文与标题毫无关联，疑似虚假医疗宣传或技术代码误贴。读者需警惕此类误导性信息，牙龈萎缩是牙周疾病，需专业治疗，生理盐水冲洗仅能辅助清洁，无法逆转萎缩。
+*   ⏰ *19:51*
+
+### 💡 深度观点
+#### **[AI]** 教学设计才是关键，而非技术本身
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490339&idx=1&sn=414a124183b8fc672744d2967f300fd2&chksm=961c968cd068447936a28622968c1df842dfdec26b75c5a6cc05d791bfd8c9942766e025730c&mpshare=1&scene=1&srcid=0222qb3x90ctopsZ3nlfEFMf&sharer_shareinfo=0d2f9221a61ba48ee3d78691e23f5e8b&sharer_shareinfo_first=0d2f9221a61ba48ee3d78691e23f5e8b)
+*   📝 文章尖锐指出，AI技术本身并未真正改变家庭作业的本质，真正推动变革的是教学设计如何巧妙地将AI工具融入学习流程。这揭示了教育技术应用的核心矛盾：工具只是载体，教学理念和设计才是决定技术能否发挥价值的关键因素。
+*   ⏰ *08:31*
+
+#### **[Anthropic]** 详读2.3万字新规后，揭示AI治理的深层困境
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099776&idx=1&sn=bd8edc2dac8f5e6175a22e4b1647b441&chksm=7f55f4937daecb47b21a60782183e671c79b362313d3033d83408a73e450ec3835dc400849fb&mpshare=1&scene=1&srcid=0222WqMtEJkYUd8b43vg1do0&sharer_shareinfo=b3da8c6be5af60d23ce5f9c390ab506c&sharer_shareinfo_first=b3da8c6be5af60d23ce5f9c390ab506c)
+*   📝 通过对Anthropic最新发布的2.3万字AI治理框架的深度剖析，文章揭示了AI公司在安全与创新之间的艰难平衡。作者指出，这份被称为“AI宪法”的文档反映了行业在伦理约束、监管压力和技术突破之间的痛苦抉择，暴露出当前AI发展面临的根本性矛盾。
+*   ⏰ *13:36*
+
+#### **[Cursor]** 设计负责人警告：只会画按钮的设计师面临淘汰危机
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493540&idx=1&sn=5fbe08ab90bb4a8fd073c2f33be02974&chksm=c247e778897ce3c22d6ef3ab3df437f4c6def7255441eafed809d47a5775aa2f648d90a5f0bd&mpshare=1&scene=1&srcid=0222Ow3MONR86eCjvzMrwFpe&sharer_shareinfo=3eedb2fd2f4bd7f7835a62125c828472&sharer_shareinfo_first=3eedb2fd2f4bd7f7835a62125c828472)
+*   📝 Cursor设计负责人发出行业警告，指出在AI工具日益普及的背景下，仅掌握基础界面设计技能的设计师将面临职业危机。文章暗示设计行业正经历深刻变革，传统UI设计岗位需求下降，设计师需要向更高层次的交互逻辑、用户体验和AI协作能力转型。这一观点直击当前设计从业者的焦虑核心，预示行业技能结构的重大调整。
+*   ⏰ *08:31*
+
+#### **[Karpathy]** 预言Agent将淘汰App Store，软件进入“用完即丢”时代
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651276037&idx=1&sn=23ce7c07c6cb2e32d89a62019917aa34&chksm=bc61e3577ba669ae37176e16423552a20bb3148f9f5868327afbd5cbe98b8432889b89d5060c&mpshare=1&scene=1&srcid=0222gkKm37jjwSuZPT05J91i&sharer_shareinfo=6262e86b812c490dceae11fb4be422a8&sharer_shareinfo_first=6262e86b812c490dceae11fb4be422a8)
+*   📝 著名AI专家Karpathy大胆预言：未来Agent将彻底取代传统App Store模式，软件将走向“用完即丢”的即时服务时代。这一观点直击当前应用生态痛点，预示着一场从“应用商店”到“智能代理”的范式转移，可能颠覆整个软件行业的商业模式和用户体验。
+*   ⏰ *16:08*
+
+### 🔧 工具与应用
+#### **[AI月老]** 斯坦福5000名学霸脱单上瘾，全美十大名校疯抢
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677137&idx=1&sn=53691abc524415bf6d72672a22aaf34e&chksm=f050800699bb4cded36cf56935ce5446cf022df823aa42167f71acc101196efa51cd5bf060e4&mpshare=1&scene=1&srcid=0222BqUrZYAUbjMS4qLZf0aS&sharer_shareinfo=be6e04cb22e12bbe77a91ff6fa76db3b&sharer_shareinfo_first=be6e04cb22e12bbe77a91ff6fa76db3b)
+*   📝 00后华裔天才开发的AI婚恋匹配系统在斯坦福大学引发热潮，超过5000名学霸用户沉迷使用，匹配成功率惊人。该系统凭借精准算法和心理学模型，已吸引全美十大名校争相引进，成为校园社交新现象。
+*   ⏰ *15:22*
+
+#### **[OpenClaw]** 20天狂更超10次，接入Gemini 3.1和Apple Watch
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677175&idx=1&sn=e815f7ea11ae0c8e9b413661a63befe3&chksm=f099b07a40d71d62b9db00fea500da728ef753d98ca12f710e6c868dc36284c87904de0823d1&mpshare=1&scene=1&srcid=0222QdSwbH1tR69tc8SRigcJ&sharer_shareinfo=10ebfd01b9436f96340ddc1ffab3e130&sharer_shareinfo_first=10ebfd01b9436f96340ddc1ffab3e130)
+*   📝 OpenClaw在短短20天内进行了超过10次更新，最新版本已接入谷歌Gemini 3.1模型并支持Apple Watch设备。这一密集更新节奏展现了团队对产品迭代的激进态度，通过集成前沿AI模型和扩展硬件生态，试图在竞争激烈的AI工具市场中快速抢占用户心智。
+*   ⏰ *19:58*
+
+#### **[OpenClaw]** 连夜重写代码，34个高危漏洞引发安全危机
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247507040&idx=1&sn=d6d1a7124658963b6ee31364d31f9cc9&chksm=ce1daf930f12b74bf75743d48779eb4ba9c13e8012de5fb5b6d4d783dadb7574166b02b947a0&mpshare=1&scene=1&srcid=0222h09vV6gbID89iRfBwXeh&sharer_shareinfo=028fe6054282f5f0b2b61d5b6d816e85&sharer_shareinfo_first=028fe6054282f5f0b2b61d5b6d816e85)
+*   📝 一份包含34个高危场景的审计报告揭示了OpenClaw项目的严重安全漏洞，促使开发者紧急采用Rust语言进行重构。报告详细分析了代码中的风险点，包括JavaScript错误处理机制、数据上报逻辑等潜在攻击面，凸显了现代软件安全审计的重要性。
+*   ⏰ *20:04*
+
+#### **[skill-creator]** 拆解背后的设计哲学，揭秘高效开发秘诀
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247719753&idx=1&sn=d0bdf9aed64c8f9dc32e02a72302ced9&chksm=e9b7fbab598541adcda774b2d87ef4e8aeba21cbb34c34ad4b2ee3d534f87d1d8d87a135cd3b&mpshare=1&scene=1&srcid=0222qt3RxOu2y3Hj6a6FROQr&sharer_shareinfo=8cc277e59b34dfaae4f58b049f3487ef&sharer_shareinfo_first=8cc277e59b34dfaae4f58b049f3487ef)
+*   📝 本文深入剖析skill-creator工具的设计理念与实现机制，通过技术架构解析揭示其如何优化技能开发流程。文章聚焦于前端错误监控、性能优化等关键技术细节，为开发者提供实用的工程实践指导，帮助提升技能开发效率与质量。
+*   ⏰ *22:49*
+
+#### **[抗衰运动]** 揭秘10大高效抗衰老锻炼方法，科学延缓衰老进程
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/697953a3000000001a0348bc?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBvLnLoHNgLh9hrlZEUz9992Sw6zTH5h_JMTh7MdvFEtE=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771744851&share_id=d798c95f2dd64f16ba3e9ca37c286386)
+*   📝 本文聚焦女性抗衰老运动领域，系统梳理了10种科学有效的锻炼方式。文章从运动生理学角度出发，结合女性身体特点，推荐了包括有氧运动、力量训练和柔韧性练习在内的综合方案。内容强调运动对延缓衰老、提升代谢和改善皮肤状态的积极作用，为女性读者提供了实用的抗衰老健身指南。
+*   ⏰ *15:21*
+
