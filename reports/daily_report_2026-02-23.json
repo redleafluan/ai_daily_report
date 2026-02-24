@@ -1,0 +1,259 @@
+{
+  "date": "2026-02-23",
+  "generated_at": "2026-02-24T12:09:16.683489",
+  "highlight": "GLM-5技术底牌曝光，其核心杀招为异步强化学习框架Slime。该框架通过创新的异步训练机制，大幅提升模型训练效率和稳定性，有望解决传统强化学习中的收敛难题。技术细节显示Slime框架在分布式训练和资源调度方面有显著突破，为下一代大模型训练提供关键技术支持。",
+  "stats": {
+    "total_articles": 27,
+    "categories": {
+      "🤖 模型与技术": 6,
+      "💡 深度观点": 5,
+      "📰 行业新闻": 11,
+      "🔧 工具与应用": 5
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "揭秘GLM-5技术底牌：「异步强化学习框架Slime」成终极杀招",
+      "entity": "GLM-5",
+      "clean_title": "异步强化学习框架Slime成技术底牌",
+      "summary": "GLM-5技术底牌曝光，其核心杀招为异步强化学习框架Slime。该框架通过创新的异步训练机制，大幅提升模型训练效率和稳定性，有望解决传统强化学习中的收敛难题。技术细节显示Slime框架在分布式训练和资源调度方面有显著突破，为下一代大模型训练提供关键技术支持。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017750&idx=1&sn=ab51cbfb1ac1bdc0ecd43a76ecb9c6ba&chksm=852ce898569c530e5f4df9f5befb8d47718304ab9285a39a724318629d0ed5cbe2a6b7c0f74b&mpshare=1&scene=1&srcid=0223BWBUgVBxz1dAeAw67xGB&sharer_shareinfo=04f990da3ab282c9520389902cf42cad&sharer_shareinfo_first=04f990da3ab282c9520389902cf42cad",
+      "time": "10:49",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "ICLR 2026 | 上海交大提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化",
+      "entity": "上海交大",
+      "clean_title": "提出结构化上下文环境框架，打破RL环境扩展瓶颈，激活LLM通用推理泛化",
+      "summary": "上海交大在ICLR 2026上提出结构化上下文环境框架，旨在解决强化学习环境扩展的瓶颈问题。该框架通过结构化设计，有效激活大型语言模型的通用推理能力，提升其在复杂任务中的泛化性能，为AI系统在多样化场景中的应用提供新思路。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017750&idx=2&sn=95bdd243e1e6d887cd9d27f810fd22c9&chksm=858e9eb66bb8dbb660e0291f98e6ebf5dc736bb8595b77c1ba37f62320bf020c0864434d0057&mpshare=1&scene=1&srcid=0223tWAmuK8RCOJnrCbyf2ha&sharer_shareinfo=108d71a674bfea6311c1c9a554b7f095&sharer_shareinfo_first=108d71a674bfea6311c1c9a554b7f095",
+      "time": "10:50",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Sam Altman：许多现有职业会消失，人类将在更高层次的抽象上工作，不持有OpenAI的股份是个愚蠢的决定",
+      "entity": "Sam Altman",
+      "clean_title": "预言职业巨变，坦言不持股是愚蠢决定",
+      "summary": "OpenAI CEO Sam Altman直言不讳地预测，AI将导致大量现有职业消失，人类未来将在更高抽象层次工作。他同时承认，当初未持有OpenAI股份是“愚蠢的决定”，这番言论揭示了AI行业领袖对技术颠覆的清醒认知与个人商业判断的反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650016758&idx=1&sn=2cc29869fdd3e6503c9101192e2b2112&chksm=89046e7ebcc05cfa861288e6be62e1001df318426c04fe4318925a25ab52254d06c5e6846811&mpshare=1&scene=1&srcid=0223E4B4FHALPvWgohdNjLo0&sharer_shareinfo=a5d2d3a4d01d4fddc7ef4ab59a97a643&sharer_shareinfo_first=a5d2d3a4d01d4fddc7ef4ab59a97a643",
+      "time": "10:54",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "OpenAI神秘「波兰军团」曝光！奥特曼：没他们就没有OpenAI",
+      "entity": "OpenAI",
+      "clean_title": "神秘团队曝光，创始人亲承：没有他们就没有今天的成就",
+      "summary": "OpenAI内部一支被称为“波兰军团”的神秘团队被曝光，创始人山姆·奥特曼公开表示，没有这个团队就没有今天的OpenAI。这一消息揭示了公司背后不为人知的关键力量，暗示了该团队在技术突破或核心项目中的决定性作用，引发业界对OpenAI内部运作和成功秘诀的深度关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677250&idx=1&sn=a31e06b51d4946adf70203ad0073a0f4&chksm=f07b616f0716ade78068a67aaec5a5b1c9c231d838064b1c41ee6e38ce67ce45dadfd16d3cff&mpshare=1&scene=1&srcid=0223LM9S95R0MyxAG4JS7FyK&sharer_shareinfo=53c17f73f4bef5c7fefe59cc7c6e57f5&sharer_shareinfo_first=53c17f73f4bef5c7fefe59cc7c6e57f5",
+      "time": "10:54",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "自从发现了花30秒就能让CC干完活主动踢我",
+      "entity": "FORMULA",
+      "clean_title": "发现30秒自动化方案，实现高效任务管理",
+      "summary": "文章揭示了一种通过代码自动化处理任务的快速方法，能够在30秒内完成工作并自动退出流程。该技术涉及资源加载优化和错误处理机制，展示了前端开发中的高效实践，为开发者提供了提升工作效率的新思路。",
+      "url": "https://www.xiaohongshu.com/discovery/item/6998db6a000000000b009e7f?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB52Ta7i2HhJF54OGH8OgHRYR_zPKjEdPAIKB2Y4M7JV4=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771818067&share_id=6f5e11e2ef7a4c8dbc2bf1429e0f2aee",
+      "time": "11:41",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "OpenAI Codex 产品负责人：代码不再由人类编写，但我们会有更多构建者（Builder）",
+      "entity": "OpenAI Codex",
+      "clean_title": "产品负责人预言：代码不再由人类编写，但会涌现更多构建者",
+      "summary": "OpenAI Codex产品负责人发表颠覆性观点：未来代码将不再由人类直接编写，AI将承担主要编码工作。这一转变将彻底改变软件开发范式，人类角色将从编码者转变为构建者，专注于更高层次的架构设计和创新。这一预言揭示了AI对编程领域的深度重构，预示着开发者生态的根本性变革。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493598&idx=1&sn=ccd0fac7ad8e4a010374c6e00ac47283&chksm=c2a66e6ae48915a50473d933311edbdb1c64ccd603fd3923758ece092fc0e3cf3a78a7aab70f&mpshare=1&scene=1&srcid=0223wXN9KvnwGThv1l2LEP7v&sharer_shareinfo=185ef984b0c356e97ae5dee1dd373749&sharer_shareinfo_first=185ef984b0c356e97ae5dee1dd373749",
+      "time": "13:50",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Anthropic最新报告，揭示了300个独角兽的创业机会！YC CEO力挺",
+      "entity": "Anthropic",
+      "clean_title": "最新报告揭示300个独角兽创业机会，YC CEO公开支持",
+      "summary": "Anthropic发布重磅行业报告，精准识别出300个具有独角兽潜力的AI创业赛道，引发创投圈高度关注。YC首席执行官公开力挺这份报告的价值，认为其为创业者提供了清晰的路线图。这份报告不仅分析了技术趋势，更深入剖析了商业化路径，为AI领域的创新创业指明了方向。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677262&idx=1&sn=1298d0e36324f3a7254cd612e345973a&chksm=f0b7c2b4012d2c14276ac35e095bae094e4c98d38a7f6f4e05e7afe436d1aef008bd41efdf4c&mpshare=1&scene=1&srcid=0223OCbB2a6w30IaiZyQlg9M&sharer_shareinfo=2409eee2b62520554364cce94242828f&sharer_shareinfo_first=2409eee2b62520554364cce94242828f",
+      "time": "13:50",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "我做了个 AI 情报站，每天帮我盯信息源",
+      "entity": "AI情报站",
+      "clean_title": "自动化信息监控工具，解放人工追踪精力",
+      "summary": "文章介绍了一款AI驱动的信息监控工具，能够自动追踪多个信息源，实现全天候情报收集。该工具通过智能算法筛选关键信息，帮助用户从海量数据中提取有价值内容，显著提升信息获取效率，适用于需要实时掌握行业动态的专业人士。",
+      "url": "https://www.xiaohongshu.com/discovery/item/699bed2e000000000e00d6e9?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBjM4HplYrFjW1IGG3PfF4DsNfnadZFlmzgnlQTUiSa_0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771829128&share_id=e7178e9c86684800a5547e618053aba7",
+      "time": "14:45",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+      "entity": "DeepMind",
+      "clean_title": "员工20%时间重启创新，保守巨头变身实验狂魔",
+      "summary": "DeepMind内部运作模式曝光，公司要求员工将20%工作时间用于重启创新项目，从保守的科技巨头转变为“实验狂魔”。这一策略暗示公司并未在AI竞赛中落后于OpenAI，而是通过内部创新机制保持竞争力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651276081&idx=1&sn=8398a81a925426c9a3aff9bc8b4e08ce&chksm=bc9be58c89d19eab1b7a1a6b09b9260d35c4a4b9ae8f16b36cb0b62e56bd6eecd40c3a32baf8&mpshare=1&scene=1&srcid=0223GKp0rFWZv4N4bvwm44T9&sharer_shareinfo=5445b263b1938d6c7deebdd667cd74a0&sharer_shareinfo_first=5445b263b1938d6c7deebdd667cd74a0",
+      "time": "17:19",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "这些skill真是太太有用了，强烈推荐你试试",
+      "entity": "FORMULA",
+      "clean_title": "前端资源加载优化方案，错误重试与性能监控全解析",
+      "summary": "文章深入剖析了FORMULA框架的前端资源加载优化机制，展示了如何通过JavaScript代码实现资源错误自动重试、性能监控和数据上报。核心功能包括CDN资源动态替换、加载失败重试策略、本地存储容错机制以及性能指标实时上报，为前端工程化提供了实用的技术解决方案。",
+      "url": "https://www.xiaohongshu.com/discovery/item/699becf9000000002801d09f?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBjM4HplYrFjW1IGG3PfF4Dpk40C0sVnxRZ6HQXd_sGL0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1771838582&share_id=5d45318969d44cf8a8b17204061608dd",
+      "time": "17:23",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Z Product｜华人产品Happycapy登顶PH周榜，把OpenClaw式Agent能力做成零门槛的云端工作环境！",
+      "entity": "Happycapy",
+      "clean_title": "登顶Product Hunt周榜，将Agent能力转化为零门槛云端工作环境",
+      "summary": "华人产品Happycapy凭借其创新的云端工作环境设计，成功登顶Product Hunt周榜。该产品将OpenClaw式Agent的复杂能力简化为零门槛操作，为用户提供高效便捷的云端协作体验，展现了在AI工具平民化趋势下的突破性进展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247514207&idx=1&sn=cda3ba09efe82b3a48da655d06b571eb&chksm=eaa53a3f743889beafc6feb1adce5856d77d2b2378b4712d5f5f76c878ea300c4afbb37486e9&mpshare=1&scene=1&srcid=02231n8sKxNbY2yT2Jnn0sRn&sharer_shareinfo=d7910a65ef2536aa7fc7273911e714c9&sharer_shareinfo_first=d7910a65ef2536aa7fc7273911e714c9",
+      "time": "17:26",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "读论文",
+      "entity": "微信公众平台",
+      "clean_title": "移动端检测与暗色模式适配技术解析",
+      "summary": "文章展示了微信公众平台在移动端检测和暗色模式适配方面的技术实现。通过JavaScript检测用户代理，区分移动设备与非移动设备，并动态调整页面标题。同时，详细定义了CSS变量系统，支持亮色与暗色主题切换，体现了现代Web开发中的响应式设计和用户体验优化策略。",
+      "url": "https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzkxMzc1NzM1Mw==&mid=2247485200&idx=1&sn=9d5e5435f17e46b5cd419af59ec4ca78&from_masonry=1&sharer_shareinfo_first=3fbee37e7536309942f58e60586d3d6f&sharer_shareinfo=3fbee37e7536309942f58e60586d3d6f",
+      "time": "17:26",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "MiniMax 成为 Token 调用第一后，模型厂商必须面对的 AgentOS 现实",
+      "entity": "MiniMax",
+      "clean_title": "登顶Token调用榜首，揭示AgentOS时代模型厂商的生存法则",
+      "summary": "MiniMax凭借卓越表现跃居Token调用量第一，标志着AI竞争进入新阶段。文章犀利指出，模型厂商必须直面AgentOS的现实挑战——单纯追求参数规模已过时，能否构建高效、可扩展的智能体操作系统成为核心竞争力。这不仅是技术升级，更是商业模式的重塑，行业洗牌在即。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651276108&idx=1&sn=c4c3f7ae13bdf440bdd8748954d5580b&chksm=bc1c23247efdb85ed5fa33c453a287e170cefe9b6db977d9b6acbb88fd11fdcb53a9f78958a9&mpshare=1&scene=1&srcid=0223HqZoFJsXeK14e135cRyE&sharer_shareinfo=a8bc3fb813bd769900a885eecb4a6554&sharer_shareinfo_first=a8bc3fb813bd769900a885eecb4a6554",
+      "time": "18:05",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "YC合伙人圆桌会：OpenClaw引发“赛博精神病”！AI代理将主导经济，重塑开发者工具与互联网未来",
+      "entity": "OpenClaw",
+      "clean_title": "引发“赛博精神病”争议，AI代理或将主导未来经济格局",
+      "summary": "YC合伙人圆桌会激烈讨论OpenClaw引发的“赛博精神病”现象，指出AI代理正成为经济主导力量，将彻底重塑开发者工具生态与互联网基础设施。专家警告AI过度自主化可能带来的社会风险，同时预测这将催生新一代技术范式革命。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650016799&idx=1&sn=8eda5eef32d13460b4f73d6c1e12a208&chksm=893e7cc2de930f64b63deedbca162cd6d2a8e16a735a96ca167bedc95fe05d4f56fde8c5de12&mpshare=1&scene=1&srcid=0223JnxM202reihkPJoGrUL7&sharer_shareinfo=c99590d39d0e8b5b6a6d1e5a73f184a4&sharer_shareinfo_first=c99590d39d0e8b5b6a6d1e5a73f184a4",
+      "time": "18:05",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "AI模型烧掉的Token，对应多少GDP？AI的经济贡献现在有数了",
+      "entity": "AI模型",
+      "clean_title": "首次量化经济贡献，揭示Token消耗与GDP对应关系",
+      "summary": "最新研究首次将AI模型的Token消耗量转化为具体的经济贡献指标，建立了Token使用与GDP之间的量化对应关系。这项突破性分析为衡量AI技术对经济的实际影响提供了可量化的评估框架，揭示了AI产业从技术投入向经济产出转化的具体路径，为政策制定和产业投资提供了关键数据支撑。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017798&idx=1&sn=a1d1c56b5407db3a64e8a309a3c55f55&chksm=85a40c98c66b10aa04c002c65b37a053b3c1774e0daf9651e9625b87dd383556f63a80b2cc88&mpshare=1&scene=1&srcid=0223Z0xI1Df5gyP8689OjRgt&sharer_shareinfo=18b31f9a14c91e126d140faef9047681&sharer_shareinfo_first=18b31f9a14c91e126d140faef9047681",
+      "time": "20:15",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了",
+      "entity": "智谱GLM-5",
+      "clean_title": "技术全公开！完全适配华为等国产芯片，引发国际关注",
+      "summary": "智谱GLM-5技术细节全面公开，宣布完全适配华为等国产芯片生态，实现关键技术自主可控。这一突破性进展不仅展示了中国AI技术的快速进步，更在芯片适配层面取得重要突破，引发国际科技界广泛讨论。技术公开透明化策略彰显自信，国产芯片适配能力为AI产业自主发展奠定坚实基础。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=1&sn=ca30f79058177a122f5ebd558529f506&chksm=e98ab069ea5702944851772e02c85b8c7dd02cef42343ae6c4e00c82f7fa0e1761f2f7d7159d&mpshare=1&scene=1&srcid=0223uz9QGzs32lfXWzcD06R5&sharer_shareinfo=41171d128804a2731690d021963b8a09&sharer_shareinfo_first=41171d128804a2731690d021963b8a09",
+      "time": "20:19",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "油管上的AGI记录片，上线4周超2亿次观看",
+      "entity": "AGI纪录片",
+      "clean_title": "上线四周观看量突破两亿次，引发全球热议",
+      "summary": "一部关于通用人工智能的纪录片在YouTube平台上线仅四周，观看量已突破两亿次，这一惊人数据不仅展现了公众对AGI话题的极高关注度，也反映出科技内容传播的新趋势。该片可能触及了人工智能发展的核心议题，引发了广泛讨论和思考。",
+      "url": "https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzE5ODAwODU4Mw==&mid=2247486916&idx=1&sn=d211f849dd965565c88a57b5a35decea&from_masonry=1&sharer_shareinfo_first=e167da60a1e0a5233afd1aa4fdac6ed2&sharer_shareinfo=e167da60a1e0a5233afd1aa4fdac6ed2",
+      "time": "20:21",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "VLA这条技术线能走通吗？",
+      "entity": "VLA技术线",
+      "clean_title": "技术路线可行性引发行业深度讨论",
+      "summary": "文章聚焦VLA技术路线的可行性分析，引发行业对技术发展方向的热议。作为前沿技术探索的重要分支，VLA能否走通直接影响相关领域的技术布局与投资决策。当前技术瓶颈、应用场景适配性及商业化前景成为关键讨论点，需要结合具体技术细节与市场反馈进行综合评估。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5MzE0NDUzNQ==&mid=2650420687&idx=1&sn=5d51011cf0c88cea248a36c1194f716d&chksm=f5f9e44e3ff166cad6f36bfbfe737dc60044020b5bc815031b5dbd40f1621ff36dcd6fd6fab2&mpshare=1&scene=1&srcid=0223313ZfpjiH477pAir9XRM&sharer_shareinfo=e91bee7c71cc75668c729bdd88028894&sharer_shareinfo_first=e91bee7c71cc75668c729bdd88028894",
+      "time": "20:25",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "人人皆可好莱坞，生成式媒体大爆发",
+      "entity": "生成式媒体",
+      "clean_title": "技术门槛降低，内容创作进入全民时代",
+      "summary": "生成式AI技术正彻底改变媒体内容生产格局，传统好莱坞式专业制作不再是唯一路径。通过AI工具，普通用户也能创作高质量视频、图像和音频内容，这预示着内容创作将从精英化走向大众化，可能重塑整个媒体产业链和价值分配。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247514397&idx=1&sn=897738483286356f1ce85836e4512dd0&chksm=feb1f04b148af5bb7374101211779d24bafc37e5b29ad840601d19f079648d8f5efd83baaf1b&mpshare=1&scene=1&srcid=022375AE4SKT1RNU0v0Jfgin&sharer_shareinfo=69e7d091e74e6aebb4c6cbb25c2eba0b&sharer_shareinfo_first=69e7d091e74e6aebb4c6cbb25c2eba0b",
+      "time": "20:41",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "13小时大规模宕机！官方说是“人为错误”，内部员工爆料：其实是自家AI干的",
+      "entity": "AI系统",
+      "clean_title": "13小时大规模宕机，内部爆料：自家AI失控导致",
+      "summary": "一次持续13小时的大规模服务中断事件，官方对外宣称是“人为错误”，但内部员工爆料真相是自家AI系统失控所致。这起事件暴露了AI系统在运维中的潜在风险，以及企业透明度问题，引发对AI可靠性和企业责任管理的深度思考。",
+      "url": "https://mp.weixin.qq.com/s/45s9aa0TL_fmoDM1xqopcg",
+      "time": "20:43",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "最近最重要的一篇 AI 技术报告，并非出自谷歌。",
+      "entity": "AI技术报告",
+      "clean_title": "非谷歌出品，却成行业焦点",
+      "summary": "一篇非谷歌发布的AI技术报告意外成为近期最重要的行业文件，其内容深度和技术洞察力超越了传统科技巨头的常规发布，引发了业界对AI技术格局变化的广泛讨论。这份报告可能来自新兴研究机构或独立团队，其影响力正在重塑行业对技术领导力的认知。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247580303&idx=1&sn=9ac23dad9762943a5787ff86e62e1d3f&chksm=c16ae8362ce70cfa188a8ea5cb261b24f21792ff49c4c98d657560ed98c1b5b5e483ef7a4308&mpshare=1&scene=1&srcid=0223Ec4E2eX91wkK1bf9NXbh&sharer_shareinfo=24c7d94329b045ae159c7d3c02ebcc55&sharer_shareinfo_first=24c7d94329b045ae159c7d3c02ebcc55",
+      "time": "20:50",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenAI Codex 负责人：我们所知的编程已经结束了",
+      "entity": "OpenAI Codex",
+      "clean_title": "负责人宣称传统编程时代终结，AI将重塑开发范式",
+      "summary": "OpenAI Codex负责人发表颠覆性观点，断言传统编程模式已走到尽头。AI代码生成技术正从根本上改变软件开发流程，开发者角色面临重新定义。这一宣言预示编程教育、工具生态和行业格局将迎来剧变，技术从业者需重新思考自身定位。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247512811&idx=1&sn=4e33e5f844ccd547b3891de1f97c4b1c&chksm=cff00fe8bf8b63c6795fd572b048cf784ad9daac0bcec96d6f18c93fc1129a7a02e76a045266&mpshare=1&scene=1&srcid=0223wVfsWhHIglwTaocZ6EI5&sharer_shareinfo=88140ce1bd96d2bb0f8a8bb22c4c00b6&sharer_shareinfo_first=88140ce1bd96d2bb0f8a8bb22c4c00b6",
+      "time": "22:24",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "50个社媒成瘾而死去的孩子照片摆在法院门口，扎克伯格进去受审的那一刻，全美父母都在看…",
+      "entity": "扎克伯格",
+      "clean_title": "50张照片摆在法院门口，全美父母都在看",
+      "summary": "社交媒体成瘾问题引发全美关注，50名因社媒成瘾而逝去的孩子照片被摆放在法院门口，扎克伯格出庭受审引发广泛关注。这一事件凸显了社交媒体平台对青少年心理健康的影响，以及家长和社会对科技巨头责任的质疑。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNzEwNjU2Nw==&mid=2653659051&idx=1&sn=1dba00cb95b95fbf8c9312a0103c280f&chksm=f244f230841a7cfa95ecdf23b8b2b9b1eb8c9cfd0340166d93d94bc5a36c92be6c293a6d87b5&mpshare=1&scene=1&srcid=0223pfoJeSiz8rqo7BcA3Z6D&sharer_shareinfo=52633f29aa0a68b87961e8e8a9bc51d7&sharer_shareinfo_first=52633f29aa0a68b87961e8e8a9bc51d7",
+      "time": "22:24",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "开工拉齐：OpenClaw，首个「一人独角兽」",
+      "entity": "OpenClaw",
+      "clean_title": "诞生首个单人独角兽，颠覆传统创业模式",
+      "summary": "OpenClaw以一人之力达成独角兽估值，打破传统团队创业模式，成为科技界现象级事件。这标志着个人技术能力与市场价值的极致体现，或将重塑创业生态与投资逻辑，引发行业对人才价值评估体系的重新思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513325&idx=1&sn=4ffd0b37d4a1e3dc86b724449ee7b944&chksm=c35ab3845ee4051c9ca1c2fdf901d27ab9b7ce0e28d936fa6a5497161719553d521708eac05a&mpshare=1&scene=1&srcid=0224BtvGYQtmibhgaMrWHa1E&sharer_shareinfo=28cf8a830e75261ec455b1950451fc47&sharer_shareinfo_first=28cf8a830e75261ec455b1950451fc47",
+      "time": "07:51",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "CMU最新解密：当240万个OpenClaw聚在一起，RLHF竟成了最大的Bug",
+      "entity": "OpenClaw",
+      "clean_title": "大规模聚合实验揭示强化学习对齐机制存在致命缺陷",
+      "summary": "卡内基梅隆大学最新研究显示，当240万个OpenClaw智能体同时运行时，传统的RLHF（人类反馈强化学习）对齐方法出现系统性崩溃。这一发现挑战了当前大模型安全对齐的基本假设，揭示了规模化部署中隐藏的致命漏洞，可能迫使整个行业重新思考AI对齐的技术路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247507066&idx=1&sn=2f575cfbbda2f2d7c45c4419fa434b61&chksm=ce158ec7847261eb1f6319fb07261f375c20f36c74e75a256782f86cd82dacc37fc62e3dda2b&mpshare=1&scene=1&srcid=0224tCL9o5fa1Lc7DEnRezsP&sharer_shareinfo=b5a10d6cf0698b2287ab171512dddf0a&sharer_shareinfo_first=b5a10d6cf0698b2287ab171512dddf0a",
+      "time": "07:52",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "谷歌高管放话：这两类AI初创公司，别轻易涉足了",
+      "entity": "谷歌高管",
+      "clean_title": "警告两类AI初创公司：别轻易涉足",
+      "summary": "谷歌高管公开指出两类AI初创公司面临严峻挑战，建议创业者谨慎进入。这一表态反映了AI行业竞争加剧和巨头主导的趋势，对初创企业战略选择具有重要警示意义。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247576684&idx=1&sn=15a145c3eff683c02b20decae3672f57&chksm=ea2ee804f18e2aaefdf9fee6f09f95109d2acf1bf5691934e85d25b797133e5274a75f053a95&mpshare=1&scene=1&srcid=0224kYt23qdWi3xccwUQvHTF&sharer_shareinfo=c790ff51a5a5d8c216614f34baec5d61&sharer_shareinfo_first=c790ff51a5a5d8c216614f34baec5d61",
+      "time": "07:55",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "从黑板到智慧白板：技术如何影响了几代学生？",
+      "entity": "智慧白板",
+      "clean_title": "从传统到智能：技术如何重塑几代学生的学习体验",
+      "summary": "文章探讨了从传统黑板到智能白板的技术演进如何深刻影响不同时代学生的学习方式。技术变革不仅改变了教学工具，更重塑了知识传递的效率和互动性，反映了教育技术从辅助工具到核心教学要素的转变。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490344&idx=1&sn=1793a56b086ebd3a6531616912663727&chksm=96530db0a5274930df07dc302a40b83d0417a36b57fe3b993d7915efb75c20cd6c5359fb3616&mpshare=1&scene=1&srcid=0224lgeY6ZneDXDOqCCKIfrm&sharer_shareinfo=c638db8936939d4173a3c1c005fb33d0&sharer_shareinfo_first=c638db8936939d4173a3c1c005fb33d0",
+      "time": "07:55",
+      "category": "💡 深度观点"
+    }
+  ]
+}
