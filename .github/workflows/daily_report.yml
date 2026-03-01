@@ -1,18 +1,11 @@
 name: Daily AI Report
-
-on:
-  schedule:
-    # Runs at 02:00 UTC everyday (10:00 AM Beijing Time)
-    - cron: "0 2 * * *"
-  workflow_dispatch:
-    inputs:
-      target_date:
-        description: "Date to generate report for (YYYY-MM-DD)"
         required: false
         default: ""
 
+
 permissions:
   contents: write # Allow pushing back to repo
+
 
 jobs:
   build:
@@ -20,18 +13,22 @@ jobs:
     env:
       TZ: "Asia/Shanghai" # Set timezone to Beijing Time
 
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
+
       - name: Install dependencies
         run: |
           pip install requests
+
 
       - name: Configure Git for Push
         run: |
@@ -39,6 +36,7 @@ jobs:
           git config --global user.email "bot@example.com"
           # Authenticate using the GITHUB_TOKEN provided automatically by GitHub
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
 
       - name: Run Daily Report Script
         env:
@@ -54,8 +52,10 @@ jobs:
             DATE_ARG=""
           fi
 
+
           # Run script (Repo root contains the script)
           python notion_daily_report.py $DATE_ARG
+
 
       - name: Sync Annotations (Optional)
         env:
@@ -66,8 +66,18 @@ jobs:
           # This script handles its own graceful exit if secrets are missing
           python sync_hypothesis.py
 
+
       - name: Upload to WeChat Draft
         env:
           WECHAT_APP_ID: ${{ secrets.WECHAT_APP_ID }}
           WECHAT_APP_SECRET: ${{ secrets.WECHAT_APP_SECRET }}
         run: python wechat_uploader.py ${{ github.event.inputs.target_date }}
+
+      - name: Upload Custom Markdown to WeChat
+        if: ${{ github.event.inputs.custom_markdown_path != '' }}
+        env:
+          WECHAT_APP_ID: ${{ secrets.WECHAT_APP_ID }}
+          WECHAT_APP_SECRET: ${{ secrets.WECHAT_APP_SECRET }}
+        run: |
+          pip install markdown
+          python wechat_md_uploader.py "${{ github.event.inputs.custom_markdown_path }}" "${{ github.event.inputs.custom_article_title }}"
