@@ -1,11 +1,27 @@
 name: Daily AI Report
+
+on:
+  schedule:
+    # Runs at 02:00 UTC everyday (10:00 AM Beijing Time)
+    - cron: "0 2 * * *"
+
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: "Date to generate report for (YYYY-MM-DD)"
         required: false
         default: ""
-
+      custom_markdown_path:
+        description: "Path to custom Markdown file (e.g. dailyAIdigest0224_0227_final.md). If set, skips report generation and only uploads this file to WeChat."
+        required: false
+        default: ""
+      custom_article_title:
+        description: "Title for the custom WeChat draft (optional)"
+        required: false
+        default: "Daily AI Digest"
 
 permissions:
   contents: write # Allow pushing back to repo
-
 
 jobs:
   build:
@@ -13,22 +29,18 @@ jobs:
     env:
       TZ: "Asia/Shanghai" # Set timezone to Beijing Time
 
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
 
-
       - name: Install dependencies
         run: |
           pip install requests
-
 
       - name: Configure Git for Push
         run: |
@@ -36,7 +48,6 @@ jobs:
           git config --global user.email "bot@example.com"
           # Authenticate using the GITHUB_TOKEN provided automatically by GitHub
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-
 
       - name: Run Daily Report Script
         env:
@@ -52,10 +63,8 @@ jobs:
             DATE_ARG=""
           fi
 
-
           # Run script (Repo root contains the script)
           python notion_daily_report.py $DATE_ARG
-
 
       - name: Sync Annotations (Optional)
         env:
@@ -65,7 +74,6 @@ jobs:
         run: |
           # This script handles its own graceful exit if secrets are missing
           python sync_hypothesis.py
-
 
       - name: Upload to WeChat Draft
         env:
