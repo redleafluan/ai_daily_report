@@ -1,0 +1,111 @@
+# 📅 Daily AI Report - 2026-03-02
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **20** 篇内容。
+> **今日看点**: 吴恩达回顾在百度期间主导的自动驾驶和智能音箱项目，称这些产品最终都取得了成功。他透露曾指导过OpenAI的Sam Altman，并评价Gemini 3在性能上超越了ChatGPT，展现了其在AI领域的深厚影响力和前瞻判断。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[GENIUS]** 推出全新生成式基准测试，开启评估新篇章
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018940&idx=2&sn=eaea521655fde10443ba3b895040c2b0&chksm=857e2899910297a6793566d58629b48cb9ec0ad61f447d8397d71332fa57c53bccaeb7c92e98&mpshare=1&scene=1&srcid=0302rqw6C3blqujZsae0GsLW&sharer_shareinfo=2f17a6dcdf5ee2cd56fb932cabe44c0d&sharer_shareinfo_first=2f17a6dcdf5ee2cd56fb932cabe44c0d)
+*   📝 CL-Bench系列迎来重大升级，GENIUS作为生成式基准测试工具正式亮相。该工具旨在解决传统评估方法的局限性，为AI模型提供更全面、动态的性能测试框架，标志着AI评估进入新阶段。
+*   ⏰ *23:24*
+
+#### **[JTok模块]** 提出全新Scaling路径，节省三分之一算力
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018946&idx=1&sn=0afb0d4e6f5f0526d7936fbd32085b99&chksm=85fd3cafba70d025f303e7fc97af24e729f6dbea2afe04e2c4c343ddd60f04c835685776e42c&mpshare=1&scene=1&srcid=0302DYmUblIIa3bdH5R8faZx&sharer_shareinfo=eb346089827aa0976f9fafc9efd4e380&sharer_shareinfo_first=eb346089827aa0976f9fafc9efd4e380)
+*   📝 上海交通大学研究团队在Dense和MoE架构之外开辟了第三条Scaling路径，提出创新的JTok模块。该技术通过优化计算效率，在保持模型性能的同时显著降低算力需求，据称可节省高达三分之一的计算资源。这一突破为大规模语言模型的高效训练提供了新思路，有望缓解当前AI算力瓶颈问题。
+*   ⏰ *19:03*
+
+#### **[三甲专家大脑]** 刷新自研天花板，医疗AI装进14亿人口袋
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513008&idx=1&sn=b7727027489f21859decae381c8ddf07&chksm=cf2f0176cb0923306fc9286c237a12d89107abf21d72d9f146facfd867cb18ffb57cadbeb5b2&mpshare=1&scene=1&srcid=0302gtoUWLg8qkZpguAdBY6s&sharer_shareinfo=122308b6a3c9bc7aaa23c7393dc943d8&sharer_shareinfo_first=122308b6a3c9bc7aaa23c7393dc943d8)
+*   📝 杭州AI企业推出突破性医疗AI产品，将三甲医院专家级诊断能力集成到移动端，号称刷新国内自研技术天花板。该产品瞄准千亿级医疗AI市场，通过技术突破实现专家级医疗服务的普惠化，有望彻底改变基层医疗诊断模式。
+*   ⏰ *19:04*
+
+### 📰 行业新闻
+#### **[AI军事应用]** 正在重塑战场规则，进入全新作战形态
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515428&idx=1&sn=eea8d8ead244d0847e1a4cabd3b001c0&chksm=8984004cf34f838fe1ceda9e6e8e16442a67e3b41a6c69283030487a07a2ff60192e2c816d91&mpshare=1&scene=1&srcid=0302K1rxpyfMLbaICAWb1zb3&sharer_shareinfo=2cb8163e2dc17a70bab2a4e2f0f9cb04&sharer_shareinfo_first=2cb8163e2dc17a70bab2a4e2f0f9cb04)
+*   📝 人工智能技术正深度渗透现代战争体系，从情报分析、决策辅助到自主武器系统，全面改变传统作战模式。算法驱动的战场态势感知、智能指挥系统、无人机集群作战等新兴应用，标志着战争形态正经历革命性变革，引发全球军事战略与伦理规范的深刻讨论。
+*   ⏰ *23:24*
+
+#### **[MiniMax]** 首份大模型成绩单出炉，营收表现引关注
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513850&idx=1&sn=f771c95d6209451de38c344f3e709e3e&chksm=c3be09ffb75b40c5cae254f87afbf891fcc4cf969e664ba86a1879dbe7aebea6f8f252874282&mpshare=1&scene=1&srcid=0302EEa5dcwehuT3Sl9ufEog&sharer_shareinfo=1467de84f41385c8c5dfd3ec46d6daf5&sharer_shareinfo_first=1467de84f41385c8c5dfd3ec46d6daf5)
+*   📝 AI公司MiniMax发布首份大模型财报，这份成绩单不仅揭示了其商业化进展，更成为观察中国大模型赛道盈利能力的风向标。在资本寒冬与技术竞赛的双重压力下，这份财报将直接影响行业估值体系与投资信心。
+*   ⏰ *20:31*
+
+#### **[OpenAI]** 天才员工因国防合同争议离职，揭露AI军事化内幕
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652679242&idx=1&sn=fedebacc2687e769aafe0efd8cac3011&chksm=f07b7fc2d4d57fda198849ef6cabe8e98e35c14a98b047b7685bfb02bb6596300014bba0961c&mpshare=1&scene=1&srcid=03027HXufH8KrLXhDRr7uomT&sharer_shareinfo=204333b02d9f73c70a613417da86c592&sharer_shareinfo_first=204333b02d9f73c70a613417da86c592)
+*   📝 一名19岁天才员工因反对OpenAI参与国防合同而愤然离职，揭露了AI技术被用于军事领域的争议内幕。该事件引发了对AI伦理和军事应用的深度反思，突显了科技公司在国家安全项目中的道德困境。
+*   ⏰ *06:57*
+
+### 💡 深度观点
+#### **[Agentic Engineering]** 硅谷工程师爆料五大支柱，强调为智能体而非人类编写代码
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655936703&idx=1&sn=157964267c9e81b42986f6610ed4b959&chksm=bce731980f262b9c60f18b2c0ec8407c6707c814eb353b83f6b157eb3e69b2ed3da510d494e1&mpshare=1&scene=1&srcid=0303SzF1MZraTKuYwGAUMmAD&sharer_shareinfo=36e1b549a6d37a4b74401321fca8e3d0&sharer_shareinfo_first=36e1b549a6d37a4b74401321fca8e3d0)
+*   📝 Meta软件工程师揭露Agentic Engineering的五大核心支柱，直指传统Vibe Coding已过时。行业专家呼吁开发范式转变：代码应面向AI智能体而非人类程序员，预示软件工程将迎来根本性重构。这一爆料可能重新定义硅谷的技术路线图。
+*   ⏰ *07:25*
+
+#### **[Anthropic]** 设计流程革命：全员编程时代来临，IDE成设计新宠
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247657482&idx=1&sn=c399f8208e0231ade8748f3b377bbeaf&chksm=faea5a6df45cde645282e6eb5de91414839ff56a03a46f6dba9f7efa49364994ce1948291626&mpshare=1&scene=1&srcid=0302F0Gy79gi32ZgB2OObq08&sharer_shareinfo=8b12f87ae904d9d56e57e0cea1a00181&sharer_shareinfo_first=8b12f87ae904d9d56e57e0cea1a00181)
+*   📝 Anthropic内部掀起设计流程变革，Claude设计负责人公开宣称传统设计流程已过时，全员转向代码编写。IDE工具成为设计团队新宠，公司内部形成“人人写代码”的文化氛围，展现出对技术缺陷的高度包容态度，标志着AI公司工作模式的根本性转变。
+*   ⏰ *19:04*
+
+#### **[Jenny Wen]** 设计流程已死，AI时代的设计变革正在发生
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493795&idx=1&sn=26a558d82c15c36ea9dc53f1b0aa2055&chksm=c266321516c739330dad1d0772b929ef28f8f13ab2c8ce3a29b9ca3eabea87d1383ad01e9111&mpshare=1&scene=1&srcid=0303O3xeOUoFLIJtkihQBCud&sharer_shareinfo=d3b2492c0b14ba68d228fa983e7053b5&sharer_shareinfo_first=d3b2492c0b14ba68d228fa983e7053b5)
+*   📝 Anthropic设计负责人Jenny Wen直言传统设计流程已不适应AI时代。她指出AI工具正在颠覆从需求分析到原型测试的每个环节，设计师角色从执行者转向策略制定者和AI训练师。文章犀利剖析了AI如何重构设计工作流，强调未来设计将更注重系统思维和AI协作能力。
+*   ⏰ *06:56*
+
+#### **[博士群体]** 过剩危机下的消亡困境
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490412&idx=1&sn=eebb5302bb64c5e8eb5a77e21917b0bd&chksm=966b04f0318f3106d1575825bc2e74a5801dfb515a90a6d9d16daa570ee956ac50d20a467595&mpshare=1&scene=1&srcid=0303eY0zmqwncJ32wS4OEXFW&sharer_shareinfo=2120504ac351b5490220fa8ff42ecac7&sharer_shareinfo_first=2120504ac351b5490220fa8ff42ecac7)
+*   📝 文章揭示了当前博士教育面临的严峻现实：学位过剩导致价值稀释，学术与就业市场双重挤压下，博士群体的生存空间被严重压缩。这不仅是对个体努力的辜负，更是高等教育体系结构性问题的集中爆发，引发对人才培养模式的深刻反思。
+*   ⏰ *07:22*
+
+#### **[吴恩达]** 复盘百度岁月：自动驾驶、智能音箱都成了，还带过Altman
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651276826&idx=1&sn=ab4fdb26221877a86da62e36971bcdf4&chksm=bc2deae01f72292f0ca482066795ac82aa46d99cf355e8bc4a4ddfc74ad4ecd189a321b0dc92&mpshare=1&scene=1&srcid=0302sdbxvJUPFREEXogqqaa3&sharer_shareinfo=e3be7624844ddeafe390d819addb1198&sharer_shareinfo_first=e3be7624844ddeafe390d819addb1198)
+*   📝 吴恩达回顾在百度期间主导的自动驾驶和智能音箱项目，称这些产品最终都取得了成功。他透露曾指导过OpenAI的Sam Altman，并评价Gemini 3在性能上超越了ChatGPT，展现了其在AI领域的深厚影响力和前瞻判断。
+*   ⏰ *15:16*
+
+#### **[日记]** AI时代不可或缺的自我认知工具
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647680238&idx=1&sn=ae72ca96e13a06ff960a150bf96df913&chksm=f10f547b6ebc3c6cc2a9abaff444c1b678d929010ca384954c2e2f8574c2ad491275107218c5&mpshare=1&scene=1&srcid=0302QZNMwBqmIoVAiQ5ruvfD&sharer_shareinfo=8838b5e3b98525b788905bfb7a55a8fe&sharer_shareinfo_first=8838b5e3b98525b788905bfb7a55a8fe)
+*   📝 在人工智能快速发展的今天，作者强烈建议人们开始写日记。文章指出，日记不仅是记录生活的工具，更是对抗信息过载、保持独立思考、提升自我认知的有效方式。通过日常反思，人们可以更好地理解自己的情感和决策过程，这在AI辅助决策日益普遍的背景下尤为重要。
+*   ⏰ *19:05*
+
+### 🔧 工具与应用
+#### **[AI教育解读]** 告别传统洗稿模式，开源技能打造国际教育前沿分析新范式
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490398&idx=1&sn=c9b6972631319ac76fece099eb3ac690&chksm=96faf6475d40d12d64d211b7776b8d3d52bbd869e51aa0b18f327bafd1cf80ecd53b737b596b&mpshare=1&scene=1&srcid=0302ZUBW1TrQ2HQgo8ZQklzB&sharer_shareinfo=80a06f1fb8efb019baef7c0ebf14a1b5&sharer_shareinfo_first=80a06f1fb8efb019baef7c0ebf14a1b5)
+*   📝 本文探讨如何利用AI技术革新国际教育内容解读方式，通过开源技能框架替代传统洗稿模式，实现高质量、高效率的前沿教育分析。文章揭示了AI在教育内容创作领域的应用潜力，为教育从业者提供了创新的内容生产方法论。
+*   ⏰ *19:04*
+
+#### **[Cursor]** 开启AI编程新纪元，开发者生产力革命来临
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018940&idx=1&sn=c54ac1953b1cac19291b47c282354b64&chksm=85537eb31c9323f0da297593779c8e43f9877f63c366056ca7cd6d938d679fb5f3777e1700f3&mpshare=1&scene=1&srcid=0302VfaiHCUN3xAfXOEDMeEV&sharer_shareinfo=f79cbdf899628d058a1eb8e5813c377d&sharer_shareinfo_first=f79cbdf899628d058a1eb8e5813c377d)
+*   📝 Cursor作为AI编程的第三代工具，正引领编程范式变革。它深度融合AI能力于开发环境，实现代码生成、调试、重构的智能化，显著提升开发效率。这一进化标志着编程从手动编码向人机协作的转变，可能重塑软件开发行业格局。
+*   ⏰ *23:24*
+
+#### **[DeepLearning.AI]** 重磅推出AI技能构建工具，助力开发者快速提升
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxNzI0ODE4Nw==&mid=2247498009&idx=1&sn=45f918308fc1c27051cb4df909fe6c52&chksm=96cd9a17fb25446d322d1e69a12e28469690885cfcaacab76dcfb35a8e4e1d929c393c9d3648&mpshare=1&scene=1&srcid=0303Y7N0GyZfrchJAm7oMsSl&sharer_shareinfo=aad135271aaeda80370a740d4f52c615&sharer_shareinfo_first=aad135271aaeda80370a740d4f52c615)
+*   📝 吴恩达旗下DeepLearning.AI正式发布Skill Builder工具，该工具旨在为AI开发者和学习者提供系统化的技能提升解决方案。通过结构化学习路径和实战练习，帮助用户高效掌握深度学习核心技能，标志着AI教育工具向更实用、更个性化的方向演进。
+*   ⏰ *07:21*
+
+#### **[OpenClaw]** 注入恶意代码，远程控制苹果设备
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247507257&idx=1&sn=13b9736634365ddee5740faf943dc756&chksm=ce9e85ed9930db70422d02b6a990c4cb8551678831c3e22e22969a63470e5f289c1c8ee5dc23&mpshare=1&scene=1&srcid=0303BkNlyerlftBdLofu0nT2&sharer_shareinfo=d75b88b9fbb35b975bdc6acc284c287e&sharer_shareinfo_first=d75b88b9fbb35b975bdc6acc284c287e)
+*   📝 安全研究人员从红队视角披露OpenClaw攻击技术，通过Markdown注入漏洞实现对Mac mini的远程控制。文章片段展示了攻击中可能利用的JavaScript错误监控和上报机制，揭示了攻击者如何利用前端代码执行环境进行隐蔽渗透。该技术暴露了内容渲染过程中的安全风险，提醒开发者需加强输入验证和沙箱隔离。
+*   ⏰ *07:20*
+
+#### **[Tabbit浏览器]** 对话团队揭秘产品思考，挑战浏览器市场格局
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513868&idx=1&sn=01d4a64b3d73f314f7263127e1937931&chksm=c3fddf5e5264f8612f326d69360c4c514d9d16fd2b2e62a2f7bdac1f014896ae28368f474bf7&mpshare=1&scene=1&srcid=0303L9Gyvoa9CJcpekV0LuR4&sharer_shareinfo=f530d7f3989b91906d3e91936c7a3286&sharer_shareinfo_first=f530d7f3989b91906d3e91936c7a3286)
+*   📝 本文通过对话「光年之外」团队，深入探讨了Tabbit浏览器的产品理念与设计思考。文章聚焦于该浏览器如何通过创新功能与用户体验优化，在竞争激烈的浏览器市场中寻求突破，展现了团队对产品细节的深度打磨和对未来趋势的前瞻性判断。
+*   ⏰ *07:20*
+
+#### **[学术版OpenClaw]** 青年团队打造开源学术助手，挑战传统研究工具
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871769&idx=1&sn=152a01799def87a62e88d1e606fc4243&chksm=e9c0178c23dc89dc7784ca94d05ba36657d6c29cc23a1908d9555fa1f772d5d9cf7fde4eb703&mpshare=1&scene=1&srcid=0303YqGNOEQCwc0yxuvPNbwa&sharer_shareinfo=1d6988d984eaba628fe9723ce3bc332a&sharer_shareinfo_first=1d6988d984eaba628fe9723ce3bc332a)
+*   📝 上海青年团队开发出学术版OpenClaw，这是一款专注于学术研究场景的开源工具，旨在为研究人员提供更高效、更智能的文献检索、数据分析和知识管理解决方案。该项目展现了国内年轻开发者在AI应用领域的创新实力，有望改变传统学术工作流程，推动科研效率的实质性提升。
+*   ⏰ *07:21*
+
+#### **[微信]** 安全漏洞自曝，用户数据面临风险
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453480845&idx=1&sn=8f66129aea54849a50d091c6ecc923b3&chksm=86cb34c112bd4c5d8349e4e1d608b2e0790c15b6f5439166a77e143e533c9213caa34f41336d&mpshare=1&scene=1&srcid=03039iRTBeg1xhoyoyLrI3fJ&sharer_shareinfo=5fbd34dcf89546502f185d6aff68f5ef&sharer_shareinfo_first=5fbd34dcf89546502f185d6aff68f5ef)
+*   📝 文章揭示微信平台存在严重安全漏洞，代码片段显示用户环境数据、错误报告机制及敏感信息可能被不当收集。漏洞涉及用户标识、业务参数等关键数据，暴露出潜在的数据泄露风险，对用户隐私构成直接威胁。
+*   ⏰ *07:21*
+
+#### **[谷歌Gemini]** 整合叫车外卖功能，挑战超级App霸主地位
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTgwNg==&mid=2247558944&idx=1&sn=5c66679b341b812d2fa13666e574725e&chksm=cfcc8ecac56365197fbece098fc9c80b4cb3c7d38259e72002c03b83a13b636c8fb888a31cef&mpshare=1&scene=1&srcid=030353nZaQcMlW2o0jGswRaw&sharer_shareinfo=5cc7c5a666d28e473d9b543bb4f0c2d2&sharer_shareinfo_first=5cc7c5a666d28e473d9b543bb4f0c2d2)
+*   📝 谷歌Gemini正从纯AI助手向多功能平台演进，通过整合叫车、外卖等生活服务功能，直接挑战微信、支付宝等超级App的核心业务。这一战略转型不仅将重塑AI助手的产品定位，更可能颠覆现有移动应用生态格局，引发新一轮平台战争。
+*   ⏰ *07:22*
+
