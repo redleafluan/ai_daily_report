@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-03",
+  "generated_at": "2026-03-04T12:15:34.892655",
+  "highlight": "开源项目OpenClaw在GitHub上获得历史最高星标数，超越Linux成为平台最受欢迎软件。这一里程碑事件不仅展示了开源社区的强大活力，也预示着新一代开发工具正在重塑技术生态格局。",
+  "stats": {
+    "total_articles": 11,
+    "categories": {
+      "📰 行业新闻": 5,
+      "🤖 模型与技术": 2,
+      "🧠 提示词与教程": 2,
+      "💡 深度观点": 1,
+      "🔧 工具与应用": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "刚刚，OpenClaw登顶GitHub软件星标历史第一！已超越Linux",
+      "entity": "OpenClaw",
+      "clean_title": "登顶GitHub星标历史第一，超越Linux创纪录",
+      "summary": "开源项目OpenClaw在GitHub上获得历史最高星标数，超越Linux成为平台最受欢迎软件。这一里程碑事件不仅展示了开源社区的强大活力，也预示着新一代开发工具正在重塑技术生态格局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652679347&idx=1&sn=5b1fa21b25e6c7e8c8c941dbeb7ecdc3&chksm=f09090a6125b61766ea4a445052bc2278eb9eb0b107b203b47689fc3ebb1aac1cccddc2b1357&mpshare=1&scene=1&srcid=0303bmwJFtWOvsT2UnhfUP9f&sharer_shareinfo=65c96e11507633b4f15508b51ce8ff6e&sharer_shareinfo_first=65c96e11507633b4f15508b51ce8ff6e",
+      "time": "09:42",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "全球首份大模型业绩报！MiniMax预判2026三大超级PMF，AI平台公司启程了",
+      "entity": "MiniMax",
+      "clean_title": "预判2026三大超级PMF，AI平台公司启程",
+      "summary": "全球首份大模型业绩报告揭示AI行业新动向，MiniMax作为AI平台公司代表，精准预测2026年三大超级产品市场契合点，标志着AI产业从技术探索转向商业化落地的新阶段。报告深度剖析平台化战略如何重塑行业格局，为投资者和从业者提供关键决策依据。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871816&idx=1&sn=d4c38565717457e0e300f75cf902e212&chksm=e9856d1bb8a7c4dac76072d8d1f4fd670a36fe430a1cfab96f71cf84cb3a4ab3d0b748ac0f90&mpshare=1&scene=1&srcid=0303e7aWQA9fFSI52D2lEfvk&sharer_shareinfo=177ff4fa89044549d8cf86163e8ed11f&sharer_shareinfo_first=177ff4fa89044549d8cf86163e8ed11f",
+      "time": "10:05",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "2025中国端侧AI商业化落地TOP50",
+      "entity": "端侧AI",
+      "clean_title": "商业化落地TOP50榜单揭晓，揭示未来技术趋势",
+      "summary": "2025年中国端侧AI商业化落地TOP50榜单发布，聚焦边缘计算与终端智能的深度融合。榜单将展示从芯片厂商到应用开发商的完整产业链布局，揭示AI技术从云端向终端迁移的关键突破。分析指出，端侧AI正从概念验证走向规模化商用，在隐私保护、实时响应和成本控制方面展现出独特优势，预计将重塑多个行业的智能化路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5Njk3NTk0MQ==&mid=2649801195&idx=1&sn=b7d516b7475244d63a15439596a0577f&chksm=bf1c728365658ed9b796e88c821b19b7594b71839feac1de0f204975d657020c2ab1ffffc76e&mpshare=1&scene=1&srcid=0303V08kp8TRbJAxMhMG5h39&sharer_shareinfo=46f1ff7c24064dc1ff13c03bccc80eb9&sharer_shareinfo_first=46f1ff7c24064dc1ff13c03bccc80eb9",
+      "time": "10:12",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Artificial Analysis 榜单第二，SkyReels-V4 宣告 AI 视频进入「全栈统一」阶段",
+      "entity": "SkyReels-V4",
+      "clean_title": "登顶AI视频榜单第二，实现全栈统一新突破",
+      "summary": "SkyReels-V4在Artificial Analysis榜单中位列第二，标志着AI视频生成技术进入“全栈统一”新阶段。该产品通过整合底层架构，实现了从内容理解到视频生成的全流程优化，显著提升了生成效率与质量，为行业树立了新的技术标杆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247522985&idx=1&sn=b7b9c617e79a40189d739630795d30e1&chksm=c12860e85a493ee9fcb5f45c137e22bce7db3ed1a6185cd6e9853a3c100cd4c97fd50df7ed04&mpshare=1&scene=1&srcid=03033oRkRR723Jb0mn3XNX6u&sharer_shareinfo=4e03769ba2cdb51b5282dcac10f55376&sharer_shareinfo_first=4e03769ba2cdb51b5282dcac10f55376",
+      "time": "10:13",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Anthropic杀疯了！全套AI大师课免费上线:涵盖Claude code实战，Agent skill入门等热点内容",
+      "entity": "Anthropic",
+      "clean_title": "全套AI大师课免费上线，涵盖Claude实战与Agent技能入门",
+      "summary": "Anthropic推出重磅免费AI教育课程，直接瞄准开发者与AI应用者痛点。课程体系覆盖Claude代码实战、Agent技能入门等前沿热点，以实战为导向降低AI应用门槛。此举不仅强化了Anthropic的生态布局，更可能引发AI教育领域的竞争升级，加速行业人才储备。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513027&idx=1&sn=086ed47b55d183158567b6ee8f119a94&chksm=cf8a78b4db260a723651cb02ce0fc48820b9f55b4ab8f57c7aa310165740a3af15ec50d23681&mpshare=1&scene=1&srcid=03030vHHPNNZQ4Yqc51vUbYY&sharer_shareinfo=5fd8846c69383c30cb2b89ea8490e630&sharer_shareinfo_first=5fd8846c69383c30cb2b89ea8490e630",
+      "time": "10:13",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "Greg Brockman（OpenAI 联合创始人）把“那场宫斗”讲完整了：董事会、请愿书、马斯克与控制权",
+      "entity": "Greg Brockman",
+      "clean_title": "首次完整披露董事会内斗细节，揭秘控制权争夺全过程",
+      "summary": "OpenAI联合创始人Greg Brockman首次全面讲述公司内部权力斗争内幕，涉及董事会决策、员工请愿、马斯克角色等关键环节，揭露了人工智能巨头控制权争夺背后的复杂博弈与戏剧性转折。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493813&idx=1&sn=72bf1fcd31cadef9f20244d50369b58f&chksm=c27dfa447d95934688973f369df784b8a00d7e313fc9f4cd9a043f0c4b886251c5cf2cd81fbd&mpshare=1&scene=1&srcid=0303l2keettbdsZdw8vfkAXc&sharer_shareinfo=7ebf51008759719d84f6fd5fc63c8b13&sharer_shareinfo_first=7ebf51008759719d84f6fd5fc63c8b13",
+      "time": "11:34",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "这届MWC真成了中国AI主场，小米直接把AI从对话框里拽出来接管物理世界了",
+      "entity": "小米AI",
+      "clean_title": "从对话框走向物理世界，AI接管现实场景",
+      "summary": "MWC展会见证中国AI技术从虚拟交互向物理世界延伸的重大突破。小米展示的AI技术不再局限于对话框交互，而是直接控制物理设备与环境，实现AI对现实世界的主动干预与智能管理，标志着AI应用场景的实质性扩展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871859&idx=1&sn=17750d840a9dca644d5126edbc983878&chksm=e9961261fd67ca4510e5374992ee6f669569aa268bf9ad61d0b0a4926bc743f8463aa9e3cca7&mpshare=1&scene=1&srcid=0303KJM1pdUyutxVrNpiT3YK&sharer_shareinfo=e7316554dc7fbd420224e2b0a57ba45d&sharer_shareinfo_first=e7316554dc7fbd420224e2b0a57ba45d",
+      "time": "13:36",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Agentic 软件工程：造 Agent 只是最简单的部分",
+      "entity": "Agentic 软件工程",
+      "clean_title": "造 Agent 只是最简单的部分",
+      "summary": "文章指出，在 Agentic 软件工程领域，构建单个 Agent 只是技术实现的基础环节，真正的挑战在于如何设计系统架构、实现多 Agent 协同、确保可靠性与安全性，以及构建完整的工程化流程。这揭示了当前 AI 应用开发从单点技术突破向系统工程能力演进的关键趋势。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453480889&idx=1&sn=6fb2e892f356e7e931020ef8541b716b&chksm=86b2f03a530df8399d69d4a01c4da3f94f4e59877e4660dfc2f2ddcea3866d4b59aaef3ddffc&mpshare=1&scene=1&srcid=03039pUUIcQHbZMOHn3m442V&sharer_shareinfo=4fa4227100d63dc69bc9dcad07e389d2&sharer_shareinfo_first=4fa4227100d63dc69bc9dcad07e389d2",
+      "time": "13:54",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "OpenClaw+ClaudeCode超强教程：一个人就能搭建完整的开发团队！",
+      "entity": "OpenClaw+ClaudeCode",
+      "clean_title": "单人即可组建完整开发团队，效率革命性提升",
+      "summary": "OpenClaw与ClaudeCode的强强联合，让开发者仅凭一己之力就能搭建起完整的开发团队架构。这套组合工具通过智能代码生成、自动化测试和项目管理功能，大幅降低了团队协作的技术门槛和人力成本，为独立开发者和小型团队提供了前所未有的生产力解决方案。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247576821&idx=1&sn=e2b207540a0ea13d7bb3742bbcb969b7&chksm=ea39c34efcecc16df26bb608545c3439dde3c5f1d4d105a42c63d4d5d23e7279df33fdf36de9&mpshare=1&scene=1&srcid=0303T5paxDiFOn9e6RAZssq2&sharer_shareinfo=2ccfc22e10d4d7ffb23f69bbbf167a85&sharer_shareinfo_first=2ccfc22e10d4d7ffb23f69bbbf167a85",
+      "time": "22:54",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "OpenClaw 搭你的第一个 AI Agent：从入门到自动化",
+      "entity": "OpenClaw",
+      "clean_title": "手把手教你构建智能助手，实现任务自动化",
+      "summary": "本文是一篇关于OpenClaw平台的入门教程，旨在引导读者从零开始搭建自己的AI Agent。文章聚焦于实践操作，通过具体步骤演示如何利用该工具实现自动化任务处理，适合对AI应用开发感兴趣的初学者。内容强调动手实践，帮助用户快速上手并体验AI代理的构建流程。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjE1OTMwOA==&mid=2247483923&idx=1&sn=e84c8b5477eca7eabe618ba7c3ff7662&chksm=f5df50849afc8eacacedabbcdedc63084ba393c618aaa362e932871e0a1aaeab3b0cd5e3cfd1&mpshare=1&scene=1&srcid=0303KGOH9spmfuOvu4TezQh7&sharer_shareinfo=c329bbc9cba10b91b371582807f55a76&sharer_shareinfo_first=c329bbc9cba10b91b371582807f55a76",
+      "time": "22:54",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "Founder Park，首次出海，硅谷见！",
+      "entity": "Founder Park",
+      "clean_title": "首次出海，进军硅谷市场",
+      "summary": "知名科技媒体Founder Park宣布首次出海计划，目标直指全球科技创新中心硅谷。这一战略动作标志着其国际化布局正式启动，旨在连接中国与全球科技生态，为读者带来更前沿的科技资讯和创业洞察。出海硅谷不仅是地域扩张，更是内容深度与全球视野的升级，预计将引发行业关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247523004&idx=1&sn=b97eb5a22a7d1c750ed00d3b2cb8d1ce&chksm=c127de36f192bd16a2ff775106f3ecfe6fba5acf8c2eb273211f10b58b8a8c8fe99c9bce947f&mpshare=1&scene=1&srcid=0303s39qM8UJSvvMZWgglqz8&sharer_shareinfo=80a705539cdb9ffb199b0e790d281424&sharer_shareinfo_first=80a705539cdb9ffb199b0e790d281424",
+      "time": "00:00",
+      "category": "📰 行业新闻"
+    }
+  ]
+}
