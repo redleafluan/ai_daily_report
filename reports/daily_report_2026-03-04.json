@@ -1,0 +1,142 @@
+{
+  "date": "2026-03-04",
+  "generated_at": "2026-03-05T12:20:59.938054",
+  "highlight": "苹果推出史上最强Macbook Pro，起售价高达17999元，性能大幅提升。同时，ChatGPT卸载量激增295%，反映用户使用习惯变化。韩国棋手李世石时隔10年再次挑战AI，人机大战新篇章开启。三则新闻分别展示了硬件革新、AI应用波动和人机对抗的持续演进。",
+  "stats": {
+    "total_articles": 14,
+    "categories": {
+      "📰 行业新闻": 5,
+      "💡 深度观点": 3,
+      "🤖 模型与技术": 4,
+      "🔧 工具与应用": 2
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "苹果发最强 Macbook Pro，17999 起；ChatGPT 卸载激增 295%；韩国棋手李世石 10 年后再战 AI | 极客早知道",
+      "entity": "Macbook Pro",
+      "clean_title": "发布最强性能版本，起售价创新高",
+      "summary": "苹果推出史上最强Macbook Pro，起售价高达17999元，性能大幅提升。同时，ChatGPT卸载量激增295%，反映用户使用习惯变化。韩国棋手李世石时隔10年再次挑战AI，人机大战新篇章开启。三则新闻分别展示了硬件革新、AI应用波动和人机对抗的持续演进。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100348&idx=1&sn=13a9bd4546f2450cf68fa622aef32af4&chksm=7f7b62113f0dd29b34a455950847e997d2ab884da71a9ea50bd211f19a07f9b409a049de7537&mpshare=1&scene=1&srcid=0304FVfX4nOPeaecWQuUcPEH&sharer_shareinfo=a712632168f1ebde84ed10d3c74fdb48&sharer_shareinfo_first=a712632168f1ebde84ed10d3c74fdb48",
+      "time": "10:07",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "我花499找人上门安装OpenClaw，看到了AI时代最魔幻的一幕。",
+      "entity": "OpenClaw",
+      "clean_title": "上门安装服务揭示AI落地魔幻现实",
+      "summary": "作者通过付费安装OpenClaw的经历，观察到AI技术在实际应用中的荒诞景象。文章以第一视角揭露了AI产品从实验室到用户家中过程中出现的种种不协调现象，展现了技术理想与现实落地之间的巨大鸿沟，引发对AI商业化泡沫的深刻反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647680353&idx=1&sn=0ae2340edd5fa0c6076d9bd31c9e14e7&chksm=f1879c3309c3444a2ed382a2413982c332da70e434753866cfa56601e4bb22da95d3dbd6612f&mpshare=1&scene=1&srcid=0304pbLyhMyEMsD500H1esAZ&sharer_shareinfo=fbbe6739b14945974802e968aff59618&sharer_shareinfo_first=fbbe6739b14945974802e968aff59618",
+      "time": "10:17",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "晚点独家丨林俊旸提出离职，Qwen 多位负责人离开，团队或将调整",
+      "entity": "Qwen",
+      "clean_title": "核心团队震荡，多位负责人离职引发组织调整",
+      "summary": "通义千问（Qwen）团队近期出现重大人事变动，林俊旸提出离职，多位核心负责人相继离开。这一系列高层变动预示着团队可能面临组织架构调整，对Qwen后续的产品研发和战略方向将产生直接影响。作为阿里旗下重要AI产品，此次人事地震引发行业对Qwen未来发展的密切关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247533877&idx=1&sn=432a54cd65c37c28af558a17e59355e0&chksm=fdfdd696270c2134b0824e0fd5d91b3bad18b4efb3598710fe8583f68d28110734b6c303d827&mpshare=1&scene=1&srcid=0304Aax9C1ES0DpAz2Vmrc2t&sharer_shareinfo=d6036deaef81720bcfba82f60a53b006&sharer_shareinfo_first=d6036deaef81720bcfba82f60a53b006",
+      "time": "10:23",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "独家｜Flowith 完成千万美元种子轮融资，打造 Agentic AI 时代的首个“行动派”操作系统",
+      "entity": "Flowith",
+      "clean_title": "完成千万美元种子轮融资，打造Agentic AI时代首个行动派操作系统",
+      "summary": "Flowith宣布完成千万美元种子轮融资，旨在开发Agentic AI时代的首个“行动派”操作系统。该项目定位为AI代理时代的核心基础设施，通过系统级优化提升AI代理的自主行动能力与协作效率，标志着AI从被动响应向主动执行的关键转变。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247514370&idx=1&sn=06b4666c5c40ff7e0e6f199934558b04&chksm=ea46e272897acb56b4df76ea3af2afadea3e17de154f3784ccb9a89bf0c6a2575740be982082&mpshare=1&scene=1&srcid=0304acSNMz68cr8aLacHVktj&sharer_shareinfo=9cdfebe1d2067282fc6f90b6973f7760&sharer_shareinfo_first=9cdfebe1d2067282fc6f90b6973f7760",
+      "time": "10:24",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "OpenAI深夜上新默认款GPT5.3模型！主打去尴尬！实测：速度快到即时满足的爽感！搜索能力更强了！OpenAI人员坦承自己模型切换策略",
+      "entity": "GPT-5.3",
+      "clean_title": "深夜发布默认款，主打去尴尬，实测速度即时满足，搜索能力大幅提升",
+      "summary": "OpenAI深夜突袭发布默认款GPT-5.3模型，主打消除对话尴尬感，实测响应速度达到即时满足级别，搜索能力显著增强。官方人员罕见坦承模型切换策略，暗示技术迭代进入新阶段。此次更新直击用户体验痛点，或将重新定义人机交互流畅度标准。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655936771&idx=1&sn=e82b144c32165174666901de0676eb3e&chksm=bcc73d35ea3749acd787a84e2cf1071198546262f98df5c94284d59197db8e68ef2f24872e6e&mpshare=1&scene=1&srcid=03048Y2FJJMYjpt4JWyeLdUc&sharer_shareinfo=777e89f2fd7d8f9ad8f8007746f5be0c&sharer_shareinfo_first=777e89f2fd7d8f9ad8f8007746f5be0c",
+      "time": "10:58",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "活动回顾 | AI for Science 前沿论坛",
+      "entity": "AI for Science",
+      "clean_title": "前沿论坛探讨科学革命新路径",
+      "summary": "本次AI for Science前沿论坛聚焦人工智能与科学研究的深度融合，探讨了AI技术如何推动基础科学突破、加速科研范式变革。论坛汇集了跨领域专家，分析了当前AI在物理、化学、生物等科学领域的应用现状与挑战，并展望了未来智能科学基础设施的建设方向。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0ODYyNTI3Nw==&mid=2247484450&idx=1&sn=cbdc61b9a0c9943d47d2331dcc6ff08f&chksm=c20a54cb3d26eab9a8142201ca0361253c3558a0777a601d907be373ee176057ecaad8ba27b5&mpshare=1&scene=1&srcid=0304TPXX4I18mBaeGnBpHXIW&sharer_shareinfo=211c41d1e31a9fb701da73c4d35d2d7c&sharer_shareinfo_first=211c41d1e31a9fb701da73c4d35d2d7c",
+      "time": "11:50",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "我入选了 Claude for Open Source",
+      "entity": "Claude",
+      "clean_title": "入选开源计划，开发者生态迎来新力量",
+      "summary": "文章透露作者成功入选Claude开源项目计划，这标志着Anthropic在开源生态布局上的重要进展。作为AI领域的重要参与者，Claude的开源举措将直接影响开发者工具生态和模型可及性，可能引发行业竞争格局变化。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247513921&idx=1&sn=ce2eb39484433f7a889f1c54a6b3afbb&chksm=c3d5092cebbe14645b091e9acad5ea1d11228eeaa2dd0b40f5ef89c45c501b92956bc8483e74&mpshare=1&scene=1&srcid=0304tjLHTwpZXQPap6gmb47b&sharer_shareinfo=7a6d6c280e920e8c3f8853326bdb63c5&sharer_shareinfo_first=7a6d6c280e920e8c3f8853326bdb63c5",
+      "time": "19:12",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Anthropic重磅更新skill-creator：创建skill全面告别“草台班子”时代",
+      "entity": "Anthropic",
+      "clean_title": "推出skill-creator工具，告别“草台班子”式技能开发",
+      "summary": "Anthropic发布skill-creator工具，标志着AI技能开发进入标准化、专业化时代。该工具旨在解决当前技能开发中存在的随意性、不规范问题，通过系统化流程提升技能质量和可维护性。此举将推动整个AI应用生态向更成熟、更可靠的方向发展，对开发者和企业用户都具有重要意义。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513073&idx=1&sn=82967a5a5a6e519298b9916c41166bd1&chksm=cf0ff9f3562df4917577971deb2e08aa64b691b2fb4db83f141f3aa6e088cef895d0ebf1630f&mpshare=1&scene=1&srcid=0304YkVytSGHgmjc04hZRl31&sharer_shareinfo=5d987afb332def0db59305b3f5fdf4e9&sharer_shareinfo_first=5d987afb332def0db59305b3f5fdf4e9",
+      "time": "20:02",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "大模型的第一性原理：（三）信息论篇",
+      "entity": "信息论",
+      "clean_title": "揭秘大模型底层逻辑，信息论如何重塑AI架构",
+      "summary": "本文从信息论视角剖析大模型的第一性原理，探讨信息压缩、编码与传输在AI架构中的核心作用。文章指出，信息论不仅是理论基石，更是优化模型效率、提升泛化能力的关键工具，为理解大模型的内在机制提供了全新框架。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651019507&idx=1&sn=f1b716270c20c5839879cf391aaabbfa&chksm=858e012daa07401840a614c7d9dec463510e5e58c6a207d95d5e96460ac9333cbbe4e58b3d88&mpshare=1&scene=1&srcid=03049onNbSHimNjmjOwD3Lkm&sharer_shareinfo=6a4ea00deb80ac9cb699c4102a3305c3&sharer_shareinfo_first=6a4ea00deb80ac9cb699c4102a3305c3",
+      "time": "22:32",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "第一批被 AI「喂养」长大的孩子，已经「中毒」了",
+      "entity": "AI喂养孩子",
+      "clean_title": "首批成长于算法环境下的儿童出现认知偏差",
+      "summary": "文章聚焦于早期接触AI技术的儿童群体，揭示算法推荐和智能设备对未成年人认知发展的潜在负面影响。报道指出，过度依赖AI内容可能导致儿童思维模式单一化、创造力受限，并引发社会对技术伦理的深度反思。这一现象警示我们需要重新审视科技与教育的边界。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100372&idx=1&sn=744ec00c2d155b2c49fb9feaf18f2990&chksm=7f743954763811c4e09701815a9d9bc7fbc9cfbf3b6bddb1f4203d478101a55f859b2913a05c&mpshare=1&scene=1&srcid=0304t7HKjcMwdcoEfigj7b3r&sharer_shareinfo=5a6a09b113e4030b8bbc3e75a9689656&sharer_shareinfo_first=5a6a09b113e4030b8bbc3e75a9689656",
+      "time": "22:33",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
+      "entity": "Cursor",
+      "clean_title": "面临生存危机，软件销售模式转向智能体时代",
+      "summary": "知名风投教父预言传统代码编辑器Cursor将面临淘汰，指出软件行业正从面向人类销售转向服务智能体的新范式。这一转变不仅威胁现有工具，更暗示英伟达等硬件巨头将遭遇强劲挑战，行业格局面临重塑。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651277077&idx=1&sn=926dabd6009a6917dfe657d0e6388567&chksm=bc90497674a41be064ee3346b63a18b0104eff109e0d3337e43ed470f0eb340e36269e1d27c9&mpshare=1&scene=1&srcid=0304M0EXldOLMCKwDJDaFB6t&sharer_shareinfo=ffd4fae1770d4a1439c41e5f13483c4b&sharer_shareinfo_first=ffd4fae1770d4a1439c41e5f13483c4b",
+      "time": "22:33",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "国补后 3000+ 的 MacBook Neo：苹果史上最便宜的笔记本来了",
+      "entity": "MacBook Neo",
+      "clean_title": "国补后价格跌破3000元，史上最便宜苹果笔记本问世",
+      "summary": "苹果推出全新MacBook Neo，在政府补贴后价格降至3000元区间，成为苹果历史上价格最低的笔记本电脑产品。这一价格策略打破了苹果一贯的高端定位，或将引发笔记本市场的价格战，同时考验消费者对苹果入门级产品的接受度。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653100391&idx=1&sn=73e7a19b3334cdf71b32da293aa0252e&chksm=7f79a46f7e471a197c3d7334a111261c3487e3f66ba991ef1c0449d5f91349878a8a07db1792&mpshare=1&scene=1&srcid=0304wcbAua1jF1qc5cBG9Gc9&sharer_shareinfo=50138d734efa5f3f92ac7ce650d19299&sharer_shareinfo_first=50138d734efa5f3f92ac7ce650d19299",
+      "time": "22:51",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "卸任千问掌门人前，林俊旸的一篇年度总结",
+      "entity": "林俊旸",
+      "clean_title": "卸任前发布年度总结，回顾千问发展历程",
+      "summary": "文章聚焦林俊旸在卸任千问掌门人前夕发布的年度总结，但正文片段显示为技术代码而非实际内容。代码涉及资源加载错误处理、性能监控等前端技术实现，推测可能是页面渲染或数据加载的技术说明，而非预期的年度总结文本。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69a7bbd5000000001a02caae?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBIZhbwvpYkoTPwlKSoEz4sCgqqxFI7AHKuLR3iPyphys=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1772636059&share_id=d9b5679003e042a4bd3108f0cbecadd7",
+      "time": "22:54",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "别再四处找教程了，OpenClaw 全网最全接入方式替你整理好了",
+      "entity": "OpenClaw",
+      "clean_title": "全网最全接入方式一次性整理完毕",
+      "summary": "本文针对OpenClaw的接入需求，系统性地整理了全网最全的接入方式，旨在为用户提供一站式解决方案，省去四处搜寻教程的繁琐。内容聚焦于实际应用层面，强调实用性和完整性，适合开发者快速上手。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247514677&idx=1&sn=2d5d09db9fd40b2ef8b54a43f5969985&chksm=feb00813ca04708ecf8fd5e6f91070a341df9915b8ac962bbebc2f353ef0fbc6465e6aff51ba&mpshare=1&scene=1&srcid=0304dyYS6e6bX8WrnCuugTO4&sharer_shareinfo=9581b06dffecbdabc1e5e6c6ea609d0d&sharer_shareinfo_first=9581b06dffecbdabc1e5e6c6ea609d0d",
+      "time": "23:09",
+      "category": "🔧 工具与应用"
+    }
+  ]
+}
