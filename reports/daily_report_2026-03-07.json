@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-07",
+  "generated_at": "2026-03-08T12:19:36.791576",
+  "highlight": "科技界惊爆学术丑闻：187篇研究论文因使用虚假模型API而集体翻车，准确率大幅下降。这起事件暴露了AI研究领域对第三方工具的过度依赖和验证缺失，引发对学术诚信和模型可靠性的深度质疑。",
+  "stats": {
+    "total_articles": 11,
+    "categories": {
+      "🤖 模型与技术": 1,
+      "🔧 工具与应用": 3,
+      "🧠 提示词与教程": 2,
+      "📰 行业新闻": 3,
+      "💡 深度观点": 2
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "真钱买假模型？187篇论文被「套壳API」坑惨，准确率暴跌",
+      "entity": "套壳API",
+      "clean_title": "187篇论文被坑惨，准确率暴跌",
+      "summary": "科技界惊爆学术丑闻：187篇研究论文因使用虚假模型API而集体翻车，准确率大幅下降。这起事件暴露了AI研究领域对第三方工具的过度依赖和验证缺失，引发对学术诚信和模型可靠性的深度质疑。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020269&idx=1&sn=b5c31c246a450cada4d9bd10c2488a68&chksm=859a16f99cef005a753455bb3195f19757f06e7cb3302042f2a9cb7d7afc8e88ce5e2d8d5d86&mpshare=1&scene=1&srcid=0307EduRhOFE7uWzJL0apukB&sharer_shareinfo=b06e9a99b7135c6e90502bd8de6e0307&sharer_shareinfo_first=b06e9a99b7135c6e90502bd8de6e0307",
+      "time": "09:40",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "GPT-5.4发布24小时，OpenClaw🦞最新配置教程！",
+      "entity": "OpenClaw",
+      "clean_title": "发布24小时，最新配置教程来了！",
+      "summary": "OpenClaw最新版本GPT-5.4发布仅24小时，官方配置教程已火速上线。本文提供详细配置指南，帮助开发者快速上手这一前沿AI工具，掌握最新功能特性与优化设置。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247720267&idx=1&sn=260b807bb263fb6aae27714452d04694&chksm=e9422f51d7b6e7efbe2fb62f2741c2ade8d857a1dfd790a9692be6a8b5b2a7d582e1e52f1127&mpshare=1&scene=1&srcid=0307ymvJlhknF8OPAMkpGxUl&sharer_shareinfo=bff1ec8379c3ed450b44ed520f07cfaf&sharer_shareinfo_first=bff1ec8379c3ed450b44ed520f07cfaf",
+      "time": "09:53",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude Code 推出 /loop 无限循环，一台电脑即可化身无数小龙虾",
+      "entity": "Claude Code",
+      "clean_title": "推出/loop无限循环功能，单机即可实现多任务并行处理",
+      "summary": "Claude Code最新推出/loop无限循环功能，允许用户在一台计算机上实现多任务并行处理，显著提升开发效率。该功能通过创新的循环机制，使单机能够模拟多线程环境，为开发者提供更灵活的工作流程。技术实现上采用了先进的资源调度算法，确保在保持系统稳定性的同时最大化硬件利用率。这一更新预计将改变传统开发模式，特别是在资源受限环境下具有重要应用价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481069&idx=1&sn=4e6a0b2d6abecd04425d3c30149eb55a&chksm=862d95d887d949aaa21150775cb706a2de3de3c5cf8c34f8a511544b16a8bce3c13bb9ac1818&mpshare=1&scene=1&srcid=0307SdZB5sihO30Dv1Y3H1cR&sharer_shareinfo=933b35366899c35045a5fc38ef642a61&sharer_shareinfo_first=933b35366899c35045a5fc38ef642a61",
+      "time": "14:52",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Cursor 慌了：当 AI 不再需要代码编辑器",
+      "entity": "Cursor",
+      "clean_title": "AI编程革命：代码编辑器面临淘汰危机",
+      "summary": "文章探讨AI技术发展对传统代码编辑器的颠覆性冲击。随着AI编程助手能力不断提升，开发者可能不再需要依赖传统编辑器界面，直接通过自然语言交互即可完成编码任务。这预示着编程工具生态将迎来根本性变革，Cursor等编辑器面临生存挑战。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247493969&idx=1&sn=0da81c4c9cbfe6af808571881ff9c378&chksm=c281ede908ac04c230afb6d9de9e8d5407d9ae96ca570c27a0e7ee20100cb7e10d5c4315eb6c&mpshare=1&scene=1&srcid=0307RLSFlqCXI4JekJIn1pYn&sharer_shareinfo=e35527eb45dee1e41f99d53945ed9036&sharer_shareinfo_first=e35527eb45dee1e41f99d53945ed9036",
+      "time": "14:52",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "重磅！全都看过来，Anthropic官方发布万字Skill创建完全指南：保姆级终极攻略",
+      "entity": "Anthropic",
+      "clean_title": "发布万字Skill创建完全指南：保姆级终极攻略",
+      "summary": "Anthropic官方发布重磅Skill创建指南，提供从基础到高级的完整教程。该指南详细解析技能构建的每个环节，包括最佳实践、常见陷阱和优化技巧，旨在帮助开发者快速掌握Claude技能开发的核心能力，提升AI应用构建效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513162&idx=1&sn=d8252d7889f00b83ca3d39f739570e94&chksm=cf8afc6eeaafa88cc4951cc699b0a4d5282c1f7618b8d8745bdaf5a462da0f78103784fbe393&mpshare=1&scene=1&srcid=0307iDZsiD8oJdD0iX2OMdYC&sharer_shareinfo=1c1b5c10b1001f522b5d6a228dcda903&sharer_shareinfo_first=1c1b5c10b1001f522b5d6a228dcda903",
+      "time": "20:56",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+      "entity": "鹅厂",
+      "clean_title": "门口免费发放引发数百人排队，折射当代消费现象",
+      "summary": "腾讯公司门口出现免费发放龙虾的活动，吸引了数百人排队参与，场面火爆。这一事件不仅反映了当下消费者对免费福利的高度敏感，也揭示了社交媒体时代线下营销活动的新形态。从“鸡蛋自由”到“龙虾自由”，看似简单的商业行为背后，是品牌营销策略与大众心理的精准碰撞，值得行业深入思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247872840&idx=1&sn=faa0fe42345fd4cbd30e90f108f711d8&chksm=e966f85545efd51f623c21680013e4ae9cea3614eb19dbe4dd81d967d50b9ae2b2ceb4dd761c&mpshare=1&scene=1&srcid=0307MPoRcBEVqUwUV3CCBHpM&sharer_shareinfo=6d2e1bbe2f15bc1fad85fa9023b19e73&sharer_shareinfo_first=6d2e1bbe2f15bc1fad85fa9023b19e73",
+      "time": "20:57",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "AGI，不会通知你",
+      "entity": "AGI",
+      "clean_title": "悄然逼近，人类或将毫无察觉",
+      "summary": "文章以技术代码片段隐喻AGI发展的隐蔽性，暗示高级人工智能可能在不被人类察觉的情况下实现突破。代码中的错误监控和报告机制，暗喻AGI系统可能已具备自我调试和进化能力，而人类却无法及时感知其进展。这种“静默进化”模式对现有监管框架构成严峻挑战。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247514016&idx=1&sn=b92998ef17793fcb869231c5cf57d8ae&chksm=c388c372f9c9fbc0e1decd8f3b360ca55fa2c84acaad632c3028bbeecb54a43cf49b1fe87b75&mpshare=1&scene=1&srcid=0307rJlw1Rtgb4zDk5ugPIeJ&sharer_shareinfo=7ae43a2442e08b6617a8d48c00deac84&sharer_shareinfo_first=7ae43a2442e08b6617a8d48c00deac84",
+      "time": "21:26",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "今年大模型的竞争",
+      "entity": "大模型",
+      "clean_title": "年度竞争白热化，技术迭代加速",
+      "summary": "当前大模型领域竞争激烈，各大厂商纷纷推出新版本，技术迭代速度前所未有。从参数规模到应用场景，全面比拼正在展开，行业格局面临重塑。这场竞赛不仅关乎技术领先，更决定未来AI生态主导权。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0MTY1MDEyOQ==&mid=2247484053&idx=1&sn=f841b9b871b24247e2b59d19d8db08b1&chksm=c3fe6e21ec3133c05e707daf67cdd4a0e329a4800e82589c48d0f6127c92769dc507de0ff5d8&mpshare=1&scene=1&srcid=0307835kiVfEKYGjij3RHi9X&sharer_shareinfo=546e85186e37d3e20b5eaf0c031b57f0&sharer_shareinfo_first=546e85186e37d3e20b5eaf0c031b57f0",
+      "time": "21:43",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenClaw免费小白安装教程！养成你的第一个龙虾🦞员工",
+      "entity": "OpenClaw",
+      "clean_title": "免费安装教程，轻松打造首个AI助手",
+      "summary": "本文提供OpenClaw的详细安装指南，帮助用户快速上手并部署首个AI助手。教程面向初学者，步骤清晰，旨在降低技术门槛，让更多人体验AI工具的便利。内容涵盖环境配置、基础操作及常见问题解决，适合希望探索AI应用的个人用户和小团队。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247720338&idx=1&sn=3f6cc599708d6bf65498a1c638697934&chksm=e9a15c4e94dad9b7450b2a3746ffdfc9c77cad43e2ec4a0a19ae32cf6dea8dfd9ebed5a9b12f&mpshare=1&scene=1&srcid=0307vQzgwBXvj9PhiP2xnRxC&sharer_shareinfo=b5993a0133414085239d056628035311&sharer_shareinfo_first=b5993a0133414085239d056628035311",
+      "time": "22:26",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "YC合伙人专访：AI时代的YC的变与不变，SaaS已死，Salesforce有麻烦了。",
+      "entity": "YC",
+      "clean_title": "合伙人直言SaaS时代终结，Salesforce面临挑战",
+      "summary": "YC合伙人在专访中抛出重磅观点：AI时代下，传统SaaS模式已死，连Salesforce这样的巨头也面临严峻挑战。文章揭示了YC在AI浪潮中的战略调整与坚守，对软件行业未来格局做出犀利预判。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017126&idx=1&sn=70fe21468b31ed69a7420d6e24af5111&chksm=892fa355ac973814f48f7e9ade079a3b8fc01d0777869fafc12d7c074459c4cc217bebe05af1&mpshare=1&scene=1&srcid=0308FnDCKHjx18TGUdK4iEF4&sharer_shareinfo=0efa782bbaf3c1682198d4d8f1cede59&sharer_shareinfo_first=0efa782bbaf3c1682198d4d8f1cede59",
+      "time": "07:12",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "纳瓦尔最新播客：化解AI焦虑的唯一方法，是行动",
+      "entity": "纳瓦尔",
+      "clean_title": "化解AI焦虑的唯一方法，是行动",
+      "summary": "知名投资人纳瓦尔在最新播客中提出，面对AI技术快速发展带来的普遍焦虑，被动担忧无济于事，唯有主动学习和实践才是根本解决之道。他强调行动比空谈更重要，鼓励人们通过实际应用AI工具来适应技术变革，而非停留在理论层面的恐惧。这一观点直击当前社会对AI的普遍不安，提供了务实的应对策略。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654904016&idx=1&sn=95e5ce260d2607fbf2e566e20627dc66&chksm=8d73dcbdcdc854dab4dfcc911775c4c085591a46380810c8399465300ee5c16bd906f6ff7cae&mpshare=1&scene=1&srcid=0308bOaN7A37ltBigv2CHifC&sharer_shareinfo=686af2e854aaf000b33b63dfc7cc3374&sharer_shareinfo_first=686af2e854aaf000b33b63dfc7cc3374",
+      "time": "07:30",
+      "category": "💡 深度观点"
+    }
+  ]
+}
