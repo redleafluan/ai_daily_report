@@ -1,0 +1,78 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-03-12T12:21:03.782562",
+  "highlight": "谷歌发布首个原生多模态向量模型，突破性实现文字搜索图片、图片搜索视频的跨模态交互能力。该技术标志着AI代理在理解与连接不同模态信息方面取得重大进展，为智能搜索、内容推荐等应用场景带来革命性变革。模型原生支持多模态数据处理，有望大幅提升AI系统的感知与推理能力。",
+  "stats": {
+    "total_articles": 7,
+    "categories": {
+      "🤖 模型与技术": 2,
+      "📰 行业新闻": 3,
+      "🔧 工具与应用": 2
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "谷歌首个原生多模态向量模型发布：Agent 可以用文字搜图片、用图片搜视频了...",
+      "entity": "谷歌多模态向量模型",
+      "clean_title": "原生多模态向量模型问世，实现跨模态智能搜索",
+      "summary": "谷歌发布首个原生多模态向量模型，突破性实现文字搜索图片、图片搜索视频的跨模态交互能力。该技术标志着AI代理在理解与连接不同模态信息方面取得重大进展，为智能搜索、内容推荐等应用场景带来革命性变革。模型原生支持多模态数据处理，有望大幅提升AI系统的感知与推理能力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513237&idx=1&sn=9d3a5f0be52a44142478749950e6342d&chksm=cf0999834f75c9e0166c78592ab8264bfd6aec3e8dfbf6683cf16060a76065505f899b2448ed&mpshare=1&scene=1&srcid=03111jfAjJQx6TmvdvT8YFGD&sharer_shareinfo=655f438bf5f26d56d7a85bd515fbafed&sharer_shareinfo_first=655f438bf5f26d56d7a85bd515fbafed",
+      "time": "09:05",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "快排算法之父Tony Hoare去世，从古典学文科生出身到图灵奖得主，他的人生比算法更传奇",
+      "entity": "Tony Hoare",
+      "clean_title": "从古典学文科生到图灵奖得主，快排算法之父传奇人生落幕",
+      "summary": "计算机科学巨匠、快速排序算法发明者Tony Hoare逝世，享年88岁。这位牛津大学古典学出身的文科生，凭借对算法效率的革命性贡献荣获图灵奖，其跨界人生轨迹比算法本身更具传奇色彩，深刻影响了现代计算机科学的发展路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247873543&idx=1&sn=c2b53247fa4b740d3323d97fc414d279&chksm=e9c8765773720512acef58b9ab91a2b2a41cfb86778f6608b953df87b117d32c4a958109bd1f&mpshare=1&scene=1&srcid=03119fP1Gvc8v0gtynA3NO8L&sharer_shareinfo=4f56a2507ba4146ff1ffeb9fc6e59768&sharer_shareinfo_first=4f56a2507ba4146ff1ffeb9fc6e59768",
+      "time": "09:22",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Claude悄悄更新了Skills生成器，这绝对是一次史诗级升级。",
+      "entity": "Claude",
+      "clean_title": "Skills生成器史诗级升级，功能大幅增强",
+      "summary": "Claude近期对其Skills生成器进行了重大更新，此次升级被描述为“史诗级”改进。虽然文章正文片段主要包含技术代码和错误处理逻辑，但标题明确指出了Skills生成器的重要功能升级。这表明Claude正在持续优化其AI工具的实用性和用户体验，通过增强Skills生成器来提升用户创建和管理自定义技能的能力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647680550&idx=1&sn=61057f16c042c8ffda4e6e2ebee0def6&chksm=f11467845e45a6b5a585817fc95ba8a7bcce7ff6a8be1d98bc95fdf91d1f5f5c7db4fe391014&mpshare=1&scene=1&srcid=0311Lc6YUbR3RkYmCJ85dHfx&sharer_shareinfo=7ae00328a6cc7cab9f024ae6543f3791&sharer_shareinfo_first=7ae00328a6cc7cab9f024ae6543f3791",
+      "time": "10:09",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "21 岁大学生靠 Vibe Coding，卷上 GitHub 热榜第一，10天拿到3000万投资",
+      "entity": "Vibe Coding",
+      "clean_title": "21岁大学生凭独特编程理念，10天斩获3000万投资，引爆GitHub热榜",
+      "summary": "一名21岁大学生凭借创新的“Vibe Coding”编程理念，在GitHub上迅速走红，登上热榜首位。其项目在短短10天内成功获得3000万元投资，展现了年轻开发者在技术领域的巨大潜力和市场认可。这一现象不仅凸显了创新思维在科技创业中的价值，也反映了当前投资界对新兴技术趋势的敏锐嗅觉。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247615388&idx=1&sn=f250e49959a0d377b980f1851392daf6&chksm=96ec046bdd39ac35226a35924d7b8cc894af5c835c6eb1d4eb288766d0f915f840ede97a6338&mpshare=1&scene=1&srcid=0311UJhLdl4eVpY4OaUSM2pb&sharer_shareinfo=3654107f09c6b2e3d4dc3e1b4ca33016&sharer_shareinfo_first=3654107f09c6b2e3d4dc3e1b4ca33016",
+      "time": "10:12",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "定义RAG新基准？谷歌发布 Gemini Embedding 2：首个原生多模态嵌入模型，延迟骤降70%",
+      "entity": "Gemini Embedding 2",
+      "clean_title": "发布首个原生多模态嵌入模型，延迟骤降70%",
+      "summary": "谷歌推出Gemini Embedding 2，这是首个原生多模态嵌入模型，重新定义RAG基准。该模型在延迟方面实现70%的显著降低，为检索增强生成技术带来突破性进展，有望大幅提升AI应用的响应速度和准确性。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651277824&idx=1&sn=83999cf885fed11808f4c9b717b31fc1&chksm=bc4efbe1ae19f55056c43ed5ae801a449b710dea6e6e5fab1f8d21178f65414b7b1bfe3f51b3&mpshare=1&scene=1&srcid=0311hDKnJGycAjwIHnm9osD6&sharer_shareinfo=19c9fb6daa1e86a6b1b6088a33275248&sharer_shareinfo_first=19c9fb6daa1e86a6b1b6088a33275248",
+      "time": "10:13",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "刚刚，人类社交网络巨头Meta收购了AI社交网络Moltbook",
+      "entity": "Meta",
+      "clean_title": "收购AI社交网络Moltbook，加速社交AI布局",
+      "summary": "Meta宣布收购AI社交网络Moltbook，这是继Llama系列模型后，Meta在社交AI领域的又一重要动作。此次收购将强化Meta在AI社交应用的技术储备，可能预示着未来社交平台将深度融合AI能力，重塑用户互动方式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651020918&idx=1&sn=0d048fb3ab1b19d83e34c6fea432c213&chksm=85c48ab1bf085c3cac8fe850ad648bc916f565745cabd3184ea352283e96a15d7420bc49a233&mpshare=1&scene=1&srcid=0311Zc2nKOc1BwGokxPVvOjy&sharer_shareinfo=7a4f8159fc7edb98699c6053ce62f907&sharer_shareinfo_first=7a4f8159fc7edb98699c6053ce62f907",
+      "time": "10:13",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "ScienceClaw｜老友记AI科研天团",
+      "entity": "ScienceClaw",
+      "clean_title": "AI科研团队推出创新工具，优化前端资源加载效率",
+      "summary": "科技媒体ScienceClaw报道了一支AI科研团队开发的前端资源加载优化工具。该工具通过智能重试机制和错误监控，显著提升网页资源加载成功率，减少用户等待时间。代码片段展示了其核心功能，包括资源URL重写、错误捕获和性能数据上报，体现了AI技术在Web性能优化领域的实际应用价值。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69a9b530000000001a0289d7?app_platform=ios&app_version=9.19.5&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBdBbZejkOtG5xDhofpD4r7Tt5jEy6WoI2NOzb1d9Acl0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1773195224&share_id=a9f641e090c240f2b4e7ce55e66d2c93",
+      "time": "10:14",
+      "category": "🔧 工具与应用"
+    }
+  ]
+}
