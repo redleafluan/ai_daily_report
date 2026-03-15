@@ -1,0 +1,169 @@
+{
+  "date": "2026-03-14",
+  "generated_at": "2026-03-15T12:41:05.476470",
+  "highlight": "据最新爆料，DeepSeek V4与姚顺雨团队的新混元模型将于下月同时发布。两大模型同期亮相，预示着AI领域将迎来新一轮技术竞赛。此次发布可能涉及架构创新或性能跃升，值得业界高度关注。",
+  "stats": {
+    "total_articles": 17,
+    "categories": {
+      "🤖 模型与技术": 6,
+      "💡 深度观点": 6,
+      "🔧 工具与应用": 4,
+      "📰 行业新闻": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "据最新爆料：DeepSeek V4和姚顺雨的新混元模型，将同时于下月发布",
+      "entity": "DeepSeek V4",
+      "clean_title": "下月重磅发布，性能或迎重大突破",
+      "summary": "据最新爆料，DeepSeek V4与姚顺雨团队的新混元模型将于下月同时发布。两大模型同期亮相，预示着AI领域将迎来新一轮技术竞赛。此次发布可能涉及架构创新或性能跃升，值得业界高度关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652683003&idx=1&sn=c7d1e124dc9183eb33dea1c918f08937&chksm=f0a8f2473ca7fa3d8fe33e675b972dd0f27b7a2d713d54cc057d166b55e59080ec2856bc8274&mpshare=1&scene=1&srcid=0314mIiJG77Sa7OKzmvGApc1&sharer_shareinfo=001b1625e02c972fb18db8a06eb8030b&sharer_shareinfo_first=001b1625e02c972fb18db8a06eb8030b",
+      "time": "09:52",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "100万上下文全面上线！Claude两款4.6模型取消长文本溢价，支持直塞600张图",
+      "entity": "Claude 4.6",
+      "clean_title": "取消长文本溢价，支持直塞600张图",
+      "summary": "Claude两款4.6模型全面上线100万上下文能力，正式取消长文本溢价收费模式，同时支持直接上传600张图片进行多模态处理。这一重大更新标志着长文本处理进入普惠时代，大幅降低企业AI应用成本，将加速多模态AI在商业场景的落地应用。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513337&idx=1&sn=927e4ab08772d546aa01732f5ab550f8&chksm=cfe7b786fa515e817c9182381bf2ad33950442abeb87f98ef4239181db8a8a2402f2444c529d&mpshare=1&scene=1&srcid=0314EzwISBhWQHQKsUgeZW5e&sharer_shareinfo=53b0bafbb49045b7396217a47f486f6b&sharer_shareinfo_first=53b0bafbb49045b7396217a47f486f6b",
+      "time": "10:14",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "实现AGI须迈过两大门槛  | Sam Altman最新对话实录",
+      "entity": "Sam Altman",
+      "clean_title": "揭示实现通用人工智能必须突破的两大关键障碍",
+      "summary": "OpenAI CEO Sam Altman在最新对话中明确指出，实现通用人工智能（AGI）面临两大核心挑战：一是需要突破现有模型架构的局限性，二是必须解决训练数据质量和规模的瓶颈问题。他强调这些技术门槛直接关系到AGI能否从理论走向现实，并暗示OpenAI正在相关领域进行重点攻关。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650047485&idx=1&sn=27a1130312bc34140beb3f6fe4af6563&chksm=8ef217a133dfb814519997d30c524f92814b92817940ebaed5ca9aa224e5461b563eae9e3125&mpshare=1&scene=1&srcid=0314rKGDtICme8OpIs8izBNy&sharer_shareinfo=5baa7fb402db90949b2cfd5dbb4411c8&sharer_shareinfo_first=5baa7fb402db90949b2cfd5dbb4411c8",
+      "time": "10:24",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "智能体工程的 8 个等级",
+      "entity": "智能体工程",
+      "clean_title": "分级体系揭示技术演进路径，八个等级定义能力边界",
+      "summary": "文章系统性地提出了智能体工程的八个等级划分，从基础自动化到高级自主决策，构建了清晰的技术演进框架。该分级体系不仅定义了不同阶段的能力特征，还揭示了智能体从工具到伙伴的进化路径，为行业提供了重要的评估标准和方向指引。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494199&idx=1&sn=30b961028e9690e98e1717ca08394570&chksm=c2cbba4e0f889ebcbad400a4b46df72a28d7adba29bd4626da91468ed2e0cc5c44f41fd4983d&mpshare=1&scene=1&srcid=03143ERMS7N3xiO4jCI3hZKw&sharer_shareinfo=07dcfba3197726e88ed8e3f82e0f51dc&sharer_shareinfo_first=07dcfba3197726e88ed8e3f82e0f51dc",
+      "time": "10:24",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "对话历史学家马拉比：哈萨比斯像奥本海默，奥尔特曼比他差远了丨甲子光年",
+      "entity": "哈萨比斯",
+      "clean_title": "历史学家犀利对比：AI领袖与原子弹之父惊人相似，另一位创始人差距明显",
+      "summary": "历史学家马拉比将DeepMind创始人哈萨比斯比作奥本海默，认为其具备科学远见与责任感，而OpenAI的奥尔特曼在格局与深度上相形见绌。这一尖锐对比揭示了AI领域领导者的不同特质，引发对技术伦理与商业野心的深层思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247550935&idx=1&sn=12b055bc2eb17e4f81114fd2c1705e01&chksm=ffe6e79883eb9f799974c0a21550f01a49c70d61864f73e259f97f58b46ff0c6b6c4b705c74e&mpshare=1&scene=1&srcid=03145nyj7lzDOWwlknYz0p09&sharer_shareinfo=d62123a8d21f1a4726f94be21a83c959&sharer_shareinfo_first=d62123a8d21f1a4726f94be21a83c959",
+      "time": "11:19",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "这本书，让人后背发凉",
+      "entity": "微信文章",
+      "clean_title": "技术代码泄露背后，隐藏着令人不安的数据追踪机制",
+      "summary": "文章片段揭示了微信网页端复杂的数据监控与错误报告系统，包含用户标识、业务参数及网络质量追踪代码。这段技术实现暴露了平台对用户行为的深度监控能力，其错误收集机制和参数传递方式可能涉及隐私边界问题，技术实现细节令人细思极恐。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651739546&idx=1&sn=2b51f27e1d26c61e051f64dffa142be6&chksm=bc363367c60bfb9ee4bdd3fba7fcfbfe9a81ebb7efa81e277951697cfc370cdbca7b0e9ac19c&mpshare=1&scene=1&srcid=0314VrvLHiRysOFWpiKKAcDD&sharer_shareinfo=743ac28d3010b4e44273c1e84f5702e1&sharer_shareinfo_first=743ac28d3010b4e44273c1e84f5702e1",
+      "time": "12:11",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "三分钟手机实现「养虾」自由，阿里云出品，安全稳定，限时免费！",
+      "entity": "阿里云",
+      "clean_title": "手机三分钟实现养虾自由，限时免费体验",
+      "summary": "阿里云推出创新应用，用户仅需三分钟即可在手机上实现“养虾”自由。该产品主打安全稳定特性，目前正提供限时免费体验机会，降低用户参与门槛，展现了云计算技术向日常生活场景的深度渗透。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651021484&idx=1&sn=f8feeb138bc06b015ad79b6162eb4340&chksm=854f79783769442db5a767644762fb2d010d204b913647ef7d7c2e666d5fd10cec0d1259ec04&mpshare=1&scene=1&srcid=0314XA372NtbP1IWdq3mRCew&sharer_shareinfo=7a18ff27d4de24fffbcf48a060257100&sharer_shareinfo_first=7a18ff27d4de24fffbcf48a060257100",
+      "time": "12:13",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "龙虾创始人刚喊完合作，百度真打钱了",
+      "entity": "百度",
+      "clean_title": "刚喊完合作就火速打钱，投资动作迅猛",
+      "summary": "在龙虾创始人公开呼吁合作后，百度迅速做出实质性回应，直接进行资金投入。这一快速行动展现了百度在战略投资上的果断决策力，也反映出其对新兴合作机会的高度敏感性和执行力。科技巨头与创业公司的联动往往充满变数，而百度此次的迅速反应，为行业合作树立了高效务实的新标杆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481522&idx=1&sn=df1d300c658d0d4847dea44899faa30c&chksm=8665272a247284d5c019cd11a532e40b134a43e213a31dd096ae0894fe0a40320cf84091c25e&mpshare=1&scene=1&srcid=0314LN83m8tLW770kk2UDoXg&sharer_shareinfo=20e683f5d8d7e758e5524d291a82ff3e&sharer_shareinfo_first=20e683f5d8d7e758e5524d291a82ff3e",
+      "time": "12:43",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Karpathy随手搓的小项目，有人真的把AI研究社区造出来了...",
+      "entity": "Karpathy",
+      "clean_title": "随手搓的小项目竟成真，AI研究社区被完整复现",
+      "summary": "AI领域知名研究者Karpathy随手开发的小型项目，意外激发了社区的创造力，有人成功将其构想中的AI研究社区完整实现。这一事件凸显了开源生态的惊人迭代速度，以及顶尖研究者的个人项目如何成为行业创新的催化剂，展现了AI社区从概念到落地的惊人执行力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513343&idx=1&sn=693eb1259aae5061117e9b7ecb987709&chksm=cf343431587c81888d041d121b453bd8ffac0937d9be00710b8889a09248027dd2e783346477&mpshare=1&scene=1&srcid=0314gsfYyfCwpcpcHrkXo5AX&sharer_shareinfo=f640a44ebc2f1452c777638cd129cb86&sharer_shareinfo_first=f640a44ebc2f1452c777638cd129cb86",
+      "time": "14:50",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "AI时代非正式学习的再定位：基于OECD非正式学习报告（2025）",
+      "entity": "OECD报告",
+      "clean_title": "重新定义非正式学习在AI时代的关键角色",
+      "summary": "OECD最新报告揭示，在AI技术快速发展的背景下，非正式学习正从边缘补充转变为终身学习的核心支柱。报告指出，随着工作场所技能需求不断变化，通过日常实践、社交互动和在线资源进行的非正式学习，已成为适应AI时代的关键能力获取途径。这一转变要求教育政策和企业培训体系进行根本性重构。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490529&idx=1&sn=8ede9ab3100fc1e78ec04d8b91f06513&chksm=963821b08a7c7f0a66d0fb475c88a791210791ef131e836aef015667127b98805b88c9a4bf33&mpshare=1&scene=1&srcid=0314zzPkeTg9EC1TuABFIsYH&sharer_shareinfo=0393bb442003264108562205472eb1b7&sharer_shareinfo_first=0393bb442003264108562205472eb1b7",
+      "time": "15:51",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
+      "entity": "陶哲轩",
+      "clean_title": "菲尔兹奖得主创办AI x Science组织，推动科研范式变革",
+      "summary": "菲尔兹奖得主陶哲轩宣布创办AI x Science组织，旨在将人工智能深度融入科学研究各领域。这位数学界顶尖学者认为当前是AI赋能科研的关键节点，该组织将聚焦跨学科合作，开发专用AI工具，解决传统科研方法难以攻克的复杂问题，有望加速科学发现进程并催生全新研究范式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247874411&idx=1&sn=5152aa29efab440c236ed305ed46c7ea&chksm=e9e8df83ae8e1dcc8e4ad50f4862b9959ae41ad655c4194b4140b281ff9d1b5ab27d9ce91f44&mpshare=1&scene=1&srcid=0314UyFN3tnJqkhJkjtDCrw9&sharer_shareinfo=e625d7b35ad5d3e767ece70592e18655&sharer_shareinfo_first=e625d7b35ad5d3e767ece70592e18655",
+      "time": "15:51",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "21 岁大学生靠 Vibe Coding，卷上 GitHub 热榜第一，10天拿到3000万投资",
+      "entity": "Vibe Coding",
+      "clean_title": "21岁大学生凭创新编程方法登上GitHub榜首，10天斩获3000万投资",
+      "summary": "一名21岁大学生凭借独特的“氛围编程”方法在GitHub上引发轰动，其项目迅速登顶热榜第一，仅用10天时间就获得了高达3000万元的投资。这一现象级事件不仅展示了年轻开发者的创新潜力，更揭示了当前科技投资对新兴编程范式的追捧，引发业界对下一代编程工具和开发模式的深度思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247775606&idx=1&sn=7e2fb6fd8b886096ecfb6acd35669057&chksm=fa83c407d89230c0d06be7ab9a8817a0ada1e2ffc0420cd17c2b53e03983602c3444003ed5ed&mpshare=1&scene=1&srcid=0314X3dUInnXuyaSKdrJIPzn&sharer_shareinfo=fcf1bd6e2e1c24fd0260ae005ec621b2&sharer_shareinfo_first=fcf1bd6e2e1c24fd0260ae005ec621b2",
+      "time": "16:05",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "AI时代执行不再是难点，那么难点在哪里？",
+      "entity": "AI时代",
+      "clean_title": "执行不再是难点，真正的挑战在哪里？",
+      "summary": "文章探讨了AI技术普及后执行门槛降低的新现实，指出当前真正的难点已从技术实现转向战略定位、伦理治理和商业模式创新等更高维度。作者犀利地分析了行业从“怎么做”到“为何做”的范式转变，揭示了AI应用深水区的核心矛盾。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjkxOTMxNQ==&mid=2247483894&idx=1&sn=7c7067e766f977a21485df6b7694f421&chksm=cf852f36ea0b9e6ca0dfe2c519699beb582d7028ae961889c086f3a977f51329bbdd55bae223&mpshare=1&scene=1&srcid=0314uA0mxxhM3MvvAK2v4tDi&sharer_shareinfo=ff26cfe1daef6f0fb8d68af6dd2ecb80&sharer_shareinfo_first=ff26cfe1daef6f0fb8d68af6dd2ecb80",
+      "time": "16:22",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Claude Code 推出官方“龙虾”，百万上下文全面开放",
+      "entity": "Claude Code",
+      "clean_title": "推出官方“龙虾”，百万上下文全面开放",
+      "summary": "Claude Code正式发布官方“龙虾”功能，标志着其百万级上下文处理能力全面向用户开放。这一突破性更新将极大提升开发者的编程效率，支持更复杂的代码分析和生成任务，是AI编程助手领域的重要技术进展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481524&idx=1&sn=0e6b44e2aebab4e8d4c7693422532308&chksm=8671d176bba1aa36210e3d01ce0b580a2436b170d314de44564ca11ed0f90c591997deb9d379&mpshare=1&scene=1&srcid=0314EdV8RXLVlTlsZcitf4aK&sharer_shareinfo=6608d7535ba0636f3a0a582bdb877939&sharer_shareinfo_first=6608d7535ba0636f3a0a582bdb877939",
+      "time": "16:26",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "LeCun团队极具前瞻性论文，提出超人类适应性智能",
+      "entity": "LeCun团队",
+      "clean_title": "提出超人类适应性智能，开启AI新范式",
+      "summary": "LeCun团队发布前瞻性论文，提出超越人类适应能力的智能系统框架。该研究挑战现有AI范式，探索具备持续学习、环境适应和任务泛化能力的下一代人工智能，可能彻底改变AI发展路径。论文技术细节尚未公布，但概念本身已引发学术界高度关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650047518&idx=1&sn=f341684161812c5c5a03369697035010&chksm=8e292b63187014dd70ce4dbe01a3ec320ab95304206741c233b397fdba6c7709c603051f7634&mpshare=1&scene=1&srcid=0314OwtXG5gFCOlVyZpc8tFM&sharer_shareinfo=8368523d6e492c11d559110822bc554f&sharer_shareinfo_first=8368523d6e492c11d559110822bc554f",
+      "time": "16:31",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "深度｜Anthropic CEO：AI行业的盈利本质上源于对市场需求的低估，而亏损则因为高估了需求，2030年AI行业营收将跃迁至万亿美元级",
+      "entity": "Anthropic CEO",
+      "clean_title": "盈利源于低估需求，亏损因高估需求，2030年AI营收将达万亿美元级",
+      "summary": "Anthropic CEO指出AI行业盈利与亏损的核心在于对市场需求的判断偏差：盈利源于对需求的低估，而亏损则因高估需求。他预测到2030年，AI行业营收将跃升至万亿美元级别，揭示了行业发展的关键驱动因素与潜在风险。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247514566&idx=1&sn=79b002c47047d30e1e5d44fc392094e2&chksm=eade2ffcc6c22a5b54b13a3f0b7398a6a444ae4e02bbbe59e182b33e90581c6ddbe27308d378&mpshare=1&scene=1&srcid=0314SizO8ZJMyoGj0mld9IDT&sharer_shareinfo=0b130d712aab553987676173a4861b9d&sharer_shareinfo_first=0b130d712aab553987676173a4861b9d",
+      "time": "20:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "龙虾爆出漏洞，斯坦福 OpenJarvis 重新定义本地 AI Agent，附实测",
+      "entity": "OpenJarvis",
+      "clean_title": "爆出漏洞后重新定义本地AI代理，实测性能惊人",
+      "summary": "斯坦福大学开发的OpenJarvis在发现漏洞后进行了重大更新，重新定义了本地AI代理的能力边界。该工具通过优化架构显著提升了本地运行效率，实测显示在处理复杂任务时响应速度提升明显，为边缘计算和隐私敏感场景提供了新的解决方案。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481541&idx=1&sn=8c98313a2101e3af030706a54ae14ad6&chksm=86a020dcf89f98225dc6d7903bc3e9ceee7400ef8c3966ec319b91ea3048e9ced31038463a17&mpshare=1&scene=1&srcid=0315MfPgNxd8OJTSw5IiKPjb&sharer_shareinfo=9449e1def8077816fc5d1db996073266&sharer_shareinfo_first=9449e1def8077816fc5d1db996073266",
+      "time": "00:53",
+      "category": "🤖 模型与技术"
+    }
+  ]
+}
