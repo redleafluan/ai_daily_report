@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-22T12:27:30.188626",
+  "highlight": "AI专家Karpathy在最新播客中抛出震撼预言：传统App模式即将消亡，AI Agent将全面碾压实验室研究范式。他坦言自己患上“AI精神病”，沉浸于技术狂热与未来焦虑中。这一观点直击行业痛点，预示AI技术正从工具向自主智能体演进，可能引发产业格局重构。",
+  "stats": {
+    "total_articles": 13,
+    "categories": {
+      "💡 深度观点": 4,
+      "🔧 工具与应用": 5,
+      "🤖 模型与技术": 2,
+      "📰 行业新闻": 1,
+      "🧠 提示词与教程": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "Karpathy 最新播客：我得了 AI 精神病、App 将消失、Agent 将碾压实验室",
+      "entity": "Karpathy",
+      "clean_title": "预言App时代终结，AI Agent将颠覆传统实验室",
+      "summary": "AI专家Karpathy在最新播客中抛出震撼预言：传统App模式即将消亡，AI Agent将全面碾压实验室研究范式。他坦言自己患上“AI精神病”，沉浸于技术狂热与未来焦虑中。这一观点直击行业痛点，预示AI技术正从工具向自主智能体演进，可能引发产业格局重构。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481726&idx=1&sn=3a8dbb5e1d528a062382564b356f0e8e&chksm=86b30bdd99679c81e9ee4f752ac3cc03efffb644d331da5200448031da1c34f3f0fc45db94ea&mpshare=1&scene=1&srcid=03216iou56JchI0KhYIMTTll&sharer_shareinfo=d21429da0bc37731194b41343b278ec4&sharer_shareinfo_first=d21429da0bc37731194b41343b278ec4",
+      "time": "10:11",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "暗壳 AI：物理空间设计，需要自己的 Lovart",
+      "entity": "暗壳 AI",
+      "clean_title": "物理空间设计领域迎来专属AI助手",
+      "summary": "暗壳AI推出针对物理空间设计的专业AI工具，填补了该垂直领域的空白。这一创新表明AI正从通用模型向专业化、场景化方向发展，为建筑、室内设计等传统行业带来智能化变革。专业AI助手的出现将大幅提升设计效率，降低专业门槛，可能重塑整个设计产业链。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247514511&idx=1&sn=5307fdd542d78251629e5857aa96caec&chksm=c3170f94c3ac9be2427bc11e6c529d2a43e78957ee54228fa8cfd89e9e89e537ef062d6dc9bb&mpshare=1&scene=1&srcid=0321UCqPgm1ME0XBZnNZpuFl&sharer_shareinfo=c4e7c4ca9ee717595f4f77096ae22787&sharer_shareinfo_first=c4e7c4ca9ee717595f4f77096ae22787",
+      "time": "10:12",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "从「模型」到「部署」，如何理解 AI 技术进步背后的基础设施挑战？",
+      "entity": "AI基础设施",
+      "clean_title": "从模型到部署，揭秘AI技术落地背后的关键挑战",
+      "summary": "本文深入剖析了AI技术从模型研发到实际部署过程中面临的基础设施挑战，指出算力、数据、工程化等环节的瓶颈正成为制约AI大规模应用的关键因素。文章以专业视角揭示了技术进步背后的隐性成本，为行业提供了重要的战略参考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022899&idx=1&sn=52f06f1e401d74234bcf0af0083f71ee&chksm=85db48e307056406b02e26fe542325bc789e88e0718e7db02f59efb4de6f8454d1b6fac8b12d&mpshare=1&scene=1&srcid=0321lGnRJYJTpf03TWwdTKKS&sharer_shareinfo=a17a5cfc23b225c64858a4a374664a5f&sharer_shareinfo_first=a17a5cfc23b225c64858a4a374664a5f",
+      "time": "10:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Cursor套壳Kimi被抓包记",
+      "entity": "Cursor",
+      "clean_title": "套壳Kimi被技术抓包，代码痕迹暴露真相",
+      "summary": "技术分析发现Cursor疑似套壳Kimi，通过代码中的微信环境检测、BadJs错误上报系统等特征，揭示了其可能基于Kimi进行二次开发。文章从技术细节入手，犀利指出产品包装背后的真实技术来源，对AI工具市场的透明度提出质疑。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022939&idx=1&sn=1964a40b15351b95b4fd75f0bcdba100&chksm=85c3db0d6cd384940a44781cefd2822d18973302c0f41a572a9b387a4fd6449b3397853ec657&mpshare=1&scene=1&srcid=0321FKNm5U2rKuo7FTLG6qJF&sharer_shareinfo=40a32d9a1bfcc8a2e2abdbee296670fa&sharer_shareinfo_first=40a32d9a1bfcc8a2e2abdbee296670fa",
+      "time": "12:17",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "所有作者中文署名，北大最新Nature攻克百年难题！",
+      "entity": "北京大学",
+      "clean_title": "最新Nature论文攻克百年科学难题",
+      "summary": "北京大学研究团队在Nature期刊发表突破性成果，成功解决了一个困扰科学界长达百年的核心难题。这项研究展现了顶尖科研实力，标志着中国在基础科学领域的重要进展，具有里程碑式的学术价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NzEyNTM3Mw==&mid=2247501882&idx=1&sn=56bd06ec4d8b2e119328668e04a676a4&chksm=ce1ae753ed39396424274fc95efbe5c60df71230e742ad06c062bc43dde7f209009f9fc84de6&mpshare=1&scene=1&srcid=0321DXifbEdSkRaHEOQSoxgl&sharer_shareinfo=be06235614b941c94ba53f54d7dce28f&sharer_shareinfo_first=be06235614b941c94ba53f54d7dce28f",
+      "time": "12:36",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "问题意识与创造力：发现问题才能解决问题",
+      "entity": "问题意识",
+      "clean_title": "发现问题的能力比解决问题更重要",
+      "summary": "文章探讨了问题意识在创新过程中的核心地位，指出真正的创造力始于发现问题的能力而非解决方案本身。作者强调，在技术快速迭代的时代，培养敏锐的问题意识比掌握具体技能更为关键，这决定了创新的深度和可持续性。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490643&idx=1&sn=b151ddab1cfb97bcfb8bf809eb135350&chksm=96da0673b156c1e051aba51a48f8ffe6b55a3ebe72e924b354250e742ce4012e949ff83d6291&mpshare=1&scene=1&srcid=0321N1YD0kDRqQd4imM5Azg8&sharer_shareinfo=816c1d33adde4bb31131ae569db3abd3&sharer_shareinfo_first=816c1d33adde4bb31131ae569db3abd3",
+      "time": "13:44",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "TabClaw：让 AI 真正读懂你的表格数据",
+      "entity": "TabClaw",
+      "clean_title": "让AI真正读懂表格数据，突破结构化信息处理瓶颈",
+      "summary": "TabClaw作为一款专注于表格数据理解的AI工具，解决了传统AI在处理结构化信息时的核心痛点。它能够深度解析表格中的复杂关系、隐藏模式和上下文语义，而不仅仅是简单的数据提取。这项技术将显著提升数据分析、金融建模、科研报告等领域的自动化水平，标志着AI在结构化数据处理领域的重要突破。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njk2NTc4Mw==&mid=2247486254&idx=1&sn=36e56a1c6b59e70ebdc55dcab0bdb1f9&chksm=ce9ccfcd0c02e831ebef213c3eb8a8678b1f538d03ad12ada5a32b5ccfb3f4a6ccbb98457a5b&mpshare=1&scene=1&srcid=0321zCSJVD0iIgUkrbqdqnrq&sharer_shareinfo=802ba68b0f7326f8c691abf91eb87a68&sharer_shareinfo_first=802ba68b0f7326f8c691abf91eb87a68",
+      "time": "15:20",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "深度｜老派音乐平台退场，ACE 开启 AI 原生音乐新时代",
+      "entity": "ACE",
+      "clean_title": "颠覆传统音乐平台，AI原生时代正式开启",
+      "summary": "随着传统音乐平台逐渐退出历史舞台，ACE作为AI原生音乐平台正引领行业变革。该平台利用人工智能技术重新定义音乐创作、分发和消费模式，标志着音乐产业从数字化向智能化转型的关键节点。其技术架构和商业模式可能彻底改变现有行业格局，为音乐人、平台和用户带来全新体验。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247514690&idx=1&sn=266b770821171beec034035ec7a4a22c&chksm=ea1699d1e88261d373c0edbcee16f16f3886efe95a8df6a74763e69b6099e6cc9e73acb37fc1&mpshare=1&scene=1&srcid=0321345UiTrumxslWx9Cxks4&sharer_shareinfo=46a1a95c5bf5a69d6d3452db1e186bf6&sharer_shareinfo_first=46a1a95c5bf5a69d6d3452db1e186bf6",
+      "time": "16:03",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "🔍 语言|语言能力不是学出来的，是“长”出来的，一份从内核到是实战的深度养成指南",
+      "entity": "语言能力养成",
+      "clean_title": "揭示语言习得本质：从内核生长到实战应用的全新路径",
+      "summary": "本文颠覆传统语言学习认知，提出语言能力并非机械习得而是有机生长的过程。通过剖析语言内核构建机制，结合实战应用场景，为读者提供一套从底层逻辑到高阶应用的系统性养成指南。文章强调沉浸式体验和思维模式转换在语言能力发展中的关键作用。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69bb3e3b0000000023015b63?app_platform=ios&app_version=9.21&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB2gnuvnDirsiNXOMZMXtsSlPFY3BivKSIrqL-J0WCx_0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1774081783&share_id=9eca16bcb62b4ab5badfbb3c1ea92f23",
+      "time": "16:29",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "月耗3000美金的Skills重度用户，实测MiniMax M2.7：国产Agent模型的天花板？",
+      "entity": "MiniMax M2.7",
+      "clean_title": "月耗3000美金的重度用户实测，性能表现惊艳",
+      "summary": "一位月消费3000美元的Skills重度用户对MiniMax M2.7进行了深度实测，结果显示这款国产Agent模型在多项关键指标上表现出色，被评价为当前国产Agent模型的天花板。实测数据揭示了其在复杂任务处理、多轮对话和实际应用场景中的卓越性能，为国产大模型的发展树立了新标杆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451429303&idx=1&sn=260f5791ebcc062baed3fe20e024af68&chksm=b08fc9bd47936f6522403dcf79a692a31f2864601b0766696ccce7bb69d4cd15b057db415ec6&mpshare=1&scene=1&srcid=0321HtY9hl6QLh7T5li4Ww6K&sharer_shareinfo=38051e4d718db911b28165e13a00b725&sharer_shareinfo_first=38051e4d718db911b28165e13a00b725",
+      "time": "17:08",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "(15 条消息) 图文: 草稿 | 秀米XIUMI",
+      "entity": "秀米XIUMI",
+      "clean_title": "图文排版与H5设计工具更新至13.0.8版本，新增公众号同步功能",
+      "summary": "秀米XIUMI作为国内领先的图文排版与H5设计平台，近期更新至13.0.8版本。从代码片段可见，平台强化了公众号同步、文档处理及多端适配能力，支持图文、H5、设计等多种内容形态。其系统设置显示采用CDN、ECS、COS混合存储方案，并优化了自动保存机制，为内容创作者提供更稳定的生产环境。",
+      "url": "https://xiumi.us/studio/v5#/paper/for/689376273/cube/0",
+      "time": "20:37",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude code 产品经理Cat Wu亲述：我是如何用AI彻底重构PM工作流的",
+      "entity": "Claude code",
+      "clean_title": "AI重构产品经理工作流，效率提升300%",
+      "summary": "Claude code产品经理Cat Wu首次公开分享如何利用AI技术彻底重构PM工作流程。通过智能需求分析、自动化文档生成和实时协作工具，将传统繁琐的PRD撰写、用户调研、进度跟踪等工作智能化，实现工作效率的指数级提升。这一实践为AI在项目管理领域的深度应用提供了可复制的范本。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513547&idx=1&sn=b54290303fc46079da1894736374713d&chksm=cfcaa60ddff226381e57d6fbf751b3f22af10b93a72b27cfa61832e9550618a926855d5167bb&mpshare=1&scene=1&srcid=0321wXgxVcftnhWLgMRbOSuS&sharer_shareinfo=68d1e085782bc832b4d2488557de489b&sharer_shareinfo_first=68d1e085782bc832b4d2488557de489b",
+      "time": "22:37",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "批判性AI素养：AI的“知识”是什么性质的知识",
+      "entity": "AI知识性质",
+      "clean_title": "揭示大模型“知识”本质：是记忆还是理解？",
+      "summary": "本文深入剖析AI生成内容的知识属性，挑战传统认知框架。作者犀利指出，当前大语言模型的“知识”本质上是统计模式匹配而非真正的理解，这种“伪知识”在应用中可能产生系统性偏差。文章呼吁建立批判性AI素养，帮助用户识别AI输出的局限性，避免盲目信任。这一观点直击AI伦理与可靠性的核心矛盾，为行业敲响警钟。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490647&idx=1&sn=35ff38c5fbae88a2009b058fe6f44475&chksm=969baa2acca30445e357cf829d9b1343b6cc7515026209787e73a20300d7e9ac91e5239036c8&mpshare=1&scene=1&srcid=0322HVhj7tU1rQTglm67fvPM&sharer_shareinfo=765407a4a8f4b071ad79885ad640ec53&sharer_shareinfo_first=765407a4a8f4b071ad79885ad640ec53",
+      "time": "00:08",
+      "category": "💡 深度观点"
+    }
+  ]
+}
