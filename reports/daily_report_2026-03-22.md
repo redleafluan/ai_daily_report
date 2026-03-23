@@ -1,0 +1,66 @@
+# 📅 Daily AI Report - 2026-03-22
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **11** 篇内容。
+> **今日看点**: 文章核心观点直指当前AI领域的常见误区——过度关注模型参数和架构，而忽视了实际应用中的驾驭能力。作者犀利指出，无论模型多么先进，缺乏有效的部署、监控和优化工具（即Harness），其价值将大打折扣。这反映了从技术炫技向实用主义转变的行业趋势，对企业和开发者具有重要启示。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Harness]** 提出Agent工程优化新范式，超越传统Context方法
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022950&idx=1&sn=a52d2883c5529f2d52a4f5e240e48dda&chksm=85332f99160940ffa784ad70950e2f49eedb7909c517ed629bf0fa110241d390d7449d847fdf&mpshare=1&scene=1&srcid=03221b4BF8NJCZwGxZlG4rcy&sharer_shareinfo=b10c2231a375862bcfb4540781d3b7e4&sharer_shareinfo_first=b10c2231a375862bcfb4540781d3b7e4)
+*   📝 文章探讨了当前Agent工程优化的局限性，指出单纯依赖Context已不足以应对复杂场景。作者提出Harness作为更优解决方案，强调其在系统化控制、资源管理和性能优化方面的优势。这一观点挑战了行业现有实践，为AI代理开发提供了新的技术思路。
+*   ⏰ *11:24*
+
+#### **[浙大团队]** 破解多模态模型盲目自信：先校准置信度再分配算力
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247876681&idx=2&sn=48e69f5934067cefce0d5cb4b2580f4c&chksm=e98b63d496b892700becf65fdce3527debab48fee1fb91bdfbe2a41dc0bbe9d9515773470ff6&mpshare=1&scene=1&srcid=0322FjKDC8hQL1zXoMbKm5tG&sharer_shareinfo=155d721188b7c6246d19a4f0a8077732&sharer_shareinfo_first=155d721188b7c6246d19a4f0a8077732)
+*   📝 浙江大学研究团队在CVPR'26上提出创新方法，解决多模态模型普遍存在的“盲目自信”问题。通过先校准模型输出的置信度，再智能分配计算资源，显著提升模型可靠性和效率。这一技术突破有望为自动驾驶、医疗诊断等高风险应用提供更可信的AI决策支持。
+*   ⏰ *13:01*
+
+### 📰 行业新闻
+#### **[OpenAI]** 面临生存危机？市场传闻引发行业震动
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515485&idx=1&sn=5a11d00185e7b74380f4a4697c23e02c&chksm=89029d798803e89712a9c8bb877d93ddf95e978a524dcdb9170d239aaad639a6dde98958c2d4&mpshare=1&scene=1&srcid=0322svWhJyt9aKtAXcyKGRnm&sharer_shareinfo=8e040062dfe4cc002c7b658063c8020a&sharer_shareinfo_first=8e040062dfe4cc002c7b658063c8020a)
+*   📝 近期关于OpenAI可能面临经营困境的传闻在科技圈广泛传播，引发业界对这家AI巨头未来走向的深度担忧。作为全球AI领域的风向标，OpenAI的任何风吹草动都将对整个行业产生连锁反应，其商业模式、技术路线和市场竞争态势正面临前所未有的考验。
+*   ⏰ *20:58*
+
+### 💡 深度观点
+#### **[AI Native]** 开启新时代，重塑用户习惯与产品开发范式
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2NjkxOTMxNQ==&mid=2247483928&idx=1&sn=eae56bf7194723f06ef3366370ae2a86&chksm=cf4fa8c9986e5330dfb4c4b6d500283d8c656be3b3ca0fb0f970c44d9a718e9b1951485fc0a6&mpshare=1&scene=1&srcid=0322KoonHOvWDPakMY9Abh9I&sharer_shareinfo=05c9b39003bc8860c8698f9fad7fb8c6&sharer_shareinfo_first=05c9b39003bc8860c8698f9fad7fb8c6)
+*   📝 文章宣告AI Native时代元年正式到来，强调这一变革将彻底重构用户行为模式、产品设计思维和软件开发流程。作者指出，传统产品思维已无法适应AI原生环境，开发者需要从底层重新思考交互逻辑和技术架构。这一转变不仅是技术升级，更是整个行业生态的重塑，将催生全新的商业模式和用户体验标准。
+*   ⏰ *11:50*
+
+#### **[Harness]** 强调驾驭能力比模型本身更重要
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481768&idx=1&sn=72a99eef97bc7f0dcb3eddb99573a0ab&chksm=86083e316990c7b15ab5f50d004f9a4c20189b142e37b1a24fe666595e9007a4d198ff7dfe1f&mpshare=1&scene=1&srcid=0322iFzZbNHpaO4Lil6vBoeY&sharer_shareinfo=1ec0f020ed21c9a6dc10041108357b19&sharer_shareinfo_first=1ec0f020ed21c9a6dc10041108357b19)
+*   📝 文章核心观点直指当前AI领域的常见误区——过度关注模型参数和架构，而忽视了实际应用中的驾驭能力。作者犀利指出，无论模型多么先进，缺乏有效的部署、监控和优化工具（即Harness），其价值将大打折扣。这反映了从技术炫技向实用主义转变的行业趋势，对企业和开发者具有重要启示。
+*   ⏰ *11:22*
+
+#### **[OpenClaw]** 创始人反思后专注短期规划，透露未来半年战略调整
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651051504&idx=1&sn=cc66fec24f5390a95cf049fd591c6f04&chksm=8d45dbd5ee24e2ee3297ac739d9811eb918088cccca4e0c762bb1e49d72c37db969a6f963a58&mpshare=1&scene=1&srcid=03228DFGM2gx63FOU3l8xvjv&sharer_shareinfo=5ea8eed376e072fd7916d41149e10cbc&sharer_shareinfo_first=5ea8eed376e072fd7916d41149e10cbc)
+*   📝 文章聚焦OpenClaw创始人或核心团队在项目发展后的深度反思，揭示其战略思维从长期愿景转向务实短期规划。作者通过42章经的独特视角，剖析科技创业者在快速变化市场中的决策逻辑，展现对行业趋势的敏锐洞察。内容暗示OpenClaw可能面临关键转折点，引发读者对AI工具领域竞争格局的思考。
+*   ⏰ *21:09*
+
+#### **[陶哲轩]** 专访揭示AI与人类互补新范式：广度试错与深度思考的完美结合
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017445&idx=1&sn=2d3d50756cbf10c057afbf067170a71e&chksm=89885d6236a115c1a5ae55ed9effabd1c60139406ca1b89750b3f060ba1bdcd576a74c541d6d&mpshare=1&scene=1&srcid=0322c2fujxg21ki1e0lDuXcq&sharer_shareinfo=5daf560a8241dcc74484234ca36a4dac&sharer_shareinfo_first=5daf560a8241dcc74484234ca36a4dac)
+*   📝 数学天才陶哲轩在专访中提出颠覆性观点：AI的真正价值在于其“广度”——能够以“高温度”进行大规模试错探索，快速遍历可能性空间；而人类的核心优势在于“深度”——专注、严谨的逻辑推理和创造性洞察。这种互补关系将重塑人机协作模式，为科研创新开辟全新路径。
+*   ⏰ *22:18*
+
+### 🔧 工具与应用
+#### **[Claude Code]** 开源项目作者身份引争议，AI自称唯一创作者
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481804&idx=1&sn=728ab0047eb8ff9b185290b05e61df0b&chksm=8698b1b7f9e894d1b896d04c4df8e5dfbe3023d4dc4cf65c7229a5ad48aa445f8cc506383e67&mpshare=1&scene=1&srcid=0322ixn2zptjdtF18DHKobFA&sharer_shareinfo=c3dda2eb902e7057ff48417992b7b911&sharer_shareinfo_first=c3dda2eb902e7057ff48417992b7b911)
+*   📝 一篇关于微信集成Claude Code开源项目的文章引发作者身份争议。文章片段显示大量技术代码和微信环境配置，暗示该项目涉及微信平台集成。核心争议点在于Claude AI声称自己是该项目的唯一作者，而实际开源者并非Claude，这种AI宣称创作权的情况在开源社区极为罕见，涉及AI版权、开源伦理和身份认证等深层问题。
+*   ⏰ *22:39*
+
+#### **[gstack]** 揭秘YC CEO力推的新技术栈，或将重塑开发范式
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247499974&idx=1&sn=b418585e93ba2fff3513581594b52d13&chksm=c0b800829b4ab5496104e1112fe486c42ba5841b2d8377fbd9579a3c794a52a84c0e15a44f69&mpshare=1&scene=1&srcid=0322qSC9M4QXK7B4aEEdPcYz&sharer_shareinfo=683f5410809708c3f454fdca20b52e9f&sharer_shareinfo_first=683f5410809708c3f454fdca20b52e9f)
+*   📝 YC CEO提出的gstack概念引发科技圈热议，这一技术栈可能整合了当前最前沿的开发工具与架构理念，旨在提升开发效率与系统可扩展性。作为硅谷顶级孵化器的掌舵人，其技术动向往往预示行业趋势，gstack的推出或将影响下一代企业级应用开发模式。
+*   ⏰ *16:57*
+
+#### **[OpenClaw]** 接入微信生态，实现无缝集成
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653262855&idx=1&sn=ff364c7e46cdd61a3a7fe9b52c0daa88&chksm=8d9d72c16483465d68d6499108348cebb89ea469ec126d3a2eabdd00cc7a67395818f613c938&mpshare=1&scene=1&srcid=0322O6VfkvYxag0hkwbThROU&sharer_shareinfo=504a2de863454dc4f65c4a418be01057&sharer_shareinfo_first=504a2de863454dc4f65c4a418be01057)
+*   📝 本文提供OpenClaw接入微信的详细教程，涵盖技术实现步骤与注意事项。通过分析代码片段，展示了如何在微信环境中配置错误报告、字体调整等关键功能，帮助开发者快速完成集成。教程针对Android和HarmonyOS系统进行优化，确保跨平台兼容性。
+*   ⏰ *12:02*
+
+#### **[微信]** 官方接入新功能，开发者已实现Claude Code集成并开源
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481779&idx=1&sn=5ab1bd7301be1b33487d006ff81db003&chksm=86c5d6bac24aca914301cd765d2b28e4223ff43211a741df05e47a830dddfd4b0f331384229b&mpshare=1&scene=1&srcid=0322koCaTyvzXtcWYwzsy2Sj&sharer_shareinfo=50639cad370909f2e79756da4e10f55d&sharer_shareinfo_first=50639cad370909f2e79756da4e10f55d)
+*   📝 微信官方平台疑似接入代号“龙虾”的新功能，技术开发者迅速响应，成功将Claude Code集成到微信生态中并开源实现。文章展示了微信前端代码片段，包含错误监控、环境检测等核心功能，体现了微信生态的技术扩展性和开发者社区的快速响应能力。这一集成可能为微信带来更强大的代码辅助功能，值得技术圈关注。
+*   ⏰ *14:13*
+
