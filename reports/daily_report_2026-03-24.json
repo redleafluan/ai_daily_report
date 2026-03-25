@@ -1,0 +1,251 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-25T12:30:50.403779",
+  "highlight": "欧盟设定的2025年教育目标未能如期实现，引发关于终身学习责任归属的深刻讨论。文章尖锐指出，在数字化快速发展的时代背景下，个人、政府与社会机构在终身教育中的角色定位模糊，导致目标落空。这一现象不仅暴露了教育政策的执行困境，更反映了现代社会对持续学习机制的系统性缺失，值得政策制定者与教育从业者深度反思。",
+  "stats": {
+    "total_articles": 26,
+    "categories": {
+      "💡 深度观点": 7,
+      "📰 行业新闻": 6,
+      "🔧 工具与应用": 6,
+      "🤖 模型与技术": 6,
+      "🧠 提示词与教程": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "欧盟的2025教育目标未达标：终身学习是自己的事还是别人的事？",
+      "entity": "欧盟教育目标",
+      "clean_title": "2025年目标未达标，终身学习责任归属引争议",
+      "summary": "欧盟设定的2025年教育目标未能如期实现，引发关于终身学习责任归属的深刻讨论。文章尖锐指出，在数字化快速发展的时代背景下，个人、政府与社会机构在终身教育中的角色定位模糊，导致目标落空。这一现象不仅暴露了教育政策的执行困境，更反映了现代社会对持续学习机制的系统性缺失，值得政策制定者与教育从业者深度反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490668&idx=1&sn=f911010f3833a4bf43b7fa6ab2185fa4&chksm=96086a1da204569b39b8042a8d6b50a256873f9fcda33a55c6c15177647adf37349b95558416&mpshare=1&scene=1&srcid=0324ShXZlmPhTjj42cBM3u9i&sharer_shareinfo=4e9d8a0e66cb1e0e56367709940cbda8&sharer_shareinfo_first=4e9d8a0e66cb1e0e56367709940cbda8",
+      "time": "12:33",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "刚刚，Anthropic 发布官方「龙虾」",
+      "entity": "Anthropic",
+      "clean_title": "发布官方「龙虾」，引发行业关注",
+      "summary": "Anthropic作为AI领域的重要参与者，此次发布官方「龙虾」产品，虽然文章正文被技术代码片段占据，但这一动作暗示着公司在产品布局或技术展示上的新动向。在竞争激烈的AI市场中，Anthropic的每一步都可能影响行业格局，值得科技界密切关注其后续发展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453481834&idx=1&sn=b23d428cde36fa7f2d1367e04d67c80c&chksm=86d21022d2a832835c46f2ccf0b4c7d8d90bed49444ebd41a8d6c95cef168517bb79d00b9ff2&mpshare=1&scene=1&srcid=03245V4ijYeiUMmzyUIJTSsZ&sharer_shareinfo=59a0e3e04b044a3f32053033d4da999c&sharer_shareinfo_first=59a0e3e04b044a3f32053033d4da999c",
+      "time": "12:33",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Agent，能自动做生意、赚真钱了",
+      "entity": "Agent",
+      "clean_title": "实现自动化商业运营，开启真实盈利模式",
+      "summary": "AI Agent技术已突破理论验证阶段，进入实际商业应用领域。最新进展显示，智能体不仅能执行预设任务，还能自主进行商业决策、完成交易流程并产生真实经济收益。这标志着人工智能从辅助工具向独立商业主体的转变，可能重塑传统商业模式和劳动力市场结构。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247514575&idx=1&sn=2f515d103a22f11ca766d975de34849d&chksm=c3ca258f38131fb3775903df272e655bd2e661a3b8c79f74d5bd444f478fa19ed4b14092baf9&mpshare=1&scene=1&srcid=0324F4P6W8LdxpsuyE3whPzN&sharer_shareinfo=1fbb41c2c8c9498e6f97d0a082389fca&sharer_shareinfo_first=1fbb41c2c8c9498e6f97d0a082389fca",
+      "time": "13:19",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "前OpenAI核心创始成员Karpathy：编程Agent写的代码一团糟，根本不听我的md指令，没办法只能接受！知名创始人：md文件只会让智能体更糟！",
+      "entity": "Karpathy",
+      "clean_title": "编程Agent代码质量堪忧，指令执行混乱引业界反思",
+      "summary": "前OpenAI核心创始成员Karpathy公开吐槽编程Agent的代码质量，称其产出代码混乱且不遵循Markdown指令，最终只能无奈接受。这一爆料引发行业对AI编程工具实际效果的质疑，知名创始人更直言Markdown文件反而会降低智能体表现，暴露了当前AI辅助编程工具在指令理解和代码生成质量上的明显短板。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655937435&idx=1&sn=d1e82e3c263d65af3ff5aa7fd7078540&chksm=bcb2855b76bfb9e3909d8482942c18651de57c7fc2d195a4355da43c5a3d3b7c8b277d7ad31c&mpshare=1&scene=1&srcid=0324ufNlz98DVNM2666btqme&sharer_shareinfo=313cd30f9ad29c3c68ddbb6140fc0229&sharer_shareinfo_first=313cd30f9ad29c3c68ddbb6140fc0229",
+      "time": "13:23",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Google 升级 AI Studio",
+      "entity": "Google AI Studio",
+      "clean_title": "迎来重大升级，功能全面增强",
+      "summary": "Google对其AI开发平台AI Studio进行了重要升级，新版本在功能、性能和用户体验方面均有显著提升。此次更新旨在为开发者提供更强大的AI模型集成能力和更便捷的开发工具，进一步巩固Google在AI基础设施领域的领先地位。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247500000&idx=1&sn=706ad9c4244b23098b0307a49a627874&chksm=c026532e25ce85ad6f1676190b4809a8066224ef31e7b5ae0c18eb69f3397f743c65ad006ab8&mpshare=1&scene=1&srcid=0324fPBVbUluA4kbGGnBp6Xs&sharer_shareinfo=3c24de4b0c52d773ba8b90d92b9ac8b6&sharer_shareinfo_first=3c24de4b0c52d773ba8b90d92b9ac8b6",
+      "time": "15:05",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "独立分析师Evans：OpenAI的挑战在于“广度一英里，深度一英寸”、企业AI还在试点期，“即兴软件”将兴起",
+      "entity": "OpenAI",
+      "clean_title": "面临“广度一英里，深度一英寸”挑战，企业AI仍处试点期，新兴“即兴软件”将崛起",
+      "summary": "独立分析师Evans指出，OpenAI当前面临“广度一英里，深度一英寸”的困境，即覆盖范围广但专业深度不足。企业AI应用大多仍停留在试点阶段，尚未实现规模化部署。同时，分析师预测“即兴软件”将兴起，这类软件能快速响应特定需求，可能成为AI应用的新趋势。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650017480&idx=1&sn=93d55ffa79d1cd5d36d3e7049801a690&chksm=89cbe729058849aadbaffaa74e6672002243f5f70e94e69e4ececf0abeb5d7fcccb7a442a784&mpshare=1&scene=1&srcid=0324B2KPTVFThzz7P7E6g2DH&sharer_shareinfo=51dd674f55f1eeb361ed7de42a9fec6f&sharer_shareinfo_first=51dd674f55f1eeb361ed7de42a9fec6f",
+      "time": "15:26",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "ICASSP 2026｜Easy Turn：全双工口语对话系统中融合声学与语言模态的鲁棒轮次转换检测",
+      "entity": "Easy Turn",
+      "clean_title": "融合声学与语言模态，实现全双工口语对话系统的鲁棒轮次转换检测",
+      "summary": "ICASSP 2026论文提出Easy Turn系统，创新性地融合声学与语言模态，解决了全双工口语对话中轮次转换检测的鲁棒性问题。该技术突破传统单模态限制，通过多模态信息互补，显著提升对话系统的自然度和响应准确性，为人机交互领域带来重要进展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjkxOTMxNQ==&mid=2247483930&idx=1&sn=e58146054a61cde3e4fbe6361c9807d9&chksm=cfce2728f158333f65c34878742abb693c85d37cec8ce24c909f7545a9b4457d7c6805e4ab9f&mpshare=1&scene=1&srcid=0324iG9Wj4LT6ARkzizbhHFV&sharer_shareinfo=d7f2fa0e2e4a36e0fcb9758f5b0a3359&sharer_shareinfo_first=d7f2fa0e2e4a36e0fcb9758f5b0a3359",
+      "time": "16:29",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "阿里Qoder这个专家团队，让我感受到了当老板的快乐",
+      "entity": "阿里Qoder",
+      "clean_title": "专家团队让老板体验前所未有的管理乐趣",
+      "summary": "阿里Qoder专家团队通过高效协作与专业能力，显著提升项目开发效率与质量，让管理者体验到轻松掌控复杂技术项目的愉悦感，展现了专业团队在数字化转型中的核心价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwMTU5OTQ1Nw==&mid=2653725879&idx=1&sn=91e60ad0d42a9b580fea7f5b5b924332&chksm=8c799898c2e67f60ad0a108e3d846d3776b903b3629e19251b7bee1e8e970792cceb4a5bce42&mpshare=1&scene=1&srcid=0324BgcyAHfA7AAVPvlIQIXb&sharer_shareinfo=7bfa53b88b905bfd88ca285aef44f6e1&sharer_shareinfo_first=7bfa53b88b905bfd88ca285aef44f6e1",
+      "time": "16:40",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Sand.ai重磅更新MagiAttention，正在定义分布式Attention性能新标杆",
+      "entity": "Sand.ai",
+      "clean_title": "发布分布式Attention新架构，重新定义性能标准",
+      "summary": "Sand.ai推出MagiAttention重大更新，通过分布式架构突破传统Attention机制的性能瓶颈，在计算效率和可扩展性方面实现显著提升，有望为大规模AI模型训练提供新的技术解决方案。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651023372&idx=1&sn=90fee5f44432aae8f8645d342ceeccb4&chksm=8536828058253b7f49d41c79e6a9f7a0259b7f85d14610f452a7e3a84fc16673a5377cf0bfbb&mpshare=1&scene=1&srcid=0324oRCITxrPJmTXyCTEV9vG&sharer_shareinfo=241627d7f73d03262eb6212547728979&sharer_shareinfo_first=241627d7f73d03262eb6212547728979",
+      "time": "16:40",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Karpathy刚开源的autoresearch，我拿来优化龙虾skill，成功率从56%飙到92%",
+      "entity": "autoresearch",
+      "clean_title": "优化龙虾技能成功率从56%飙升至92%",
+      "summary": "Karpathy最新开源项目autoresearch被应用于龙虾技能优化，实验数据显示成功率从56%大幅提升至92%，展现了该工具在特定任务优化中的显著效果。这一案例为AI工具的实际应用提供了新的思路，值得技术开发者关注其潜在应用场景。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxNjcyNTk2NA==&mid=2247491291&idx=1&sn=42cf15edfa63115f4f4f48d82282bf72&chksm=c066390a591f8e2a33dd82a7cfd2d10e6306d4eb7322cf9830838cf7ec7777b5460f545553e6&mpshare=1&scene=1&srcid=0324VUXLCwXShqQTfqvbzAfx&sharer_shareinfo=f0b123032cb99fe2a4454631fefbbe81&sharer_shareinfo_first=f0b123032cb99fe2a4454631fefbbe81",
+      "time": "16:43",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "黄仁勋暴论核弹：AGI已经实现，Ilya错了，程序员有10亿",
+      "entity": "黄仁勋",
+      "clean_title": "宣称AGI已实现，反驳Ilya观点，预言程序员数量将达10亿",
+      "summary": "英伟达CEO黄仁勋发表惊人言论，声称通用人工智能（AGI）已经实现，并公开反驳OpenAI联合创始人Ilya Sutskever的观点。他预测未来全球程序员数量将达到10亿规模，这一系列言论在科技界引发激烈讨论，挑战了当前AI发展的主流认知框架。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877435&idx=1&sn=ddef4d3bf19bf181e27a6c88c02ee8a6&chksm=e917b73a8e23409dd08c944d126d86dbfe91f87d19e84c95c117b3d3267db772ab49e72bdd0a&mpshare=1&scene=1&srcid=0324SEOIG7O2R9tfMps1s9YE&sharer_shareinfo=f0b003fe9e47b605498c3c43f3c0a5b7&sharer_shareinfo_first=f0b003fe9e47b605498c3c43f3c0a5b7",
+      "time": "16:57",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Token的译名，不再是量子位",
+      "entity": "Token译名",
+      "clean_title": "告别量子位，新译名引发行业热议",
+      "summary": "科技术语翻译再起波澜，Token这一关键概念正式放弃'量子位'这一沿用多年的译名。这一变动不仅反映了技术概念的演进，更揭示了中文科技话语体系与国际接轨过程中的深层思考。译名变更背后，是技术定义的精进与行业共识的重塑，将对学术交流、技术传播产生深远影响。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247514583&idx=1&sn=1462a936651cbf38f1f2f2cb1256ae0e&chksm=c32e97b2ce1473bd0bb7100587b9f386c95145d141e7c170359e6ca08c379ec7311d787de373&mpshare=1&scene=1&srcid=0324A9TanrYP1IXPYTZ5x8sI&sharer_shareinfo=79697c17ce51a6064e8b087e6393db5f&sharer_shareinfo_first=79697c17ce51a6064e8b087e6393db5f",
+      "time": "18:59",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenClaw危了？Claude Code迎来最激进升级：AI 开始直接操控电脑，正面挑战 OpenAI",
+      "entity": "Claude Code",
+      "clean_title": "迎来最激进升级：AI开始直接操控电脑",
+      "summary": "Claude Code迎来重大技术突破，AI不再局限于代码生成，而是能够直接操控电脑执行任务。这一升级标志着AI从辅助工具向主动执行者转变，可能彻底改变开发工作流程和人机交互方式。技术实现细节尚未完全披露，但已引发行业对AI自主性边界和安全性的深度讨论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651279611&idx=1&sn=6d11d88f25b49e7acb47238a755ef84e&chksm=bc9af91ef8620b30e361cba99994752103e2b879d1c12e2d40bbb2513e74e82912cb5fcbb57e&mpshare=1&scene=1&srcid=0324yLy0NeRvc5abiwxgdOxP&sharer_shareinfo=f63be7dac9c484e379a0a79c97585ddf&sharer_shareinfo_first=f63be7dac9c484e379a0a79c97585ddf",
+      "time": "19:13",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "京东京造，加速制造 AI+ 爆款",
+      "entity": "京东京造",
+      "clean_title": "加速制造AI+爆款，重塑消费电子格局",
+      "summary": "京东旗下自有品牌京东京造正通过AI技术深度赋能产品研发与制造，加速打造智能硬件爆款。该战略将AI能力融入从设计到生产的全链条，旨在提升产品智能化水平与市场竞争力，展现京东在消费电子领域的技术野心与产业布局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247534208&idx=1&sn=30837e6eb4f7d5d88d71785bd485eb91&chksm=fd248c496abb99017461467cb902089c50ed46e808f54a0ea161ba1ae6ae86f2c21721a3d85d&mpshare=1&scene=1&srcid=0324n7yXJxANFbiITghv9aYN&sharer_shareinfo=032c6e9f8a91d984ed41288e82b203ee&sharer_shareinfo_first=032c6e9f8a91d984ed41288e82b203ee",
+      "time": "19:13",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "捏脸养成+自主进化，这只桌面龙虾玩法彻底变了",
+      "entity": "桌面龙虾",
+      "clean_title": "捏脸养成+自主进化，玩法彻底革新",
+      "summary": "一款名为“桌面龙虾”的产品正经历玩法革命，从简单的桌面宠物升级为具备捏脸养成和自主进化功能的智能伴侣。用户不仅能自定义外观，还能见证其AI驱动的成长轨迹，这标志着虚拟宠物向个性化、智能化方向迈出关键一步，或将重新定义数字陪伴体验。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247615664&idx=1&sn=b20205948bfffea2a1f4502c53527532&chksm=962f699592bb7b5f5f8d4073f48f362035436a365fe492cd7a9f1d45a9cf70543e7ac85c8114&mpshare=1&scene=1&srcid=0324mK8TQgEVAp0m8bH41Gvn&sharer_shareinfo=c4d6163d8b427e1d2cb2c4280794799b&sharer_shareinfo_first=c4d6163d8b427e1d2cb2c4280794799b",
+      "time": "19:13",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "苏黎世联邦理工实测：一句Prompt就能摧毁16个Agent组成的「共识网络」多Agent避坑指南来了",
+      "entity": "苏黎世联邦理工",
+      "clean_title": "实测发现：一句提示词就能摧毁16个Agent组成的共识网络",
+      "summary": "苏黎世联邦理工学院的最新研究揭示了多Agent系统的致命弱点：仅需一句精心设计的Prompt就能彻底破坏由16个智能体组成的共识网络。这项实验暴露了当前多Agent协作架构的安全隐患，为开发者提供了关键的避坑指南，警示业界在追求智能体协同效率的同时必须重视系统鲁棒性设计。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247507729&idx=1&sn=3c34110feebc8d1b669564c6f1bf3a4a&chksm=cec2cfbd4a20f6aad56d82bd6ab286e735d69b689a5478e4c9180a9e6ec8714d7b9b21ab6c87&mpshare=1&scene=1&srcid=0324RRmYTpS5X8snzndCGWXe&sharer_shareinfo=2ab1019ec8a70fe2e977b9939b67cf5f&sharer_shareinfo_first=2ab1019ec8a70fe2e977b9939b67cf5f",
+      "time": "20:15",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "新手必看的15个OpenClaw🦞实战案例",
+      "entity": "OpenClaw",
+      "clean_title": "15个实战案例详解，从入门到精通",
+      "summary": "本文为OpenClaw新手提供15个实战案例，涵盖基础操作到高级应用，通过具体示例演示工具的核心功能和使用技巧。案例设计注重实用性和可操作性，帮助开发者快速上手并解决实际问题，适合不同水平用户参考学习。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653262862&idx=1&sn=c0b978d43b5cd35361946f77eeab6eb1&chksm=8d8e593e24bab50667cafc8dfd8865fbd22ee2f6f581296e3175d7f3e18c679eba3f7eedc92a&mpshare=1&scene=1&srcid=03248jwdfIiDB5DpLggRPr68&sharer_shareinfo=ca5153e70109a5192ac433d6a3b46245&sharer_shareinfo_first=ca5153e70109a5192ac433d6a3b46245",
+      "time": "23:27",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "APP 是功能的软件化，Skill 是经验的软件化",
+      "entity": "Skill",
+      "clean_title": "从功能到经验的软件化演进，定义下一代交互范式",
+      "summary": "文章提出APP是功能的软件化，而Skill是经验的软件化这一核心观点。这标志着软件发展从单纯功能实现向经验传承和智能交互的深刻转变。Skill概念将人类专业知识、工作流程和决策能力封装为可复用的软件单元，可能重塑人机协作模式，推动AI应用从工具向伙伴进化。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODU1MzQzOQ==&mid=2451429324&idx=1&sn=667950f91ff58af907ac463f7ae5a03e&chksm=b0aa7365ab17a473721031865866c2f32e9921f5ca93ebfc843b3f2e96ae62869e43220a3f83&mpshare=1&scene=1&srcid=0324bK54BTAtzgE1K4gQ5VSz&sharer_shareinfo=db07e4a92556acb702df43f3afd96863&sharer_shareinfo_first=db07e4a92556acb702df43f3afd96863",
+      "time": "23:48",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "精益创业确实是垃圾方法论，另外几个也是｜MindCode周报 No.64",
+      "entity": "精益创业",
+      "clean_title": "被批为垃圾方法论，多个创业理论遭质疑",
+      "summary": "文章犀利批判精益创业等流行方法论，指出其在实际应用中存在严重缺陷，可能误导创业者。作者通过分析多个案例，揭示这些理论背后的逻辑漏洞和现实局限性，为创业圈提供警示性反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTYwMzcyNw==&mid=2247486112&idx=1&sn=2f0dc4b19badb97a1266ebfc75de879a&chksm=9ae059726ba62e3c1d0ee11439d273d391d80f690bde7d6d04941d23211b4a26084f8814cf80&mpshare=1&scene=1&srcid=0324kp6b16NNU0oxfzeHyZ7x&sharer_shareinfo=80b5d28350efc73f2d05b30ef7497135&sharer_shareinfo_first=80b5d28350efc73f2d05b30ef7497135",
+      "time": "23:50",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Karpathy：\"写代码\"已经不是对的动词了",
+      "entity": "Karpathy",
+      "clean_title": "编程范式已变，传统编码方式面临颠覆",
+      "summary": "前特斯拉AI总监、OpenAI创始成员Karpathy提出颠覆性观点：在AI时代，“写代码”这一传统表述已不再准确。他认为编程范式正在发生根本性转变，开发者需要重新定义工作方式。这一观点直击AI编程工具快速发展的核心矛盾，预示软件开发行业即将迎来结构性变革。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494310&idx=1&sn=e71a843c3376b469c97dc64007b9104a&chksm=c299caa4b0dc81347a86fbbc8437bf699715c8c73565e568f9dcce4cb6ec8e16d83a0751b897&mpshare=1&scene=1&srcid=0324rFHDKaWysDcbhTU0XRmV&sharer_shareinfo=0fbeae212688f02b414409ddd1f1d8ef&sharer_shareinfo_first=0fbeae212688f02b414409ddd1f1d8ef",
+      "time": "23:50",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "对话硅谷大舅：美国AI与龙虾热度、工程师现状与华人红利",
+      "entity": "硅谷大舅",
+      "clean_title": "深度剖析美国AI行业现状与华人工程师机遇",
+      "summary": "本文通过对话硅谷资深人士，揭示了美国AI领域的最新动态：龙虾产业热度意外成为行业风向标，工程师市场呈现结构性变化，华人技术人才正迎来前所未有的发展红利。文章以犀利视角剖析了技术趋势、人才流动和产业机遇的交织关系。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTYwMzcyNw==&mid=2247486077&idx=1&sn=aba840c7495a33e53cf8128f029f3dac&chksm=9a339c9621c6e4f5ae65ea980dbeca70be520936b0edf1c47a14529d75e19c3ff2c73444f8c0&mpshare=1&scene=1&srcid=0324O5BbJJutGTh6moh4yzPh&sharer_shareinfo=5e58cfdedc024f3e0fd9f3253e97f6c0&sharer_shareinfo_first=5e58cfdedc024f3e0fd9f3253e97f6c0",
+      "time": "23:51",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenAI死对头只有1个营销人员，但这不是最可怕的",
+      "entity": "OpenAI死对头",
+      "clean_title": "仅1个营销人员，却成最大威胁",
+      "summary": "文章聚焦OpenAI的竞争对手，揭示其仅配备1名营销人员的惊人事实，暗示其核心竞争力远超表面营销规模，可能通过技术或商业模式创新构成实质性威胁，引发对AI行业竞争格局的重新思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTgwNg==&mid=2247559281&idx=1&sn=6f140767ece876a9178c3c8f8e15025b&chksm=cfee1c0b9729ca8bf117d4f0e2162ffb6242d44731f8d01ba54f662c9def137cd938dd3889db&mpshare=1&scene=1&srcid=0324SxXMFGQxn3Cedf7pK6Ch&sharer_shareinfo=2c11cd2d2eb2ed665654a4990d59bf31&sharer_shareinfo_first=2c11cd2d2eb2ed665654a4990d59bf31",
+      "time": "23:53",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "刚刚，微信掀桌！2步接入龙虾🦞，24小时聊天干活",
+      "entity": "微信",
+      "clean_title": "两步接入AI助手，24小时自动处理聊天与任务",
+      "summary": "微信平台推出新功能，用户仅需两步即可接入AI助手，实现全天候自动处理聊天消息和执行任务。这一功能将显著提升用户效率，改变传统人机交互模式，标志着微信在智能化服务领域的又一重要布局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652799137&idx=1&sn=6930f20852588c296f003f8acd50a649&chksm=850ae0b5fac064e0064e63ce0a9bfe81a13e3ec06d760f0b5646f483202867105799a6adc037&mpshare=1&scene=1&srcid=0324h1Zciv6BDW7doBEsTF3m&sharer_shareinfo=9db87b598e4902f430ac7aa33e781746&sharer_shareinfo_first=9db87b598e4902f430ac7aa33e781746",
+      "time": "23:53",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "刚刚，OpenClaw最猛升级！底层架构大换血，全网等了9天",
+      "entity": "OpenClaw",
+      "clean_title": "底层架构大换血，全网苦等9天终迎最猛升级",
+      "summary": "OpenClaw迎来重大技术升级，核心底层架构全面重构，此次更新酝酿长达9天，引发全网高度关注。升级涉及系统架构深度优化，技术团队对关键模块进行了彻底革新，预计将显著提升系统性能和稳定性。这次架构层面的重大调整标志着产品进入新的发展阶段，技术突破值得业界密切关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650451336&idx=1&sn=7d3b09fe22d6b7dd3a8c865bd1cb2272&chksm=bfbaf98feb92976ea9407187654bd79d00b6a528aa06ab883beff5458580b98a372b67369405&mpshare=1&scene=1&srcid=0324OXSiUzzMervsgFSohjUz&sharer_shareinfo=e55da7ff506c06b2191c90012aaf7310&sharer_shareinfo_first=e55da7ff506c06b2191c90012aaf7310",
+      "time": "23:57",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "CHI'26 MIT&微软：LLM 写作交互新范式",
+      "entity": "LLM写作交互",
+      "clean_title": "MIT与微软联手推出全新写作交互范式，重塑人机协作体验",
+      "summary": "MIT与微软在CHI'26上联合发布LLM写作交互新范式，通过创新的界面设计与交互逻辑，显著提升大语言模型在写作任务中的协作效率与用户体验。该研究突破传统文本生成模式，引入动态反馈与上下文感知机制，为AI辅助创作领域带来革命性进展。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69be9049000000002200d11a?app_platform=ios&app_version=9.22.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBCSPRqCtESEklD10Dw9wHDQ4aXvamQPbfU1STlAldAxM=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1774367829&share_id=72fbcb07159c498b85dce760d9b082f2",
+      "time": "23:57",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "AI时代，越爱读书的人越值钱",
+      "entity": "AI时代",
+      "clean_title": "揭示阅读能力如何成为数字时代稀缺资源",
+      "summary": "在人工智能快速发展的背景下，文章指出深度阅读和持续学习能力正成为个人竞争力的核心要素。随着AI工具普及，能够批判性思考、整合信息并持续更新知识体系的人才价值凸显。这不仅是技能层面的讨论，更是对教育体系和职业发展路径的重新定义。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247490678&idx=1&sn=167a9d403dfd15ff52c157b3adad7a8f&chksm=966a1138ca27b42ddbde93edc1daa96ef33523f2837979b021f3d560ada1c35d7ec16918d150&mpshare=1&scene=1&srcid=0325gHXd8HdNMv72ZUPiyuor&sharer_shareinfo=06937459b110fc0808f3a53da4ad5743&sharer_shareinfo_first=06937459b110fc0808f3a53da4ad5743",
+      "time": "00:06",
+      "category": "💡 深度观点"
+    }
+  ]
+}
