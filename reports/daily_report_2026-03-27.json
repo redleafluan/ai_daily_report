@@ -1,0 +1,115 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-03-28T12:28:01.315411",
+  "highlight": "Claude Code的自动模式通过AI分类器技术，实现了对内容审批流程的智能化改造。该系统能够自动识别、分类和处理各类申请，大幅减少人工干预，提升审批效率与准确性。这一技术突破预示着AI在业务流程自动化领域的深度应用，为企业降本增效提供了全新解决方案。",
+  "stats": {
+    "total_articles": 11,
+    "categories": {
+      "🔧 工具与应用": 3,
+      "📰 行业新闻": 4,
+      "🤖 模型与技术": 1,
+      "💡 深度观点": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "Claude Code auto mode 解析：如何用 AI 分类器替代人工审批",
+      "entity": "Claude Code",
+      "clean_title": "自动模式革新审批流程，AI分类器替代人工决策",
+      "summary": "Claude Code的自动模式通过AI分类器技术，实现了对内容审批流程的智能化改造。该系统能够自动识别、分类和处理各类申请，大幅减少人工干预，提升审批效率与准确性。这一技术突破预示着AI在业务流程自动化领域的深度应用，为企业降本增效提供了全新解决方案。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494373&idx=1&sn=4e6886c0dc8d18323d6ec46bb2e0567b&chksm=c2c738e0d596a2e2a15c05272d3977cc67a8a476bda5306767d69bce61e23de839ad2ebabe9b&mpshare=1&scene=1&srcid=0327djkfvTk10C73yZwRMZ5X&sharer_shareinfo=80e08d6c6e0cf703dfa2bf82d7ef24cf&sharer_shareinfo_first=80e08d6c6e0cf703dfa2bf82d7ef24cf",
+      "time": "10:29",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "安利一个11万Star的必装插件，能让你的Agent体验直接质变。",
+      "entity": "必装插件",
+      "clean_title": "11万星标神器，让Agent体验实现质的飞跃",
+      "summary": "一款在GitHub上获得11万星标的插件正引发开发者社区热议，据称能显著提升Agent的使用体验，带来革命性变化。该工具虽未在片段中明确命名，但其高人气和强大功能暗示着它可能成为AI工作流中的必备利器，值得技术从业者密切关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc&chksm=f1f3c28f540d33a3cebe848972014acd27dc23dc2171f0ebdf5e43ef3b0d83e9ee9275234006&mpshare=1&scene=1&srcid=0327tokhpZskeSuqTfyjmTQV&sharer_shareinfo=aa8c326ae37c52d1acd17844220d80ba&sharer_shareinfo_first=aa8c326ae37c52d1acd17844220d80ba",
+      "time": "10:29",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "第一批“首席龙虾官”，月薪6万",
+      "entity": "首席龙虾官",
+      "clean_title": "月薪6万招聘，首批岗位引热议",
+      "summary": "某企业推出首批“首席龙虾官”职位，月薪高达6万元，引发广泛关注。这一高薪岗位的设立反映了餐饮行业对专业人才的需求升级，也折射出消费市场对高端食材服务的精细化追求。该职位要求不仅限于烹饪技能，更需具备供应链管理、品控标准制定等综合能力，标志着传统餐饮岗位向专业化、高附加值方向转型。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877852&idx=1&sn=b456f2ae1b34ce25aeb668e9f5a5d5f2&chksm=e91ba355f3e80318b95ab304aa55a6344251286d13ee04ec349701fefc6d767bd11e50d35adf&mpshare=1&scene=1&srcid=0327mzgr2V1QEkGEu5XT0tqq&sharer_shareinfo=050de570c17449f32744e9e55bc864ee&sharer_shareinfo_first=050de570c17449f32744e9e55bc864ee",
+      "time": "10:29",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "刚刚，全球首个AI科学家登上Nature！包揽提出idea到写论文全流程，已通过人类盲审",
+      "entity": "AI科学家",
+      "clean_title": "全球首个登上Nature，从提出idea到写论文全流程自主完成",
+      "summary": "人工智能领域迎来里程碑突破：全球首个AI科学家登上《自然》期刊，不仅独立提出研究想法，还自主完成实验设计、数据分析和论文撰写全流程。更关键的是，该AI生成的论文已通过人类专家的盲审，标志着AI在科研领域的自主性达到新高度，可能彻底改变传统科研模式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513652&idx=1&sn=227a702b77e8902e0409d7c7de58a031&chksm=cffef4818513f427420383c78379c1fb4482e3405967c08b6d233721f4ccb9218c5d89ebe145&mpshare=1&scene=1&srcid=0327N9DWM7w5xDGlSuMDkH0M&sharer_shareinfo=ff9b8bbf662e676665d2192193c63aed&sharer_shareinfo_first=ff9b8bbf662e676665d2192193c63aed",
+      "time": "11:50",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "迟来的告别，再见！LanguageX",
+      "entity": "LanguageX",
+      "clean_title": "正式宣布停止服务，引发行业震动",
+      "summary": "知名语言技术产品LanguageX正式宣布停止服务，这一迟来的告别标志着又一个技术产品的落幕。文章通过技术代码片段暗示了产品维护的复杂性和潜在的技术债务，反映了当前AI语言工具市场竞争激烈、产品迭代迅速的行业现状。这一事件不仅是一个产品的终结，更是对技术产品生命周期和市场竞争残酷性的深刻警示。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDIxODE1NA==&mid=2654232312&idx=1&sn=8d5057b92d26df72fc77d8b3654025dd&chksm=f1a48c7b3a1b7932f2b7264657365a5e69c080cc930db75deecbdfbd9f10877c08a9c46a336f&mpshare=1&scene=1&srcid=0327rSVTIFxXLgNjaDMwPKqX&sharer_shareinfo=1c8422a996fbddcb92e1ee672f8e6cc1&sharer_shareinfo_first=1c8422a996fbddcb92e1ee672f8e6cc1",
+      "time": "13:37",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Anthropic Labs联合负责人Mike Krieger：Agent时代，产品直觉依然是稀缺能力！删功能比加功能更难！重写重构是开发常态",
+      "entity": "Mike Krieger",
+      "clean_title": "产品直觉仍是稀缺能力，删功能比加功能更难",
+      "summary": "Anthropic Labs联合负责人Mike Krieger在Agent时代强调，产品直觉依然是稀缺的核心竞争力。他指出，删除功能比增加功能更具挑战性，而重写和重构是开发过程中的常态。这一观点揭示了在技术快速迭代的背景下，产品设计的深度思考与克制比技术堆砌更为重要。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655937571&idx=1&sn=530c91b9602706bc9fdc93bc1db78162&chksm=bc6016961ac7c010d0d137a780f536f252792473766626332f6b16726476cd39009c0afda7bc&mpshare=1&scene=1&srcid=0327nVr0Y3t0gtGYyYqZkpqN&sharer_shareinfo=e31f43f91600aa9dad861e7e3d367374&sharer_shareinfo_first=e31f43f91600aa9dad861e7e3d367374",
+      "time": "14:19",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "杨植麟、张鹏、罗福莉等齐聚一堂，他们关于OpenClaw的观点值得一听。",
+      "entity": "OpenClaw",
+      "clean_title": "顶尖AI专家齐聚探讨，揭示未来技术走向",
+      "summary": "杨植麟、张鹏、罗福莉等AI领域重量级人物罕见同台，围绕OpenClaw展开深度对话。这场高端闭门讨论聚焦前沿技术趋势，专家们分享了关于开源模型发展、技术架构创新及行业应用前景的独到见解，为AI从业者提供了极具价值的战略参考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d&chksm=f175fadb668a44c64670febab14a957755f881f323884a9a3521d8ca2cf575098606f8b322b5&mpshare=1&scene=1&srcid=0327f6NgvIGwacHD4ZriJww2&sharer_shareinfo=bf4b9127dbd8e8281277a588108d3a26&sharer_shareinfo_first=bf4b9127dbd8e8281277a588108d3a26",
+      "time": "14:34",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "中国科协重磅回击，NeurIPS含金量一夜归零！AI顶会已死？",
+      "entity": "NeurIPS",
+      "clean_title": "中国科协重磅回击，AI顶会含金量遭质疑",
+      "summary": "中国科协对NeurIPS等AI顶会提出严厉批评，质疑其学术价值和影响力，引发业界对国际AI会议权威性的重新审视。这一事件可能标志着AI学术评价体系的重要转折点，或将重塑全球AI研究生态格局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687011&idx=1&sn=630be01e8db2d05c7757f8df48a9af98&chksm=f07db5206aa50050f6428bf373b3dea15792390f7a1dc1555ef5cd41f8f988d58807ed3cbf3a&mpshare=1&scene=1&srcid=0327nLzSzjRUu4IEsWDQRaeM&sharer_shareinfo=23f6e7687eca885e6367824d6c428d79&sharer_shareinfo_first=23f6e7687eca885e6367824d6c428d79",
+      "time": "14:50",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Google AutoHarness: 自动生成约束代码",
+      "entity": "Google AutoHarness",
+      "clean_title": "自动生成约束代码，提升开发效率",
+      "summary": "Google推出AutoHarness工具，能够自动生成约束代码，简化开发流程。该技术通过自动化处理代码约束，减少人工编写错误，提升软件质量和开发效率，适用于复杂系统开发场景。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69b4432e000000002800b1ec?app_platform=ios&app_version=9.22.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBPzvCQf1myaR64KQp55cZmvKdT-pxfVlSMbT_v9amsTI=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1774595549&share_id=e7acc65e3a0449a8a1b0d171451c7fa8",
+      "time": "15:12",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "我发现真正厉害的人，都很会「闲聊」",
+      "entity": "闲聊能力",
+      "clean_title": "揭示顶尖人士的隐藏技能，社交中的秘密武器",
+      "summary": "文章深入剖析了真正成功人士常被忽视的核心能力——闲聊技巧。这种看似随意的社交互动，实则是建立关系、获取信息、展现情商的关键手段。文章犀利指出，在专业能力趋同的竞争环境中，优秀的闲聊能力往往成为区分普通与卓越的分水岭，是职场和社交场上的隐形竞争力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247923948&idx=1&sn=ff5f74d77586ab8b751154d3c3272fe8&chksm=9e552aeb74abb690c2b27ee7f44fda3b95e2fa509fd567f720cb654ea85324a341dd500036e6&mpshare=1&scene=1&srcid=0327sKw0qBLSHyemtckanhJ8&sharer_shareinfo=d688bae836bc3e138229116e730db99b&sharer_shareinfo_first=d688bae836bc3e138229116e730db99b",
+      "time": "16:00",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "NeurIPS滑跪认错！一切都是误会，已纠正",
+      "entity": "NeurIPS",
+      "clean_title": "滑跪认错！官方澄清误会并已纠正",
+      "summary": "NeurIPS官方发布声明，承认此前存在误解并已进行纠正。这一事件凸显了学术会议在信息传达和决策透明度方面的重要性，也反映了AI社区对权威机构严谨性的高度期待。官方及时纠错的态度值得肯定，但事件本身引发的讨论将持续影响会议的公信力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247878355&idx=1&sn=a0a805209df245aa4c664e7abf8bf303&chksm=e95e7953102ea978eee85fd7b136783769ff1023cf20d8837b22d6ef417256057abc83e449cf&mpshare=1&scene=1&srcid=0327yrlcRurrmMsKUETwBezR&sharer_shareinfo=e0c0b764f77a429aca3e73b3e78b5f16&sharer_shareinfo_first=e0c0b764f77a429aca3e73b3e78b5f16",
+      "time": "17:17",
+      "category": "📰 行业新闻"
+    }
+  ]
+}
