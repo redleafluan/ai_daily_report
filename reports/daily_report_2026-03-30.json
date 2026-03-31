@@ -1,0 +1,179 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-31T12:44:36.485836",
+  "highlight": "通义千问Qwen 3.5 27B模型突破性实现家庭环境零成本部署，标志着开源大模型从云端走向个人终端的重大进展。这一技术突破不仅大幅降低了AI应用门槛，更预示着分布式计算和边缘AI的新趋势，让普通用户也能在家享受企业级AI能力。",
+  "stats": {
+    "total_articles": 18,
+    "categories": {
+      "🤖 模型与技术": 6,
+      "💡 深度观点": 4,
+      "🔧 工具与应用": 5,
+      "📰 行业新闻": 2,
+      "🧠 提示词与教程": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "龙虾绝配：Qwen 3.5 27B！跑在家里，成本为 0",
+      "entity": "Qwen 3.5 27B",
+      "clean_title": "开源大模型实现零成本本地部署，家庭运行成为可能",
+      "summary": "通义千问Qwen 3.5 27B模型突破性实现家庭环境零成本部署，标志着开源大模型从云端走向个人终端的重大进展。这一技术突破不仅大幅降低了AI应用门槛，更预示着分布式计算和边缘AI的新趋势，让普通用户也能在家享受企业级AI能力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453482132&idx=1&sn=4d7cfec932d8775ccc3332a219e1620f&chksm=867463ffe1c20e49af5995a09501aa344fcbaf820ea04b64e455b1a6926428a882c7426c1c4e&mpshare=1&scene=1&srcid=0330tgrPqwGY3ZB5FG8ECFKv&sharer_shareinfo=1b4e60a6e139db40ef744960fc26e396&sharer_shareinfo_first=1b4e60a6e139db40ef744960fc26e396",
+      "time": "09:12",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "让“龙虾”等真正可控的必经之路",
+      "entity": "未知",
+      "clean_title": "揭示技术可控性的关键路径与挑战",
+      "summary": "文章探讨了实现技术真正可控性的必经之路，分析了当前技术发展中的核心障碍与解决方案。虽然具体技术细节被代码片段掩盖，但文章主旨聚焦于技术可控性这一关键议题，对行业技术发展具有重要参考价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515522&idx=1&sn=75e5c772c8a1082e6816f79e60806b61&chksm=89968bc5cf76fee2883b7b640a18997f0210e1d3ec5816c30bccba66a67aa254c9ee70e900a5&mpshare=1&scene=1&srcid=0330yp8e975jg1E23a2S3nUu&sharer_shareinfo=870912a75bd0ad61e79c0c3ad57c3f4d&sharer_shareinfo_first=870912a75bd0ad61e79c0c3ad57c3f4d",
+      "time": "09:47",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "玉伯发布了动态:「来一个说人话版本\n\n互联网和 AI 产品，在底层上，都是在对空间或时间起作用。\n\n空间可拆解成三层：拓扑 + 方向 + 度量。拓扑就是点和线，是谁和谁连在一起。比如地铁线路图，就是一张拓扑图。给连接点的线，加上箭头，就有了方向。给线划上刻度，就有了度量。\n\n互联网压缩了空间的度量。原本硅谷的新闻传到北京，需要报纸、电视等方式。现在通过互联网，可以秒达。互联网让地球变成了一个村，空间里，信息要走过的距离被极度压缩。互联网压缩了距离（空间的度量）。\n\n互联网也部分改变了空间的方向。之前是...",
+      "entity": "玉伯",
+      "clean_title": "剖析互联网与AI如何重塑时空维度",
+      "summary": "知名技术专家玉伯提出互联网和AI产品本质是对空间和时间起作用。他将空间拆解为拓扑、方向、度量三层，指出互联网通过压缩信息传播距离改变了空间的度量，部分改变了方向，让地球变成“地球村”。这一框架为理解数字时代底层逻辑提供了新视角。",
+      "url": "https://m.okjike.com/reposts/69c883b651449d16de2b8cac?s=ewoidSI6ICI1YjYyODM0NTIyMmZhZTAwMTFkZmY1YjYiCn0%3D&utm_source=wechat_session",
+      "time": "09:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "谷歌干掉「请再说一次」！Gemini 3.1毫秒级接话，实时Agent时代来了",
+      "entity": "Gemini 3.1",
+      "clean_title": "实现毫秒级接话，彻底告别重复确认",
+      "summary": "谷歌最新AI模型Gemini 3.1突破性实现毫秒级响应，彻底消除传统语音交互中“请再说一次”的尴尬延迟。这一技术飞跃不仅大幅提升对话流畅度，更标志着实时智能体时代的真正到来，为AI助手、客服系统等应用场景带来革命性体验升级。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687209&idx=2&sn=2795a7aa5c849ae6dfa061daeb319e50&chksm=f08a1c3bd5aab0be69534853552a99622a7c2866b76a487dcde46942d39bec1171465f3cc7d4&mpshare=1&scene=1&srcid=03303iosVHHuyTGRx4fgk6L7&sharer_shareinfo=4ce76e7e97446aae01245ed07a66333f&sharer_shareinfo_first=4ce76e7e97446aae01245ed07a66333f",
+      "time": "09:48",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "字节出来的 00 后团队，做了一款主动式 AI 桌面助手：只记录意图，想「预测你的下一步」",
+      "entity": "AI桌面助手",
+      "clean_title": "主动预测用户意图，00后团队打造下一代智能助手",
+      "summary": "一支由字节跳动前员工组成的00后团队，开发了一款革命性的主动式AI桌面助手。该产品核心创新在于仅记录用户意图而非具体操作，通过深度学习预测用户下一步行为，实现真正的智能预判。这标志着AI助手从被动响应向主动服务的范式转变，可能重新定义人机交互方式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247523552&idx=1&sn=b1eb1ee5c8976e47b7e3e7b7628e13a4&chksm=c1861b9cad0b46b84e283a80446858fbd35b9ef5018d90c65792f696594ea01d0535a97e6e03&mpshare=1&scene=1&srcid=0330vypqqp3dnfgQGqlQ5FPQ&sharer_shareinfo=a7aa783b72c802f40f1ea395817eade6&sharer_shareinfo_first=a7aa783b72c802f40f1ea395817eade6",
+      "time": "15:34",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude Code 15 个被低估的功能，创建者亲述",
+      "entity": "Claude Code",
+      "clean_title": "15个被低估的隐藏功能，创建者亲自揭秘",
+      "summary": "本文由Claude Code创建者亲自讲述15个鲜为人知但极具价值的隐藏功能。这些功能可能被大多数用户忽略，却能显著提升开发效率和代码质量。文章提供了第一手的深度解析，揭示了工具背后的设计理念和实用技巧，适合希望最大化利用Claude Code潜力的开发者阅读。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494406&idx=1&sn=9926643fd4428e8682826f6619dee619&chksm=c2eff1f2f9c3b5f2b3b34fe0c245cc667f3e28bc96b91f448f3921dd3ec43c58e387442f547d&mpshare=1&scene=1&srcid=0330C2VWixGYA5SE0SDA5V60&sharer_shareinfo=5cac8f785459499b4260b8c9afd3a727&sharer_shareinfo_first=5cac8f785459499b4260b8c9afd3a727",
+      "time": "15:49",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude Code之父独家分享：15个最喜欢、但经常被忽略的CC功能",
+      "entity": "Claude Code",
+      "clean_title": "创始人揭秘15个最实用却被忽视的隐藏功能",
+      "summary": "Claude Code创始人首次公开分享15个鲜为人知但极其实用的功能特性，这些功能虽然隐藏在界面深处，却能显著提升开发效率和代码质量。文章从技术架构、用户体验和实际应用场景三个维度深度剖析，为开发者提供了超越常规使用的专业技巧。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247513728&idx=1&sn=cf035e7e0b6e4991273e5a83b3c3fda8&chksm=cf362c5ac1e5b8f0588de6ba8b5c0caefc21bf5b8ee7b21819771051e45d28aba3a1cc984432&mpshare=1&scene=1&srcid=03300cnw3kwztLi7mtf9W1f7&sharer_shareinfo=4e8e6826f3b890638e07c8ef7a4046b7&sharer_shareinfo_first=4e8e6826f3b890638e07c8ef7a4046b7",
+      "time": "16:02",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "OpenSpace：让你的 Agents 更聪明、更低成本、可自我进化",
+      "entity": "OpenSpace",
+      "clean_title": "发布智能体平台，实现低成本自我进化",
+      "summary": "OpenSpace推出新一代智能体平台，通过技术创新显著降低AI代理运行成本，同时引入自我进化机制，使智能体能够持续优化性能。该平台旨在解决当前AI应用中的效率瓶颈，为开发者提供更经济、更智能的解决方案，有望推动智能体技术的普及化进程。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247500032&idx=1&sn=7947a767691d798bf30a6a1185f6e362&chksm=c0dc0fff1da6a4b39ae4c6afe13a17c3054e86279dd00ff88d67eb1e0150d6133075848c6ddf&mpshare=1&scene=1&srcid=0330Dbdr9UUh2oHS9TNnS02b&sharer_shareinfo=d5e6b6cb02d643577871c7707a21b63c&sharer_shareinfo_first=d5e6b6cb02d643577871c7707a21b63c",
+      "time": "16:19",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Palantir市值狂飙的秘密：大模型是“大脑”，而“本体论”才是骨架与记忆",
+      "entity": "Palantir",
+      "clean_title": "揭秘市值狂飙背后的技术架构：大模型与本体论的完美结合",
+      "summary": "Palantir市值飙升并非偶然，其核心在于将大模型作为“大脑”处理复杂分析，而“本体论”则构建了系统的骨架与记忆。这种架构使企业能够整合海量数据、建立知识图谱，实现智能决策与预测。技术专家指出，这种“大脑+骨架”的组合才是Palantir在AI竞争中脱颖而出的真正武器，为传统企业数字化转型提供了全新范式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247776046&idx=1&sn=84f2af6966c2ef855d66b31c24cc0d43&chksm=fa007e2167e9b439c6e58b332bf5097546f82388040cfd35d9aff02ad931cdf6e9954fbfecc0&mpshare=1&scene=1&srcid=0330WFF0SlpyQqnu9CKUMaqm&sharer_shareinfo=9b0c7eb6b304ab6cd52acd4e9a083ae0&sharer_shareinfo_first=9b0c7eb6b304ab6cd52acd4e9a083ae0",
+      "time": "17:02",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "前端圈沸腾！Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥",
+      "entity": "Claude",
+      "clean_title": "15KB引擎实现1200倍渲染加速，文字界面运行马里奥游戏",
+      "summary": "Claude最新推出的15KB微型渲染引擎引发前端技术革命，通过极简代码实现高达1200倍的渲染性能提升。该引擎突破性地在纯文字界面中运行经典游戏《超级马里奥》，展示了超轻量级渲染技术的巨大潜力。这一创新不仅重新定义了前端性能边界，更为低带宽环境下的应用开发开辟了新路径，标志着轻量化渲染技术进入全新发展阶段。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687757&idx=1&sn=64d7abfb12e4944a1a24c357282f2938&chksm=f0e175940efa3a7b6639c531d0d8fccc61ae7140ce303d9553aaf91d722677b945193b97c083&mpshare=1&scene=1&srcid=0330u1KxtYvAAHR2sH7SQyRZ&sharer_shareinfo=b0f31d89d1152fe2afb41e720c28cfd2&sharer_shareinfo_first=b0f31d89d1152fe2afb41e720c28cfd2",
+      "time": "17:02",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
+      "entity": "Harness",
+      "clean_title": "行业疯狂内卷，核心人物却称技术正在退场",
+      "summary": "当整个行业都在疯狂追逐Harness技术时，Anthropic公司仍在持续加码投入，但令人意外的是，Codex项目负责人却公开表示这项技术正在逐渐退场。这种行业狂热与核心开发者冷静判断之间的鲜明对比，揭示了AI技术发展中的泡沫与真实趋势，值得所有从业者深思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651280444&idx=1&sn=862d6e70e445dc3e4bb41917f59f0146&chksm=bc2f38c51391eaf49c93b0b3f103baffd43f228f506c3619b6c0b59a8098a7cd4a943d770208&mpshare=1&scene=1&srcid=0330kS5runJIxJ19oIrYPOfv&sharer_shareinfo=8fc997aaca802dd952a72528b4a986d8&sharer_shareinfo_first=8fc997aaca802dd952a72528b4a986d8",
+      "time": "18:02",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "别再让AI只干零活了！AI工具正在接管投放全链路",
+      "entity": "AI工具",
+      "clean_title": "正在接管投放全链路，告别零活时代",
+      "summary": "AI工具正从零散任务处理升级为全链路投放解决方案，实现从创意生成到效果优化的端到端自动化。这一变革标志着AI在营销领域的深度渗透，将彻底改变传统投放模式，提升效率与精准度。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247879147&idx=1&sn=9a90196389706ca1a1e9b5fa8f244b82&chksm=e938aa4e4a66ab0183681e64d7e18d83e513fa32e7d3dd9881d07a8ae3e242cdcc33aa375958&mpshare=1&scene=1&srcid=0330Av29JUESsiUn3hJHTZeg&sharer_shareinfo=eaf25d821cb6fe4e6a45142237276c2e&sharer_shareinfo_first=eaf25d821cb6fe4e6a45142237276c2e",
+      "time": "18:57",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "TurboQuant逼近信息论极限，却用A100显卡「碾压」单核CPU：Google的底线在哪？",
+      "entity": "TurboQuant",
+      "clean_title": "逼近信息论极限，A100显卡碾压单核CPU",
+      "summary": "Google最新技术TurboQuant在压缩算法上逼近信息论极限，性能表现惊人——仅用A100显卡就实现了对单核CPU的碾压式优势。这一突破不仅展示了硬件与算法协同优化的巨大潜力，更引发业界对Google技术底线的重新审视：当效率提升达到理论极限时，科技巨头将如何定义下一代计算范式？",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247507799&idx=1&sn=45755bb1f88be8dd21322b52a3f5a2f1&chksm=ce726d67ebf86c2c4eb0d8e9902b8192c8adc12e0201f5ff60a2f76ba1ca4dc16b9549598622&mpshare=1&scene=1&srcid=0330zN61aDVlyvCuHhnlDTAw&sharer_shareinfo=4136741145ca84ef5e698836da21c291&sharer_shareinfo_first=4136741145ca84ef5e698836da21c291",
+      "time": "20:31",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "一个有关“AI+OPC 创业”学习的新尝试",
+      "entity": "AI+OPC创业",
+      "clean_title": "探索人工智能与运营成本优化结合的新学习模式",
+      "summary": "文章聚焦于AI技术与运营成本优化结合的创业学习新路径，揭示了在技术快速迭代背景下，创业者如何通过创新学习方式掌握AI+OPC的核心能力。这种尝试不仅关注技术实现，更强调商业模式与成本控制的深度融合，为科技创业领域提供了新的思考维度。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NzAyNzYyNg==&mid=2649738302&idx=1&sn=e0a705d3c01ede7ea9ac2b9ff3617674&chksm=89abc8edd13c569360b27b7114817d498badb236e218436bb62fc772be2d9e044cd6c193ddc0&mpshare=1&scene=1&srcid=0330JSV53Uae89TWR1vMBn95&sharer_shareinfo=23680d1ce37d22400bad279311f6047b&sharer_shareinfo_first=23680d1ce37d22400bad279311f6047b",
+      "time": "21:09",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "DeepMind之父惊人自白：我造的AI可能灭绝人类，但已无人能停下",
+      "entity": "DeepMind",
+      "clean_title": "创始人惊人警告：AI可能灭绝人类，发展已失控",
+      "summary": "DeepMind创始人公开承认，其开发的AI技术存在灭绝人类的风险，且发展已进入无人能控制的阶段。这一自白揭示了AI技术发展的潜在灾难性后果，引发对AI安全监管的紧迫性思考。文章犀利指出，当技术先驱都承认无法掌控自己创造的产物时，人类正面临前所未有的生存挑战。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687761&idx=1&sn=d0ad58286884205e296496d0d920ccdc&chksm=f07b27b84db9123f3a288ed90cc86202f6b740e37a19d18a09f0779b547de659d9f7d9b6c297&mpshare=1&scene=1&srcid=033091pfXZbnafZPNXywqres&sharer_shareinfo=626cd7e13c00bd612e915d7c367a718b&sharer_shareinfo_first=626cd7e13c00bd612e915d7c367a718b",
+      "time": "21:09",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "如果技术无法抵达那些最需要的人，那么它的精密就失去了意义｜廖晓旺 x 王四宝 x 刘恒 x 刘灶长",
+      "entity": "技术普惠",
+      "clean_title": "当精密科技无法触达最需要的人群，其价值何在？",
+      "summary": "本文通过廖晓旺、王四宝、刘恒、刘灶长等多位专家的对话，犀利指出当前技术发展的核心矛盾：若尖端技术无法惠及社会最底层、最需要帮助的群体，那么其精密与先进便失去了根本意义。文章批判了技术发展中的精英主义倾向，强调技术必须服务于普惠与公平，否则只是空中楼阁。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjYyMjM0MA==&mid=2651076197&idx=1&sn=724c63c284821c82502effeba5d0fbb4&chksm=bc3ee9d03e166ca5a2f5379486daea16eac1c152042ceb7ad7681bf4608953a1b4dbb65a7f92&mpshare=1&scene=1&srcid=0330zeAE1EsvukJ7CX0fbq03&sharer_shareinfo=c69f21efadef89ca5edd67b243e1c3ce&sharer_shareinfo_first=c69f21efadef89ca5edd67b243e1c3ce",
+      "time": "21:35",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "李宏毅老师讲解语言模型推理加速的核心技术：Flash Attention、KV Cache 等",
+      "entity": "李宏毅",
+      "clean_title": "揭秘语言模型推理加速核心技术，Flash Attention与KV Cache成关键",
+      "summary": "知名AI专家李宏毅深度解析大语言模型推理加速的核心技术方案，重点剖析Flash Attention在注意力机制优化上的突破性进展，以及KV Cache在减少重复计算、提升推理效率方面的关键作用。这些技术正成为解决大模型部署成本高、响应速度慢等实际问题的核心武器。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650451435&idx=1&sn=c757170aced764c1af95d1277b742f46&chksm=bfe4346ff78cb404452c9b982ea33aa484f306663d6c2eed0fa74b2dec74e2b2250e7f87c86b&mpshare=1&scene=1&srcid=03303fsv2hpF0T7L3pb5nIi7&sharer_shareinfo=1a49959a37ea6b529fb84cc83b46bf09&sharer_shareinfo_first=1a49959a37ea6b529fb84cc83b46bf09",
+      "time": "21:40",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "成为真正的AI Native Coder，一个研究生实践6个月的思考！",
+      "entity": "AI Native Coder",
+      "clean_title": "研究生实践六个月，揭秘如何从代码新手蜕变为AI原生开发者",
+      "summary": "一位研究生通过六个月的深度实践，系统总结了成为AI原生开发者的核心路径。文章不仅分享了技术层面的突破，更揭示了思维模式从传统编程向AI驱动开发的根本转变，为技术从业者提供了可复制的成长方法论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247721411&idx=1&sn=b50d97101011e5c75fae865e27084b62&chksm=e945a7d3222509ecca6af501cdd10babe6b1f85a4493666ac1bb2c725df16fe03e6256300d27&mpshare=1&scene=1&srcid=0330A7Wr01n3GykpYpeHWOKZ&sharer_shareinfo=77abc1c3f6e9fd9cc6bdd3e904d08596&sharer_shareinfo_first=77abc1c3f6e9fd9cc6bdd3e904d08596",
+      "time": "22:48",
+      "category": "🧠 提示词与教程"
+    }
+  ]
+}
