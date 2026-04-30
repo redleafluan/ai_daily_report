@@ -1,0 +1,233 @@
+
+    <!DOCTYPE html>
+    <html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Daily AI Report - 2026-04-29</title>
+        <style>
+            body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; background-color: #f4f5f7; }
+            h1 { color: #2c3e50; border-bottom: 2px solid #eaeaea; padding-bottom: 15px; margin-bottom: 30px; text-align: center; }
+            
+            /* Highlight Section (Full Width) */
+            .highlight-box { 
+                background-color: #fff; 
+                border-top: 4px solid #E74C3C; 
+                padding: 20px; 
+                border-radius: 8px; 
+                margin-bottom: 30px; 
+                box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            }
+            .summary-title { font-weight: bold; color: #d35400; margin-bottom: 10px; font-size: 1.2em; }
+            
+            /* Dashboard Grid (Masonry Layout) */
+            .dashboard-grid {
+                column-count: 2;
+                column-gap: 25px;
+            }
+            
+            /* Category Card */
+            .category-card {
+                background: #fff;
+                border-radius: 12px;
+                padding: 20px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+                border: 1px solid #e1e4e8;
+                margin-bottom: 25px; /* Spacing between items in column */
+                break-inside: avoid; /* Prevent card from splitting across columns */
+            }
+            
+            .cat-header {
+                border-bottom: 2px solid #f0f0f0;
+                padding-bottom: 10px;
+                margin-bottom: 15px;
+                font-size: 1.3em;
+                font-weight: bold;
+                color: #2c3e50;
+            }
+            
+            /* Article Item inside Category */
+            .article-item {
+                padding-bottom: 15px;
+                margin-bottom: 15px;
+                border-bottom: 1px dashed #eee;
+            }
+            .article-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+            
+            .article-title-row { display: block; margin-bottom: 6px; line-height: 1.4; }
+            .entity-badge { 
+                background: #e1ecf4; 
+                color: #39739d; 
+                padding: 2px 6px; 
+                border-radius: 4px; 
+                font-size: 0.8em; 
+                font-weight: 600; 
+                margin-right: 6px; 
+                display: inline-block;
+            }
+            
+            .article-link { font-weight: bold; text-decoration: none; color: #2c3e50; font-size: 1.05em; }
+            .article-link:hover { color: #0366d6; }
+            
+            .article-summary { font-size: 0.9em; color: #666; margin-top: 5px; }
+            .article-time { font-size: 0.8em; color: #bbb; margin-left: 5px; }
+
+            /* Mobile Responsiveness */
+            @media (max-width: 768px) {
+                .dashboard-grid {
+                    column-count: 1;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>📅 Daily AI Report</h1>
+        <div class="meta-info">
+            2026-04-29 | 共收录 <b>10</b> 篇精选内容
+        </div>
+
+        <!-- Social Reading Guide -->
+        <div style="background: #e8f4fd; border-left: 4px solid #3498db; padding: 12px 15px; margin: 20px 0; border-radius: 4px; font-size: 0.95em; color: #2c3e50;">
+            <b>📝 开启社交阅读：</b>
+            本页面已集成 
+            <a href="https://hypothes.is/" target="_blank" style="color: #3498db; text-decoration: underline;">Hypothesis</a> 
+            批注插件。
+            <br>👆 <b>选中任意文字</b> 即可高亮或发表评论。点击右侧 <span style="background: #eee; padding: 2px 5px; border-radius: 3px;">&gt;</span> 箭头查看讨论。
+            (首次使用需免费注册账号)
+        </div>
+        
+        <script src="https://hypothes.is/embed.js" async></script>
+        
+        <div class="highlight-box">
+            <div class="summary-title">🌟 今日看点 (Highlights)</div>
+            <p>开源「洁癖.skill」通过智能代码注入和错误处理机制，让Agent在运行中不断学习和优化。文章深入解析其技术实现，展示如何利用用户行为数据和环境感知能力，实现Agent的自我进化。这不仅提升了用户体验，更开创了AI持续学习的新范式。</p>
+        </div>
+        
+        <div class="dashboard-grid">
+    
+        <div class="category-card">
+            <div class="cat-header">📰 行业新闻</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Claude</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483189&idx=1&sn=b78a6ff6fa584aa321e1aa7e0d266232&chksm=866f70c22b6e9343450a7c64d2e3d08aafa593dea5a9695c88e0296567b94bc16fc60ae537a1&mpshare=1&scene=1&srcid=0429ggZ0XHj4tfMvJfV6twt1&sharer_shareinfo=ca429fd3eab9dd48eaa4924953743bff&sharer_shareinfo_first=ca429fd3eab9dd48eaa4924953743bff" target="_blank" class="article-link">被曝存在种族歧视，对印度用户响应质量明显偏低</a>
+                    <span class="article-time">10:30</span>
+                </div>
+                <div class="article-summary">
+                    最新调查显示，Claude 在回答问题时对印度用户存在系统性歧视，回答质量显著低于其他地区用户。这种算法偏见不仅违背 AI 伦理，更可能引发严重的文化冲突和商业风险。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">品格教育</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491253&idx=1&sn=85d81f1f9bcf04c63ab0f6bb2cc463c8&chksm=96606a214a9c6a43cf9b535562eec2de40050218089daa370a546f20776169579301418619d4&mpshare=1&scene=1&srcid=0430IWEbnRY0BLGhHKi70LUS&sharer_shareinfo=b0aff68df07f1bdf79dac71bc6292774&sharer_shareinfo_first=b0aff68df07f1bdf79dac71bc6292774" target="_blank" class="article-link">国外如何实施“立德树人”与“课程思政”？</a>
+                    <span class="article-time">00:23</span>
+                </div>
+                <div class="article-summary">
+                    本文探讨了品格教育在国外的实践，类比中国的“立德树人”和“课程思政”理念，分析了不同文化背景下道德教育的异同，为教育工作者提供国际视野下的参考。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">尚界 Z7</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247535669&idx=1&sn=1c5596c1711afa25face17eb2c62af68&chksm=fd7ddb86bd00f62d73ddcd133f6cb1ca5aa42ae83db14c36c67723c596bf0fee7a5c6be7ff9f&mpshare=1&scene=1&srcid=042987suchAc6kMfMZ0CLV3J&sharer_shareinfo=d97efb1b1de7b2c182d881d8845253bb&sharer_shareinfo_first=d97efb1b1de7b2c182d881d8845253bb" target="_blank" class="article-link">打破轿跑“偏科”惯性，尚界 Z7 如何重塑市场格局？</a>
+                    <span class="article-time">21:43</span>
+                </div>
+                <div class="article-summary">
+                    尚界 Z7 以独特的设计和性能平衡，挑战传统轿跑市场的“偏科”现象。文章深入分析了其如何通过技术创新和精准定位，打破行业惯性，为消费者提供更全面的驾驶体验，有望引领轿跑市场新趋势。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">月更模型</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTY0MDk0NQ==&mid=2247523769&idx=1&sn=30ad3042cd0523c0859c0c3dd466d5f9&chksm=cf7c9c7a7b4427f18bfe63c07123e1329672623a53415eebbf8e91480471973d4418398eb58f&mpshare=1&scene=1&srcid=0429XUgMitTb7KP5lsdk9IVQ&sharer_shareinfo=25af4b7b6c4b11b01dd63b80dbee1c66&sharer_shareinfo_first=25af4b7b6c4b11b01dd63b80dbee1c66" target="_blank" class="article-link">智能进入月更时代，模型发布频率加速</a>
+                    <span class="article-time">21:38</span>
+                </div>
+                <div class="article-summary">
+                    新一轮模型发布潮来袭，智能产品迭代周期缩短至月度。行业竞争白热化，厂商加速技术输出，用户面临选择困难。深度解析月更模式对AI生态的影响，以及如何快速适应这一变化。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">🧠 提示词与教程</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">小红书</span>
+                    <a href="https://www.xiaohongshu.com/discovery/item/69d76319000000002102e76e?app_platform=ios&app_version=9.28&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB3DJpt4mMik3wD8oItZwByaA6SJ0GphP02ZE8w8zJdPY=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777454885&share_id=dc5690700eaa454b86ffc13449c0ef34" target="_blank" class="article-link">提示词越长，AI越听不懂？你搞反了一件事</a>
+                    <span class="article-time">17:28</span>
+                </div>
+                <div class="article-summary">
+                    文章指出，许多用户误以为提示词越长AI理解越准确，实则相反。过长的提示词会引入噪声，干扰AI核心意图识别。通过分析小红书前端代码中的资源加载逻辑，文章揭示了提示词设计的关键在于精准而非冗长，并提供了优化策略。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">💡 深度观点</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Anthropic</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516477&idx=1&sn=cb2e82e08403b1b387e93afa4caf3e40&chksm=c3d4d7fe3c94a82e8e880aabced21f39abf0af083f44b24f2acc32a17337d088dcbaf67804c6&mpshare=1&scene=1&srcid=0430BMUVjqp7W7aEVKYxIwPW&sharer_shareinfo=91d62e75a82b8154d1b83d7e0af1f8a5&sharer_shareinfo_first=91d62e75a82b8154d1b83d7e0af1f8a5" target="_blank" class="article-link">PM工作方法揭秘：如何驱动AI产品迭代</a>
+                    <span class="article-time">00:45</span>
+                </div>
+                <div class="article-summary">
+                    Anthropic的产品经理如何定义需求、协调团队并推动AI模型优化？本文深入拆解其工作流，揭示高效协作与用户导向的核心理念，为AI从业者提供实战参考。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">李智昊、王雨飞</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515455&idx=1&sn=f301faa1fd47e9e9f8c0c410bf13cb46&chksm=ea468cc9577abfc8843187cfead2e5635278e152648a929e2c9fdcc064172437c851c12c6d3f&mpshare=1&scene=1&srcid=0429dtFXMUbjJb1raM8iMOJn&sharer_shareinfo=6342c4a1ff414d8f5437f9dcd27e6583&sharer_shareinfo_first=6342c4a1ff414d8f5437f9dcd27e6583" target="_blank" class="article-link">世界模型的核心壁垒在于表征压缩技术</a>
+                    <span class="article-time">21:43</span>
+                </div>
+                <div class="article-summary">
+                    本文深入探讨世界模型构建中的关键挑战，指出表征压缩是真正的技术壁垒。通过与李智昊、王雨飞的对话，揭示了如何通过高效压缩高维数据来提升模型对物理世界的理解与预测能力，为AI发展提供新视角。
+                </div>
+            </div>
+            </div>
+        <div class="category-card">
+            <div class="cat-header">🔧 工具与应用</div>
+        
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Claude Code</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483179&idx=1&sn=65224b50849a1d60d4b0d32415f37d3a&chksm=864216c88e16119b993cbd01a5aebdcefc001df1baa3dce730bd03a811c4d31b5d47619fbaee&mpshare=1&scene=1&srcid=0429QU99zA7hEtuZDszF16Ln&sharer_shareinfo=782c0b17ee58ddaae1e425a5fd59a92b&sharer_shareinfo_first=782c0b17ee58ddaae1e425a5fd59a92b" target="_blank" class="article-link">推出手机通知功能，打工人摸鱼终结者</a>
+                    <span class="article-time">10:15</span>
+                </div>
+                <div class="article-summary">
+                    Claude Code 新增手机通知功能，实时推送任务提醒，让打工人无法再摸鱼。这一更新提升了工作效率，但也引发了对工作与生活平衡的担忧。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">Warp</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483197&idx=1&sn=c806fb90a6957dc03889b4e4f6353565&chksm=86926016a7c01bd34d4275cf1c2a7a975f558cec5997eb69f9caf774b1bf7ad9333c570db4c3&mpshare=1&scene=1&srcid=0429hg08EhaCl34s5ILeJRLG&sharer_shareinfo=171771fd88ebce50b1c6f94f370f96e5&sharer_shareinfo_first=171771fd88ebce50b1c6f94f370f96e5" target="_blank" class="article-link">五年打磨，AI终端Warp正式开源，获OpenAI赞助</a>
+                    <span class="article-time">13:46</span>
+                </div>
+                <div class="article-summary">
+                    历经五年研发，AI终端Warp终于宣布开源，并获得OpenAI的赞助支持。Warp是一款基于AI技术的现代化终端工具，旨在提升开发者的命令行交互体验。此次开源将吸引更多开发者参与贡献，推动AI终端生态发展。
+                </div>
+            </div>
+            
+            <div class="article-item">
+                <div class="article-title-row">
+                    <span class="entity-badge">开源「洁癖.skill」</span>
+                    <a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681967&idx=1&sn=d906e0075aed4b1ab924cefcb150b7dc&chksm=f1b7cfc521099d0685111efde40dd8e0fcdb3525928d5c029a5ca9d17464bf090676b5a14d47&mpshare=1&scene=1&srcid=0429iqcIjIEWDsQZhD996iHY&sharer_shareinfo=35a932cc3bf61ec3a9c511a05ed661d5&sharer_shareinfo_first=35a932cc3bf61ec3a9c511a05ed661d5" target="_blank" class="article-link">让你的Agent越用越聪明，开源技能实现自我进化</a>
+                    <span class="article-time">10:14</span>
+                </div>
+                <div class="article-summary">
+                    开源「洁癖.skill」通过智能代码注入和错误处理机制，让Agent在运行中不断学习和优化。文章深入解析其技术实现，展示如何利用用户行为数据和环境感知能力，实现Agent的自我进化。这不仅提升了用户体验，更开创了AI持续学习的新范式。
+                </div>
+            </div>
+            </div>
+        </div> <!-- End dashboard-grid -->
+    </body>
+    </html>
+    
