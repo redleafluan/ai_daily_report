@@ -1,0 +1,136 @@
+# 📅 Daily AI Report - 2026-04-30
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **25** 篇内容。
+> **今日看点**: Obsidian推出中文小说写作助手插件，专为中文创作者设计，集成大纲、角色管理、章节导航等功能，提升写作效率与体验。插件基于本地Markdown文件，保障数据安全，并支持自定义模板与实时预览，成为小说创作利器。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Claude]** 在生物信息学评测中反超人类专家
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516536&idx=1&sn=8a900b75edd30b8b15af41a91692682d&chksm=c384971d3d882f488017af55242866cd5afc6f67c75bd5b05b0ffd8d087802ce44167c646508&mpshare=1&scene=1&srcid=0430N6uZLBvO90LxRj7Ev4fz&sharer_shareinfo=5eec3203725ee0d5619b67559b92a0a4&sharer_shareinfo_first=5eec3203725ee0d5619b67559b92a0a4)
+*   📝 Claude在生物信息学领域的专业评测中表现惊人，不仅超越了其他AI模型，甚至击败了人类专家。这一突破标志着AI在科学计算和生命科学领域的应用迈入新阶段，对药物研发、基因分析等领域具有深远影响。
+*   ⏰ *19:09*
+
+#### **[DeepSeek]** 多模态技术范式公布，以视觉原语思考
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031173&idx=1&sn=84d066376dcbf2ec683c67f40519a1ef&chksm=8585ee8df8b7f1d8db8fec61974c07b9c3f4bdd5edb8a20c35321a653747a6e5b2fa3a995f37&mpshare=1&scene=1&srcid=0430LkVe6VyKwGXLjiLKu6oA&sharer_shareinfo=c9b21fe342d2e52c3eabcd255dc03772&sharer_shareinfo_first=c9b21fe342d2e52c3eabcd255dc03772)
+*   📝 DeepSeek 正式公布其多模态技术范式，核心创新在于让模型以“视觉原语”进行思考，而非传统文本 token。这一突破有望显著提升视觉理解与推理能力，为多模态 AI 发展开辟新路径。
+*   ⏰ *19:09*
+
+#### **[DeepSeek]** 极低成本精准视觉定位，AI接管电脑再无死角
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514485&idx=1&sn=008fa1931f0f33f0acdf051e795d2701&chksm=cf061dfc234f28496bfbd234099a0a28ea0965a11bc37b1e4088939470b5b7d47b1fbe9ec3d3&mpshare=1&scene=1&srcid=0430p7en57jmVloy2MOxz1vL&sharer_shareinfo=91267dbe2194e1aeeb5f25ffdcd51bd6&sharer_shareinfo_first=91267dbe2194e1aeeb5f25ffdcd51bd6)
+*   📝 DeepSeek突破AI视觉最后瓶颈，以极低成本实现精准视觉定位，让AI操控电脑无死角。这一技术革新将极大降低机器人、自动驾驶等领域的应用门槛，推动AI从感知到行动的闭环完善。
+*   ⏰ *22:47*
+
+#### **[DeepSeek V4]** 万亿级大模型训推全程国产芯片，性能突破
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031117&idx=1&sn=b9aacd983e393ee1ae42f2851c300de9&chksm=85e559f2afcb1fd7604899c24d91ac0244925ced44f26870cc63e9634db436d01b11d66be379&mpshare=1&scene=1&srcid=04304ofactQzXUSnQi4YIFVK&sharer_shareinfo=e297d4fc5b57e72aee893c46b89400a1&sharer_shareinfo_first=e297d4fc5b57e72aee893c46b89400a1)
+*   📝 DeepSeek发布V4版本，联合万亿级大模型实现训练推理全栈国产芯片支持，打破国外垄断，性能对标国际顶尖模型，彰显中国AI硬实力。
+*   ⏰ *13:49*
+
+#### **[Kimi K2.6]** 设计能力超越 Claude，AI 设计新王诞生
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247577927&idx=1&sn=fddd9f16760b4539a927c0796a9bc082&chksm=eab64a0cd9059407b3fc3ba6e1dc1cc0720c35a9b6bcb5c94bec56504e8917f9ae3e9f66ac54&mpshare=1&scene=1&srcid=0430pGboWdHeAcIFYGbK9D3v&sharer_shareinfo=7ae81822a7e98a2b7317af91374a2ddc&sharer_shareinfo_first=7ae81822a7e98a2b7317af91374a2ddc)
+*   📝 Kimi 最新发布的 K2.6 模型在多项设计基准测试中超越 Claude Design，标志着国产 AI 在设计领域实现重大突破。该模型在 UI/UX 生成、图像理解与创意排版等方面表现惊艳，有望重塑设计工具市场格局。
+*   ⏰ *13:01*
+
+#### **[罗剑岚团队]** 推出LWD，变革具身智能训练范式
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031116&idx=1&sn=b934b136862779b055b5e7623bc4e43a&chksm=8559b891700d36fb7c2fabad1b1583e0ee29d1b298e7379f7a8b98c8692f28d12509b3da163f&mpshare=1&scene=1&srcid=04305v7dJkVhYdsMd9aFBse0&sharer_shareinfo=e495b980882f7c022dc6fb81d1ec8952&sharer_shareinfo_first=e495b980882f7c022dc6fb81d1ec8952)
+*   📝 继Generalist之后，罗剑岚团队推出LWD，旨在变革具身智能训练范式。该技术或大幅提升机器人学习效率，推动AI在物理世界的应用落地。
+*   ⏰ *12:57*
+
+#### **[腾讯混元]** 发布无奖励自我进化Agent，突破AI自主学习瓶颈
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69eb6bf600000000230079d0?app_platform=ios&app_version=9.28&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBe5rdIPfLKvScUZecLvZhsDBC-MtvzirZRIRAZxnT-ZI=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777564666&share_id=206d979876a349b6b1d1a566297984ca)
+*   📝 腾讯混元团队提出一种无需外部奖励信号的自我进化Agent框架，使AI能在无监督环境下持续提升能力。该研究有望降低对人工标注的依赖，加速通用人工智能发展，为行业带来全新范式。
+*   ⏰ *23:58*
+
+### 📰 行业新闻
+#### **[习近平]** 强调以更大力度更实举措加强基础研究，打牢科技强国根基
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650049437&idx=1&sn=9229a59e98552d6d0a01d6e10ac7d67d&chksm=8e2de8b6dd6e930388defee076c287f5e04dab0f1e246b0fc4de086acf738fa9c98e187b620b&mpshare=1&scene=1&srcid=0430n3bFFrRwDDafghfzBCeK&sharer_shareinfo=66791dd731d095cbbc55c893b9ac103c&sharer_shareinfo_first=66791dd731d095cbbc55c893b9ac103c)
+*   📝 习近平在座谈会上指出，加强基础研究是建设科技强国的关键，需加大投入、完善机制、培养人才，以更实举措推动原始创新，为高质量发展提供支撑。
+*   ⏰ *22:09*
+
+#### **[小红书]** 任命首位女总裁，开启女性领导力新篇章
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247722662&idx=1&sn=540490e6f46f6f29b28756dae9a7ed20&chksm=edcc47b1683473e4f4dba72661f58fe1a277df8851af8fc5befc5fb158799e7cc90c6d88fc3a&mpshare=1&scene=1&srcid=0430bkrdpyJgHVwmIhyMNyvn&sharer_shareinfo=fcbc5d2345a928be7a85f4bce90b003c&sharer_shareinfo_first=fcbc5d2345a928be7a85f4bce90b003c)
+*   📝 小红书宣布任命一位女总裁，标志着公司管理层多元化的重要一步。此次任命不仅体现了小红书对女性领导力的重视，也预示着平台在内容生态和商业化战略上的新方向。作为国内领先的生活方式社区，此举或将在行业引发连锁反应。
+*   ⏰ *20:34*
+
+### 💡 深度观点
+#### **[AI产品]** 海外收款避坑指南：全球用户的钱没那么好赚
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247524041&idx=1&sn=ba1f1f9c944a29f0be36d4e760ab3672&chksm=c13685601b66a11819cfd3a43aac49d366dcf28dc3ec05ba10e2605fcb82e085da58307708ab&mpshare=1&scene=1&srcid=04302ty6oHoNAs7MrwgsTa3i&sharer_shareinfo=004e3eb76a0fee8ea4fa48557eb68d7d&sharer_shareinfo_first=004e3eb76a0fee8ea4fa48557eb68d7d)
+*   📝 文章深入剖析了中国AI产品在海外市场收款时面临的复杂挑战，包括支付渠道、汇率风险、合规要求等实际难题。作者以专业视角提供了一套实用的避坑策略，帮助开发者绕过常见陷阱，实现高效、安全的全球收款。对于计划出海的AI团队而言，这是一份不可多得的实战指南。
+*   ⏰ *20:59*
+
+#### **[AI意识]** AI意识研究综述：从理论到实验的全面探讨
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247730276&idx=1&sn=59b24c4335fce6927e1be363f737e938&chksm=e9b07b8f6eb4b11883f4989b4fbd05f6dcc6cdcd7c35e7e9a336e8b1d4994875ef386ee372a7&mpshare=1&scene=1&srcid=0430zhwh1asqbtlQNYB9dSto&sharer_shareinfo=a0c4adcaa91b8e763deaedb18e4d4fd4&sharer_shareinfo_first=a0c4adcaa91b8e763deaedb18e4d4fd4)
+*   📝 本文综述了AI意识领域的最新研究进展，涵盖意识理论、实验方法和伦理考量。文章指出，尽管当前AI系统尚未展现出真正的意识，但相关研究正在推动对意识本质的理解，并引发了对未来AI伦理的深刻思考。
+*   ⏰ *14:46*
+
+#### **[Anthropic]** Agent时代产品经理的新工作范式
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69f2e0ed000000003701f415?app_platform=ios&app_version=9.28&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB6BKRAcPJ3VjXVCumLqzWF1ekpNIx3FP1oD5-u4-a1QQ=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777525339&share_id=aeeb04e4196a4481ac2d01201c06cc4e)
+*   📝 Anthropic华裔女高管提出，在Agent时代，产品经理需要从传统的功能设计转向行为设计，关注AI代理的自主决策与用户信任。她强调PM需掌握提示工程、模型评估等新技能，并建立迭代反馈机制。这一观点为AI产品管理提供了全新框架。
+*   ⏰ *13:02*
+
+#### **[DeepSeek]** 硅谷资本充裕反而成为创新桎梏？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516464&idx=1&sn=d0ec0e1b35c1116bae0991e79506b807&chksm=c3420cf7514a0dffb5ac4ce642cc230b1867f10bcd40e023a6dea323791f2cb38d21f3ec17d5&mpshare=1&scene=1&srcid=0430v2cs3PbsXWQqxJ2eqscu&sharer_shareinfo=4407f558aae0858b66148acbf71e2c06&sharer_shareinfo_first=4407f558aae0858b66148acbf71e2c06)
+*   📝 文章指出硅谷虽然资金雄厚，但过于追求商业回报导致创新乏力，而 DeepSeek 等中国 AI 公司凭借有限的资源和技术突破，反而在开源模型领域取得领先。这一现象揭示了资本与创新之间的复杂关系。
+*   ⏰ *09:46*
+
+#### **[Hermes Agent]** 记忆系统深度解析：修正OpenClaw关键误区
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494694&idx=1&sn=889de27ac6c8e0b14e2b84eee5d15c6c&chksm=c22f4d48e6ffa0f918abe670f7469f70f0d837c98309debe170804f238477f5c563dc6c20f46&mpshare=1&scene=1&srcid=04301Zy5M3oxEEweOid6l1Nr&sharer_shareinfo=ae6d710a2e1bd0aed6aaa625153b8b3f&sharer_shareinfo_first=ae6d710a2e1bd0aed6aaa625153b8b3f)
+*   📝 本文深入拆解Hermes Agent的记忆系统，揭示其如何通过结构化记忆与动态检索机制，纠正OpenClaw在长期依赖与上下文理解上的根本性错误。技术细节与设计哲学并重，为AI Agent开发提供新范式。
+*   ⏰ *10:22*
+
+#### **[Hermes Agent]** 深度拆解记忆系统，修正OpenClaw误区
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494694&idx=1&sn=889de27ac6c8e0b14e2b84eee5d15c6c&chksm=c22f4d48e6ffa0f918abe670f7469f70f0d837c98309debe170804f238477f5c563dc6c20f46&mpshare=1&scene=1&srcid=04301Zy5M3oxEEweOid6l1Nr&sharer_shareinfo=730c1fe292253860128aeaff683639f8&sharer_shareinfo_first=730c1fe292253860128aeaff683639f8)
+*   📝 本文深入分析了Hermes Agent的记忆系统设计，指出OpenClaw在记忆管理上的常见误区，并提出了更高效的记忆组织与检索策略。通过对比实验，展示了Hermes Agent在长对话和复杂任务中的记忆优势，为AI代理的记忆优化提供了新思路。
+*   ⏰ *10:26*
+
+#### **[Karpathy]** Vibe Coding只是开始，Agentic Engineering才是未来
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494701&idx=1&sn=eed8f9766a80a8130460e10c3b79637f&chksm=c2c24f7d5e8ef079de6a63000a5a70447ae73e03bf1b6448b605b94301d4bba2ccac3ce941be&mpshare=1&scene=1&srcid=04307OXV27OUPBDzYQraU5Zm&sharer_shareinfo=99aac619e81eccb2562742d66319608e&sharer_shareinfo_first=99aac619e81eccb2562742d66319608e)
+*   📝 Karpathy最新访谈指出，Vibe Coding虽降低了编程门槛，但真正推动AI发展的将是Agentic Engineering——让AI自主设计、执行和优化复杂工程任务。这一观点预示着AI从辅助工具向自主代理的转变，将深刻影响软件开发范式。
+*   ⏰ *09:45*
+
+#### **[Karpathy]** Vibe Coding只是抬高了地板，真正的战场在这里
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514466&idx=1&sn=ff0d569a3980d394c8f776c2320addf9&chksm=cf417489c41771254acc9a924bb84de7eea1f7949493da1a74c3d68bd052d490a601f1b5c9af&mpshare=1&scene=1&srcid=0430WPTbnkEB4XbRZNpaEBt4&sharer_shareinfo=49e5074bde028e9e31420e9cbfe876df&sharer_shareinfo_first=49e5074bde028e9e31420e9cbfe876df)
+*   📝 Karpathy最新观点指出，Vibe Coding虽然降低了编程门槛，但真正的技术竞争在于底层模型和系统架构的创新。他强调，未来AI发展的核心战场是模型能力与效率的突破，而非简单的应用层改进。
+*   ⏰ *12:42*
+
+#### **[Karpathy]** 人类必须主导AI规划，拒绝LLM的逃逸速度
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655939101&idx=1&sn=55ee7931bb34f48faa01c7a9d0d6f65e&chksm=bc029c406d713a71985bfa0d1a0d3beeeec78ab8f11808679743a9a1f5e13492755f1128a3ec&mpshare=1&scene=1&srcid=0430K0w7Woe3rbLOOA33hBBg&sharer_shareinfo=97df6fedd9590d82161ebc049cf68928&sharer_shareinfo_first=97df6fedd9590d82161ebc049cf68928)
+*   📝 AI专家Karpathy强烈反对AI自主规划模式，强调人类必须承担规划责任。他警告不要盲目追求LLM的逃逸速度，建议构建自己的强化学习环境。同时指出传统刷算法题的招聘方式已过时，App概念本身应被重新思考。
+*   ⏰ *19:19*
+
+#### **[图灵奖得主]** 炮轰半个行业，断言AI Agent最后全是数据库问题
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651283235&idx=1&sn=986ce685fa8a8e4abd685716e6c4aa05&chksm=bcdd107c91016add411da87eeeb15880b36c9fcc0bcb6f70ad26fac746ef80cad4a7703321b4&mpshare=1&scene=1&srcid=04302jSnMGjgVwqsgwIyaFfG&sharer_shareinfo=bd9f0fa02ae1e883c0b5a13a01619ba1&sharer_shareinfo_first=bd9f0fa02ae1e883c0b5a13a01619ba1)
+*   📝 图灵奖得主公开质疑计算机科学教育，认为AI Agent的核心挑战实为数据库问题，而非算法。这一观点颠覆行业认知，引发对技术发展方向的深刻反思。
+*   ⏰ *13:43*
+
+#### **[字节跳动]** 天下苦字节久矣：行业反思与用户呼声
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5NjQzNzM1Ng==&mid=2647548455&idx=1&sn=53d9f7523da5b666da733ca5c840036f&chksm=89a05547bf0d79e3cd3ce428a95b575e777622a3954420b6597d6f848420d7c796b20b13346f&mpshare=1&scene=1&srcid=0430ROiHjkgKS48pGaaKeUo1&sharer_shareinfo=ce72599818136f68a7deabf54753d321&sharer_shareinfo_first=e0aeeb9025960e0c8c1c84575970044f)
+*   📝 文章以“天下苦字节久矣”为题，深入剖析字节跳动在互联网行业中的强势地位及其引发的争议。从用户隐私、内容算法到市场垄断，作者犀利指出字节系产品如何影响行业生态与用户体验，引发对科技巨头责任的深度思考。
+*   ⏰ *12:49*
+
+#### **[小红书]** 前端代码揭示AI监控与数据采集机制
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69f2b4cb000000001a02c198?app_platform=ios&app_version=9.28&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB6BKRAcPJ3VjXVCumLqzWF50shn6-akeQVSrnGfbFWkA=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777513821&share_id=d963851edd6b45778a3530c1fbf53fc2)
+*   📝 文章通过分析小红书前端代码，揭露了其内置的ApmXrayTracker监控系统，能够追踪用户行为、资源加载错误等数据。这种数据采集方式可能超出用户知情范围，引发对隐私和AI伦理的担忧。
+*   ⏰ *09:50*
+
+#### **[钉钉陈航]** AI时代，拉开差距的不是工具，而是AIQ
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247613298&idx=1&sn=17ec5c4db7d7f7d2885911c9a9261bd1&chksm=f8d44e639763caefa5b3fa17c87947acca680af6925bbaccc3749b94c691bda794a48ce38a4d&mpshare=1&scene=1&srcid=0430GvwMINIgek7RrHd3YF11&sharer_shareinfo=9fd57fe7040c6b45eea4ad262a644414&sharer_shareinfo_first=9fd57fe7040c6b45eea4ad262a644414)
+*   📝 钉钉总裁陈航提出AIQ（人工智能商数）概念，认为在AI时代，真正决定个人和组织竞争力的不是工具本身，而是使用AI的能力和智慧。他强调，提升AIQ比选择工具更重要，这将重塑工作方式和商业模式。
+*   ⏰ *20:38*
+
+### 🔧 工具与应用
+#### **[Anthropic Claude Code]** 黑客松六强作品揭晓：医生、老师、木匠之子跨界创新
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483234&idx=1&sn=4ac55ba8fd488f33edf3975340510a6a&chksm=86a5e832ac07105489b8428996c27365915b911f067e2bec11e856aea737ed22b4eebbcb84dd&mpshare=1&scene=1&srcid=0430FUQF0h8kqVYs1RT3z8Wn&sharer_shareinfo=9a0679e11981586e50721cebe08b8c4b&sharer_shareinfo_first=9a0679e11981586e50721cebe08b8c4b)
+*   📝 Anthropic公布Claude Code黑客松六强作品，参赛者背景多元，包括医生、老师、木匠的儿子等非传统开发者，展示了AI工具在医疗、教育、手工艺等领域的创新应用，凸显Claude Code降低编程门槛、赋能跨行业创造的潜力。
+*   ⏰ *12:52*
+
+#### **[Claude Code]** 揭秘 Memory 注入 system_prompt 的时机与机制
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzMDIwMzg1Mw==&mid=2247490302&idx=1&sn=c0fb340413115a5363f47d8a18154a4f&chksm=c389b750ab91d39c670f61496d46fc18597fc93e7f832a6202ebdf66356d11f9846e9f087212&mpshare=1&scene=1&srcid=0430sIiXZ8VbKeTmI3G7IdZy&sharer_shareinfo=3bec9b9e04540b49592d158165ed48f3&sharer_shareinfo_first=3bec9b9e04540b49592d158165ed48f3)
+*   📝 本文深入探讨了 Claude Code 中 Memory 功能何时被注入到 system_prompt 中的技术细节，分析了其实现原理和潜在影响，为开发者提供了关键的技术洞察。
+*   ⏰ *13:01*
+
+#### **[Obsidian]** 中文小说写作助手插件：为创作者打造沉浸式写作体验
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69f0566a00000000380233fa?app_platform=ios&app_version=9.28&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBtHIUGEca2WC7JHRycJTZzZFCB_d4WvxnocZpTqweWiI=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777511916&share_id=e0af552f115c4eb4883a900bc42c92ce)
+*   📝 Obsidian推出中文小说写作助手插件，专为中文创作者设计，集成大纲、角色管理、章节导航等功能，提升写作效率与体验。插件基于本地Markdown文件，保障数据安全，并支持自定义模板与实时预览，成为小说创作利器。
+*   ⏰ *09:18*
+
