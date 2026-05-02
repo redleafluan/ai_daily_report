@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-02T13:19:54.483223",
+  "highlight": "Symphony作为新兴的AI Agent平台，正在重新定义人机协作方式。其底层架构融合了先进的多模态处理与自动化决策能力，有望成为下一代智能工作流的核心引擎。开发者应尽早布局，抢占生态红利。",
+  "stats": {
+    "total_articles": 28,
+    "categories": {
+      "🔧 工具与应用": 7,
+      "💡 深度观点": 8,
+      "📰 行业新闻": 11,
+      "🤖 模型与技术": 2
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "大家一定要关注 Symphony，迈向 AI Agent",
+      "entity": "Symphony",
+      "clean_title": "迈向AI Agent的关键一步，Symphony值得关注",
+      "summary": "Symphony作为新兴的AI Agent平台，正在重新定义人机协作方式。其底层架构融合了先进的多模态处理与自动化决策能力，有望成为下一代智能工作流的核心引擎。开发者应尽早布局，抢占生态红利。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69f2fcc000000000220290da?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB6BKRAcPJ3VjXVCumLqzWFwHpEekeOvLdFRQRSMMQ-Rg=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777598419&share_id=ef0b548cdc8249e5949c7c594f8b8909",
+      "time": "09:20",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Demis Hassabis：AGI 还缺什么，智能体到底行不行，下一个科学突破长什么样",
+      "entity": "Demis Hassabis",
+      "clean_title": "AGI 还缺什么？智能体与下一个科学突破的展望",
+      "summary": "DeepMind 创始人 Demis Hassabis 深度探讨 AGI 发展瓶颈，指出当前大模型在推理、规划与长期记忆上的不足，并强调智能体（Agent）是迈向通用人工智能的关键。他预测下一个科学突破将来自 AI 与人类协作的交叉领域，如蛋白质折叠与量子化学。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494707&idx=1&sn=5b174e579488ab96ea9820c13a6b2fa1&chksm=c29a82e74b293c5b27e7e6eb44de3ecaa58e63d292cbe4ef9d8c7d6dc59dd7d65f888aebce99&mpshare=1&scene=1&srcid=0501PWj8QJD3zHcAL1d9H0sk&sharer_shareinfo=c7904b397bc29e7eb7a810a46df86742&sharer_shareinfo_first=c7904b397bc29e7eb7a810a46df86742",
+      "time": "10:17",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "软件 3.0 时代来临",
+      "entity": "微信",
+      "clean_title": "前端监控与错误处理机制升级，提升用户体验",
+      "summary": "微信公众平台文章页面通过BadJs模块实现前端错误监控与上报，覆盖用户代理检测、动态模块加载失败等场景，优化了页面渲染稳定性。该机制结合网络速率与错误率采样，为软件3.0时代的Web应用稳定性提供了技术保障。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483261&idx=1&sn=cb6b022f6372657475687143a4ab33bb&chksm=86e208e5b64781491ef60c15ff8c63e4a7ca38c1c354761820c1717245ea1c51622a96462fda&mpshare=1&scene=1&srcid=0501xf5IxDGhW4KrSJcZwkL9&sharer_shareinfo=ef83cb8c26e5543ecb8a3eca61d8d4cf&sharer_shareinfo_first=ef83cb8c26e5543ecb8a3eca61d8d4cf",
+      "time": "10:25",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "腾讯混元CL-bench续作发布，让大模型读懂你的日常生活",
+      "entity": "腾讯混元",
+      "clean_title": "发布CL-bench续作，让大模型理解日常生活场景",
+      "summary": "腾讯混元推出CL-bench续作，聚焦大模型对日常生活场景的理解能力。该基准测试涵盖复杂交互、常识推理等维度，旨在提升AI在真实环境中的实用性。此举标志着业界从模型性能竞赛转向应用落地评估，为AI融入日常生活提供关键测试标准。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031188&idx=1&sn=0ce1a20e2a63406d0c500be18eea5ece&chksm=85afae4b33b468adcc6ad14356a05367cd94d1cecf81a8795cb1ead41539b2260c64727252a3&mpshare=1&scene=1&srcid=0501PhrBaY4KX1A9wFcC4bAs&sharer_shareinfo=4ca1b1e3fcda308dbbdcc463cea6fe05&sharer_shareinfo_first=4ca1b1e3fcda308dbbdcc463cea6fe05",
+      "time": "11:52",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "GPT Image 2研究科学家陈博远：我在OpenAI修中文",
+      "entity": "陈博远",
+      "clean_title": "我在OpenAI修中文：GPT图像研究背后的语言优化故事",
+      "summary": "OpenAI研究科学家陈博远揭秘GPT图像模型背后的中文优化工作，从数据清洗到语言适配，展现AI巨头如何攻克非英语语言的细节挑战。技术深度与人文关怀并存，揭示大模型落地的真实痛点。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887975&idx=1&sn=e7bbcb29bd29a9265fce5add3467e099&chksm=e980aead9b3b15960e7f785793b36df4e6007b72496f7b4896a8eed7a43109d309e99f86e766&mpshare=1&scene=1&srcid=0501Bu8iphrTY6I3sdiGJuGO&sharer_shareinfo=7e1d2d5a38797d973bf129351c38d622&sharer_shareinfo_first=7e1d2d5a38797d973bf129351c38d622",
+      "time": "11:53",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "10本书读懂AI：从技术逻辑到现实世界",
+      "entity": "",
+      "clean_title": "10本书带你从技术逻辑到现实世界读懂AI",
+      "summary": "本文精选10本AI领域必读书籍，涵盖技术原理、行业应用与社会影响，从深度学习基础到AGI未来，帮助读者系统构建AI认知框架。无论你是技术从业者还是普通读者，这份书单都能让你在AI浪潮中保持清醒与洞察。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650151554&idx=1&sn=1f98c7701b1b290bf8251f5dfede3104&chksm=bfec35ab1adff7c85154817e6321d3597d8cf8ea99b81c95d7b8564b474f3e9980d18d729d25&mpshare=1&scene=1&srcid=0501qvAPBh3ns3WHltndQaTs&sharer_shareinfo=740183725ca7603c6a3f5a941443fa5f&sharer_shareinfo_first=740183725ca7603c6a3f5a941443fa5f",
+      "time": "11:53",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "图文｜红杉AI Ascent大会主题演讲：AI时代产品构建遵循MAD原则，99.9%的脑力劳动将由机器代劳",
+      "entity": "红杉AI Ascent",
+      "clean_title": "AI时代产品构建遵循MAD原则，99.9%脑力劳动将被机器替代",
+      "summary": "在红杉AI Ascent大会上，专家提出MAD原则指导AI产品构建，预测99.9%的脑力劳动将由机器代劳，引发行业对AI替代人类工作的深刻思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTU4NDM2MA==&mid=2650018608&idx=1&sn=095447badf3814c20e4be32352e734f1&chksm=89c3234a08dc27ca963d1163f8600a06f8bb858e253d6ea489754a2cb880292404835eb46b6a&mpshare=1&scene=1&srcid=0501nB8TcXd6amkWScA7UHsV&sharer_shareinfo=70a9992286d87e514e82f9fe48cd96b6&sharer_shareinfo_first=70a9992286d87e514e82f9fe48cd96b6",
+      "time": "12:06",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "热点速递｜Cursor事故——仅仅是AI失控吗？",
+      "entity": "Cursor",
+      "clean_title": "AI失控事故背后：Cursor的代码审查机制失效了吗？",
+      "summary": "Cursor事故引发热议，看似AI失控，实则是代码审查与安全机制的缺失。开发者过度信任AI生成代码，导致漏洞被利用。事件暴露了AI编程工具在安全审计、权限控制上的不足，提醒行业需建立更严格的AI代码审查标准。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTAxOTk3Nw==&mid=2247538153&idx=1&sn=991e98d4ec6538f576733045992a470b&chksm=e8ebcb7bea6bfc2c826d08639927991744ab9ded4eb1a6e1a00e118dce55d3ef9de2dd6c467e&mpshare=1&scene=1&srcid=0501sjOIWENigNHQWxzfmeYt&sharer_shareinfo=13a55e238f834e07c507be1392508d90&sharer_shareinfo_first=13a55e238f834e07c507be1392508d90",
+      "time": "12:15",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "他用AI办了个音乐节，主题：别读博",
+      "entity": "AI音乐节",
+      "clean_title": "用AI办音乐节，主题竟是劝退读博",
+      "summary": "一位AI研究者用AI技术策划了一场音乐节，主题直指博士生涯的艰辛。这场别开生面的活动融合了AI生成音乐、虚拟演出和学术吐槽，引发对科研生态的反思。是创意宣泄还是学术警示？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247888004&idx=1&sn=cf0920402625bb5d0af65be63e9578b5&chksm=e9e18d307bd5f83bbdbadad2e7aefe36dd1b5d4760b39c3e8eb00241717fcc50c77c94031872&mpshare=1&scene=1&srcid=0501Vc41bXMlg7wlG6zorUSX&sharer_shareinfo=778d7caddc14af9e24440076bff945fe&sharer_shareinfo_first=778d7caddc14af9e24440076bff945fe",
+      "time": "12:27",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "字节跳动旗下三大APP被约谈",
+      "entity": "字节跳动",
+      "clean_title": "旗下三大APP被约谈，监管持续收紧",
+      "summary": "字节跳动旗下三款核心应用遭遇监管约谈，涉及内容审核与数据合规问题。此次事件凸显中国互联网行业监管常态化趋势，对平台内容治理提出更高要求。字节跳动需在创新与合规间寻求平衡，行业格局或受影响。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxMjg3MzYxMQ==&mid=2247496801&idx=1&sn=bce30a9c3a5e30dd567098acfa281df1&chksm=c0832cf0957316897affe3bcba0a75b7216c4bba8a008504fd55753d199f5b9296b8d06948b1&mpshare=1&scene=1&srcid=0501SUpVolEeW6m5XOOFP04E&sharer_shareinfo=c5aab044da019169ed3d4e8e5e7caffc&sharer_shareinfo_first=c5aab044da019169ed3d4e8e5e7caffc",
+      "time": "12:41",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "有人只用API就猜出了GPT、Claude、Gemini的参数量？社区吵翻了",
+      "entity": "GPT、Claude、Gemini",
+      "clean_title": "仅凭API调用就能猜出模型参数量？社区热议背后技术",
+      "summary": "近日，有开发者通过API调用成功估算出GPT、Claude、Gemini等大模型的参数量，引发社区激烈讨论。该方法利用模型输出概率分布等特征进行逆向推算，准确性引发质疑。这一事件揭示了API安全与模型透明度之间的新博弈，也促使业界重新审视模型架构信息的保护策略。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031232&idx=1&sn=6ef67aad98248c27294f1be3eb80d089&chksm=8555e5edfe56b1d5527ce485a7b9817bcdaad16c7f24359a6e4803e32d9706c7b995dcc4feca&mpshare=1&scene=1&srcid=0501f0Oxd9QQ4Ap4M7qczF72&sharer_shareinfo=93c92154612f7f4f8da1641bad8d0e4e&sharer_shareinfo_first=93c92154612f7f4f8da1641bad8d0e4e",
+      "time": "13:39",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "永别了，终端！OpenAI疯狂升级Codex，接管Mac人类全程0操作围观",
+      "entity": "OpenAI",
+      "clean_title": "Codex 升级实现全程零操作，Mac 用户被接管",
+      "summary": "OpenAI 对 Codex 进行重大升级，使其能够在 Mac 上自主完成编程任务，人类仅需旁观。这一突破标志着 AI 从辅助工具向自主执行体的转变，引发对开发者角色和终端交互未来的深度思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652696950&idx=1&sn=21fccc2ad1d6da0a9081e392ba631c10&chksm=f088debbc38f7e0d8f1475dd96307d299d44d21006e7dca69c1a953f26574f3c6c07dc02e0fd&mpshare=1&scene=1&srcid=0501BIth2IPnN8uNaQgqyaZZ&sharer_shareinfo=18d99bb7c2720d5482bdad653c634b19&sharer_shareinfo_first=18d99bb7c2720d5482bdad653c634b19",
+      "time": "15:33",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "让大模型自己写代码、自己进化，GIM和港大这篇ACL主会，把量化因子挖掘重做了一遍",
+      "entity": "GIM和港大",
+      "clean_title": "让大模型自己写代码、自己进化，量化因子挖掘被重做",
+      "summary": "GIM与港大在ACL主会发表新研究，提出让大模型自主编写代码并自我进化，彻底革新量化因子挖掘方法。该技术有望大幅提升量化交易的效率与准确性，标志着AI在金融领域的应用迈入新阶段。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031260&idx=2&sn=368e6c3fc4867b39bcaba23fbe4a8542&chksm=85866963c22265f3464882af83be95657a34adf2e8c1b3d5fad45b2de89fa82927fa22f5e7cc&mpshare=1&scene=1&srcid=0501YDyOO00yBjByf8dEyYqr&sharer_shareinfo=ca7c62051017876bfc6172d2ebf52dbd&sharer_shareinfo_first=ca7c62051017876bfc6172d2ebf52dbd",
+      "time": "15:38",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "本体：不是知识图谱的旧瓶新酒，而是大模型的语义操作系统",
+      "entity": "本体",
+      "clean_title": "大模型的语义操作系统，而非知识图谱的旧瓶新酒",
+      "summary": "本体技术被重新定义，不再是传统知识图谱的简单升级，而是作为大模型的语义操作系统，解决AI理解与推理的底层问题。这一观点挑战了行业对本体作用的固有认知，揭示了其在构建可解释、可信任AI系统中的关键角色。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247777071&idx=1&sn=5203c34f9347419f5359053a178e00a5&chksm=fa0d0e839abfb3fb00a2baaa29d55ee83376679c0d98f1cbd448bbce810fab5bb378b796db2a&mpshare=1&scene=1&srcid=0501ezBcpIOCIPAIpvPu1YiI&sharer_shareinfo=6c53f07235a6226801efa312993e9382&sharer_shareinfo_first=6c53f07235a6226801efa312993e9382",
+      "time": "15:39",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "老黄秘密武器曝光：AI一夜设计芯片，顶人类顶级工程师10个月！",
+      "entity": "NVIDIA",
+      "clean_title": "AI自主设计芯片，效率碾压人类工程师",
+      "summary": "NVIDIA秘密武器曝光：利用AI在极短时间内完成芯片设计，效率超越顶级工程师团队10个月的工作量。这一突破将彻底改变芯片行业研发模式，加速AI硬件迭代。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652696829&idx=1&sn=a46f36544f107a3f84937d54c922720c&chksm=f0b50de0e7a73ab2387e8aa8195570e20ee3a06eb3345bd8971afc3bf5ec0e0eb3639e4a8bda&mpshare=1&scene=1&srcid=0501qkADSlQw8LVR2Q1wCS0G&sharer_shareinfo=4200be9f8bd68efaa768c4bb76d372d8&sharer_shareinfo_first=4200be9f8bd68efaa768c4bb76d372d8",
+      "time": "15:39",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "entity": "智谱",
+      "clean_title": "Scaling瓶颈下的降智困境，如何破局？",
+      "summary": "智谱公开承认模型“降智”现象，指出这是Scaling Law发展过程中不可避免的阵痛。文章深入分析了大规模模型在训练和推理中遇到的性能退化问题，并探讨了可能的解决路径。对于关注AI前沿技术的读者，这是一篇不容错过的深度解析。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247888065&idx=1&sn=bd31d70ff89f5fb8efcc6086af8099aa&chksm=e9e2e3599430906ae14e2dba127bd37f85309f1ebb3b064e70ccf1f1de1b07b3dda742ace3e3&mpshare=1&scene=1&srcid=0501C3ubTTkIFKDkYHVrMcy2&sharer_shareinfo=54b5fafe269eb76699a115919abfc57a&sharer_shareinfo_first=54b5fafe269eb76699a115919abfc57a",
+      "time": "15:39",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "CS：非遗传承",
+      "entity": "微信公众平台",
+      "clean_title": "非遗传承文章页暗藏代码，用户需警惕",
+      "summary": "本文标题为“CS：非遗传承”，但正文内容实为微信公众平台的CSS样式和JavaScript代码，用于检测移动设备并设置页面标题。文章本身不包含任何关于非遗传承的实质性内容，疑似技术测试或错误页面。用户需注意此类伪装文章，避免被误导。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516575&idx=1&sn=760a59826822c62d25f3e650020336af&chksm=c38eace5dfcea9d17b5e86143d1cd3365e944e8db50fa2cbf44b3955ae0b4bb2a4016a606dc5&mpshare=1&scene=1&srcid=0501RXbtWH2SWfmNh9VMzOXC&sharer_shareinfo=a3c69bc6d12e36f6ed50e866ab22cb3f&sharer_shareinfo_first=a3c69bc6d12e36f6ed50e866ab22cb3f",
+      "time": "15:40",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "entity": "马斯克",
+      "clean_title": "马斯克与OpenAI法庭交锋，硅谷精英互揭老底场面尴尬",
+      "summary": "马斯克与OpenAI的诉讼案开庭，双方在法庭上互相指责，暴露了硅谷精英之间的私人恩怨。这场法律战不仅涉及商业利益，更揭示了人工智能领域巨头间的激烈竞争与个人矛盾，堪比村口吵架的戏剧性场面。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247888068&idx=1&sn=a48bc02fc07cf085457a2e3fe20315a2&chksm=e97bb308a7f3654419c96686ba774a8b7828ba8fce66f2742d05e5ffdccc3ed174fc88b2315c&mpshare=1&scene=1&srcid=0501itzmD2lmTNXW0qiRRc2o&sharer_shareinfo=cb3a43f3c2148c9878e09c00b962bf3c&sharer_shareinfo_first=cb3a43f3c2148c9878e09c00b962bf3c",
+      "time": "15:46",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "AI Agent 正是通往AGI的路径 | DeepMind CEO最新对话实录",
+      "entity": "DeepMind",
+      "clean_title": "AI Agent是通往AGI的关键路径",
+      "summary": "DeepMind CEO在最新对话中强调，AI Agent（智能体）是实现通用人工智能（AGI）的核心路径。他指出，当前AI系统需要从被动响应转向主动行动，具备规划、记忆和工具使用能力。这一观点引发行业对Agent技术路线图的广泛讨论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650049474&idx=2&sn=e33244b79559027ea6b3780fdbd9153a&chksm=8eae19d65d39cd745dc6eef1bd3ee77fd8c1f6b24f7e3e0df7dbe3e7769bdf299d49886f0f3f&mpshare=1&scene=1&srcid=0501K3eBdlHzQFzIEQcaQzxl&sharer_shareinfo=857eda0d8f33e55432870057c2ba3be8&sharer_shareinfo_first=857eda0d8f33e55432870057c2ba3be8",
+      "time": "15:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "黑盒式人工智能的终结？科学家开发出一种透明系统蓝图，该系统能够揭示其学习及决策过程",
+      "entity": "科学家",
+      "clean_title": "透明AI系统蓝图问世，可揭示学习与决策过程",
+      "summary": "科学家开发出一种透明AI系统蓝图，旨在终结黑盒式人工智能。该系统能够清晰揭示其学习及决策过程，提升可解释性和信任度。这一突破有望推动AI在医疗、金融等高风险领域的应用，确保算法透明与责任明确。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650049474&idx=1&sn=5593c3dbb5b2dc50f098d4bf6e8a5ba4&chksm=8ec92401e47bab187a70c7b614971781bc2d405ce618e24a1f63ca8a8520e520966136678989&mpshare=1&scene=1&srcid=0501FTrLSuMPyfSt2v3fHcbA&sharer_shareinfo=17ad348e63b178659612173f3e42bef5&sharer_shareinfo_first=17ad348e63b178659612173f3e42bef5",
+      "time": "15:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Agent 可开 Cloudflare 账户了：自主买付钱、买域名、做部署",
+      "entity": "Cloudflare",
+      "clean_title": "AI Agent 自主完成开户、付费、域名购买与部署全流程",
+      "summary": "Cloudflare 账户注册流程迎来重大突破，AI Agent 已能独立完成从开户、支付、域名购买到部署的全部操作。这意味着自动化运维和云端资源管理进入新阶段，开发者可借助 Agent 实现零人工干预的云端基础设施搭建，大幅提升效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516560&idx=1&sn=2fa18e6700dcdf8e25bdf27e2c1ff2dc&chksm=c3d4e0ee0e3910f633461843a5596907bf24b4912d09b3773cf08aa4b75759e87b2464ec142c&mpshare=1&scene=1&srcid=0501lFfhGRFt8zBji8I4h2td&sharer_shareinfo=fdfb34f14967edae83253d360704504a&sharer_shareinfo_first=fdfb34f14967edae83253d360704504a",
+      "time": "15:47",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "最新！Demis Hassabis：Agent才刚刚开始，AI下一步是创造虚拟细胞",
+      "entity": "Demis Hassabis",
+      "clean_title": "AI的下一个前沿：创造虚拟细胞",
+      "summary": "DeepMind创始人Demis Hassabis指出，AI代理的发展才刚刚起步，而下一步重大突破将是利用AI创造虚拟细胞，这将彻底改变生物学研究和药物发现。这一愿景预示着AI从语言模型向科学模拟的范式转移。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514501&idx=1&sn=d8b25748e7d9c75c740c3e0d3e15f04a&chksm=cf6c9e1509acc9c26e8fa393cfe6878ff703d506676f34b1e50569ae3f0b45257ab7fc66cd4a&mpshare=1&scene=1&srcid=0501NlPITPWRrGIzKvQVrb3f&sharer_shareinfo=b369a8b642c50586dce0897c5ab90f7d&sharer_shareinfo_first=b369a8b642c50586dce0897c5ab90f7d",
+      "time": "17:43",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "🧠Google新论文：让AI Agent「从失败中学习",
+      "entity": "Google",
+      "clean_title": "让AI Agent从失败中学习，新论文提出自我反思机制",
+      "summary": "Google最新论文提出一种让AI Agent通过自我反思从失败中学习的机制，无需人工干预即可自动优化决策。该方法显著提升复杂任务成功率，为自主智能体发展开辟新路径。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69e8fec30000000022025b68?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CB3IEzbySO2TCsqJLylgigVoLzB2CiS62fdpohJq9qHI0=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777631264&share_id=339d571266864f6881ad0905c9f03f17",
+      "time": "18:27",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "我在OpenAI修中文",
+      "entity": "OpenAI",
+      "clean_title": "中文优化背后的技术细节与挑战",
+      "summary": "本文深入探讨了OpenAI在中文语言模型优化中的技术实践，包括用户代理检测、字体缩放调整、错误监控与日志记录等细节。通过分析代码片段，揭示了AI产品在本地化过程中面临的复杂工程挑战，以及如何通过精细的异常处理和性能监控来提升用户体验。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031262&idx=1&sn=31c43a0dbd465b0b8e7cc6fd01ad93e9&chksm=851739c5431cf8ad39d9d2511944233b8a2234627543e7a9a8b57a4beb071ed9eac077a17e35&mpshare=1&scene=1&srcid=0501Pos41jd99OFbfZzT78uw&sharer_shareinfo=54aa8e9a518d2a5f84c68637b05c62bc&sharer_shareinfo_first=54aa8e9a518d2a5f84c68637b05c62bc",
+      "time": "19:02",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "五一假期，花半天装个 Claude Code 玩玩？",
+      "entity": "Claude Code",
+      "clean_title": "花半天时间体验，AI编程工具新选择",
+      "summary": "五一假期，不妨花半天时间尝试Claude Code，一款新兴的AI编程辅助工具。本文带你快速上手，体验其代码生成与调试能力，感受AI如何提升开发效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247517878&idx=1&sn=79d871fb46879ac3d0d3d8967ce44523&chksm=fed690013a4c49f5f8ab3d9254c66c841127284b73bad378c88edbc51a357d65e8ff043b1110&mpshare=1&scene=1&srcid=0501ZEa7INkAt61Hg2D6m5Qv&sharer_shareinfo=b8ad6a57ed4794378da3455c9d03c2a4&sharer_shareinfo_first=b8ad6a57ed4794378da3455c9d03c2a4",
+      "time": "20:57",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Codex 推出 /goal 功能，不达目标，不罢休",
+      "entity": "Codex",
+      "clean_title": "推出 /goal 功能，不达目标不罢休",
+      "summary": "Codex 发布全新 /goal 功能，允许用户设定明确目标并持续迭代直至达成。这一功能将 AI 从被动响应变为主动执行，极大提升任务完成效率。对于追求精准输出的用户而言，/goal 意味着更少的人工干预和更高的自动化水平。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483290&idx=1&sn=904eb46992f4d152d712fd963e274f9f&chksm=86d2184557a746146ec3c058f1aa8ca7097334d7442a5fcb3be2d43c69ab7b3d45a7515916d6&mpshare=1&scene=1&srcid=0501UPdV6kZ6vI1dfAlhYmJK&sharer_shareinfo=9f809044ae2b38ebb3fb979f3088edbe&sharer_shareinfo_first=9f809044ae2b38ebb3fb979f3088edbe",
+      "time": "21:04",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "1.7亿人已读神作：如何用一天时间，彻底重塑你的一生？",
+      "entity": "微信公众平台",
+      "clean_title": "1.7亿人已读神作：一天重塑人生的秘密",
+      "summary": "一篇引发1.7亿人阅读的爆款文章，声称能在一天内彻底改变人生。文章通过代码片段和用户行为追踪，揭示了微信公众平台的技术细节，但核心内容尚未展示。这种标题党式的营销手法，再次引发对知识付费和内容消费的反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905108&idx=1&sn=6facc08225b895f474f2154e5dd49824&chksm=8d98ca189022a2b6b12afaab9cb519b8c2653cc7926f543d933c38602e117ec28def0444d880&mpshare=1&scene=1&srcid=0501Rut4xa6jASlc1ju02J8B&sharer_shareinfo=ae113119f679d1d1d076b1ef3a8b35f0&sharer_shareinfo_first=ae113119f679d1d1d076b1ef3a8b35f0",
+      "time": "21:36",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Andrej Karpathy：从 Vibe Coding 到 Agentic Engineering",
+      "entity": "Andrej Karpathy",
+      "clean_title": "从Vibe Coding到Agentic Engineering，AI编程范式正在转变",
+      "summary": "前OpenAI、特斯拉AI负责人Andrej Karpathy提出新概念Agentic Engineering，强调AI从辅助编码向自主工程演进。这一转变意味着开发者角色将从代码编写者升级为AI代理的引导者和架构师，标志着AI编程进入新阶段。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247500354&idx=1&sn=57b41f8b77a423c096e2b9dc712993d1&chksm=c02fd6f89b4b8be5171f2fd6ebe014665394770c7ddd90be4b84111dd54a9a41e46a18929d73&mpshare=1&scene=1&srcid=0501PXu3gK1zEKKsGOD8Qd3K&sharer_shareinfo=2d75c1e44b1449834f1817de9f812f48&sharer_shareinfo_first=2d75c1e44b1449834f1817de9f812f48",
+      "time": "22:13",
+      "category": "💡 深度观点"
+    }
+  ]
+}
