@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-03T13:38:33.810245",
+  "highlight": "AI教育先驱吴恩达发布新课，指出22年的提示词技巧已经过时，带来全新的AI交互与模型应用方法论。课程聚焦最新技术趋势，帮助开发者与从业者掌握更高效的AI使用策略，引发行业热议。",
+  "stats": {
+    "total_articles": 21,
+    "categories": {
+      "🧠 提示词与教程": 2,
+      "💡 深度观点": 6,
+      "📰 行业新闻": 6,
+      "🔧 工具与应用": 4,
+      "🤖 模型与技术": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "22年的提示词技巧过时了！刚刚，吴恩达新课来了",
+      "entity": "吴恩达",
+      "clean_title": "提示词技巧已过时，吴恩达新课发布",
+      "summary": "AI教育先驱吴恩达发布新课，指出22年的提示词技巧已经过时，带来全新的AI交互与模型应用方法论。课程聚焦最新技术趋势，帮助开发者与从业者掌握更高效的AI使用策略，引发行业热议。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247722427&idx=1&sn=55776d0460899f38803067362f1b2c06&chksm=e9112275060858c4fb52505f02b729820d752511a31027be925022b32dd791546bca7a6b80be&mpshare=1&scene=1&srcid=0502kiQLASzDUsGHa1tGxp3l&sharer_shareinfo=780f7c08ad284e9b7fbf300341ced8e8&sharer_shareinfo_first=780f7c08ad284e9b7fbf300341ced8e8",
+      "time": "09:33",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "学校买了AI，成绩却没变好：加点AI元素还是借AI做数字化改革",
+      "entity": "",
+      "clean_title": "AI进校园：是表面点缀还是深层改革？",
+      "summary": "学校引入AI后成绩未见提升，问题在于仅做表面点缀而非深层改革。文章剖析了教育数字化中常见的误区，指出真正的变革需要从底层重构教学流程，而非简单添加AI功能。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491270&idx=1&sn=cd32ae5a3bdef17dd6fb5f1cb85d4769&chksm=96ad4fa290a64435019274d187b78fa30dfdba789ca8fc2bdbbcd1556dce11d2634c6b7ebdb9&mpshare=1&scene=1&srcid=0502F8Kz4KmvWKKoqeg1uLrt&sharer_shareinfo=6929a76fb7f63fbac38954fde7651c2b&sharer_shareinfo_first=6929a76fb7f63fbac38954fde7651c2b",
+      "time": "09:34",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "专著推荐 | 《思考与言说时间：一种认知语言学路径》（2026年新书）",
+      "entity": "认知语言学路径",
+      "clean_title": "新书探索时间认知的语言学机制",
+      "summary": "《思考与言说时间》以认知语言学为框架，深入剖析人类如何通过语言构建时间概念。本书提出时间认知的具身性假说，结合跨语言证据，揭示时间表达背后的认知操作。对于语言学、认知科学研究者及AI时序推理开发者，本书提供了前沿理论视角与实证方法，是2026年不可错过的学术专著。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAxNTcyNzkxNw==&mid=2650411836&idx=1&sn=70fdad2b471f70a5f0da3a12db3b500a&chksm=820cef6f5121778db135b5874e7d3991015c42bdddb86d596acd80e3582c814a30283804d996&mpshare=1&scene=1&srcid=0502pJ23lFYUhBjsdi0jBCsz&sharer_shareinfo=512ef81227bb3c3e4a34f5f20611b8c8&sharer_shareinfo_first=512ef81227bb3c3e4a34f5f20611b8c8",
+      "time": "09:58",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Skills 刚普及就要死了？LLM正在吞噬Skills",
+      "entity": "小红书",
+      "clean_title": "LLM正在吞噬传统Skills，代码分析揭示技术转型",
+      "summary": "文章通过分析小红书前端代码中的错误重试机制，指出LLM（大语言模型）正在取代传统的Skills（如手动编写复杂逻辑）。代码片段展示了自动化资源加载和错误上报，暗示AI将吞噬传统编程技能，开发者需适应新范式。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69f46931000000001e00d8b6?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBQfLxVUkWm8JlEbqVtwALal3vjlSelp3eaDOpCErjPVM=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777687085&share_id=0c96a217b46d47458b2f53a1f6dc6605",
+      "time": "09:58",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "阿里给了一号位，他还是去了字节",
+      "entity": "阿里",
+      "clean_title": "高管放弃一号位，跳槽字节跳动",
+      "summary": "阿里核心高管放弃公司给予的一号位机会，毅然选择加入字节跳动。这一人事变动背后，折射出互联网巨头间的人才争夺战愈演愈烈，也暗示了字节跳动在吸引顶级人才方面的独特优势。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69f4d0330000000022027f7a?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBQfLxVUkWm8JlEbqVtwALag5JparK5eGgqBQpn1xnra4=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777687330&share_id=483423a360794525aa88b4cf45ddab39",
+      "time": "10:02",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "你的外卖，被炒菜机器人承包了",
+      "entity": "炒菜机器人",
+      "clean_title": "外卖行业迎来自动化革命，炒菜机器人成新宠",
+      "summary": "随着人工智能技术的成熟，炒菜机器人正在逐步渗透外卖行业，替代传统厨师完成标准化餐品制作。这一趋势不仅降低了人力成本，还提升了出餐效率与食品安全水平。然而，机器人的普及也引发了关于就业替代和口味个性化的讨论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653249175&idx=1&sn=7fe7b6db1fd958795e513b626e9f0087&chksm=4ffdc0777efaf425e9398a05602a6c2e42dd1447093845817fb32ae8e81837939bf20c5826cd&mpshare=1&scene=1&srcid=05028AEtOqWaqYa0AjS6dTM0&sharer_shareinfo=96929b75af7fd763b65c8cd9fa66a08e&sharer_shareinfo_first=96929b75af7fd763b65c8cd9fa66a08e",
+      "time": "10:15",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "entity": "苹果",
+      "clean_title": "官方App误打包Claude代码，Vibe Coding翻车？",
+      "summary": "苹果官方App意外打包了Claude的代码文件，引发开发者热议。这种低级错误暴露了大公司内部流程的混乱，甚至被调侃为“Vibe Coding”的典型翻车案例。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247888083&idx=1&sn=5f9d0d2ce294818d552144825fbd36af&chksm=e9637662a66b3cedada4095ac90b010c1f889372151b62356ed82ca93b6e694b48d1b335f30c&mpshare=1&scene=1&srcid=0502ZRQgnNTgV3P8yCLn09Bp&sharer_shareinfo=92e8d0914c6427ad8a5eea1d1c34d9a2&sharer_shareinfo_first=92e8d0914c6427ad8a5eea1d1c34d9a2",
+      "time": "11:07",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "俞浩大战小红书，谁有理？",
+      "entity": "小红书",
+      "clean_title": "俞浩公开质疑小红书规则，平台治理争议再起",
+      "summary": "俞浩与小红书之间的争议引发广泛关注，核心围绕平台规则透明度与公平性。俞浩指责小红书算法不公、审核机制模糊，而小红书则强调其社区规范。这场争论折射出内容平台在商业化与用户体验间的平衡难题，也引发对平台治理权力的深度反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI2NTY4MDg1NA==&mid=2247848643&idx=1&sn=f781d0f06e59ebf693aaa68255811418&chksm=ebbc76bd6f9d005ac8dbee576869a21034fc04db37419fa536a0dc3d5f88219ff81534b690b3&mpshare=1&scene=1&srcid=0502I5FfpBrGK7MYShFWNleh&sharer_shareinfo=1ca55ab421df9d81d9057dbd24bde081&sharer_shareinfo_first=1ca55ab421df9d81d9057dbd24bde081",
+      "time": "11:28",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "谷歌总监开源了一套Agent编程Skill库",
+      "entity": "谷歌",
+      "clean_title": "开源Agent编程Skill库，打造智能体开发新范式",
+      "summary": "谷歌总监开源了一套Agent编程Skill库，旨在简化智能体开发流程。该库提供了模块化编程接口，支持多种任务编排，降低开发者门槛。此举有望推动Agent生态发展，加速AI应用落地。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69f0ab280000000036001723?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBtHIUGEca2WC7JHRycJTZzVvZxwfTvz_Ce1T6042ZvZw=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777695882&share_id=003f4eda0ed242329d4471a3a1e2779f",
+      "time": "12:24",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "这套题，GPT-5.5、Opus 4.7加起来没考到「1分」，人类却拿了满分100？",
+      "entity": "GPT-5.5、Opus 4.7",
+      "clean_title": "AI模型集体翻车，人类满分通过测试",
+      "summary": "最新测试显示，GPT-5.5和Opus 4.7等顶级AI模型在特定任务上得分接近0，而人类轻松获得满分。这一结果凸显了当前AI在理解复杂语境和常识推理上的根本缺陷，引发对模型能力上限的深刻反思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651031297&idx=1&sn=41368039c5bd521303caf995c14d0d01&chksm=85f7539e2e0ca03230d193e781d16ee89a2f046cdc025c5912310b48201cb63b3b752aa34d8a&mpshare=1&scene=1&srcid=0502U3QKW353WauFPdSvmfC4&sharer_shareinfo=98066262b449f08b70a8a0b729555678&sharer_shareinfo_first=98066262b449f08b70a8a0b729555678",
+      "time": "13:58",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "马斯克的Grok 4.3悄悄上线，跑分评测出炉",
+      "entity": "Grok 4.3",
+      "clean_title": "悄悄上线，跑分评测结果出炉",
+      "summary": "马斯克的Grok 4.3模型在未公开宣传的情况下悄然发布，随即有评测机构对其进行了跑分测试。结果显示，该模型在多项基准测试中表现优异，尤其在推理和代码生成任务上超越前代，但具体性能细节仍待更多验证。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652697397&idx=1&sn=67a2bfbe5b6216de750b95df471033c2&chksm=f08619980eb7b0839203881b47ed929a2d523f7abfa83b7ba4b8333af6d19d19fc4305ca8434&mpshare=1&scene=1&srcid=0502dFKtsUTG2EE6AaaPq3eu&sharer_shareinfo=30e1e1a6636c252a79faae50cda41486&sharer_shareinfo_first=30e1e1a6636c252a79faae50cda41486",
+      "time": "17:09",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "今天起，ChatGPT合体OpenClaw！Codex上线「养宠」，码农觉都不睡了",
+      "entity": "OpenAI",
+      "clean_title": "ChatGPT与OpenClaw合体，Codex上线新功能让开发者疯狂",
+      "summary": "OpenAI宣布ChatGPT与OpenClaw合并，同时Codex推出新功能，允许开发者通过自然语言指令创建和管理代码项目，极大提升开发效率。这一更新引发程序员群体热议，被认为将改变编程工作流。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652697384&idx=1&sn=bf02eae13ad3692f11cc7fcf04f88c9c&chksm=f06616cab9654aefaa3b60d2e0413e231d1fd616aa2b70b14b8aece26e234cbea7749e5c632f&mpshare=1&scene=1&srcid=0502zFBdr7TuyxZwmeg7ncww&sharer_shareinfo=cd89f5e1e5da12aa60b97d2e7dabbe52&sharer_shareinfo_first=cd89f5e1e5da12aa60b97d2e7dabbe52",
+      "time": "19:10",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "DeepSeek重磅发布多模态论文，怎么又连夜删除了？",
+      "entity": "DeepSeek",
+      "clean_title": "发布多模态论文后紧急删除，背后有何隐情？",
+      "summary": "DeepSeek 深夜发布多模态论文，引发业内关注，但随后又悄然删除。此举或与论文内容敏感、技术细节未完善有关。作为国内 AI 新星，DeepSeek 的一举一动都牵动行业神经，这次“闪发闪删”事件再次将其推向风口浪尖。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650049514&idx=2&sn=0e959f042dbe11e5abf5fbd20c401c34&chksm=8ef492306b27bc69697b1daa1a8297e645a57fcf6801abcd4808ecfd894d018a40165e6b6248&mpshare=1&scene=1&srcid=0502JZyQ9cLATgq2pzmqEvLx&sharer_shareinfo=c270790b4874c82370964bf0be5fcc79&sharer_shareinfo_first=c270790b4874c82370964bf0be5fcc79",
+      "time": "19:10",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "详解 DeepSeek V4：Infra 巨鲸 “四连击”，百万上下文走进现实",
+      "entity": "DeepSeek V4",
+      "clean_title": "百万上下文与四连击：DeepSeek V4 如何重新定义 AI 基础设施",
+      "summary": "DeepSeek V4 以“Infra 巨鲸”姿态实现四连击，将百万级上下文窗口带入现实。这一突破不仅大幅提升了长文本处理能力，更在模型效率与成本控制上树立新标杆，预示着 AI 应用场景的又一次跃迁。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247535723&idx=1&sn=3ce8e3b143288b97de15097229cd7396&chksm=fd2438abe93cd01c4df37cb8dcab095d5c14dd3e31306b20b507481131f7e22a24f9636c1d61&mpshare=1&scene=1&srcid=0502k8fLmdxPSAW9Cw2lSzj9&sharer_shareinfo=cd6806965c6fc2739d798ad75278c486&sharer_shareinfo_first=cd6806965c6fc2739d798ad75278c486",
+      "time": "19:59",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "Codex 保姆级入门教程（6000字长文）",
+      "entity": "Codex",
+      "clean_title": "保姆级入门教程，6000字详解上手技巧",
+      "summary": "本文是一篇详尽的Codex入门指南，从环境配置到实际应用，手把手教你掌握这一AI编程助手。内容涵盖基础操作、进阶技巧及常见问题，适合零基础开发者快速上手，提升编程效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653263216&idx=1&sn=7e819b29a7c9db2d1e58f91abca3149e&chksm=8d0801894b543930bd62a252078a10ebff355562ab9a191adb3e50fd29f7c26467e39913ead4&mpshare=1&scene=1&srcid=0502ntHu4x3c15qtKMIRQID7&sharer_shareinfo=b20c68d298d199a473869b40a2679650&sharer_shareinfo_first=b20c68d298d199a473869b40a2679650",
+      "time": "20:30",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "Seed3D 2.0",
+      "entity": "Seed3D 2.0",
+      "clean_title": "发布2.0版本，3D生成能力再升级",
+      "summary": "Seed3D 2.0作为新一代3D生成工具，在模型精度、生成速度和交互体验上实现重大突破。该版本不仅支持更复杂的几何结构，还优化了材质与光照渲染，显著降低创作门槛。开发者可通过API快速集成，适用于游戏、影视、电商等场景。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwOTMzMzk0MQ==&mid=2247500389&idx=1&sn=94283881c29fb3828f179d3542ec5a20&chksm=c0ae27481dc972f0f6b02ddaed8352901bfbec8a31c1a043b198b6b8d32a897ff1754dd41311&mpshare=1&scene=1&srcid=0502IoCLn4xj2tYPW05tcD2m&sharer_shareinfo=44468ba606aa52f984c850ea4fb1f1c7&sharer_shareinfo_first=44468ba606aa52f984c850ea4fb1f1c7",
+      "time": "21:29",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Anthropic 最新博客：Prompt Caching 是构建 Claude Code 的一切",
+      "entity": "Anthropic",
+      "clean_title": "Prompt Caching 成为构建 Claude Code 的核心技术",
+      "summary": "Anthropic 最新博客揭示，Prompt Caching 是构建 Claude Code 的关键。通过缓存常用提示，大幅降低延迟和成本，提升代码生成效率。这一技术突破为 AI 编程助手树立新标准，开发者可更流畅地交互，加速软件开发流程。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483323&idx=1&sn=071ed69d210523e0020bd8d22d2ac1a5&chksm=8675eb1f40a91d29723ecf8f296e4a1f9f355639fc9101ea6261f6d1b12f71dd64562d184963&mpshare=1&scene=1&srcid=0502ilfOvKGzedtH5nhC2RZp&sharer_shareinfo=308c786f9ada2a58af6cf313d2fb2387&sharer_shareinfo_first=308c786f9ada2a58af6cf313d2fb2387",
+      "time": "21:32",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "如果你也在为AI焦虑，建议来听听这期访谈",
+      "entity": "",
+      "clean_title": "AI焦虑者的解药：这期访谈让你重新掌控未来",
+      "summary": "当AI焦虑席卷职场与生活，这期访谈直击痛点，邀请行业专家拆解焦虑根源，提供从技术理解到心态调整的实用建议。不贩卖恐慌，只给解药，帮你从被动焦虑转向主动拥抱AI变革。",
+      "url": "https://www.xiaohongshu.com/discovery/item/69f37e46000000003700d77c?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBI2YEcDCHmuZnrrpkSoNCMsteF6JW9y7mAG5db9RYRgM=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1777728715&share_id=0a7fc84a0e0f48a19e3c6623aa06f449",
+      "time": "21:32",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "废掉一个孩子最快的方式：逼他死记硬背",
+      "entity": "",
+      "clean_title": "死记硬背正在毁掉孩子的创造力，教育方式急需变革",
+      "summary": "本文批判了传统教育中死记硬背的弊端，指出这种方式虽然短期内能提升成绩，但长期会扼杀孩子的独立思考能力和创造力。文章呼吁家长和教育者转变观念，注重培养孩子的批判性思维和解决问题的能力，而非机械记忆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905119&idx=1&sn=c9a9f89cb40c200a85ae229ceb17df56&chksm=8d9d06d29170d17ff3939baa458a03ffde6a29dee53c0346eb741dbf48b369e2543a84ea826d&mpshare=1&scene=1&srcid=0502iUbuxZr7c4Td4mxwpbx7&sharer_shareinfo=e7cf74468043d976a8b1426247ee6e30&sharer_shareinfo_first=e7cf74468043d976a8b1426247ee6e30",
+      "time": "22:19",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "3 年从工程师到 CTO！华人将执掌硅谷千亿 AI 公司，毕业自中科大少年班",
+      "entity": "华人 CTO",
+      "clean_title": "3年从工程师到CTO，华人执掌硅谷千亿AI公司",
+      "summary": "一位毕业于中科大少年班的华人工程师，仅用3年时间从普通工程师晋升为CTO，将执掌硅谷一家估值千亿的AI公司。这一传奇经历引发行业热议，展现了华人精英在AI领域的卓越领导力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247722440&idx=1&sn=1e947e3bd8de3cb616e7bf146b10b407&chksm=e9b7bee3175972b7c8e47f013211b1109ddd069e8c9eec8776d5b19761085fa61b543d0f45b6&mpshare=1&scene=1&srcid=0503iDnEb9t3woDIsyK3vSdB&sharer_shareinfo=1b7c826649a5d66969020cb1d1eee208&sharer_shareinfo_first=1b7c826649a5d66969020cb1d1eee208",
+      "time": "06:37",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "赫尔巴特：把教育学从经验带向科学的人",
+      "entity": "赫尔巴特",
+      "clean_title": "将教育学从经验提升为科学，奠基现代教育理论",
+      "summary": "赫尔巴特首次将教育学建立在心理学和伦理学基础上，提出“教育性教学”原则，强调系统化教学方法，使教育从零散经验升华为严谨科学。其思想影响深远，至今仍是教师培训的核心理论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491282&idx=1&sn=c9b89379f59ff09351b02d1155d5bbd9&chksm=96b6a8c6e0e4e49218348ba78123c421ad4fba0c1371ace49046c671d481e4851e564ad6e727&mpshare=1&scene=1&srcid=0503LeuNFkitQlsaecT1T2vi&sharer_shareinfo=8f2c74ea6e1069c4cc9239c9464a399d&sharer_shareinfo_first=8f2c74ea6e1069c4cc9239c9464a399d",
+      "time": "07:54",
+      "category": "💡 深度观点"
+    }
+  ]
+}
