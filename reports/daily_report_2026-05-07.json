@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-08T13:11:50.534059",
+  "highlight": "科技界迎来大反转，马斯克旗下 SpaceX 与竞争对手 Anthropic 宣布罕见合作。这一联手打破了以往的对立格局，引发行业震动。双方将如何整合资源，共同推动 AI 与航天技术发展？合作背后又隐藏着哪些战略考量？",
+  "stats": {
+    "total_articles": 16,
+    "categories": {
+      "📰 行业新闻": 7,
+      "🤖 模型与技术": 2,
+      "🔧 工具与应用": 4,
+      "💡 深度观点": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "大反转！马斯克牵手对手 Dario，Anthropic 与 SpaceX 罕见合作",
+      "entity": "Anthropic",
+      "clean_title": "马斯克与对手罕见合作，Anthropic 联手 SpaceX",
+      "summary": "科技界迎来大反转，马斯克旗下 SpaceX 与竞争对手 Anthropic 宣布罕见合作。这一联手打破了以往的对立格局，引发行业震动。双方将如何整合资源，共同推动 AI 与航天技术发展？合作背后又隐藏着哪些战略考量？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483550&idx=1&sn=c906fbd7a5953f03585a5df7e9d072a7&chksm=8688ad43cddd2afaa7db5c0bfdde6666efa8d1b8b68afc087faf6e1635563d0c2aa68ac451b3&mpshare=1&scene=1&srcid=0507MgNydmp4x45HPaPDSfqS&sharer_shareinfo=a8995c897b9781882d4484576da9758c&sharer_shareinfo_first=a8995c897b9781882d4484576da9758c",
+      "time": "08:53",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "SKILL.md不够用了：北大提出SSL，Agent需要一套自己的结构化表示层",
+      "entity": "北京大学",
+      "clean_title": "Agent需要自己的结构化表示层：北大提出SSL，超越传统SKILL.md",
+      "summary": "北京大学研究团队提出结构化表示层SSL，专为Agent设计，解决传统SKILL.md在复杂任务中的局限性。SSL通过层次化、可组合的结构，显著提升Agent的规划与执行效率。实验表明，SSL在多个基准测试中表现优于现有方法，为Agent系统提供了更强大的表示能力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MzYxODkzMg==&mid=2247508237&idx=1&sn=138f22da355564fc2feb5ef7a99dd897&chksm=cef3187e85f1bf8267cd4ec7f09ddaf8c4faac8ef01c6de20bf28a129ff0941bff3de7ca3590&mpshare=1&scene=1&srcid=05072t2LFib1ejR9IypxSvxM&sharer_shareinfo=04ca9caf26cb705339cf0ff3fcd13a58&sharer_shareinfo_first=04ca9caf26cb705339cf0ff3fcd13a58",
+      "time": "08:53",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "OpenAI 选中的 37 名「超级大学生」，厉害在哪？做了什么？",
+      "entity": "OpenAI",
+      "clean_title": "37名超级大学生入选，他们做了什么？",
+      "summary": "OpenAI从全球选拔37名大学生，组成首届“超级大学生”团队。他们参与前沿AI研究，包括模型训练、安全对齐等，展现惊人潜力。这些学生来自不同背景，但共同点是卓越的学术能力和创新思维。OpenAI此举旨在培养下一代AI领袖，推动技术发展。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516717&idx=1&sn=64947a8b9fea9a72b0be05df67656a50&chksm=c3deabecb9cce1f824ff9f939e6164e492231358ef0c2c3994dd70ec148685b9b85dc37096ab&mpshare=1&scene=1&srcid=0507WizLKH0pdo5HjUbnrAmx&sharer_shareinfo=d830a94fcecfe5ecf637b1c7282052b9&sharer_shareinfo_first=d830a94fcecfe5ecf637b1c7282052b9",
+      "time": "08:53",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "OpenAI和Anthropic正疯狂争夺产能！黄仁勋：Token利润率极高；Agentic AI所需计算量比生成式AI高出约1000倍；对事情的期望可以乘以100倍",
+      "entity": "OpenAI",
+      "clean_title": "争夺产能，黄仁勋称Agentic AI计算需求激增",
+      "summary": "OpenAI和Anthropic正疯狂争夺AI芯片产能，黄仁勋指出Token利润率极高，Agentic AI所需计算量比生成式AI高出约1000倍，建议对事情期望乘以100倍。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655939150&idx=1&sn=efbcd332abe23faf0e567d63f3a87c85&chksm=bc16ec4893290bb5fddb6c5e058abf2fd42d9cc88e399146c944f1c11728c3b0e7c694c999a8&mpshare=1&scene=1&srcid=05074AupKLcqLKdDTq1yIU98&sharer_shareinfo=e45af9fa0f143bebe150097af6e1c121&sharer_shareinfo_first=e45af9fa0f143bebe150097af6e1c121",
+      "time": "08:54",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "把视频变成图文博客：Agent + 豆包 Seed2.0 lite 重做 Karpathy 两年前的工作流",
+      "entity": "豆包 Seed2.0 lite",
+      "clean_title": "用Agent+豆包Seed2.0 lite重做Karpathy视频转博客工作流",
+      "summary": "本文展示了如何利用Agent和字节跳动豆包Seed2.0 lite模型，复现并优化Karpathy两年前的视频转图文博客工作流。通过自动化脚本和轻量级模型，实现高效内容转换，为创作者提供低成本、高质量的内容生产方案。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494770&idx=1&sn=512196319ef5ed0d6fbb360525d2538b&chksm=c241a7c39b31ea5b912928080ec18cddf75f93435eff0c6425df839201bbe57bab8b128f603b&mpshare=1&scene=1&srcid=0507tz5RVWfslwYj1QctpoAT&sharer_shareinfo=63a664fa809ec857e694e41a27c58b51&sharer_shareinfo_first=63a664fa809ec857e694e41a27c58b51",
+      "time": "09:12",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "杨植麟现身后，Kimi又融资140亿",
+      "entity": "Kimi",
+      "clean_title": "融资140亿，杨植麟现身提振信心",
+      "summary": "Kimi在创始人杨植麟现身后完成新一轮140亿元融资，彰显资本对其大模型路线的持续看好。此次融资将用于技术研发与市场拓展，进一步巩固其在AI对话领域的领先地位。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247723163&idx=1&sn=d094d8189f81aeb09aa605397283ac9e&chksm=edf5f02b426188e0c2387651994d263a4d3304a21066431536f5cfa2f8345211e07932b9f56a&mpshare=1&scene=1&srcid=0507hrCYBgRdVnSPYlG57EPf&sharer_shareinfo=99ba44d2a95e5b279d4e896e79d50d25&sharer_shareinfo_first=99ba44d2a95e5b279d4e896e79d50d25",
+      "time": "09:21",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "突发，马斯克xAI解散了！22万张GPU忍痛全给Claude",
+      "entity": "xAI",
+      "clean_title": "解散并转移22万张GPU给Claude，AI竞争格局突变",
+      "summary": "马斯克旗下xAI突然宣布解散，并将全部22万张GPU资源转让给Anthropic的Claude。这一爆炸性新闻标志着AI军备竞赛进入新阶段，资源向头部玩家集中，中小玩家生存空间被急剧压缩。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652698173&idx=1&sn=85b6ce4c7592002a2e3c538a39c3d597&chksm=f042c962df6e6af52ad5865d8a13cd5b6b095f0eee8c87e1a2faf8f3fb2222eadac2d8f63f78&mpshare=1&scene=1&srcid=0507s9RvKvHhm9jcAmrJFoxl&sharer_shareinfo=ef3f4999371ca4bcf4a83bd5435b86c5&sharer_shareinfo_first=ef3f4999371ca4bcf4a83bd5435b86c5",
+      "time": "09:21",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Anthropic 上线「做梦」功能，让 Agent 越睡越聪明",
+      "entity": "Anthropic",
+      "clean_title": "Agent 夜间自动学习，智能进化新突破",
+      "summary": "Anthropic 推出创新「做梦」功能，让 AI Agent 在休眠期间自动回顾经验、优化策略，实现无需人工干预的持续进化。这一机制显著提升复杂任务处理能力，为自主智能体发展开辟新路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247516690&idx=1&sn=2bb809ed2f6bec23bc47dbc7502908de&chksm=c31a7acbd994f28528f33f44972772edb98d435e90ad1f8fedae5e1fa12f0180428e9b1fb050&mpshare=1&scene=1&srcid=0507ZMcIE1ibCNkOPqH4hoE7&sharer_shareinfo=857637428eb36cc9b2d9861c435ae589&sharer_shareinfo_first=857637428eb36cc9b2d9861c435ae589",
+      "time": "09:35",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "📚停止内耗！24本心理学书单救赎指南",
+      "entity": "小红书",
+      "clean_title": "代码泄露揭示前端资源加载重试机制",
+      "summary": "文章包含小红书前端代码，展示了其资源加载重试机制，包括通过CDN替换、错误监控和本地存储队列，确保页面稳定。技术细节体现大厂对用户体验的极致追求。",
+      "url": "https://www.xiaohongshu.com/discovery/item/6905fc37000000000700119e?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBu1I76pulNmskWAw3vdp1SdnJzIDnjqV76OJNes23nlI=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1778118502&share_id=8e6ed298d1f846b992663f2b6b1a6131",
+      "time": "09:48",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "这个封装了我3年自媒体经验的AI热点网站，今天向所有人免费开放。",
+      "entity": "AI热点网站",
+      "clean_title": "三年自媒体经验封装成的AI热点网站，今日免费开放",
+      "summary": "作者将自己三年自媒体经验集成进一个AI热点网站，今日向所有人免费开放。该网站旨在帮助自媒体人快速捕捉热点，提升内容创作效率。文章详细介绍了网站的功能和背后的思考，强调实用性和易用性。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647682019&idx=1&sn=13723968587c20aa81d71ed8c3b52fae&chksm=f1a17f25a93db82864f3041d93a1d83025a5708ce49993c4fdfe0e9c836404249495af5bc795&mpshare=1&scene=1&srcid=05071Dio6MNPVqohbnUyydLH&sharer_shareinfo=fa292c91fdfef445bd564411f257db65&sharer_shareinfo_first=fa292c91fdfef445bd564411f257db65",
+      "time": "10:31",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Boris Cherny：Claude Code 之后，写代码正在变成“管理 Agent”",
+      "entity": "Claude Code",
+      "clean_title": "写代码正在变成“管理 Agent”",
+      "summary": "Boris Cherny 指出，随着 Claude Code 等 AI 编程工具的出现，开发者的角色正从手写代码转变为管理 AI Agent。这一转变将提升效率，但也对开发者提出了新的技能要求。文章深入探讨了 AI 辅助编程的未来趋势及其对行业的影响。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494723&idx=1&sn=7aa816280ecdd6fdf8338b41081a6f03&chksm=c225fcdb4abcae24750b236b49f388fdeb478b8cf2a2e1f3457970a70f73f3f70453ae58b150&mpshare=1&scene=1&srcid=0507SsquaJOS0XaZPPM2pNw6&sharer_shareinfo=2a77aa6dbd86a88e75ad12ce7bc2926e&sharer_shareinfo_first=2a77aa6dbd86a88e75ad12ce7bc2926e",
+      "time": "13:46",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "刚刚，GPT-5.5 Instant全员免费！数亿人的ChatGPT变了",
+      "entity": "ChatGPT",
+      "clean_title": "GPT-5.5 Instant 免费开放，数亿用户迎来变革",
+      "summary": "ChatGPT 宣布 GPT-5.5 Instant 模型向所有用户免费开放，无需订阅即可体验更快的响应速度和更强的推理能力。这一举措将极大降低 AI 使用门槛，可能重塑对话式 AI 市场格局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652697811&idx=1&sn=ef19b8efc229b6a016508efb19c3186c&chksm=f02c7b5e246f66e033f302e5054aaff231679541b5e8544883258d7209b9314f79050db5f092&mpshare=1&scene=1&srcid=05078YzQhZSJ7EJAH5ik76cv&sharer_shareinfo=103a535ad9e0801c0bb5e10b8ce6a86b&sharer_shareinfo_first=103a535ad9e0801c0bb5e10b8ce6a86b",
+      "time": "13:47",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Claude最新功能泄露！主动助手Orbit接管一切工作",
+      "entity": "Claude",
+      "clean_title": "主动助手Orbit泄露，将接管一切工作",
+      "summary": "据泄露信息，Claude即将推出全新主动助手功能Orbit，可自主规划并执行复杂任务，无需用户逐一下达指令。该功能标志着AI从被动响应向主动服务的重大转变，有望彻底改变工作流程，引发行业震动。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652697869&idx=1&sn=bd74e25f762c46724ad6a2c494c625b5&chksm=f0f78ce99ef35873a75b51f59bb301306931931fb61d9d8a5eb6613d30a66675c0c05bb6ace5&mpshare=1&scene=1&srcid=0507TMdj7aXQx83i2cCT1vzL&sharer_shareinfo=4af5daf3f73742d26daf9cdc50b0c6aa&sharer_shareinfo_first=4af5daf3f73742d26daf9cdc50b0c6aa",
+      "time": "13:47",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Claude Code 之父最新访谈：编程已经结束、harness 将消失，Claude Code 将只有 100 行代码，loop 才是未来",
+      "entity": "Claude Code",
+      "clean_title": "编程已死，Harness将消失，Loop才是未来",
+      "summary": "Claude Code之父最新访谈指出，传统编程范式即将终结，Harness等工具将被淘汰，未来Claude Code仅需100行代码，核心转向Loop模式。这一观点颠覆了现有开发流程，预示AI将彻底重塑编程行业。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483563&idx=1&sn=ac2e6ad02d8d90dbd1900c6e37897f7e&chksm=86dfd5533f5d2baa035241292eb7f16864fe82b37f034633a582e49fc1ffb5f8f4eb9fd2af61&mpshare=1&scene=1&srcid=05074oWc6pjslWgdCOu4cazn&sharer_shareinfo=f8381737b28a7e2d26bd77dc5f2920c2&sharer_shareinfo_first=f8381737b28a7e2d26bd77dc5f2920c2",
+      "time": "19:06",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "AGI 全景图：一篇通用人工智能的综述！",
+      "entity": "AGI",
+      "clean_title": "通用人工智能全景图：从概念到实践的全面综述",
+      "summary": "本文系统梳理了通用人工智能（AGI）的发展脉络、核心技术路径与当前挑战，涵盖大语言模型、多模态学习、推理能力等关键领域。文章指出，AGI正从理论走向应用，但距离真正通用智能仍有距离。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247722555&idx=1&sn=2e303518baa293add0811801e9c00ee5&chksm=e9e45c6d8279cb8b727d5561d02265e3e50936c5a21d755e9a893334bccd380f12ecbbc2dc66&mpshare=1&scene=1&srcid=0507QxttQd1f453akxi3xSX3&sharer_shareinfo=4c9fffa9a34b5c8ccaa73e728fd8f98b&sharer_shareinfo_first=4c9fffa9a34b5c8ccaa73e728fd8f98b",
+      "time": "23:24",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+      "entity": "龙虾",
+      "clean_title": "一句话+百元预算，AI生成百万级广告片",
+      "summary": "本文探讨了AI视频生成工具“龙虾”的惊人能力：仅需一句话描述和百元预算，即可自动生成一支专业级广告片，效果堪比百万级制作。文章通过实际案例展示了AI在创意内容生产中的颠覆性潜力，引发对传统广告行业未来走向的思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889236&idx=1&sn=734b4f2a90b13769479eaea924a36061&chksm=e9ed2c28e2f98c20e579cf347cb59facdf65c6777d2d8cedd4caff1d7ed871a78f0d92c351d5&mpshare=1&scene=1&srcid=0507sYamsAfI2hayOUIwGgQF&sharer_shareinfo=d3a0aeff229f934ddd5d3f5b5ccf9cce&sharer_shareinfo_first=d3a0aeff229f934ddd5d3f5b5ccf9cce",
+      "time": "23:31",
+      "category": "🔧 工具与应用"
+    }
+  ]
+}
