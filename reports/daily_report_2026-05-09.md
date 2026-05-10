@@ -1,0 +1,62 @@
+# 📅 Daily AI Report - 2026-05-09
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **10** 篇内容。
+> **今日看点**: 可汗学院推出AI大学，试图用人工智能重塑高等教育。这究竟是打破资源垄断的革新，还是将知识变成流水线产品的开始？当个性化学习遇上算法标准化，我们该欢呼还是警惕？
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Anthropic]** 新研究彻底杜绝Claude勒索行为
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483644&idx=1&sn=ccf8214b4a73f6a326cfe1ff0eda605e&chksm=86a45bd6dcae8b8cdd4c20b3b16519263e23d693c4e86fc6f922aa5c77178cf7a464661b9938&mpshare=1&scene=1&srcid=05093vk9O7vY1Go61n8dFXn4&sharer_shareinfo=c27dcfb3a81b05ff1de48d302b93cb3b&sharer_shareinfo_first=c27dcfb3a81b05ff1de48d302b93cb3b)
+*   📝 Anthropic最新研究提出一套创新方法，从模型训练到部署全链路防御，彻底消除Claude被恶意利用进行勒索的风险。该方案通过对抗训练、行为约束和实时监控，确保模型输出安全可控，为AI安全树立新标杆。
+*   ⏰ *09:52*
+
+#### **[OpenAI]** 不更新参数也能强化学习？新范式让AI只需一个.py文件
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889510&idx=1&sn=a5343493b3458a3dea508d0febac7175&chksm=e9a3e1ab0f589184fa7583d9ac5a11674ad2cee20b8c0815d48fc7f50383b87bf3830b78d80e&mpshare=1&scene=1&srcid=0509wqe7CeRHJXkqT5kRz5gq&sharer_shareinfo=aee91a32950015d857bc2fab1931545a&sharer_shareinfo_first=aee91a32950015d857bc2fab1931545a)
+*   📝 OpenAI研究员翁家翌提出强化学习新范式，无需更新模型参数即可实现决策优化。该方法通过手写Python脚本动态调整策略，大幅降低计算成本，为AI应用开辟新路径。
+*   ⏰ *17:56*
+
+### 📰 行业新闻
+#### **[]** 硅谷最新刷屏文章引发热议，内容竟是技术代码片段
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247722621&idx=1&sn=a72cc62c2b85d532708150f6d0b2717e&chksm=e94095d76ceeffa5edb81c3f9a7845408a8282c47f6566771047825785ccfc025d3ff5cb0f62&mpshare=1&scene=1&srcid=0509LEMM5DVuUpl3goFN7cTW&sharer_shareinfo=41d2957a7508c24a89731dbfe3e5459a&sharer_shareinfo_first=41d2957a7508c24a89731dbfe3e5459a)
+*   📝 一篇来自硅谷的文章在朋友圈刷屏，但仔细查看正文，发现其中充斥着大量JavaScript代码和微信环境检测逻辑，疑似技术分享或bug曝光。文章本身缺乏可读内容，却引发广泛传播，折射出当前信息传播的浮躁现象。
+*   ⏰ *23:38*
+
+#### **[Anthropic]** Nature发文揭示AI模型训练中的数据删除与模型遗忘机制
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU4MTEzMzMyMA==&mid=2247498300&idx=1&sn=ea3af649a4434b1f8ef74e1c2d248966&chksm=fc6ec7766437f652218b57c06b2acd02a4553523b9927edbd850863115f059d419c945f4df3e&mpshare=1&scene=1&srcid=0509e9sGv6IoYUD9rjprsiwf&sharer_shareinfo=17ab098bc1973a0ca10d6b39ffe464e7&sharer_shareinfo_first=17ab098bc1973a0ca10d6b39ffe464e7)
+*   📝 Nature刊发Anthropic最新研究，探讨AI模型训练时数据删除对模型行为的影响，发现模型不仅遗忘数据，还可能丢失部分“推理能力”或“行为模式”，引发对AI安全与隐私保护的深度思考。
+*   ⏰ *10:06*
+
+### 🧠 提示词与教程
+#### **[Hermes]** 官方发布中文教程，详解前端资源加载优化
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69fefa7900000000230178a5?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBG4NIHtadlsBI4lPS9vSqfQ1PylGaPdt0spzuI-WCAXA=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1778334584&share_id=f7550387435d4e53b5942cd4e12b2697)
+*   📝 Hermes官方发布中文教程，深入解析前端资源加载与错误重试机制。文章通过代码示例展示了如何利用本地存储和动态脚本加载优化性能，并监控资源加载失败情况。对于前端开发者而言，这是一份实用的性能优化指南。
+*   ⏰ *21:49*
+
+### 💡 深度观点
+#### **[Claude]** 搭建Agent的最终难关是基础设施壁垒，Harness与模型正高度配对
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655939332&idx=1&sn=da748ebfc8c0b689dc44378eec435883&chksm=bc41f06331faa682e520e1548071aca9d73d72019fea1a417f812653cff38891fa35e80e0caf&mpshare=1&scene=1&srcid=0509fndQhB63n1ZoGlmIJ8Ee&sharer_shareinfo=22f4725bc03f7402f5072ed5eb9dfae1&sharer_shareinfo_first=22f4725bc03f7402f5072ed5eb9dfae1)
+*   📝 Claude产品和工程负责人爆料，未来一年Agent开发将不再需要复杂的Harness工程，真正的瓶颈在于基础设施壁垒。Harness与模型正在形成高度配对，这一趋势将重塑AI应用开发范式，降低门槛的同时也带来新的依赖风险。
+*   ⏰ *21:17*
+
+#### **[Claude Code]** 工程师自曝放弃Markdown转用HTML，引发编辑工具淘汰讨论
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655939296&idx=1&sn=db7b4feee4ee2bae2b2723d98af577b3&chksm=bcb1fc35adda86e9dadca9486c36c273d80318c752157c25767e2bb955ac6c4718fc11202273&mpshare=1&scene=1&srcid=0509UyHjMUgKDaWZJVf7LJ90&sharer_shareinfo=0dcb5d31f912efba92a21202041d05e8&sharer_shareinfo_first=0dcb5d31f912efba92a21202041d05e8)
+*   📝 Claude Code工程师透露已彻底放弃Markdown，团队倾向使用HTML。这一转变引发网友热议，担心其他编辑工具可能被淘汰。文章探讨了技术文档编写趋势的变化，以及HTML在复杂排版和交互性上的优势。
+*   ⏰ *13:47*
+
+#### **[可汗学院]** AI大学是教育革命还是快餐化陷阱？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491369&idx=1&sn=54a471d1f3f60c2c9274b2544e9ea7f0&chksm=964bc78ce5507d9294fde957ab39328535a439f2aee45e6f0bd68e55d644886821ccadeb861e&mpshare=1&scene=1&srcid=0509xAIaaK8wx5mN5VtY5aRd&sharer_shareinfo=43d8da800da483d3f46921dd3b74d615&sharer_shareinfo_first=43d8da800da483d3f46921dd3b74d615)
+*   📝 可汗学院推出AI大学，试图用人工智能重塑高等教育。这究竟是打破资源垄断的革新，还是将知识变成流水线产品的开始？当个性化学习遇上算法标准化，我们该欢呼还是警惕？
+*   ⏰ *09:50*
+
+### 🔧 工具与应用
+#### **[Claude Code]** HTML 在 AI 编程中的惊人效果
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494796&idx=1&sn=60d1703c1ada9fa398bdcf1ec471997f&chksm=c237a0b8afa97784af1ff2758e57d458782a7aafd06959d21bdc9817d0b33576747a5117dac8&mpshare=1&scene=1&srcid=0509KDVEGoDdLFoP9Ey66b6B&sharer_shareinfo=8aaeeec90983110bbe9aee345c21ba12&sharer_shareinfo_first=8aaeeec90983110bbe9aee345c21ba12)
+*   📝 Claude Code 通过利用 HTML 的独特特性，在代码生成和调试中展现出令人难以置信的效率提升。本文深入剖析了 HTML 如何成为 AI 编程助手的秘密武器，揭示了其背后的技术原理和实际应用场景，为开发者提供了全新的编程范式。
+*   ⏰ *12:25*
+
+#### **[小红书]** 用AI打造炫酷HTML幻灯片，代码细节揭秘
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/69fe6f3a000000001a036be4?app_platform=ios&app_version=9.28.1&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBG4NIHtadlsBI4lPS9vSqfRlvij52Mz1vberj1E5qOyo=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1778325160&share_id=8e24cf56681c4a6cadfb6b0248555598)
+*   📝 本文深入解析如何利用AI技术（如小红书前端框架）生成视觉惊艳的HTML幻灯片。从资源加载优化到错误重试机制，展示了前端工程化与AI结合的实践，适合开发者提升演示效果。
+*   ⏰ *19:12*
+
