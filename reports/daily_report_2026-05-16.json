@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-17T13:55:46.206709",
+  "highlight": "微信公众平台页面代码显示，其正在优化暗黑模式CSS变量，并加入移动端设备检测逻辑，非移动端用户访问时标题会被强制修改。这暗示平台可能针对不同设备推出差异化体验，或为后续功能更新铺垫。",
+  "stats": {
+    "total_articles": 15,
+    "categories": {
+      "🔧 工具与应用": 5,
+      "📰 行业新闻": 4,
+      "💡 深度观点": 5,
+      "🤖 模型与技术": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "赛博禅心的文字分享",
+      "entity": "微信公众平台",
+      "clean_title": "暗黑模式适配与移动端检测代码曝光",
+      "summary": "微信公众平台页面代码显示，其正在优化暗黑模式CSS变量，并加入移动端设备检测逻辑，非移动端用户访问时标题会被强制修改。这暗示平台可能针对不同设备推出差异化体验，或为后续功能更新铺垫。",
+      "url": "https://mp.weixin.qq.com/s?scene=1&__biz=MzkzNDQxOTU2MQ==&mid=2247517055&idx=1&sn=a7375e77d4d6bfc40580c3a3e3d12134&sharer_shareinfo_first=21ec778fb79612bcf48d0338800f397d&sharer_shareinfo=21ec778fb79612bcf48d0338800f397d",
+      "time": "13:42",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude Mythos 用 5 天时间，攻破苹果花 5 年打造的芯片级防线",
+      "entity": "Claude Mythos",
+      "clean_title": "5天攻破苹果5年打造的芯片级防线",
+      "summary": "Claude Mythos团队仅用5天时间就攻破了苹果耗时5年打造的芯片级安全防线，展示了AI在安全领域的惊人能力。这一突破不仅暴露了苹果安全系统的潜在漏洞，也引发了对AI驱动攻击的广泛担忧。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483859&idx=1&sn=7d065ef547ceeb61e89ee02e086a9a52&chksm=869caaca3da2100189902529a7596a3ed20c1414a1c6b4a243bda4c534b9e0cc0132a739e738&mpshare=1&scene=1&srcid=0516ISnwJ75lcV1xqAjNlRho&sharer_shareinfo=4d3fec4fbdd4a88ea2021f3a2e324457&sharer_shareinfo_first=4d3fec4fbdd4a88ea2021f3a2e324457",
+      "time": "13:42",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Claude Code 在大型代码库中是如何工作的：最佳实践与入门指南【译自 Anthropic 官方文档】",
+      "entity": "Claude Code",
+      "clean_title": "大型代码库实战指南：最佳实践与入门全解析",
+      "summary": "Anthropic 官方文档详解 Claude Code 在大型代码库中的工作方式，提供从配置到优化的最佳实践，帮助开发者高效利用 AI 辅助编程，提升代码质量与开发效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494860&idx=1&sn=5850c7002fcc8b950779230d1e88027c&chksm=c23eb79e8daf07a2c4e067c1cde6d3e0a5d850d3e8df45ed75ff22c7f8677ea7169582235683&mpshare=1&scene=1&srcid=0516nS7k3fI65QS7ivxliid9&sharer_shareinfo=1d86025ec4b634dd328e0d21c1f7d824&sharer_shareinfo_first=1d86025ec4b634dd328e0d21c1f7d824",
+      "time": "14:52",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "突发！OpenAI大规模重组，总裁Brockman夺权挂帅",
+      "entity": "OpenAI",
+      "clean_title": "总裁Brockman夺权挂帅，公司大规模重组",
+      "summary": "OpenAI突发重大人事变动，总裁Greg Brockman在权力斗争中胜出，主导公司大规模重组。此次重组涉及高层架构调整，可能影响公司战略方向及AI产品路线图，引发业界对OpenAI治理结构变化的广泛关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652700881&idx=1&sn=e8d69f0d9a80c1f1dd52968ee1ef998f&chksm=f0b6785f1df69d0e79d8bf7da0ef778fe9754210141a9504f2a667f6ec64424c83be35d11613&mpshare=1&scene=1&srcid=05165lGz9qSE2RQLdghbQw2K&sharer_shareinfo=bfef7e8e64edf3a695e527b055373e02&sharer_shareinfo_first=bfef7e8e64edf3a695e527b055373e02",
+      "time": "14:52",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+      "entity": "OpenHuman",
+      "clean_title": "20分钟构建个人知识库，效率惊人",
+      "summary": "继虾马之后，OpenHuman 成为新晋爆款，仅需20分钟即可全面了解用户，生成类似卡帕西风格的知识库。其高效的数据采集与建模能力，为个性化服务提供全新可能。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891192&idx=1&sn=1e616d38f9318e76085825355e549b97&chksm=e9b427b915bfe65ce65718a8c1843a64fa6d24fa9cdaac3e5585e07dc912e51e8200fc591a02&mpshare=1&scene=1&srcid=0516556nZYIJALTfMh73uWvD&sharer_shareinfo=be3e763d1a9f3ef832bac553a7b18097&sharer_shareinfo_first=be3e763d1a9f3ef832bac553a7b18097",
+      "time": "15:54",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "特朗普欢迎晚宴上的10位中国企业家，都是什么来头？",
+      "entity": "特朗普",
+      "clean_title": "晚宴上的10位中国企业家身份揭秘",
+      "summary": "特朗普欢迎晚宴上，10位中国企业家受邀出席，引发关注。这些企业家来自科技、金融、制造等多个领域，包括马云、马化腾等知名人物。他们的背景和影响力成为焦点，反映了中美商业交流的微妙动态。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905298&idx=1&sn=9abf9b6b8ae1a5a61ddf6804880a4adb&chksm=8d2fac335bef4b8e144cb487e813089bc7102a5b657a756168b64ca58b41ab3a2128deaedbab&mpshare=1&scene=1&srcid=0516eIQF748ncCIWBDhmQ5VX&sharer_shareinfo=da0b5a35365e61f3ad4f92bfaa46f1be&sharer_shareinfo_first=da0b5a35365e61f3ad4f92bfaa46f1be",
+      "time": "16:17",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "ChatGPT进军个人理财，接入12000家金融机构",
+      "entity": "ChatGPT",
+      "clean_title": "进军个人理财，接入12000家金融机构",
+      "summary": "ChatGPT正式切入金融领域，与12000家金融机构合作，提供智能理财服务。这一举措将改变个人财务管理方式，但数据安全与合规性成关注焦点。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514893&idx=1&sn=44acc32fffdec730fcbe4f017cc27afb&chksm=cf273acb7b1078a2f2eb097524a06f143cf9391388da9a4bcbeed3de2cbc0fa0d9f6a81167f6&mpshare=1&scene=1&srcid=0516iLWf1gr9N2ApRM9wkO3V&sharer_shareinfo=9d99e5bc673df6ff4eed132d28aad957&sharer_shareinfo_first=9d99e5bc673df6ff4eed132d28aad957",
+      "time": "16:18",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+      "entity": "GitHub 20k星神作",
+      "clean_title": "把全网变成命令行，告别烧Token",
+      "summary": "一个GitHub上20k星的开源项目，让你用命令行操作整个互联网，大幅减少Token消耗，提升效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891176&idx=1&sn=86e40155df8d307f10a569dbb982acbd&chksm=e991beb3df219976f303275fb88f7bfd1b7ff9bd6d99f3f97f62e1c4639b806e2145e82dbf49&mpshare=1&scene=1&srcid=0516Nt9LAxJdHgS5x7HUWXTQ&sharer_shareinfo=c3b91e29c5caad65110284265faa505a&sharer_shareinfo_first=c3b91e29c5caad65110284265faa505a",
+      "time": "16:19",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "大脑的学习算法并非反向传播：一种可能超越反向传播的脑启发学习框架",
+      "entity": "大脑学习算法",
+      "clean_title": "颠覆反向传播：脑启发学习框架或开启AI新范式",
+      "summary": "本文提出一种超越反向传播的脑启发学习框架，挑战当前AI主流算法。通过模拟生物神经元的局部学习规则，该框架在效率与泛化能力上展现潜力，可能重塑深度学习基础，引发学界与产业界关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650050088&idx=2&sn=d550eef78e09f40c983ca6e309088200&chksm=8ee557ab1ca44ee164c41115d0ec76dbac0b8ef6e36d3e49b89fc657d41337a56be7a0cbffe1&mpshare=1&scene=1&srcid=0516xy9uhkyf3LM6kkPrf8zr&sharer_shareinfo=8882a42f55ee74f542233438d1b1357d&sharer_shareinfo_first=8882a42f55ee74f542233438d1b1357d",
+      "time": "16:23",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "大脑的学习算法并非反向传播：一种可能超越反向传播的脑启发学习框架",
+      "entity": "反向传播",
+      "clean_title": "大脑学习算法新突破：一种可能超越反向传播的脑启发框架",
+      "summary": "本文探讨了大脑的学习算法并非反向传播，并提出了一种脑启发学习框架，可能超越传统反向传播。该框架借鉴神经科学原理，有望在效率和泛化能力上实现突破，为AI发展提供新思路。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650050088&idx=2&sn=d550eef78e09f40c983ca6e309088200&chksm=8ee557ab1ca44ee164c41115d0ec76dbac0b8ef6e36d3e49b89fc657d41337a56be7a0cbffe1&mpshare=1&scene=1&srcid=0516xy9uhkyf3LM6kkPrf8zr&sharer_shareinfo=62f1c9377dfe35b37af3e33218cf9ab6&sharer_shareinfo_first=62f1c9377dfe35b37af3e33218cf9ab6",
+      "time": "16:24",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "五年内，JEPA全面统治！LeCun直言：我对Llama没有任何贡献！OpenAI是下一个Sun公司！LLM有内生缺陷！开源会追上闭源",
+      "entity": "LeCun",
+      "clean_title": "JEPA五年内将全面统治，LLM存在内生缺陷",
+      "summary": "AI领域权威Yann LeCun发表惊人言论：JEPA架构将在五年内取代现有大语言模型，并直言对Llama无贡献，预测OpenAI将重蹈Sun公司覆辙。他认为LLM存在根本性缺陷，开源模型终将追上闭源。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655939556&idx=1&sn=ea453883b6d2aa0a38a3ddeb0018298c&chksm=bc354c552ee4f922a2ca629c6e4d432df917a303119b4e7037b40a6374a96d10e85c946837fc&mpshare=1&scene=1&srcid=0516mQFmnJG1I2CC7AxX3vLd&sharer_shareinfo=2a5a87f486d8fd3dab6b927a36328cf1&sharer_shareinfo_first=2a5a87f486d8fd3dab6b927a36328cf1",
+      "time": "19:26",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "深度｜英伟达黄仁勋：大多数人会输给那些会使用AI的人，我们必须确保人们不害怕AI",
+      "entity": "黄仁勋",
+      "clean_title": "警告：大多数人将败给会用AI的人，消除恐惧是关键",
+      "summary": "英伟达CEO黄仁勋在最新演讲中强调，AI不会取代人类，但会用AI的人将取代不会用的人。他呼吁社会必须确保人们不害怕AI，并指出未来赢家将是那些拥抱AI技术的个人和企业。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515684&idx=1&sn=81c202c3a8080b6a5e4106c08bba412f&chksm=eac9a7c20668c81facd186848d2c9e558382919af8abe12323ad95faa62eae40d74d58e035e8&mpshare=1&scene=1&srcid=0516zfZX2Ocwb6TQ4nIyNaRG&sharer_shareinfo=5ec593d3294f2cc9a0eb2ee98de1814f&sharer_shareinfo_first=5ec593d3294f2cc9a0eb2ee98de1814f",
+      "time": "19:38",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "马耳他：向全民发放免费 ChatGPT 会员",
+      "entity": "ChatGPT",
+      "clean_title": "马耳他政府为全民免费提供ChatGPT会员",
+      "summary": "马耳他成为全球首个向全体公民免费提供ChatGPT Plus会员的国家，旨在推动AI普及与教育创新。此举不仅提升国民数字素养，也为AI政策制定提供新范式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247517066&idx=1&sn=0b407e1797ba301455ccb1ff42e8eb04&chksm=c345cfa0604311a0277625a4faa3b643a25412c308bfa58d6eb8610156020aa27650bd56b54a&mpshare=1&scene=1&srcid=0516xrtVfp0XQO73ddCB2H6w&sharer_shareinfo=e402903480c1a758c8d39d8e928e0471&sharer_shareinfo_first=e402903480c1a758c8d39d8e928e0471",
+      "time": "20:28",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "小米AI负责人罗福莉：AI让我兴奋，睡太多都是浪费时间",
+      "entity": "罗福莉",
+      "clean_title": "小米AI负责人：AI让我兴奋，睡太多都是浪费时间",
+      "summary": "小米AI负责人罗福莉在采访中表达了对AI技术的极度热情，认为AI的发展令人兴奋，甚至觉得睡眠过多是浪费时间。她强调AI将深刻改变生活和工作方式，呼吁行业加速创新。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905313&idx=1&sn=78839e7bc9b2342a887216bf44757234&chksm=8df9a4740a8ad6638a5f2b19d30cd562e2de803cc4e92943c6f6072df0ecbb77ab1c7c31cd49&mpshare=1&scene=1&srcid=0516XMtPK49BZ3Hnlt2WgBJn&sharer_shareinfo=6d3658dcc584e776fa18ce52d32acbd7&sharer_shareinfo_first=6d3658dcc584e776fa18ce52d32acbd7",
+      "time": "21:41",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "「具身大一统」不是口号：北京人形再度登顶WorldArena，拿下双冠王",
+      "entity": "北京人形",
+      "clean_title": "再度登顶WorldArena，拿下双冠王",
+      "summary": "北京人形机器人在WorldArena赛事中斩获双冠，展示了其在具身智能领域的领先实力。这一成就不仅验证了技术路线的可行性，更标志着中国在人形机器人赛道上的加速突破，为行业树立了新标杆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033443&idx=1&sn=6d0760ab5e508bd59b13ba0b2ba2022f&chksm=85dd7247cd6c603d3902292c1efeb6d566a2eccf62bb0eb95343d444486292b2f0c6d16a595c&mpshare=1&scene=1&srcid=05168p10qtWqJXbmiXQmqt7n&sharer_shareinfo=0f221f7e2a8a3f859335b8e5656ec0b3&sharer_shareinfo_first=0f221f7e2a8a3f859335b8e5656ec0b3",
+      "time": "21:54",
+      "category": "🤖 模型与技术"
+    }
+  ]
+}
