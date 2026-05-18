@@ -1,0 +1,97 @@
+# 📅 Daily AI Report - 2026-05-17
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **17** 篇内容。
+> **今日看点**: Anthropic官方发布《创始人手册：打造AI原生初创公司》，为创业者提供从技术选型到团队建设的实战指南。手册强调AI原生思维，建议利用Claude等模型快速迭代产品，并分享如何平衡创新与风险。这是AI创业领域的重要参考，值得每一位创始人研读。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Hermes团队]** 预训练算力成本降低60%，改写AI训练新路径
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651284462&idx=1&sn=bc472ab2f14733ca974e5599b457af7e&chksm=bc54bf960530d89b79233b9ad30615f52ee0d5d51b8e3763cc4c38f73a9c2a8e2288f67070bd&mpshare=1&scene=1&srcid=0517waezEMb6YHB7zzJWW486&sharer_shareinfo=f686655ae42fad092cc3d1f980ef7fef&sharer_shareinfo_first=f686655ae42fad092cc3d1f980ef7fef)
+*   📝 Hermes团队提出全新预训练方法，通过优化计算流程将算力成本降低60%，在DeepSeek之后为AI训练效率提升开辟新路径。该方法无需额外硬件，即可显著减少资源消耗，有望推动大模型训练更经济高效。
+*   ⏰ *11:32*
+
+#### **[Meta]** 颠覆视觉推理：一个词即可驱动新范式ATLAS
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247515691&idx=1&sn=ae9513b60202995958206848cd15ee2d&chksm=ea0652eed9bb337a26785858b2d48bab932ed76c486943ebdd30b3259fdccf7942f47e4eaa73&mpshare=1&scene=1&srcid=0517ZqnthSAG9miPLneu6xED&sharer_shareinfo=0919e04d870c8930bf3d7f73a45dc14a&sharer_shareinfo_first=0919e04d870c8930bf3d7f73a45dc14a)
+*   📝 Meta华人团队提出ATLAS新范式，突破传统多模态模型依赖大量描述的限制，仅需一个词即可实现精准视觉推理。该技术通过解耦视觉与语言表征，大幅提升推理效率与泛化能力，为AI视觉理解开辟全新路径。
+*   ⏰ *11:53*
+
+#### **[谷歌Veo 4]** 视频生成模型Veo 4泄露，9秒样片惊艳业界
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652701074&idx=1&sn=0915adfd732cc7844eb8c11d2062ac94&chksm=f09809f7da929dc8d3cab853727148d969dee38943a36ca40eff73f45170e83bd63339cda061&mpshare=1&scene=1&srcid=0517BAgtftCbzzB64G70RRm2&sharer_shareinfo=edddbf970552a3b524749dd646a996c4&sharer_shareinfo_first=edddbf970552a3b524749dd646a996c4)
+*   📝 谷歌最新视频生成模型Veo 4遭泄露，其9秒样片效果惊艳，被赞为视频版「香蕉」。该模型在画质、连贯性和创意表现上超越Sora，引发行业震动。
+*   ⏰ *22:15*
+
+### 📰 行业新闻
+#### **[AdventureX]** 2026 年度活动开启招募，邀你共赴创新之旅
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514895&idx=1&sn=2db32246c7bc0ad4ca41cdd8915ba0ef&chksm=cf9fe42bfd41b0e1b4cf2e25764c2c13cb8fc508909d4a8c159ecb16d4fc01773694a89ec061&mpshare=1&scene=1&srcid=05178ib3E7EHg0noXohatFrX&sharer_shareinfo=d4c2fad337aef3392951c91be1c1cee8&sharer_shareinfo_first=d4c2fad337aef3392951c91be1c1cee8)
+*   📝 AdventureX 2026 正式开启招募，面向全球创新者、开发者与创业者。本次活动旨在汇聚前沿科技与创意，提供交流与协作平台，助力参与者实现从构想到落地的信仰之跃。无论你是技术极客还是商业新锐，这里都有属于你的舞台。
+*   ⏰ *08:56*
+
+#### **[Anthropic]** 发布创始人手册，指导打造AI原生初创公司
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494866&idx=1&sn=d97cfde526f84cd2409edc8040d40b6a&chksm=c2e20734b29b5664a73ca7dd9421ca703d049eb8864aec35f03c6ea0deed3182fef300daeb04&mpshare=1&scene=1&srcid=0517CbSstadhIK5qwpTdEVxK&sharer_shareinfo=a435d756a6d43a728bde5c0a8b4c449a&sharer_shareinfo_first=a435d756a6d43a728bde5c0a8b4c449a)
+*   📝 Anthropic官方发布《创始人手册：打造AI原生初创公司》，为创业者提供从技术选型到团队建设的实战指南。手册强调AI原生思维，建议利用Claude等模型快速迭代产品，并分享如何平衡创新与风险。这是AI创业领域的重要参考，值得每一位创始人研读。
+*   ⏰ *08:53*
+
+#### **[Claude]** 继编程之后，AI即将颠覆金融行业
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTgwNg==&mid=2247560831&idx=1&sn=876bd5a9ffce244c6a4df73f2b6285b6&chksm=cfdd78f387dbe391c246141665c40df92499ad9cddf85cf42d60af7f95ebd93912ab15331b60&mpshare=1&scene=1&srcid=0517grarwuAXaCRNn6gaoFX8&sharer_shareinfo=6a4c59212f1efdc38d7da02aaf560f9d&sharer_shareinfo_first=6a4c59212f1efdc38d7da02aaf560f9d)
+*   📝 继AI颠覆编程领域后，Claude正将目光投向金融行业。凭借强大的数据分析与自动化能力，AI有望重塑金融交易、风险管理和客户服务，引发行业新一轮变革。本文深入探讨Claude如何推动金融业智能化转型，以及面临的挑战与机遇。
+*   ⏰ *11:54*
+
+#### **[Hunter]** AI 专家 Hunter 来华，5月18日杭州演讲
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247722785&idx=1&sn=0d08103230f11b8ea6e021f4ab1d6716&chksm=e9b9e0ade95f21fbf9fb46aba5c5c1a8faf8a8e7f60247302bf5902c55acea1da4972fac9ab8&mpshare=1&scene=1&srcid=0517UQuppFTOpPVuoUy5Q1JG&sharer_shareinfo=87d7dbb741fb1d3ae17fd37a17c39f6d&sharer_shareinfo_first=87d7dbb741fb1d3ae17fd37a17c39f6d)
+*   📝 知名 AI 专家 Hunter 将于5月18日现身杭州，带来前沿技术分享。此次行程备受关注，或将透露最新研究成果与合作动态。国内开发者与爱好者不容错过。
+*   ⏰ *08:56*
+
+#### **[Kimi]** 核心贡献者离职，MiniMax招兼职给期权，蜜雪冰城大佬同款卖爆
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247662502&idx=1&sn=d6e006430d6c0ea0a02d285965b2e3f9&chksm=faae52a56ca1bc8251c992c064780300f80cf87fa32d645ddb881ad85134e95cffb93954e517&mpshare=1&scene=1&srcid=0517F86afUd5o81NwcoiDMdB&sharer_shareinfo=cb9c9294a4fa09793de0ea3a51ac8c67&sharer_shareinfo_first=cb9c9294a4fa09793de0ea3a51ac8c67)
+*   📝 本周AI圈人事变动频繁：Kimi Code团队负责人离职，其曾为K2.5核心贡献者；MiniMax最新招聘显示兼职也可获得期权，吸引人才策略升级；蜜雪冰城CEO隔空回应黄仁勋，相关同款产品热销。行业新闻速览，聚焦AI人才流动与商业动态。
+*   ⏰ *14:19*
+
+#### **[世界模型]** 百亿赌局背后：世界模型的前世今生与未来之争
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033486&idx=2&sn=a01ce91f3d80502dc1db926c3e0d41e2&chksm=856de3bcbf9459f705ef34f3bbad83aa46007f91bcbde6d6247382366d0795e9789d40164ab6&mpshare=1&scene=1&srcid=0517FIvRBiD5b0wZ0zIKmkp8&sharer_shareinfo=aedcb39052ef1db87c637ba1db8c2dcc&sharer_shareinfo_first=aedcb39052ef1db87c637ba1db8c2dcc)
+*   📝 世界模型正成为AI领域最炙手可热的概念，从LeCun的JEPA到李飞飞的VoxPoser，再到马斯克的百亿赌局，本文深度解析其技术演进、核心争议与商业博弈。
+*   ⏰ *11:14*
+
+#### **[舒尔曼]** 从PCK到GPK：OECD教师知识调查的理论溯源
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491496&idx=1&sn=51288c1eed4c4cfad6d24ed2be1aee9a&chksm=96d901f5075871b27a900b386ef4b36756f271aed4e6b00eda28d5dba26030eb7baa23df66a0&mpshare=1&scene=1&srcid=0518hujSrUZ0SHPbBpFhcdXJ&sharer_shareinfo=94ae71f8090fa9653785fcc36539ecb4&sharer_shareinfo_first=94ae71f8090fa9653785fcc36539ecb4)
+*   📝 文章以舒尔曼的PCK概念为起点，解读OECD全球教师知识调查（GPK）的理论基础与创新。GPK将教师知识从学科教学知识拓展至通用教学知识，强调可测量性，为国际教师教育比较提供新框架。
+*   ⏰ *00:19*
+
+### 🧠 提示词与教程
+#### **[]** 前额叶锻炼指南：普通人提升认知的最强方法
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247925807&idx=1&sn=3da5a36960a15c27366af0a747a84f9d&chksm=9e36347e0d2a3e54bf0e37ef6dfed4b8c70388ed2b0378f6a7d6667c6ce2f9b128cf8485d7a2&mpshare=1&scene=1&srcid=0517MqfuSJ4iR71Ig7uNzS5L&sharer_shareinfo=76252f237604ec84cf5ac9ec5823a690&sharer_shareinfo_first=76252f237604ec84cf5ac9ec5823a690)
+*   📝 本文揭示了一个简单却高效的认知训练方法——通过特定行为强化前额叶皮层功能。前额叶是大脑的“CEO”，负责决策、专注与自控。文章深入浅出地解析了科学原理，并提供实用技巧，帮助读者在日常中轻松提升脑力。
+*   ⏰ *18:52*
+
+#### **[Anthropic]** 手把手教你打造AI时代的一人公司
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6a0976800000000035026524?app_platform=ios&app_version=9.30.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBLABMySTZWaBKGPumGtRNgQk6bFrr05xkTVr29Djl_Jk=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1779006030&share_id=860f420640504985a9c2dca7c56940c9)
+*   📝 Anthropic发布指南，教你如何利用AI工具独立运营一家公司。从自动化流程到高效决策，一人即可驾驭全链条业务，开启零雇佣创业新模式。
+*   ⏰ *16:20*
+
+#### **[Codex]** 一句提示词自动蒸馏，让重复工作全自动化
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247514902&idx=1&sn=43c3f316283a18121a6127ab97f5f2ad&chksm=cfcfb9787d06fd9800a32c7d2ebe6ecc1e834561884c46ac35e085326a4f540c6a654cc9ba3b&mpshare=1&scene=1&srcid=0517tKd0tGYwgUel0tRK84JQ&sharer_shareinfo=bf3591e89bdda2e52c2b7a8b6e31362d&sharer_shareinfo_first=bf3591e89bdda2e52c2b7a8b6e31362d)
+*   📝 Codex 隐藏神技曝光：仅需一句提示词，即可自动蒸馏自身能力，将日常重复工作转化为自动化流程。这一技术突破大幅降低 AI 使用门槛，让非程序员也能轻松实现工作流自动化，效率提升显著。
+*   ⏰ *19:16*
+
+#### **[吴恩达]** Agent技能实战解析：从代码到部署的完整指南
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6a0833b400000000360017b6?app_platform=ios&app_version=9.30.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBxaFaivFTotfmQIwFAvUnxfGkY1SDMxGYupWVBMxOMMg=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1779000545&share_id=2e97bbdeb5cb4f63a1d46e8a856f524b)
+*   📝 文章深入解析吴恩达的Agent技能，通过代码示例展示如何构建智能代理系统。从资源加载优化到错误处理，详细拆解了Agent开发的核心技术栈，为AI开发者提供了可落地的实战方案。
+*   ⏰ *14:49*
+
+### 💡 深度观点
+#### **[AI]** 未来五年最大风口：AI重做所有行业
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905328&idx=1&sn=707285ddd4db79724742bea46539f8df&chksm=8d3d0a0aacee5e8a44a3021f276e04888e7d39591320e7eb75115477eec5f5df70c7a9632cd9&mpshare=1&scene=1&srcid=0517ZrLo7ZPZjCuSDI7Gag2c&sharer_shareinfo=79e2f1f2b3160e2b6b57f13fe9e7946e&sharer_shareinfo_first=79e2f1f2b3160e2b6b57f13fe9e7946e)
+*   📝 文章指出，未来五年最大的机会在于利用AI技术重塑各行各业。从医疗到教育，从金融到制造，AI将像互联网一样彻底改变传统行业格局。抓住这一波浪潮，就能在新时代占据先机。
+*   ⏰ *21:59*
+
+#### **[Anthropic]** 复制Palantir的FDE模式，AI安全商业化新路径
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6a0873e4000000003502c17b?app_platform=ios&app_version=9.30.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBxaFaivFTotfmQIwFAvUnxQOxEBVJ9djyNx91riEIzqE=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1779013681&share_id=364ad08e80d349ab926304b1217dc682)
+*   📝 Anthropic借鉴Palantir的联邦数据环境（FDE）模式，为企业客户提供安全可控的AI部署方案。这一策略不仅解决了数据隐私合规难题，还开辟了AI安全商业化的新路径，或将成为行业标杆。
+*   ⏰ *18:28*
+
+### 🔧 工具与应用
+#### **[Claude Code]** 开源论文写作流水线，6.4k Stars 引爆学术圈
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891239&idx=1&sn=09d58d3b40d7b98fe41e313a1b2bb1c9&chksm=e975b2bc1b1043bbf0e051bbed437cb8c911fec14d89c2d1848f2417bb7c9d550153cae327b9&mpshare=1&scene=1&srcid=0517A9XxzAYxBRoaELtowDgp&sharer_shareinfo=fd7c64496115203facc60f6ef3d165b4&sharer_shareinfo_first=fd7c64496115203facc60f6ef3d165b4)
+*   📝 开发者将 Claude Code 与论文写作流程深度整合，开源了一套从文献检索到排版输出的全自动流水线。该项目在 GitHub 上获得 6.4k Stars，极大降低了学术写作的技术门槛，让研究者能更专注于核心内容。
+*   ⏰ *11:00*
+
