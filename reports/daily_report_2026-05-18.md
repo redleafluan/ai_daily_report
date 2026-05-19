@@ -1,0 +1,34 @@
+# 📅 Daily AI Report - 2026-05-18
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **5** 篇内容。
+> **今日看点**: 知名AI专家李沐在B站发布实时数字人项目，性能超越其先前工作，展示了端到端实时交互的数字人技术，引发社区热议。
+
+## 2. 精选日报 (Daily Feed)
+### 💡 深度观点
+#### **[]** Agent时代办公新范式：智能助手如何重塑工作流
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247517129&idx=1&sn=4ea24babf28296b6205aa0ab7fcf3d78&chksm=c31920f587e9b43b61c2b6eca74f9e05c63a5a3f561e42501792b32f749c9d467608af8e3b9c&mpshare=1&scene=1&srcid=0518jx8wqVhKFar6dkxZjenq&sharer_shareinfo=cbc0687503a920c770a48561f0fe0528&sharer_shareinfo_first=cbc0687503a920c770a48561f0fe0528)
+*   📝 随着Agent技术的成熟，办公方式正经历根本性变革。本文深入探讨了AI代理如何自动化日常任务、优化协作流程，并预测未来办公将更加依赖智能系统。从文档处理到会议管理，Agent正在成为不可或缺的办公伙伴。
+*   ⏰ *16:17*
+
+#### **[Anthropic]** 最新播客揭秘下一代Claude的打造思路
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453483948&idx=1&sn=272cdc86a72ae1a20e22d4d980039953&chksm=86e9346ddafab4bd60cc9f047ac983d6e6d2cfd6c730e807ecb3cf483289a7896ac171492ed6&mpshare=1&scene=1&srcid=0518yxcxsPKwjNrPzNr8EgB4&sharer_shareinfo=cd26d1d29ed082b01a0235265b0b3ec5&sharer_shareinfo_first=cd26d1d29ed082b01a0235265b0b3ec5)
+*   📝 Anthropic在最新播客中分享了下一代Claude模型的研发方向与核心理念。从架构创新到安全对齐，团队深入探讨了如何让AI更智能、更可靠。这不仅是技术迭代，更是对AI未来发展路径的深度思考。
+*   ⏰ *18:01*
+
+#### **[豆包]** AI超级入口的形成与战略转向
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247536071&idx=1&sn=e7dccce6e8f01599c27aa131f2cb3d23&chksm=fd9934f7e047eb857b9c568a2dcfa38211c9f366931d3e80310111ce824b9f324884dedf71a3&mpshare=1&scene=1&srcid=0518vdsa2VfvUm1ITLraXjgV&sharer_shareinfo=18b7bc8a2f7147d2f8974bd631b01dcc&sharer_shareinfo_first=18b7bc8a2f7147d2f8974bd631b01dcc)
+*   📝 本文深度剖析豆包如何从单一AI工具进化为超级入口，其战略转向反映了AI行业从技术驱动向场景融合的变革。豆包通过整合多模态能力与生态连接，正在重塑用户交互方式，成为AI应用层的关键枢纽。
+*   ⏰ *23:17*
+
+### 🔧 工具与应用
+#### **[小红书]** 前端资源加载失败自动重试机制曝光
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6a00ef5600000000350286af?app_platform=ios&app_version=9.30.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBgxmzHLh3yN1hso3BJ0te4rvcCzx106EghBXW03M5ioQ=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1779114328&share_id=541d8965d1f14ddcaee2a271d3a25eaf)
+*   📝 小红书前端代码中实现了一套资源加载失败自动重试机制，当JS或CSS资源加载失败时，会自动替换CDN域名并重新加载，同时记录错误和重试耗时。该机制可提升页面稳定性，但代码中硬编码了CDN域名和错误上报逻辑，存在维护风险。
+*   ⏰ *22:25*
+
+#### **[李沐]** 回归B站发布实时数字人，自称水平吊打自己
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651033589&idx=1&sn=63a1b0158530b062f7db01909d350417&chksm=8578eb39386d51ae259ab4de922e2eb55b28e03e56485d6ae9e1c9411d2901fe1cbef60fdb7e&mpshare=1&scene=1&srcid=0518Vxnnodqo5yeNBzvCGUbc&sharer_shareinfo=bfe6acad7788b1875ce8fa71f50dc101&sharer_shareinfo_first=bfe6acad7788b1875ce8fa71f50dc101)
+*   📝 知名AI专家李沐在B站发布实时数字人项目，性能超越其先前工作，展示了端到端实时交互的数字人技术，引发社区热议。
+*   ⏰ *13:16*
+
