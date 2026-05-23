@@ -1,0 +1,106 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-23T13:45:58.956670",
+  "highlight": "整数智能发布 Terminal-Bench 数据集，旨在解决终端原生 Agent 训练数据匮乏的问题。该数据集覆盖多种终端操作场景，为 AI 代理在移动设备上的自主决策和执行提供标准化训练基准，有望推动终端智能体技术的实用化进程。",
+  "stats": {
+    "total_articles": 10,
+    "categories": {
+      "🔧 工具与应用": 5,
+      "🧠 提示词与教程": 1,
+      "其他": 1,
+      "📰 行业新闻": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "整数智能构建 Terminal-Bench 数据集：面向终端原生 Agent 的训练数据",
+      "entity": "整数智能",
+      "clean_title": "推出 Terminal-Bench 数据集，专为终端原生 Agent 训练设计",
+      "summary": "整数智能发布 Terminal-Bench 数据集，旨在解决终端原生 Agent 训练数据匮乏的问题。该数据集覆盖多种终端操作场景，为 AI 代理在移动设备上的自主决策和执行提供标准化训练基准，有望推动终端智能体技术的实用化进程。",
+      "url": "https://mp.weixin.qq.com/s/I2K5MEzrYVLQwKA3oMU_mg",
+      "time": "09:43",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "分享一个很实用的寓言故事prompt，5分钟帮你理解任何新概念。",
+      "entity": "",
+      "clean_title": "5分钟掌握任何新概念：一个实用的寓言故事prompt",
+      "summary": "本文分享了一个高效的prompt技巧，通过寓言故事的形式帮助用户在5分钟内理解任何新概念。该方法利用故事叙述的吸引力，将抽象概念具象化，降低学习门槛，适用于快速学习、知识科普和内容创作等场景。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647682522&idx=1&sn=a7ae7c8a35d5366fff67a2bd8a030d56&chksm=f15d8e62a6a157f55a3b7f4ebffa101fed9321b8b8c830083e29dd2a6d76e45125d6bfced599&mpshare=1&scene=1&srcid=0522gv6TwCAvbvUp9n29ynNG&sharer_shareinfo=9853ed67b4c4f4a587a9c15de663b968&sharer_shareinfo_first=9853ed67b4c4f4a587a9c15de663b968",
+      "time": "10:31",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "Untitled",
+      "entity": "未知",
+      "clean_title": "Untitled",
+      "summary": "无法抓取内容，请手动查看。",
+      "url": "test",
+      "time": "11:10",
+      "category": "其他"
+    },
+    {
+      "raw_title": "今天，OpenAI Codex大更新！锁屏也能隔空打工，奥特曼强推",
+      "entity": "OpenAI Codex",
+      "clean_title": "锁屏也能隔空打工，Codex大更新让AI编程更自由",
+      "summary": "OpenAI Codex迎来重大更新，新增锁屏状态下远程编程功能，奥特曼亲自站台。这一突破让开发者无需解锁设备即可通过语音或手势调用AI编程能力，极大提升工作效率。Codex的进化标志着AI编程工具从辅助走向自主，未来或重塑软件开发流程。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652702245&idx=1&sn=1936dfab277a6a245e895055bd4c0e44&chksm=f0a4eebd72e90b60db77187a9bc3bf4b8dfc47d2e115c9180c80eadd89bdff6247d2c9607bca&mpshare=1&scene=1&srcid=0522ORrQCH1Lra0JCUv1vB79&sharer_shareinfo=63a63a93962fbbc2065f4a0d69af1198&sharer_shareinfo_first=63a63a93962fbbc2065f4a0d69af1198",
+      "time": "11:41",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
+      "entity": "DeepSeek",
+      "clean_title": "从零打造中国版Claude Code，招人组队全面发力",
+      "summary": "DeepSeek不再满足于模型层面，正式进军开发者工具领域，宣布从零构建类似Claude Code的编程助手。此举标志着其战略从模型研发向应用生态延伸，意图在AI编程赛道抢占先机。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651285028&idx=1&sn=c3e8d85eda5711833f17a3c8f390fd0a&chksm=bcfa94724675a5436cc0487bf2534380a8b45a9d9cf94dbc819f8feee2e70b86ff95d884ebe9&mpshare=1&scene=1&srcid=0522Mi39XrEVXadJOGpqcRMJ&sharer_shareinfo=de2648c8fe7813491b2b92cd28e35bdf&sharer_shareinfo_first=de2648c8fe7813491b2b92cd28e35bdf",
+      "time": "13:00",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "【赛博禅心文字分享0516】",
+      "entity": "Cubox",
+      "clean_title": "暗色模式与性能优化全面升级",
+      "summary": "Cubox 近期更新了暗色模式支持，通过 CSS 和 JavaScript 实现了自动适配系统主题、手动切换及 localStorage 持久化。同时优化了键盘事件处理，防止 ESC 键误关闭弹窗。页面加载动画也进行了改进，提升了用户体验。",
+      "url": "https://cubox.pro/my/card?id=7457376274332255933",
+      "time": "13:43",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+      "entity": "DeepSeek Code",
+      "clean_title": "融资700亿，ACM金牌大神挂帅，DeepSeek Code即将发布",
+      "summary": "DeepSeek Code项目获得700亿融资，由ACM金牌得主崔添翼领导，旨在打造下一代AI编程工具。此举标志着AI编程领域迎来重磅玩家，或将重塑开发者生态。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247892406&idx=1&sn=b9617558e1ceeaf39a79b9ed67f411ff&chksm=e985130ac778dcadf47d70f578064e10c26c740cafa16a978179bd3d3077803313447fd12d2c&mpshare=1&scene=1&srcid=05223ljAYV9U57FhkDPcdExD&sharer_shareinfo=32209fb565d6f8cf205ace653b89ff87&sharer_shareinfo_first=32209fb565d6f8cf205ace653b89ff87",
+      "time": "15:24",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "AI音乐下半场：Mureka跨过生产可用门槛，让模型像作曲家一样思考，开发者又可以有哪些新可能？",
+      "entity": "Mureka",
+      "clean_title": "跨过生产可用门槛，让模型像作曲家一样思考",
+      "summary": "Mureka在AI音乐下半场实现突破，模型不再只是生成音符，而是像作曲家一样思考旋律、和声与结构。这标志着AI音乐创作从“可用”迈向“好用”，为开发者提供了全新的创作工具和商业模式可能。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247617001&idx=1&sn=141a433a9b3c89868f7d24eb2af84cac&chksm=96b72a9f0224a9a23af319fa644b4f33439adec37418a3049f2a6768e4b98f8d1918f39b8fa6&mpshare=1&scene=1&srcid=05227ePQSWEfskmtO9fR5ZCU&sharer_shareinfo=b8d4ac5d5942e8aadf729740924813bc&sharer_shareinfo_first=b8d4ac5d5942e8aadf729740924813bc",
+      "time": "17:23",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "AI短剧狂奔的另一面：创作者等待平台「重塑」",
+      "entity": "AI短剧",
+      "clean_title": "创作者等待平台「重塑」，AI短剧狂奔的另一面",
+      "summary": "AI短剧行业看似火热，但创作者正面临平台规则不透明、变现困难等困境。平台需从技术扶持、内容生态和商业模式上给予更多支持，否则泡沫可能破裂。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248889374&idx=2&sn=b3380b4ad1ac4086526b5e35ae3cf43e&chksm=e87d7841c6492524fb1a541406bff4055ad3632acfbf89a4775fa0f29fdef96604728baac2c6&mpshare=1&scene=1&srcid=0522rVtwT8Ba9YkMgSuPqG7X&sharer_shareinfo=f93c8c105a45813a437638ac95fcf91d&sharer_shareinfo_first=f93c8c105a45813a437638ac95fcf91d",
+      "time": "18:08",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "微软：Claude Code的token，我也烧不起了",
+      "entity": "Claude Code",
+      "clean_title": "微软也扛不住高额token消耗，Claude Code烧钱速度惊人",
+      "summary": "微软内部测试发现，Claude Code的token消耗成本远超预期，即使对于财大气粗的微软也难以承受。这一现象揭示了当前AI编程助手在成本控制上的巨大挑战，引发了业界对AI工具可持续性的深度思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=1&sn=5b4522b56fcee9f01fcf93226f6dd5f8&chksm=8577bcb8bc53fcd028dd4c71ee0df0c4e8df31b29d65d15be73c62beefaf079e5b7d4b9ae88d&mpshare=1&scene=1&srcid=0522tuY60GP7P6LbF7rU58Kl&sharer_shareinfo=cec3067964f7d7b878ef71efe5810b16&sharer_shareinfo_first=cec3067964f7d7b878ef71efe5810b16",
+      "time": "18:08",
+      "category": "📰 行业新闻"
+    }
+  ]
+}
