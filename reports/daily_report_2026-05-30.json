@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-31T14:28:42.019298",
+  "highlight": "Anthropic七位联合创始人因公司估值飙升，每人身家高达80亿美元，集体承诺将捐出80%财富用于公益。这一举动引发业界对AI伦理与财富分配的新讨论，也凸显了顶级AI人才在资本市场的巨大价值。",
+  "stats": {
+    "total_articles": 20,
+    "categories": {
+      "📰 行业新闻": 6,
+      "💡 深度观点": 7,
+      "🤖 模型与技术": 3,
+      "🧠 提示词与教程": 1,
+      "🔧 工具与应用": 3
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "Anthropic七子一夜杀进全球富豪榜！每人身家80亿，承诺捐出80%财富",
+      "entity": "Anthropic",
+      "clean_title": "七位联合创始人一夜跻身全球富豪榜，承诺捐出80%财富",
+      "summary": "Anthropic七位联合创始人因公司估值飙升，每人身家高达80亿美元，集体承诺将捐出80%财富用于公益。这一举动引发业界对AI伦理与财富分配的新讨论，也凸显了顶级AI人才在资本市场的巨大价值。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652703891&idx=1&sn=f091aa095938159951c581a6d875575b&chksm=f08010ef76b7ce5271ff0fc06696ddc08dae8975726ab6bb88ea6b7d2e0aa29363b1ad964fda&mpshare=1&scene=1&srcid=0530gTDEPRgqqFLRu05nDPNl&sharer_shareinfo=bdec246ef27cec15a4d03b34d1d8800c&sharer_shareinfo_first=bdec246ef27cec15a4d03b34d1d8800c",
+      "time": "11:52",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+      "entity": "Gemini",
+      "clean_title": "差点成为钢琴家的天才，如何助Gemini拿下IMO金牌",
+      "summary": "本文揭秘了帮助Gemini在IMO竞赛中夺金的关键人物，他本可能成为职业钢琴家，却选择投身AI领域。文章深入探讨了其独特背景与技术创新，展现了AI与人类智慧的完美结合。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893825&idx=1&sn=8400f94e7918332be98a3ae5489a70b2&chksm=e9afddf51ad12a41414fb138942adbf0b16ad0f0b6ef1888403048979f6ffb4e225889a22443&mpshare=1&scene=1&srcid=0530BMeBTMSqAhzBI03IunJW&sharer_shareinfo=30642ace21ffabbfc8a1c2cb8af7f788&sharer_shareinfo_first=30642ace21ffabbfc8a1c2cb8af7f788",
+      "time": "12:21",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "史上第一个年入1万亿美元的公司，可能是它",
+      "entity": "苹果",
+      "clean_title": "年收入有望突破万亿美元，AI与硬件双轮驱动",
+      "summary": "苹果凭借AI技术整合与硬件生态优势，成为全球首家年收入有望突破万亿美元的公司。其服务业务和高端产品线持续增长，叠加新兴市场扩张，推动市值与营收双创新高。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651784277&idx=1&sn=9454268c60e0e73ff94e6184edbbb2a1&chksm=bcca6add46ec4c014baf56d448110be1e514797d7f7c9d5045bf60d2e4dd6814ad7eb0d7fa5e&mpshare=1&scene=1&srcid=0530shor4LH8gOjytvbU0UXh&sharer_shareinfo=3fd3fa52208043c633fb4c8812f19aee&sharer_shareinfo_first=3fd3fa52208043c633fb4c8812f19aee",
+      "time": "12:54",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "搞懂人性，才能做好表达",
+      "entity": "",
+      "clean_title": "搞懂人性，才能做好表达",
+      "summary": "本文深入探讨了人性在表达中的核心作用，指出只有理解人的情感、需求和心理动机，才能实现有效沟通。通过分析常见表达误区，提出基于人性洞察的表达技巧，帮助读者在职场和生活中提升影响力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651784277&idx=2&sn=fc35481edc0cd45ecdcfbd327a022a42&chksm=bc8384677b7dca008708edc8529a36dc2d23ba6bb9f1e519ba2f4909bc6c0ee2851a4be08f6c&mpshare=1&scene=1&srcid=0530yCh63O60fxhoDKRDi4CZ&sharer_shareinfo=722a97022c4226db7ea829a71c23052f&sharer_shareinfo_first=722a97022c4226db7ea829a71c23052f",
+      "time": "12:54",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践丨MiniMax胡维琦 @AIGC2026",
+      "entity": "MiniMax",
+      "clean_title": "从Token无上限到全员Agent，AI Native组织进化实践",
+      "summary": "MiniMax在AIGC2026上分享了其AI Native组织的进化实践，从Token无上限到全员Agent的转变，展示了如何通过技术架构和组织变革推动AI原生应用落地，为行业提供了可借鉴的进化路径。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893826&idx=1&sn=cedc3fe42a3e48288daadc9cdda924a6&chksm=e9bce8d444b10daf4f4afce0b3c5f62911ec70a449d49b0051b6800129dd1ddd07f11ad3c1b7&mpshare=1&scene=1&srcid=0530Es4GcOV0vSaIxqcMVA0l&sharer_shareinfo=373558447c1cc5d180e35281867c7426&sharer_shareinfo_first=373558447c1cc5d180e35281867c7426",
+      "time": "15:32",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Opus 4.8连夜算尽1170亿人命运，一句话敲出人类投胎模拟器！",
+      "entity": "Opus 4.8",
+      "clean_title": "1170亿人命运一夜算尽，一句话生成投胎模拟器",
+      "summary": "Opus 4.8 模型在极短时间内模拟了1170亿人的命运轨迹，用户仅需一句话即可生成个性化的“投胎模拟器”。这一突破展示了AI在人口规模模拟和因果推理上的惊人能力，引发对技术伦理和人类自由意志的深度讨论。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652703932&idx=1&sn=21b75654dd70bb4419040184c269b5ce&chksm=f01f60c82d6b5d27144d74a11ef24cfa6cab74e03f40dddd53153e80fdb228cdc025d1ce392d&mpshare=1&scene=1&srcid=0530QI5u3nLBjcWhhrNJRVs4&sharer_shareinfo=b16604a8bd61510f99b8dbabf56c928a&sharer_shareinfo_first=b16604a8bd61510f99b8dbabf56c928a",
+      "time": "15:38",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "冯象 | 怎样提问，接住AI，改造我们的学习",
+      "entity": "冯象",
+      "clean_title": "AI时代如何提问与改造学习方式",
+      "summary": "冯象探讨在AI浪潮中，如何通过有效提问与AI协作，并反思传统学习模式的变革。文章强调批判性思维与人文素养在技术冲击下的重要性，为读者提供应对智能时代的认知框架。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDM5MzM5OQ==&mid=2649671661&idx=1&sn=327f740354a13972d8da9ddfcc832dc1&chksm=bff18abe604178a9744aa64a8506bba5c48a6c8ee8a30fd005f7ff0e68ccb63f7b0a1686e574&mpshare=1&scene=1&srcid=0530DGc0M7CjjNYKHVVmlaBx&sharer_shareinfo=2ddde28d5cc69b0b325cf5ae22c8361f&sharer_shareinfo_first=2ddde28d5cc69b0b325cf5ae22c8361f",
+      "time": "15:47",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "谷歌四大巨头齐聚：蒸馏模型的精髓是“挤柠檬”！Gemini 将用自己写的代码“改进”自己！五年后的谷歌可能只有一款产品",
+      "entity": "Gemini",
+      "clean_title": "四大巨头齐聚：蒸馏模型的精髓是“挤柠檬”！Gemini将用自己写的代码“改进”自己！五年后的谷歌可能只有一款产品",
+      "summary": "谷歌四大巨头罕见同台，深入探讨蒸馏模型本质，比喻为“挤柠檬”般萃取精华。Gemini计划通过自我代码生成实现自我改进，引发对AI自主进化的思考。预言五年后谷歌或整合为单一产品，重塑科技格局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655940176&idx=1&sn=27bd03e53d6863c1ec57ae158650546d&chksm=bce24d7f5a110cbc527efd40780bbb1fae927e52f9ec79b6ee8c1ce12c620d9719b67a97f38a&mpshare=1&scene=1&srcid=0530rXUOV0maEH6or1EOHcEU&sharer_shareinfo=e08947606f49da659f2ab63ded55d37f&sharer_shareinfo_first=e08947606f49da659f2ab63ded55d37f",
+      "time": "18:48",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "LeCun新证明：世界是高斯的",
+      "entity": "LeCun",
+      "clean_title": "新证明揭示世界本质是高斯的，AI基础理论再突破",
+      "summary": "AI泰斗LeCun提出新证明，认为世界本质上是高斯的，这一理论可能重塑机器学习基础。该发现挑战了现有模型假设，或推动更高效、更鲁棒的AI架构设计，引发学界热议。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2650050798&idx=1&sn=444cf0752a41d03076884945d87e9957&chksm=8e6e52dbfecd7a107b97ba99796be10a5669c3f748b71c40c4e6b911268f699adca6b8f32fd2&mpshare=1&scene=1&srcid=0530CRHmkC9KzlDSIuLQ7T4a&sharer_shareinfo=6795e59af88a2a59dad07255831ea647&sharer_shareinfo_first=6795e59af88a2a59dad07255831ea647",
+      "time": "18:48",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "DeepSeek陈德里AI论文第二弹：从6分到8分，DeliAutoResearch SKILL又进化了",
+      "entity": "DeepSeek",
+      "clean_title": "DeliAutoResearch SKILL评分从6分跃升至8分，AI论文能力再进化",
+      "summary": "DeepSeek陈德里团队发布第二弹AI论文，其DeliAutoResearch SKILL评分从6分提升至8分，标志着模型在自动化研究技能上取得显著突破。这一进展不仅巩固了DeepSeek在AI领域的领先地位，也为后续模型迭代提供了新方向。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651035946&idx=1&sn=9958ab05404dbd434a51f5e099c35451&chksm=85a038b0f6312337624d7feb095946a1eafb8714fa0af5e7a4f71bb46b1ccb06ad3c8939321a&mpshare=1&scene=1&srcid=0530iOSJZh9oHoQxRTu9XogZ&sharer_shareinfo=b516a95143b11f613997d171543c4be5&sharer_shareinfo_first=b516a95143b11f613997d171543c4be5",
+      "time": "18:48",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "科幻作家陈楸帆：AI时代，最宝贵的是独立思考与审美能力",
+      "entity": "陈楸帆",
+      "clean_title": "AI时代最宝贵的是独立思考与审美能力",
+      "summary": "科幻作家陈楸帆指出，在AI技术飞速发展的当下，人类最核心的竞争力并非技术本身，而是独立思考与审美能力。他强调，AI可以辅助创作，但无法替代人类的独特视角和情感体验。这一观点为AI时代的个人成长与教育方向提供了重要启示。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650151829&idx=1&sn=ac660dbeeacb65cbdf3631c19b108c07&chksm=bf0364420b54e6c435fc5d14a31b664b25637c1bb3edaee9a1da7cd97be90211d342b53fdb85&mpshare=1&scene=1&srcid=0530rh8dCrcMRf61CIa4bh76&sharer_shareinfo=07aee17ded8ca477ca095c0069019ba2&sharer_shareinfo_first=07aee17ded8ca477ca095c0069019ba2",
+      "time": "18:49",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
+      "entity": "编程 Agent",
+      "clean_title": "为什么说编程 Agent 可能成为软件开发史上最昂贵的错误",
+      "summary": "编程 Agent 正被大肆吹捧为软件开发的未来，但本文犀利指出，它可能是一个昂贵且危险的错误。过度依赖自动化工具将导致代码质量下降、技术债累积，甚至扼杀开发者的创造力与问题解决能力。在追求效率的同时，我们是否忽略了长期维护成本与软件工程的本质？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247662979&idx=1&sn=68b8c2f4e3a1fc994d0ea8cb6f48c86a&chksm=fa81560973738463e335f1f42abbfcca9486aad0cfc720b379f41540ca5fb00432fcb2aefd0e&mpshare=1&scene=1&srcid=0530FzgFMC88D9IsAV71CxzB&sharer_shareinfo=e80c8c347eb416e82be37feed5173212&sharer_shareinfo_first=e80c8c347eb416e82be37feed5173212",
+      "time": "18:49",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Codex 入门最佳实践「OpenAI官方」",
+      "entity": "OpenAI",
+      "clean_title": "官方发布Codex入门最佳实践指南",
+      "summary": "OpenAI官方推出Codex入门最佳实践，为开发者提供高效使用AI编程助手的核心技巧。指南涵盖提示词设计、代码生成优化等关键方法，帮助用户快速掌握Codex能力，提升开发效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247777616&idx=1&sn=cb1e97be02d5d025cc6068e27e4fe98e&chksm=facf2d2551839914b61a73b26fbc9f0c8cf508ca308d15af6f73b549eb1f6c2b99bd284c6d84&mpshare=1&scene=1&srcid=0530atkzlMyVJNgkH2x5Tvqv&sharer_shareinfo=ec7e24fbeb90091b709461def24017c2&sharer_shareinfo_first=ec7e24fbeb90091b709461def24017c2",
+      "time": "18:49",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "用Codex构建响应式前端设计：丢张截图它直接全自动搞定，还能自己开浏览器纠错",
+      "entity": "Codex",
+      "clean_title": "截图即可生成响应式前端，还能自动纠错",
+      "summary": "OpenAI的Codex模型迎来新突破：只需一张截图，就能全自动生成响应式前端设计，甚至能自己打开浏览器进行纠错。这项技术将极大提升前端开发效率，让设计师和开发者从繁琐的编码中解放出来。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515196&idx=1&sn=fed76019d7f83069e7b23f661eed1ab3&chksm=cf43570f448709fe43e00b23775707afd7fece7d0c382c2efb8bb30d6e317855fdc5c5c6d9ea&mpshare=1&scene=1&srcid=0530ARQzyJqNVTLULu3pHg4O&sharer_shareinfo=489e57c063aaf152c0aaae837b346e99&sharer_shareinfo_first=489e57c063aaf152c0aaae837b346e99",
+      "time": "18:49",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "观猹榜，五月排名第一的 Agent 长什么样？",
+      "entity": "观猹榜",
+      "clean_title": "五月排名第一的Agent长什么样？",
+      "summary": "本文介绍了观猹榜五月排名第一的Agent，分析了其核心功能、技术特点以及为何能脱颖而出。文章深入探讨了该Agent在自动化任务处理、用户交互体验等方面的创新，为行业提供了有价值的参考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247518639&idx=1&sn=dcdd7532522b6185e0639def60f54553&chksm=fe4ffe7f1f26f14f27571b201da77c6daadddc829641a2914fae740d4d12a430c1523d671fa4&mpshare=1&scene=1&srcid=0530POrJ8Rw3JNxx6deUdjEd&sharer_shareinfo=4576a491a7bc17fdaa8091aa06f16b67&sharer_shareinfo_first=4576a491a7bc17fdaa8091aa06f16b67",
+      "time": "18:49",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "刚刚，北大数院「黄金二代」苏炜杰入职OpenAI！",
+      "entity": "苏炜杰",
+      "clean_title": "北大数院黄金二代加盟，AI人才争夺战再升级",
+      "summary": "北大数院杰出校友苏炜杰正式加入OpenAI，成为其研究团队核心成员。这位被誉为“黄金二代”的年轻科学家，在数学与机器学习交叉领域成果斐然。此举不仅彰显OpenAI对顶尖数学人才的渴求，也折射出全球AI巨头对基础研究人才的激烈争夺。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652703981&idx=1&sn=db3ee6fae77fcf345f100310e8654215&chksm=f0a0a29eb58e8366031be83223f54e409cb2bae894b24a9e6c6076359b8d18a3769d488da0ee&mpshare=1&scene=1&srcid=0530pLOBrMXBIfrkCjLWDsaf&sharer_shareinfo=9643583c5c7ca00fb65f95664e6a0be5&sharer_shareinfo_first=9643583c5c7ca00fb65f95664e6a0be5",
+      "time": "21:54",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "Codex更新！Windows 电脑多了一个 AI 同事",
+      "entity": "Codex",
+      "clean_title": "Windows 电脑多了一个 AI 同事",
+      "summary": "微软 Codex 更新，将 AI 编程助手直接集成到 Windows 系统中，让开发者能在本地环境中更高效地编写代码。这一举措标志着 AI 工具与操作系统的深度融合，有望大幅提升开发效率。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDY1ODg3OA==&mid=2247488022&idx=1&sn=2532c677ebe3d8b71ea6644f56057702&chksm=c049f3b9be261c78c48e0414ea87f22be8faa970932c0c219dd83f8fad14c2546aa08db65ede&mpshare=1&scene=1&srcid=0530cG4HFu0AmwwbSI6mLbct&sharer_shareinfo=a08ff4f5017f5d224fb2f0dbac021e7c&sharer_shareinfo_first=a08ff4f5017f5d224fb2f0dbac021e7c",
+      "time": "21:56",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "400 Token/s，原生多模态，阶跃星辰 Step 3.7 Flash 开源",
+      "entity": "阶跃星辰 Step 3.7 Flash",
+      "clean_title": "原生多模态开源模型跑出400 Token/s，性能炸裂",
+      "summary": "阶跃星辰开源Step 3.7 Flash模型，以400 Token/s的推理速度和原生多模态能力引发关注。该模型在多项基准测试中表现优异，为开发者提供了高性能、低成本的AI解决方案，有望推动多模态应用快速落地。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247517525&idx=1&sn=899667a8feb3ebeb3c9097f0885eb8ad&chksm=c3aa288a784011867591ad95df1ffb83e9a165143f795bd09e55ffef51a52ee17fd73f4a5e53&mpshare=1&scene=1&srcid=0530oOnr7vhlVjww9m36g36q&sharer_shareinfo=81bb8573682a5d6d20e100e8bf5010a4&sharer_shareinfo_first=ce9291bbdd00d54b4d12fa3b5e4650c8",
+      "time": "22:05",
+      "category": "🤖 模型与技术"
+    },
+    {
+      "raw_title": "一篇Harness研究后的思考！",
+      "entity": "Harness",
+      "clean_title": "Harness研究揭示AI开发新趋势，引发行业思考",
+      "summary": "Harness的最新研究深入分析了AI开发中的关键挑战与机遇，揭示了开发者对自动化、可观测性和安全性的迫切需求。报告指出，企业正加速采用AI驱动的工作流，但面临工具碎片化和技能差距等障碍。这一发现为行业提供了重要参考，推动更高效的AI应用落地。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723132&idx=1&sn=41feac3f7a792ea05cb03b14cd95a974&chksm=e9df667ae839461d6fce816ed939fcb2d38aaf7dc128ab96c07858e6772488700957669b9958&mpshare=1&scene=1&srcid=0530Z2uZXRbLneHgaACz7kKd&sharer_shareinfo=592cd86a17c4e036ce9adc448063e46e&sharer_shareinfo_first=592cd86a17c4e036ce9adc448063e46e",
+      "time": "22:34",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "“中国最会烧钱的4个男人，坐上了同一张牌桌”",
+      "entity": "中国最会烧钱的4个男人",
+      "clean_title": "烧钱大佬齐聚，牌桌风云再起",
+      "summary": "四位中国最会烧钱的企业家同台竞技，他们的烧钱策略和商业布局引发行业关注。文章深入剖析了这四位大佬的烧钱逻辑，以及他们如何通过资本运作影响市场格局。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905538&idx=1&sn=4d98dd2ac1a722f34654aa2cd51168f5&chksm=8d52197fb7c9bb1f8c007a78270c0bb9f1da424a92811fdead2e4a0b3195a38c0439746b7010&mpshare=1&scene=1&srcid=0530y82GptMckah0exw9HHW9&sharer_shareinfo=bc3e2bff4fab9d15993163d123988904&sharer_shareinfo_first=bc3e2bff4fab9d15993163d123988904",
+      "time": "23:16",
+      "category": "📰 行业新闻"
+    }
+  ]
+}
