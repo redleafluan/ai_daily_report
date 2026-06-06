@@ -1,0 +1,139 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-06T14:00:33.042240",
+  "highlight": "今日主要涵盖了 AI 行业的最新动态。",
+  "stats": {
+    "total_articles": 14,
+    "categories": {
+      "其他": 14
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "Claude Code团队成员亲述：动态工作流该怎么用",
+      "entity": "Error",
+      "clean_title": "Claude Code团队成员亲述：动态工作流该怎么用",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037174&idx=2&sn=55691d64d717432828ce85e91fcf24bc&chksm=851951c45e2d2578152fd39934998904138a08a97daaad031da4c7ba9b613ff7aca5ffb3d724&mpshare=1&scene=1&srcid=0605WoKdhnEWloHfT2P86J8z&sharer_shareinfo=9730c67ad52c56324bb5e2a1e75921b2&sharer_shareinfo_first=9730c67ad52c56324bb5e2a1e75921b2",
+      "time": "09:43",
+      "category": "其他"
+    },
+    {
+      "raw_title": "年中最值的一笔投资：Lovart 大促来了，低价给自己雇个“T0级”AI设计师",
+      "entity": "Error",
+      "clean_title": "年中最值的一笔投资：Lovart 大促来了，低价给自己雇个“T0级”AI设计师",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515399&idx=1&sn=4bad99857e853183f938426cca82c74a&chksm=cf37b9be0aba2e7cfee23fcc2966698f28d7e975c64bdafaddd3df4dc2fb820e01cb2cf75e12&mpshare=1&scene=1&srcid=0605zsnxP56lbkYHfgYR0VnG&sharer_shareinfo=40a11704f6cd1372fa3a3d06cbdb9fd8&sharer_shareinfo_first=40a11704f6cd1372fa3a3d06cbdb9fd8",
+      "time": "11:07",
+      "category": "其他"
+    },
+    {
+      "raw_title": "对话 infimaker：从大疆出来 、融资过亿，五轴会是消费级 CNC 的标配",
+      "entity": "Error",
+      "clean_title": "对话 infimaker：从大疆出来 、融资过亿，五轴会是消费级 CNC 的标配",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg5NTc0MjgwMw==&mid=2247524491&idx=1&sn=3dd51b9bc312609aae0fdb1f3c185a21&chksm=c1dfe9ca2b4658757bf9c4e00767c00721a5efce45ee2380b7b556edb17ef7f967c93690ec4e&mpshare=1&scene=1&srcid=0605XRmcKBq63Zi3p1FK3cvO&sharer_shareinfo=45336540f5dde075bfaeb659c81e8803&sharer_shareinfo_first=45336540f5dde075bfaeb659c81e8803",
+      "time": "12:12",
+      "category": "其他"
+    },
+    {
+      "raw_title": "腾讯姚顺雨最新对谈实录：我不认为ChatGPT和Claude Code是唯一的Super App｜甲子光年",
+      "entity": "Error",
+      "clean_title": "腾讯姚顺雨最新对谈实录：我不认为ChatGPT和Claude Code是唯一的Super App｜甲子光年",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247554686&idx=1&sn=0641706f004bd977b26b88b31cd9c4f5&chksm=ff3a3cd30644e5e2be216cf30814444cc7a4acef77ba5c849293ca3820f3f2871a83df5b08c3&mpshare=1&scene=1&srcid=0605gKK2L4wj58b0U4ieEY1T&sharer_shareinfo=4b62dba110da57a82501f5d9761f9bd2&sharer_shareinfo_first=4b62dba110da57a82501f5d9761f9bd2",
+      "time": "13:31",
+      "category": "其他"
+    },
+    {
+      "raw_title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么？",
+      "entity": "Error",
+      "clean_title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么？",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286444&idx=1&sn=626b22bfaba9d178fc96ad9a2a3bee9f&chksm=bc2dacf7c1679828710de79591f6d3b24db11d8f6a4a1f0a75654f57f6034cb1d5a32b0e3636&mpshare=1&scene=1&srcid=0605g9UIlCu1mS1UAyKY8uaW&sharer_shareinfo=0a4e1bcadca47f802a46d2f0caaac4fc&sharer_shareinfo_first=0a4e1bcadca47f802a46d2f0caaac4fc",
+      "time": "13:48",
+      "category": "其他"
+    },
+    {
+      "raw_title": "北大发布全球首个「自进化」5D世界模型EvoPhys-World，基于摩尔线程全国产算力底座，以「人」为中心，实现场景级万物可控",
+      "entity": "Error",
+      "clean_title": "北大发布全球首个「自进化」5D世界模型EvoPhys-World，基于摩尔线程全国产算力底座，以「人」为中心，实现场景级万物可控",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037176&idx=1&sn=2612add0cd63f780245c68f0474028ab&chksm=85a6bc4faa443f20c1c7a90b53faba5948e84a269e679d932946167aee1285d6040e9af832d8&mpshare=1&scene=1&srcid=0605ExZLj5IXl7R8dObSq0AI&sharer_shareinfo=678f31dfd967a02d74e0ad4d3c4eefae&sharer_shareinfo_first=678f31dfd967a02d74e0ad4d3c4eefae",
+      "time": "14:38",
+      "category": "其他"
+    },
+    {
+      "raw_title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
+      "entity": "Error",
+      "clean_title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286445&idx=1&sn=fb37f3bd259b5ce502e336904c999640&chksm=bc985271306d4debf6b8e2eed97e4ebffac5bc5f4bbd6cab1e3bab886fb7133b323a3c966564&mpshare=1&scene=1&srcid=0605bmCCAJ5YqbTk67yi2k57&sharer_shareinfo=d8193b0a4d94efa39920355ec5aeac30&sharer_shareinfo_first=d8193b0a4d94efa39920355ec5aeac30",
+      "time": "15:13",
+      "category": "其他"
+    },
+    {
+      "raw_title": "OpenAI上线全新记忆系统Dreaming：ChatGPT真正拥有了长期记忆",
+      "entity": "Error",
+      "clean_title": "OpenAI上线全新记忆系统Dreaming：ChatGPT真正拥有了长期记忆",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515417&idx=1&sn=7282b71c06a39f2164fe58a1dadf0a6a&chksm=cf863544366d477a4c2980f5b8ea37d9f5e1f39e9797f31d54b207835035f76c911b67c4c9f8&mpshare=1&scene=1&srcid=0605uiHjhRDwDB6k4YI7p4jn&sharer_shareinfo=6756dfaa9a306c04a80aa7a7c9da006b&sharer_shareinfo_first=6756dfaa9a306c04a80aa7a7c9da006b",
+      "time": "15:25",
+      "category": "其他"
+    },
+    {
+      "raw_title": "独家｜欧拉万象完成数亿元天使轮融资，以 “可养成” 范式重构家庭具身智能的物理世界数据闭环",
+      "entity": "Error",
+      "clean_title": "独家｜欧拉万象完成数亿元天使轮融资，以 “可养成” 范式重构家庭具身智能的物理世界数据闭环",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516015&idx=1&sn=b552145e988de40a68570515e511b57b&chksm=ea77ef7db0b7880b22bf5928306ee43195ed4f7c87cdf741b3bd3ffc603cb07040deb4f85631&mpshare=1&scene=1&srcid=0605QZ01j8NLQMCP62s5yYJ9&sharer_shareinfo=8c6a74430e519ebec8ba1b558dadcf76&sharer_shareinfo_first=8c6a74430e519ebec8ba1b558dadcf76",
+      "time": "15:42",
+      "category": "其他"
+    },
+    {
+      "raw_title": "OPC暴论",
+      "entity": "Error",
+      "clean_title": "OPC暴论",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NDIxODE1NA==&mid=2654232753&idx=1&sn=f4a1674f4c04641fdce6ec80c06e989f&chksm=f17e08655483460aa716d6d74b27b2990cd2680fb0738bfc155654a07a6342d57490b4acb8b1&mpshare=1&scene=1&srcid=06053zF5RErpB5Hsb2GhRQgc&sharer_shareinfo=302eb9dfccc6bc84e873ef0659ea7ef2&sharer_shareinfo_first=302eb9dfccc6bc84e873ef0659ea7ef2",
+      "time": "16:38",
+      "category": "其他"
+    },
+    {
+      "raw_title": "人类还剩多少时间？Anthropic首次公开：AI正在自己造自己，递归自我改进倒计时开始",
+      "entity": "Error",
+      "clean_title": "人类还剩多少时间？Anthropic首次公开：AI正在自己造自己，递归自我改进倒计时开始",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515400&idx=1&sn=9f4bee31dd2a4f71a15b61604f3c03f1&chksm=cf046d09ffc5d3572d7b641710c8716a9ba48da36b6af00df7af66f62b0821d1ca556e9644ab&mpshare=1&scene=1&srcid=0605kpRxAQbpEDsQoM2vF50z&sharer_shareinfo=aeedfae29c91d8784b2005f7c26c4b8a&sharer_shareinfo_first=aeedfae29c91d8784b2005f7c26c4b8a",
+      "time": "16:45",
+      "category": "其他"
+    },
+    {
+      "raw_title": "实测 MiniMax M3、DeepSeek V4 Pro、Kimi 2.6：谁才是国产开源模型第一",
+      "entity": "Error",
+      "clean_title": "实测 MiniMax M3、DeepSeek V4 Pro、Kimi 2.6：谁才是国产开源模型第一",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYyMTY1NDA0Nw==&mid=2247518751&idx=1&sn=f7f92a98cfcdec7fc7b16a59c661d2d4&chksm=fe0234dfa3ad10055d3a3e4e8965ceb71629a23d092420a1e9ced84bf9f93a0614efaf60ffca&mpshare=1&scene=1&srcid=0605r79Hn8zyn2sec3dNQx1m&sharer_shareinfo=dc931f15b235c33e30e3a44ccdfd7267&sharer_shareinfo_first=dc931f15b235c33e30e3a44ccdfd7267",
+      "time": "21:20",
+      "category": "其他"
+    },
+    {
+      "raw_title": "下一个Anthropic不写代码，它在搬箱子！",
+      "entity": "Error",
+      "clean_title": "下一个Anthropic不写代码，它在搬箱子！",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705191&idx=1&sn=8896271a48e289d4d1b5b4583db49796&chksm=f04395009ee9315b76ce28b58d37a22dd599b0b07a6bf3e28ffda02fefb345d73667e47ff8d7&mpshare=1&scene=1&srcid=0605O96SR9MV5DGs9agf5tzT&sharer_shareinfo=4eba3223f314fee1c9cea70288ef2728&sharer_shareinfo_first=4eba3223f314fee1c9cea70288ef2728",
+      "time": "22:49",
+      "category": "其他"
+    },
+    {
+      "raw_title": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉",
+      "entity": "Error",
+      "clean_title": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉",
+      "summary": "AI 分析失败，请检查网络或 Key。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037501&idx=1&sn=62a92d614d6371bd0c9b43f10e00ff32&chksm=8528623f6162030e69a4786e9c5aa0662d46830188bc58c1d7d83b51b856d71d27724f711675&mpshare=1&scene=1&srcid=060626UyCCsAI7w67uFaemVc&sharer_shareinfo=a8912006daee077cd36398c8ad09f000&sharer_shareinfo_first=a8912006daee077cd36398c8ad09f000",
+      "time": "00:38",
+      "category": "其他"
+    }
+  ]
+}
