@@ -1,0 +1,113 @@
+# 📅 Daily AI Report - 2026-06-07
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **21** 篇内容。
+> **今日看点**: 今日主要涵盖了 AI 行业的最新动态。
+
+## 2. 精选日报 (Daily Feed)
+### 其他
+#### **[Error]** 如何从零打造AI-native服务公司丨Y Combinator
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247487871&idx=1&sn=54104ff5f47d1a9f4fe9aa82fea2bfd3&chksm=f450fb5399ea8d6d12ffbe78d23e71931a741737671de5f60a90eac07041d12d896befc567f8&mpshare=1&scene=1&srcid=06073VuDHS1o5M7OLPlhlpDV&sharer_shareinfo=de01e168b130b537400daa3aca2b2054&sharer_shareinfo_first=de01e168b130b537400daa3aca2b2054)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:12*
+
+#### **[Error]** a16z 合伙人：大模型吃掉通用任务，创业公司吃掉垂直行业
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkyMzU2ODEyMA==&mid=2247533135&idx=1&sn=c4b75eff0269c278c596be7e56ff23e7&chksm=c09b6d63f1d920ec18f250bc8c7b984d229df68ba8524a347cbb14c973f18878d379e073f7c6&mpshare=1&scene=1&srcid=06071a5sIccJQeBZDS6Rfhx0&sharer_shareinfo=e71ede6741cc4aca6ce9b6f5b97728fe&sharer_shareinfo_first=e71ede6741cc4aca6ce9b6f5b97728fe)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:13*
+
+#### **[Error]** 爆肝两周，我把 Codex 最全实战指南开源了
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU4NTE1Mjg4MA==&mid=2247498654&idx=1&sn=815f67e68fdb6e0bea011c8d31307def&chksm=fcbf2aed17e06d484d4af61cba49578e834ec57b90707cf56de0e29bfc78dfebe5196e4dd57d&mpshare=1&scene=1&srcid=0607btHH1rPvPffATb9QRFnO&sharer_shareinfo=c3f6eee0ae5a8be28af3c228bfef842d&sharer_shareinfo_first=c3f6eee0ae5a8be28af3c228bfef842d)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:18*
+
+#### **[Error]** 测完三个天气MCP，我找到了把气象专家装进AI Agent的最佳路径
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkyNTY1MjE2OA==&mid=2247493813&idx=1&sn=fb0aabbf3f1d7aef1ab66904d7d68c1b&chksm=c06b5874bb8eda1299293b5cef00bb24e59fbd261b5c14848724ebb52ce35efe0e0e4da59d49&mpshare=1&scene=1&srcid=0607M8S6Tkn3urwpUrafrVpj&sharer_shareinfo=adb97b64b884c0419b8a10b636472e75&sharer_shareinfo_first=adb97b64b884c0419b8a10b636472e75)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:20*
+
+#### **[Error]** 独家｜从图灵奖得主研究院到大湾区具身前线，这个00后团队做机器人空间大脑，融资千万
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516067&idx=1&sn=6a9c35921c2d4fb7ccd2523377d2405e&chksm=ead34a0b1e9a75c5d7dffddb84ca5c44a3c40f478f997d79acf1a13c54d59f23006ab0c18766&mpshare=1&scene=1&srcid=0607l1uA9zqdnwX1yTOynAgk&sharer_shareinfo=14b055e02cd70ddaf933539a54091dc7&sharer_shareinfo_first=14b055e02cd70ddaf933539a54091dc7)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:24*
+
+#### **[Error]** Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651286556&idx=1&sn=e20fc46413fcb8fae553d416e38598d6&chksm=bc2266fa6caafb36132922f343c1ef575b5ff753621c96cc2cb7295edb5f861c5652212190a9&mpshare=1&scene=1&srcid=0607om9EHdWnGxDAWGP3FhzD&sharer_shareinfo=4b8f4730ffeb8107d80b64e32aa66c9d&sharer_shareinfo_first=4b8f4730ffeb8107d80b64e32aa66c9d)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:28*
+
+#### **[Error]** OpenAI芯片核心叛逃Anthropic！就在量产前夜
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895621&idx=1&sn=002bf244cec18adac8f88a3d1208b85e&chksm=e984c76d0585d57a8c82c1f7499427198f6f45abcca236b79bd6433f565e9af3f097f72de859&mpshare=1&scene=1&srcid=0607rCHDckyBsYqGwRjmAMJA&sharer_shareinfo=cca0596fb66814d4b35ef395147f70c2&sharer_shareinfo_first=cca0596fb66814d4b35ef395147f70c2)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:29*
+
+#### **[Error]** Webpage: h5.xiaolingbujuan.com
+*   🔗 [阅读原文](https://h5.xiaolingbujuan.com/mobile/preview_pdf?radar_id=t1c9jojzqkkhwmokuel&staff_id=wogizUDQAAb-XMLBUKHeJTeg6ucQ3dNw&create_source=dashboard&target=radar_channel&target_id=101500011&is_preview=False&_c=X19sW1xDQmwDAwUEV1BrVV9GSQ&source=radarH5&is_hidden_weiban_logo=0&user_radar_authorization=0)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:42*
+
+#### **[Error]** 小羚不卷使用指南Handbook
+*   🔗 [阅读原文](https://doc.weixin.qq.com/doc/w3_AWwA2AaoAJcCNA26vZNiBREW7ftqs?dver=)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:43*
+
+#### **[Error]** 全球 AI 迎来"高考"！北大开源统一基准：谁最会给大模型造数据？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723278&idx=1&sn=8f71f5d6e745b0e9065f452d942846ca&chksm=e9a8a021b8666cc389d34e4c9aad38a1f78b3b97a0b4b2cf85c9f30eb24be48119e43c225513&mpshare=1&scene=1&srcid=06070YkgOzGtI4lHwdyVcB5I&sharer_shareinfo=4c0fd4dc1edd7da7e52181baf0972f7d&sharer_shareinfo_first=4c0fd4dc1edd7da7e52181baf0972f7d)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:47*
+
+#### **[Error]** 37万次真实会话实测Agent榜单：GPT-5.5High第一，Claude最稳，真实干活能力看这五项核心指标
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655940467&idx=1&sn=b4f587299f69418225036d0c25ec984b&chksm=bc669dbb14ed6bef4f333d31232f361e22de7d793104b56a5c44955f71a54b58e6d3be97fcb0&mpshare=1&scene=1&srcid=0607Z24linO5D9PwGtecMRNV&sharer_shareinfo=2cd27238d4cd766e01bd71fcff95ef29&sharer_shareinfo_first=2cd27238d4cd766e01bd71fcff95ef29)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:47*
+
+#### **[Error]** Anthropic联创亲口承认：AI正自我迭代！
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705360&idx=1&sn=6c521c18265d9505113d67f62472ec4e&chksm=f0fdb742811532d9361ae2bc35814c54466d1d6eaa25fc75a707b32d69640380844ef5f224b0&mpshare=1&scene=1&srcid=0607gEkU19OYHCijfs6PoLJM&sharer_shareinfo=1e1400ece4113b5c8f4a2345571e497e&sharer_shareinfo_first=1e1400ece4113b5c8f4a2345571e497e)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:15*
+
+#### **[Error]** AI最危险的不是替代你，而是悄悄吃掉你的脑子
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650151930&idx=1&sn=88e4d8929c775a9b3192d5ae3033fb17&chksm=bfc00bbadd3c778b7c55b124886436d8cef8d76aa862aee2d543c1c78aa256d8963fc92b1552&mpshare=1&scene=1&srcid=0607pwQ0NiCLdgJ15b6TSK0V&sharer_shareinfo=e243ebff687fd0b5cb2a7d789b3cab38&sharer_shareinfo_first=e243ebff687fd0b5cb2a7d789b3cab38)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *13:24*
+
+#### **[Error]** 突发！OpenAI芯片元老加入Anthropic
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652804430&idx=1&sn=03eaef0db7b1d276e3b2ebadd137024f&chksm=8547363b3aefdfd22f04217394288d05e6c656b474b660e67ba72b43140a6ced4f4ad0a2f1d8&mpshare=1&scene=1&srcid=0607stufc5kvEdjTaeJgI4fa&sharer_shareinfo=0df5a5f472786c8fa3d3c0a81a948f3f&sharer_shareinfo_first=0df5a5f472786c8fa3d3c0a81a948f3f)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *13:28*
+
+#### **[Error]** 腾讯内部宣布调整 token 额度；宇树回应牵手英伟达；阿里员工 7 万字离职帖引爆内网｜AI 周报
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247663257&idx=1&sn=9d3b4f66e488bf00f5fb568f29240658&chksm=fa82ce1c9f31a9f35ac8d6ef25c958a8391a8ef7018b2487afdefbb5704e338655ee25c288f7&mpshare=1&scene=1&srcid=0607hDhOZabfzFED3Ps9MUDn&sharer_shareinfo=4533ab7b60639c6eb37714c6e3092174&sharer_shareinfo_first=4533ab7b60639c6eb37714c6e3092174)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *13:34*
+
+#### **[Error]** ChatGPT正在生成一些非常诡异的图片......
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037579&idx=1&sn=b3cb227192621a3ba2cfd73b9fcb4e6e&chksm=85e387e7fd452963e7789b187bf9de7c668db0214c3b73d0d16a1cf03f9d4ab3b11bc7f9e811&mpshare=1&scene=1&srcid=0607op8AUFAgcjDR9ku1VBmM&sharer_shareinfo=cdbba3a1d731a2407d99647a89440428&sharer_shareinfo_first=cdbba3a1d731a2407d99647a89440428)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *16:59*
+
+#### **[Error]** Claude Code之父：「品味」不是人类护城河；当工程师不再写代码，招聘看什么？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037590&idx=1&sn=43a77cc96f1adc263166826563156f64&chksm=85597d5cc093fb5bd2e9343600dac9d32fc1c2e711da4d7804e821c63b02db38c82e620a32a5&mpshare=1&scene=1&srcid=0607MgtPbFwGV5fQ4FYGxRRS&sharer_shareinfo=33d24b29b98d0239a2e50516461a61a8&sharer_shareinfo_first=33d24b29b98d0239a2e50516461a61a8)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *18:01*
+
+#### **[Error]** 红筹退潮：中国互联网与全球资本的二十五年
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247536468&idx=1&sn=1b1c2572fc0d4a9e926f281ea3871254&chksm=fd6bae949ebab8fe91ff3f725f0b0614536e6c0b92e89346c31a1e2e61154854c83176004528&mpshare=1&scene=1&srcid=0607zgmWp3eNKSvDkYSkU3FT&sharer_shareinfo=40f9c27a657621e2bbb40a79cc8e7904&sharer_shareinfo_first=40f9c27a657621e2bbb40a79cc8e7904)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *19:20*
+
+#### **[Error]** AI真的有意识了吗？《降临》原作万字长文反驳Hinton！
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705442&idx=1&sn=a5c92b7d50bbec99d85b424ae8fec4e3&chksm=f0c343590c331af0fdc8e229c0980f6f6352edd4fd88c5f26d744f31d16470ea6aa5acfdda8a&mpshare=1&scene=1&srcid=0607Em8qanaxAsDum6AnYKd4&sharer_shareinfo=371c82fa82588d2b10cac0fe91a8f696&sharer_shareinfo_first=371c82fa82588d2b10cac0fe91a8f696)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *19:21*
+
+#### **[Error]** 重磅！Anthropic内部Skills经验公开了！
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723318&idx=1&sn=39d853bbc8aedef524f0adc4fdf0bdd8&chksm=e97360d56d110a8412f1fceb7c697909c4da26882bf0dfaaa7aec3c0cb3be1e60878ee00c7e1&mpshare=1&scene=1&srcid=0607Qi2YZrjZdoMG4utUKvvF&sharer_shareinfo=bf0979dc1f99367f5613164c4a0f864e&sharer_shareinfo_first=bf0979dc1f99367f5613164c4a0f864e)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *22:38*
+
+#### **[Error]** 企业拥抱AI，一定要读下Anthropic踩过的坑
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515650&idx=1&sn=f8156c6c524648e5ddcdec99cc755a62&chksm=8934f34531ad0699df7d45aeb2d311ceb8e77cbea768a9f48f5a05d73fe51edeeba9d02d81c0&mpshare=1&scene=1&srcid=06084vY3OR7CzxjdIaGICIZC&sharer_shareinfo=4872c568baf86af8b30c47fca7e39a16&sharer_shareinfo_first=4872c568baf86af8b30c47fca7e39a16)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *00:13*
+
