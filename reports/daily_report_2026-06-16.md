@@ -1,0 +1,103 @@
+# 📅 Daily AI Report - 2026-06-16
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **19** 篇内容。
+> **今日看点**: 今日主要涵盖了 AI 行业的最新动态。
+
+## 2. 精选日报 (Daily Feed)
+### 其他
+#### **[Error]** 2026年的毕业生们，正在花钱向AI证明自己是人类。
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647683664&idx=1&sn=65f259ffc12a29f754fb94cfc6d5ad5e&chksm=f12651edd29b594370daaa5543be443133206f49811ab8cda9509ce724c5be966ff61fdc88f4&mpshare=1&scene=1&srcid=0616lnOmwtulSGq1VSIMS7Jx&sharer_shareinfo=3fdc51f0f25cb76d622f9bee3098d081&sharer_shareinfo_first=3fdc51f0f25cb76d622f9bee3098d081)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:39*
+
+#### **[Error]** Business Insider：揭秘 Cursor 的疯狂崛起
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzk1NzgxMjQ0OA==&mid=2247494941&idx=1&sn=b29a1bde192c027283d8220b6ec516a1&chksm=c265b53a31bd28756076140d4dc63c1599e2e9513e40f508128015056585ac85c191953e4c69&mpshare=1&scene=1&srcid=0616L4po6hTqrmPWC6DV0yny&sharer_shareinfo=ea94b905f758e877fe06bd7682f46011&sharer_shareinfo_first=ea94b905f758e877fe06bd7682f46011)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:39*
+
+#### **[Error]** 谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287136&idx=1&sn=b47163e258a7980e646df2f5d0a71ae0&chksm=bcdd883f52c2eaa42dcc156ccf7c3c4696acb9f72a83587995f58b7958507f337db443d80e62&mpshare=1&scene=1&srcid=0616JmCEwXIsnPsndvNIsdpZ&sharer_shareinfo=31f06d727b479ca8190d7394c61a2f99&sharer_shareinfo_first=31f06d727b479ca8190d7394c61a2f99)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *10:39*
+
+#### **[Error]** 年薪300万的前沿部署工程师，要被「录屏教学」替代了
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039317&idx=1&sn=ff1030e264f225d00961bdf7989761ee&chksm=85d2d8c24dd9a0f41e528d5494546719e18bdfe2365681b9885a09e8810a19ba7ea91581a5e7&mpshare=1&scene=1&srcid=0616aIlSpOMqG9jj7HrBemdk&sharer_shareinfo=e769b57509ff95229a70b54f06d4f9c8&sharer_shareinfo_first=e769b57509ff95229a70b54f06d4f9c8)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:44*
+
+#### **[Error]** Loop Engineering 是什么
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650452240&idx=1&sn=559a30a85f1c1b6d31237bc16ae3be33&chksm=bf680fc47ea504dd3d14f091c5a7dd0a273b66e9aba4b8d1b95cfe53e6613d39a3034d0f6b6d&mpshare=1&scene=1&srcid=0616LhNa39QyQLiC9EXGEb84&sharer_shareinfo=575dca077632ad2923bf1560e69938fe&sharer_shareinfo_first=575dca077632ad2923bf1560e69938fe)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *11:58*
+
+#### **[Error]** 面壁人之死
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5OTAwNTQ0MA==&mid=2653084203&idx=1&sn=452e2449405b66a4339ede6b1509a55f&chksm=bc0a2864dcddbf5982fff564c7011ce110e43aafd2a169678cb0fc23eef2d28b02644133a188&mpshare=1&scene=1&srcid=06167ojbcCEqqmDpCUcZXzjj&sharer_shareinfo=b727db703f8a12f2dce365ff879245f7&sharer_shareinfo_first=b727db703f8a12f2dce365ff879245f7)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:39*
+
+#### **[Error]** AI Agent Loop到底是什么？多数人一上来就用错了丨Greg
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247488067&idx=1&sn=37a2563af5c993258e7eef5197d36a32&chksm=f41b9127003896cb0c4cab31b89299f99b2def94a3bc6771d9efd4a031f870850dfc780f9e53&mpshare=1&scene=1&srcid=0616zceKK71ZnseEvYr7RyAv&sharer_shareinfo=0541bce605e69ee5c57be0160faab096&sharer_shareinfo_first=0541bce605e69ee5c57be0160faab096)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:40*
+
+#### **[Error]** 速递｜Mistral AI拟融资35亿美元，估值234亿美元，专注工业场景定制AI和安全模型
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516245&idx=2&sn=0c806532a35b3472a604ac693b8933cc&chksm=eae267308f9677a4aa27ec130ab7ae3c2b54bcc84f4749986cf8f37e81cd4e1b28fa88878229&mpshare=1&scene=1&srcid=0616ivZiTv3DZIy2QFDUglU4&sharer_shareinfo=ad86dfb130d47f4433c2f5919b1d211c&sharer_shareinfo_first=ad86dfb130d47f4433c2f5919b1d211c)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:42*
+
+#### **[Error]** 突发！Anthropic即将启用实名制刷脸
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652707276&idx=1&sn=55a5c90403d34f823973086d8b25dc3c&chksm=f0b5381e3decfce618e870facfa96494858de4def7a731b48838e37abe759dd450ec607adcac&mpshare=1&scene=1&srcid=0616EJMMGqJUQWNa1Os0VvQG&sharer_shareinfo=4c85b16e723473911e3d557787be2e85&sharer_shareinfo_first=4c85b16e723473911e3d557787be2e85)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:42*
+
+#### **[Error]** 对话面壁CEO李大海：端侧AI模型赶上GPT-4，下一程是生态共建
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652804902&idx=2&sn=19a6525f8aaf1b3e9e738d2a00a1057b&chksm=85a7d715a17170557f10a0c83addc2c09dba8f9ba74819c2699db6e960b090969df2bedc00b7&mpshare=1&scene=1&srcid=0616DkncJUKTrcJKMsDSqA0B&sharer_shareinfo=d1c19f55858907eabf8f9a9f18d20be4&sharer_shareinfo_first=d1c19f55858907eabf8f9a9f18d20be4)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:42*
+
+#### **[Error]** 深度｜马斯克专访：从SpaceX到100万吨火星物资，跨星际文明才是终极目标
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516235&idx=1&sn=bb942cf746e5a68e89663675dbb924a8&chksm=ea1ac508c25c1fbc03f587c450354a0371f82db6dbc60d0db5092e45159dbeef04d1a77f6f32&mpshare=1&scene=1&srcid=0616YwuhQpinzKmWbddxELIG&sharer_shareinfo=4f1389f3df5f0e42edeac6e0a7f8a306&sharer_shareinfo_first=4f1389f3df5f0e42edeac6e0a7f8a306)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:42*
+
+#### **[Error]** SpaceX上市即暴涨，只因它是“东印度公司”？但完全跑偏了！
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg2MDY5NTgwNg==&mid=2247561973&idx=1&sn=30964c5c66b008022d806721ddd73936&chksm=cf0a8b76984ef9c05e581bf4e7b7e7580185089eb591f3229bf40e3f3c310121f9829413891a&mpshare=1&scene=1&srcid=0616k7CeyKC8M56INCRncy0t&sharer_shareinfo=8dacaf1ac72cbf408360c5e1aaa6a1ea&sharer_shareinfo_first=8dacaf1ac72cbf408360c5e1aaa6a1ea)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:43*
+
+#### **[Error]** 低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897515&idx=2&sn=cad860b40c09e2f7815622d9c0273312&chksm=e9f92761cf2665bdbabbc89e13f413df7a4199094fe84fb75b05031740a7bf21ee5c3b49680c&mpshare=1&scene=1&srcid=0616OiFSHVDishunvr9lZCn8&sharer_shareinfo=2553daa37e0162062b0aab8eb1f25723&sharer_shareinfo_first=2553daa37e0162062b0aab8eb1f25723)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:43*
+
+#### **[Error]** SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897722&idx=1&sn=f476c8de0347b19000dcbddf39ef4c14&chksm=e9e28de09d65bede9714f91a876610aeb9e925b9df9a4bc922429fb6a8942939fb16b8386595&mpshare=1&scene=1&srcid=0616npnmFubpVzTH4JSIAFsU&sharer_shareinfo=b078fbd9bc2dda85c43b5ad4aba19ad9&sharer_shareinfo_first=b078fbd9bc2dda85c43b5ad4aba19ad9)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *12:47*
+
+#### **[Error]** Karpathy被踢？美或将外籍天才逼出ASI核心圈
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652707463&idx=1&sn=c8c21a37d1399bed8ed553a0aff0cfd1&chksm=f05ccfeed74c98f2391e04ad45e6751073ca1c440879dc5cc11a12ad2c9e5bb67c0426a93b3d&mpshare=1&scene=1&srcid=0616IeImpPhZwcyVGTbq3lS3&sharer_shareinfo=8ae273dd564951b38aa84a73f46616f1&sharer_shareinfo_first=8ae273dd564951b38aa84a73f46616f1)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *13:11*
+
+#### **[Error]** DeepSeek 融资交易曝光：腾讯、宁德时代等被锁5年，且没投票权，梁文锋绝对控制
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287149&idx=1&sn=72cdec4dee45a838fdeedb94e5082edc&chksm=bc4e94b497acbef8499cc65702da651bf37c1804d16ed4a19dbf29412f08bb57bc4d1bfdb4d6&mpshare=1&scene=1&srcid=0616mwILoT37sV2IxCr4q3iq&sharer_shareinfo=cd36d5dbe667b29df1b913f68786f597&sharer_shareinfo_first=cd36d5dbe667b29df1b913f68786f597)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *15:56*
+
+#### **[Error]** 字节跳动的 AI 账本：豆包每天不足百万收入、Seedance 毛利 70%
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247536768&idx=1&sn=aa1eb8479bca40d769eee69bf4a71249&chksm=fd71b3b994a8ba467b168724ab1cc21a5a021e00c0144463cbdf9c83b053b9b52c16b0468e90&mpshare=1&scene=1&srcid=06161bJqqmm3vUvqiEdSwaYW&sharer_shareinfo=4eddab9df95e429a8588602c4c6bce89&sharer_shareinfo_first=4eddab9df95e429a8588602c4c6bce89)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *20:35*
+
+#### **[Error]** Claude Code：如何能构建主动式Agent工作流？丨Claude
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247488084&idx=1&sn=25659a77fea83ea3f50d22791e8c9cf4&chksm=f4307a7c278b39a18843b080d7beb0d932804c670ff1af7489742cad68f5523f700dc9b64967&mpshare=1&scene=1&srcid=0616uiEnSGeEWtp8CwxKYeXN&sharer_shareinfo=e151c6ef256068d3b472b51c115dd0ba&sharer_shareinfo_first=e151c6ef256068d3b472b51c115dd0ba)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *21:47*
+
+#### **[Error]** Vibe Teaching：现象学视角下的教师魅力与课堂氛围
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxMDY1NDk4MQ==&mid=2247491919&idx=1&sn=413feaa637eeb8a6479c27956bae03f0&chksm=9688a2ee930dd68dfed0e8ed43f17ceb5d57ec8e699dac34adc43c2ab6999feb872af7bedea3&mpshare=1&scene=1&srcid=0617yGqH3nC0FkgWedc3aOP2&sharer_shareinfo=7cc0ff11ce4c965ee6035220415a74a0&sharer_shareinfo_first=7cc0ff11ce4c965ee6035220415a74a0)
+*   📝 AI 分析失败，请检查网络或 Key。
+*   ⏰ *00:19*
+
