@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-22T15:34:19.209309",
+  "highlight": "吴恩达指出AI炒作过度，未来企业将由10人团队配合Agent重构数据架构，强调务实应用而非宏大叙事。",
+  "stats": {
+    "total_articles": 14,
+    "categories": {
+      "💡 深度观点": 6,
+      "🔧 工具与应用": 4,
+      "📰 行业新闻": 3,
+      "🧠 提示词与教程": 1
+    }
+  },
+  "articles": [
+    {
+      "raw_title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
+      "entity": "吴恩达",
+      "clean_title": "未来公司是10人小队加Agent重做数据架构",
+      "summary": "吴恩达指出AI炒作过度，未来企业将由10人团队配合Agent重构数据架构，强调务实应用而非宏大叙事。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287454&idx=1&sn=9de7ef2850b77e5f02b4864387d74121&chksm=bcf10e1e2e417a4f5a78f49f642bf9dfc225285f96161a149992348ca051c8e4564bc0b6d93b&mpshare=1&scene=1&srcid=0621Zkyf3W574Fusq99yVuzh&sharer_shareinfo=0e000c3576ff0c17cbc594f914f02a1f&sharer_shareinfo_first=0e000c3576ff0c17cbc594f914f02a1f",
+      "time": "11:27",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "Hermes + Obsidian，搭建自进化的知识大脑",
+      "entity": "Hermes + Obsidian",
+      "clean_title": "搭建自进化的知识大脑，提升效率与创造力",
+      "summary": "本文介绍了如何结合Hermes与Obsidian构建一个自进化的知识管理系统。通过自动化流程和智能关联，用户能够高效整理信息、激发创意，并持续优化知识结构。适合追求效率的知识工作者。",
+      "url": "https://mp.weixin.qq.com/s?t=pages/image_detail&scene=1&__biz=MzIwMTQ3MzgxOA==&mid=2653711792&idx=1&sn=5c6304f1b12717534bc901bbde8acea6&from_masonry=1&sharer_shareinfo_first=f05bbdd91b00fafe06ae8cafbcc6e969&sharer_shareinfo=f05bbdd91b00fafe06ae8cafbcc6e969",
+      "time": "11:28",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "强化学习之父Sutton联手毁灭战士之父Carmack：让机器人进入真实世界打游戏",
+      "entity": "Sutton & Carmack",
+      "clean_title": "让机器人真实打游戏，强化学习之父联手毁灭战士之父",
+      "summary": "强化学习之父Richard Sutton与毁灭战士之父John Carmack强强联手，探索让机器人在真实世界中通过玩游戏学习。这一合作有望突破虚拟环境限制，推动AI在物理世界的应用，引发行业关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040233&idx=1&sn=912663a1c53071d5fd2bd1dc4fa5c03a&chksm=851b56754b78e0f271af55105c7ba951f8cc5f5d33cd8c46a2554e07bb17f3080a29fce49a73&mpshare=1&scene=1&srcid=0621QpENDjsBEAA8ceOQyW9F&sharer_shareinfo=ec17f9367151e51baeb2479490a986ca&sharer_shareinfo_first=ec17f9367151e51baeb2479490a986ca",
+      "time": "13:01",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "GRPO过时了吗？",
+      "entity": "GRPO",
+      "clean_title": "强化学习新范式挑战GRPO地位，技术迭代加速",
+      "summary": "随着强化学习技术的快速发展，GRPO（Group Relative Policy Optimization）作为经典算法正面临新方法的挑战。本文深入分析了GRPO在复杂任务中的局限性，并探讨了PPO变体、分布式训练等替代方案如何以更高效率和稳定性抢占研究热点。技术迭代的加速表明，没有永恒的王者，只有不断进化的算法。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040203&idx=1&sn=00d7a504194702e57f5d351bdea7b5e6&chksm=85659a0623c612ff5f6e3c18e968f2ae12240d8fe6ced66a269ecbab2c261a740672134d200e&mpshare=1&scene=1&srcid=0621wLgXvJ1AC8eJ7KglqSqK&sharer_shareinfo=1579ae78f550fbb003a25501e439f383&sharer_shareinfo_first=1579ae78f550fbb003a25501e439f383",
+      "time": "13:11",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "科普篇｜FDE 和咨询、外包、员工的差异是什么？",
+      "entity": "FDE",
+      "clean_title": "FDE模式对比咨询、外包与员工：核心差异与优势解析",
+      "summary": "本文深入剖析FDE（现场开发工程师）与咨询、外包及传统员工模式的本质区别。FDE强调深度融入客户团队，提供定制化技术解决方案，而非标准化服务。相比外包的离岸交付和咨询的策略输出，FDE更注重长期协作与代码质量。对于追求敏捷开发和技术掌控的企业，FDE是更高效的选择。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453486230&idx=1&sn=e6ca9f06b670e681de9fb7ad9a5de546&chksm=86959dcd2d2048fcfc3016b1a91b9c2bc3ff4cd7c1ea848f809012f0ed3785771187add579c9&mpshare=1&scene=1&srcid=0621cNYojWQKoAgQFq19i1jY&sharer_shareinfo=1dd4bcbe4c6e48b5e3e35498255de6a6&sharer_shareinfo_first=1dd4bcbe4c6e48b5e3e35498255de6a6",
+      "time": "14:02",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "entity": "DeepSeek",
+      "clean_title": "1800个AI分身守护游戏世界，2026年艾泽拉斯迎来智能革命",
+      "summary": "文章描绘了2026年DeepSeek AI在《魔兽世界》中大规模应用的场景，1800个智能体协同守护游戏平衡与玩家体验。这不仅是AI在游戏领域的突破，更预示了多智能体协作系统的未来潜力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898572&idx=1&sn=3ebc034d5ccbe38121f67f2dd44d58bc&chksm=e9aaa556ef20aa392572a8bc3ac144bbb1d118f2b3b03bd59836023269e758dd21e38595ee28&mpshare=1&scene=1&srcid=0621TSqH2K1ZQrnIEijlz7tB&sharer_shareinfo=c8b48172742431d500b267c978f57b74&sharer_shareinfo_first=c8b48172742431d500b267c978f57b74",
+      "time": "14:17",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "谷歌痛失双AI大牛，诺奖科学家、Gemini负责人相继出走；英伟达员工弃百万年薪考公；传投资人135亿原价赎回Manus｜Q资讯",
+      "entity": "谷歌",
+      "clean_title": "AI大牛接连出走，诺奖科学家与Gemini负责人相继离职",
+      "summary": "谷歌痛失两位AI领军人物：诺奖得主Hinton与Gemini项目负责人相继出走，引发业界震动。与此同时，英伟达员工放弃百万年薪考公，传投资人135亿原价赎回Manus，科技圈人才流动与资本动向引人深思。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287461&idx=1&sn=24a2b3a0ea613ec952e4d1c76cfd4579&chksm=bcf15c44758e8dd4202f0cc4100913f682cc8a2b7ce7a13e101338d430cf1486cf2713dcb0d7&mpshare=1&scene=1&srcid=0621y2bBAKS7hYuJRJPSN012&sharer_shareinfo=4753cc82881f722c0c38fbbea3c27fca&sharer_shareinfo_first=4753cc82881f722c0c38fbbea3c27fca",
+      "time": "14:45",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "「机器学习之父」Jordan：Hinton等「思想领袖们」正在伤害年轻一代",
+      "entity": "Jordan",
+      "clean_title": "批评思想领袖们误导年轻一代，呼吁回归科学本质",
+      "summary": "机器学习之父Michael Jordan严厉批评Hinton等AI思想领袖，认为他们过度鼓吹AI威胁论和未来主义，误导年轻研究者追逐热点而非扎实基础。Jordan强调，真正的科学进步需要严谨和谦逊，而非炒作。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=1&sn=b9d20058d84b417a596123a0c7e0ce4d&chksm=85972688def9f435e74594319108823ffecce019b618a168728eef84a2d6ad4ef3b37c1b4dcb&mpshare=1&scene=1&srcid=0621oS2aIVeK1C9TE0kHIKY9&sharer_shareinfo=30909f66fe0794fb68b4c02b20c59fd6&sharer_shareinfo_first=30909f66fe0794fb68b4c02b20c59fd6",
+      "time": "15:38",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "卖掉公司，50位员工实现财富自由",
+      "entity": "某公司",
+      "clean_title": "创始人套现离场，50名员工集体实现财富自由",
+      "summary": "一家初创公司被收购，创始人卖掉公司后，50名员工因股权激励获得巨额回报，实现财富自由。这不仅是创业成功的典范，更揭示了科技行业股权激励的巨大潜力。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247728721&idx=1&sn=ba08013e889df268c82adcf87265236c&chksm=ed9ed64d7087dd77c8c30560f29f15d7bbc9fbb15ee065ac0366c8ec782983ffbd5b1ecbd034&mpshare=1&scene=1&srcid=06211kJQqpy0pWrvkE7GXxwn&sharer_shareinfo=059886cba95d7b3c1f33b008e046a516&sharer_shareinfo_first=059886cba95d7b3c1f33b008e046a516",
+      "time": "16:07",
+      "category": "📰 行业新闻"
+    },
+    {
+      "raw_title": "我的微信和Obsidian终于打通",
+      "entity": "Obsidian",
+      "clean_title": "打通微信与笔记应用，实现无缝信息同步",
+      "summary": "本文介绍了一种将微信消息自动同步到Obsidian笔记的方法，通过技术手段解决了信息碎片化问题，提升了知识管理效率。对于追求高效工作流的用户来说，这是一个实用的工具整合方案。",
+      "url": "https://www.xiaohongshu.com/discovery/item/6a105ea20000000006030ae7?app_platform=ios&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBPlS2jjfGSy1C0cEkYgFkq5-RKScTELFVYh9u3yBvzSc=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1782030381&share_id=67f7fa140a154cb0a6123adda863a057",
+      "time": "16:26",
+      "category": "🔧 工具与应用"
+    },
+    {
+      "raw_title": "Claude Code之父删了IDE！干掉提示词，只写循环",
+      "entity": "Claude Code",
+      "clean_title": "创始人弃用IDE，用循环替代提示词编程",
+      "summary": "Claude Code之父宣布放弃传统IDE和提示词工程，转而采用纯循环结构编程。这一反常规做法挑战了现有AI编程范式，暗示未来开发可能不再需要图形界面和复杂提示，引发对AI辅助编程本质的重新思考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652708253&idx=1&sn=89ee4ed4c4373865c60bf4049780fb9a&chksm=f077c661a2527fb927a662b70b9d106ad5748e451d75c1c5d029137e231780728546be592041&mpshare=1&scene=1&srcid=0621UvbEPepquQ3Y8h9sWugG&sharer_shareinfo=29a4f06d6de8e803ad8a9e3dbe88c341&sharer_shareinfo_first=29a4f06d6de8e803ad8a9e3dbe88c341",
+      "time": "20:18",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "重磅！Loop Engineering 实操手册公开",
+      "entity": "Loop Engineering",
+      "clean_title": "实操手册公开，揭秘前端异常监控核心实现",
+      "summary": "本文公开了Loop Engineering的实操手册，详细展示了前端异常监控系统的核心代码实现，包括用户代理检测、日志采集、错误上报等关键模块。通过分析微信浏览器环境下的BadJs埋点方案，揭示了如何高效捕获并上报前端运行时错误，为开发者提供了可复用的技术参考。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723610&idx=1&sn=d5ba333d61fa85da41ce6078be801bd8&chksm=e9e1a4610045cb289dec9c73034541d2466e0fcb7a1d06d83d2e56b3e06493df56e0505ce978&mpshare=1&scene=1&srcid=0622pVJPc266DsS6A5EctEf1&sharer_shareinfo=a3e89c604c01bc3283769f5c46a917f2&sharer_shareinfo_first=a3e89c604c01bc3283769f5c46a917f2",
+      "time": "00:10",
+      "category": "🧠 提示词与教程"
+    },
+    {
+      "raw_title": "Anthropic 负责人：最 AI 化的产品团队如何工作丨Lenny's Podcast",
+      "entity": "Anthropic",
+      "clean_title": "最AI化产品团队的工作方法论",
+      "summary": "Anthropic负责人分享其产品团队如何将AI融入工作流，强调快速迭代、人机协作与用户反馈闭环。团队采用“AI优先”策略，从需求分析到测试全程嵌入模型能力，效率提升显著。这一模式或为AI时代产品开发树立新标杆。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247488128&idx=1&sn=e96f67935cc2372b5fbea2065c0c7897&chksm=f45fb54d54c1421212fcbbf98e78805a7b5ad1bb032be64dc3d00f5b5ae6fb7639bd1ca8920b&mpshare=1&scene=1&srcid=06223eqiee51KEYe71BhkxIS&sharer_shareinfo=f4d5036a6627fa280690ce2cf6708718&sharer_shareinfo_first=f4d5036a6627fa280690ce2cf6708718",
+      "time": "00:11",
+      "category": "💡 深度观点"
+    },
+    {
+      "raw_title": "20万行祖传代码一键变可视化图谱！这个爆火开源神器支持各大主流AI工具",
+      "entity": "祖传代码可视化神器",
+      "clean_title": "一键将20万行祖传代码转化为可视化图谱，支持主流AI工具",
+      "summary": "一款开源神器爆火，可将20万行祖传代码一键转化为可视化图谱，并支持各大主流AI工具。该工具大幅降低代码理解与维护难度，为开发者提供高效解决方案，引发行业广泛关注。",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515856&idx=1&sn=aeb94d15c20de5dd9646833dc616c647&chksm=cf162aea82c0e3d82914507e8f546f528d2e1e57397750525635dac6dcc5b612c947411ebc67&mpshare=1&scene=1&srcid=0622ecDMTdil9hhCirOHfSIw&sharer_shareinfo=47ab3a38f4eadee6a8afa7a5a815fd63&sharer_shareinfo_first=47ab3a38f4eadee6a8afa7a5a815fd63",
+      "time": "00:20",
+      "category": "🔧 工具与应用"
+    }
+  ]
+}
