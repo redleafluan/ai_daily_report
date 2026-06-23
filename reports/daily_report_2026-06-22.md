@@ -1,0 +1,126 @@
+# 📅 Daily AI Report - 2026-06-22
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **23** 篇内容。
+> **今日看点**: CMU博客文章挑战传统观点，认为预训练并非决定模型性能的唯一因素，后训练（如微调、RLHF）同样重要甚至更关键。文章通过实验数据证明，适当增加后训练计算量可显著提升模型表现，引发对当前训练范式的重新思考。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[DeepSWE]** 新编程基准GLM-5.2通过率44%，问鼎开源第一，大幅领先Opus-4.6max
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247515866&idx=1&sn=1610277d83253c124d495c9e93477503&chksm=cfd54864019e1a1f2190d66b0a9cbd8fbb3d3cdc7376891b9d19523eea2a1f9ff9b55fb202df&mpshare=1&scene=1&srcid=0622SrrWAfYejaa7GgEey7WU&sharer_shareinfo=10edd6976c3073fd29bcafb76fe0b615&sharer_shareinfo_first=10edd6976c3073fd29bcafb76fe0b615)
+*   📝 DeepSWE发布全新编程基准GLM-5.2，通过率高达44%，问鼎开源第一，大幅领先Opus-4.6max。这一突破性成果展示了开源模型在编程任务上的强大实力，为开发者提供了更高效的工具。
+*   ⏰ *17:09*
+
+#### **[Fugu Ultra]** 日本公司发布对标Fable的新模型
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NzgzMjA4MQ==&mid=2453486237&idx=1&sn=f222f8aa3bef3cfe2dd2f56ed917c35d&chksm=8647f6191fd5ee164ed18e376ce6a6dfb505780160001ba9b32ec727ce52e4999d0c4b69ad69&mpshare=1&scene=1&srcid=0622UPvFLRe58RM3VX5fhP2m&sharer_shareinfo=548be774d4b1c84a548d16a1c6f7fa88&sharer_shareinfo_first=548be774d4b1c84a548d16a1c6f7fa88)
+*   📝 日本公司推出Fugu Ultra模型，定位与Fable同级，旨在提升AI性能与效率。该模型在自然语言处理和多模态任务上展现竞争力，有望推动行业技术迭代。
+*   ⏰ *13:44*
+
+#### **[百度]** 开源模型拿下全球第一，疑似DeepSeek大神加盟
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652708425&idx=1&sn=7177cd5114ee3b9637deba80237c7a11&chksm=f03cb9ae84b2db6cc923d6b7e8fe20fa7bbb563ee32f392a5235e4024bd07ee7140722f2bb70&mpshare=1&scene=1&srcid=0622WwTNpcGKOXMzRPy8jHPU&sharer_shareinfo=75013d60dd2209341af3255525912e5b&sharer_shareinfo_first=75013d60dd2209341af3255525912e5b)
+*   📝 百度开源模型登顶全球榜首，引发业界震动。据传核心开发者来自DeepSeek团队，技术实力不容小觑。此次突破标志着中国开源AI进入新阶段，性能与生态并重，或重塑行业格局。
+*   ⏰ *20:42*
+
+### 📰 行业新闻
+#### **[20岁创始人]** 最年轻创业团队：18岁员工，19岁投资人
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247536843&idx=1&sn=c499c037cd1eb894a0d13820083c2439&chksm=fdc617c1810fb865b52dd316a7ba3b75e2ef92545d48f0d8fd1a97f0f2252e461e5a31bcf5c4&mpshare=1&scene=1&srcid=0622yOTXX1LtgpogaAcCARfP&sharer_shareinfo=788455a0d0b0e8ed26d4588a1265b5dc&sharer_shareinfo_first=788455a0d0b0e8ed26d4588a1265b5dc)
+*   📝 一家由20岁创始人领导的公司，员工仅18岁，却获得19岁投资人的青睐。这背后是年轻一代对科技创新的独特理解与冒险精神，他们正在用最年轻的阵容挑战传统创业模式，引发行业对年龄与能力关系的重新思考。
+*   ⏰ *00:45*
+
+#### **[Anthropic]** 八倍产出后，工程团队遭遇无解难题
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247494705&idx=1&sn=e8c5c22d82f36702d2b6b691c8957a0d&chksm=cf9a3b1d79a054891d60bce58b8940982f90ed3084010d5ebed0dec784f22d867e7565a70932&mpshare=1&scene=1&srcid=06224gRUcri2g2xp5daLSALi&sharer_shareinfo=4bdbca0df35b683e2f1e6e3c9fb952bd&sharer_shareinfo_first=4bdbca0df35b683e2f1e6e3c9fb952bd)
+*   📝 Anthropic 工程团队在实现八倍产出后，发现了一个无人能解决的新问题。这一挑战可能影响其AI模型的进一步优化和部署，引发业界对AI发展瓶颈的广泛关注。
+*   ⏰ *13:54*
+
+#### **[DeepSeek]** 疯狂招揽Agent人才，负责人四处贴广告
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898679&idx=1&sn=7e13093476268ed660ab89bfa7edc32f&chksm=e96891b96f1468467e93f3c633bd199d17063eb55379ef8feab4c4f69f4f35b953d3d3c71b3a&mpshare=1&scene=1&srcid=0622TQ9DxRFtEhtq0nnyQu0c&sharer_shareinfo=9adf3066d64b9b5cfaa9006b165ed210&sharer_shareinfo_first=9adf3066d64b9b5cfaa9006b165ed210)
+*   📝 DeepSeek对Agent人才的渴求已到疯狂地步，负责人亲自下场贴广告招人。这反映出AI Agent赛道的激烈竞争，以及DeepSeek在该领域加速布局的决心。
+*   ⏰ *12:33*
+
+#### **[OpenAI]** NLP博士57场面试终获Offer，求职经验全网刷屏
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040341&idx=1&sn=e639d4e0563c36b65ae9abb92ba1dc07&chksm=8591cd789947d408baa84c65bde44db087b1b93bd6afd4bf714308eafaed050f4bbb4b68f795&mpshare=1&scene=1&srcid=0622qq9evyhJab3YubjopKA9&sharer_shareinfo=1777e1b4d4b6ee74e02226af2f4c86db&sharer_shareinfo_first=1777e1b4d4b6ee74e02226af2f4c86db)
+*   📝 一位NLP博士分享了从57场面试到拿到OpenAI offer的完整求职复盘，涵盖顶级AI公司的面试流程、技术准备和心态调整。文章引发广泛共鸣，为AI求职者提供了宝贵的实战经验。
+*   ⏰ *18:09*
+
+#### **[北京]** 一家万亿级公司今天在北京诞生
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247728832&idx=1&sn=5c9b6d350cf4ae4b38a08903f98c0724&chksm=ed7a722e80e2825fd67dfcd16748dab2febd92a0c956f2b26a0b92cb7c68e17ee0aa55d52e9f&mpshare=1&scene=1&srcid=06224AHuDEhPVDselzCVkTAH&sharer_shareinfo=19503ff5573d0393fb67d0b04c71cbb8&sharer_shareinfo_first=19503ff5573d0393fb67d0b04c71cbb8)
+*   📝 北京今天迎来了一家市值突破万亿的公司，标志着中国科技产业的又一里程碑。这家公司的崛起不仅彰显了北京作为创新中心的地位，也反映了中国经济的强劲增长。
+*   ⏰ *18:29*
+
+#### **[奥特曼]** 硅谷大佬综艺首秀玩狼人杀，全程高能
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247617824&idx=1&sn=ce335d98d92decc6e1ecb1f66fa34cbd&chksm=964f3144d1bcf144bf2ced241973b0067016115893b1bdb02fd94363e14aca6d900a002ada70&mpshare=1&scene=1&srcid=0622SgaeYixFTAd2res1Tfli&sharer_shareinfo=7fa1cf15faa36941366b30d7ef5e699d&sharer_shareinfo_first=7fa1cf15faa36941366b30d7ef5e699d)
+*   📝 奥特曼综艺首秀封神，13位硅谷大佬齐聚一堂玩狼人杀，场面堪比科技圈春晚。节目不仅展现了AI大佬们的另一面，更暗藏行业暗语与博弈，堪称年度最烧脑真人秀。
+*   ⏰ *13:45*
+
+#### **[微信]** 应用市场寒冬未过，开发者如何破局？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515664&idx=1&sn=3a7cf703781e42b8a903c0b1977b36ae&chksm=89aa62465e36889b49d85325a72d4b47d11765cd0b3ae3a9b5d7491e4de4773421af2b4c77c5&mpshare=1&scene=1&srcid=0622h5V9DBjIde7Zd5KFRFlZ&sharer_shareinfo=130e2f41f0e0995c2adf2ea1f7ebb2f4&sharer_shareinfo_first=130e2f41f0e0995c2adf2ea1f7ebb2f4)
+*   📝 文章通过分析微信等超级App的生态垄断，指出中小应用在流量获取和用户留存上的困境。随着平台规则收紧，开发者需寻找垂直场景或AI原生应用等新赛道，方能迎来真正的春天。
+*   ⏰ *21:09*
+
+#### **[马斯克]** 推荐2026必读神作，揭示未来科技趋势
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654905854&idx=1&sn=96b615e61ce6ef3fe79f2dac5668670a&chksm=8d9fa45dec95729f5a3e12983aeee7c0e92b3d5ee6238137ecc6eb7e6db36289cf14f95ba7a4&mpshare=1&scene=1&srcid=0623XQJFkaET9sUECFAI7yBm&sharer_shareinfo=a5011578ae8d77246c0bbdf90e83b16a&sharer_shareinfo_first=a5011578ae8d77246c0bbdf90e83b16a)
+*   📝 马斯克力荐的2026年必读书籍，深度剖析人工智能、太空探索等前沿领域，引发科技界热议。本文解读该书核心观点，探讨其对未来产业的影响。
+*   ⏰ *00:34*
+
+### 💡 深度观点
+#### **[AI应用]** 技术堆砌难掩应用体验缺失，AI产品陷入增长瓶颈
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA5OTAzMzk2Ng==&mid=2649515659&idx=1&sn=027037b77dc9eee9b1d536a7c65cb3bd&chksm=890e619b2cbef4a6a7d78f6907f01ef3458443fc57b8ec56fde82225d75706eb2152bc1f8f6f&mpshare=1&scene=1&srcid=0622H9SrC88GDn9eIqBkLHDV&sharer_shareinfo=9776af7be93b4377d6f4d6be1d5920c0&sharer_shareinfo_first=9776af7be93b4377d6f4d6be1d5920c0)
+*   📝 当前AI应用普遍存在技术至上、忽视用户体验的问题，产品设计复杂难用，缺乏真正解决用户痛点的能力。行业过度关注模型参数和功能堆砌，却忽略了场景化落地和交互优化，导致用户留存率低，商业化前景不明。
+*   ⏰ *13:08*
+
+#### **[AI管理]** 管人能力决定AI应用成效
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647683699&idx=1&sn=b33fa1dde9afc67a8b97587dd4efd6d6&chksm=f11260a44d49bcde023ccf89a01f9f859af6b3148025ae80f4cd485317b5471aae374dd67344&mpshare=1&scene=1&srcid=06228TJDiMgmcFgDNx3hELrE&sharer_shareinfo=ce473e4515656ed83dc8ec43f35a21af&sharer_shareinfo_first=ce473e4515656ed83dc8ec43f35a21af)
+*   📝 文章提出AI应用效果与管理者能力紧密相关，强调技术落地需要组织管理变革。观点犀利，直击企业数字化转型痛点。
+*   ⏰ *12:26*
+
+#### **[Claude Code]** Agent 热潮降温，ROI 计算成新焦点
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651287507&idx=1&sn=8feb0982bc9d9fabdfdaf22f63f4202e&chksm=bc573d7ef12f3c5917cd5a2c1d1b2d4c65006aec1f0565176ed328434caa423f40dcc0d622fb&mpshare=1&scene=1&srcid=06220gF92Np8Z5rK9HISHU0r&sharer_shareinfo=48d10ebc3db871d9569f87a62bb114e0&sharer_shareinfo_first=48d10ebc3db871d9569f87a62bb114e0)
+*   📝 Claude Code 工程一号位公开为 Agent 热潮降温，指出狂烧 Token 的时代已过，现在应聚焦 ROI 计算。这一观点直击当前 AI 行业过度追求规模而忽视实际收益的痛点，引发对 Agent 落地价值的深度反思。
+*   ⏰ *16:43*
+
+#### **[CMU]** 预训练时代已过？新研究揭示后训练才是关键
+*   🔗 [阅读原文](https://blog.ml.cmu.edu/2026/06/17/pre-training-isnt-bitter-enough/)
+*   📝 CMU博客文章挑战传统观点，认为预训练并非决定模型性能的唯一因素，后训练（如微调、RLHF）同样重要甚至更关键。文章通过实验数据证明，适当增加后训练计算量可显著提升模型表现，引发对当前训练范式的重新思考。
+*   ⏰ *11:46*
+
+#### **[Liblib]** 你的梦想是什么？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzYzNTA3NTgwNQ==&mid=2247484232&idx=1&sn=4ac083df66e132388cc0b7dbeaa768b6&chksm=f1abba43fee3d871741719ab4e36a2e72a11427c3ccd70df05a3154bbb76aabe347de798ce38&mpshare=1&scene=1&srcid=0622zjIyHIESnhAjPMU3YU3h&sharer_shareinfo=c82d60a3dd65d63dd7a078232f329728&sharer_shareinfo_first=c82d60a3dd65d63dd7a078232f329728)
+*   📝 文章以Liblib为对象，探讨其梦想与未来方向。通过分析其技术布局与市场定位，揭示了Liblib在AI领域的野心与挑战。内容犀利，直击核心，引发对AI公司愿景的深度思考。
+*   ⏰ *18:19*
+
+#### **[P站]** AI训练数据背后的伦理困境与人类自嘲
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109293&idx=1&sn=68174e65f8789f8d3507aebbf2f3df35&chksm=7f724c2c2f32736111e4c28c748735a5ec18f266db3332b2607e4f19874ae30a2b8efbad7bc2&mpshare=1&scene=1&srcid=0622XkMxH57vftFslI2ChvCg&sharer_shareinfo=d156e8b989dbc7a225f0407e886d1034&sharer_shareinfo_first=d156e8b989dbc7a225f0407e886d1034)
+*   📝 文章揭示了一个讽刺现象：AI训练数据中大量使用成人内容网站（P站）的素材，而人类在享受AI便利的同时，却对数据来源讳莫如深。这种双重标准暴露了技术伦理的灰色地带，也折射出人与AI关系的荒诞性。
+*   ⏰ *20:45*
+
+#### **[RAG]** SQL或成RAG技术演进新方向，效率与准确性双提升
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247518114&idx=1&sn=a1753e037ed33bbbc43822d66e2f29c8&chksm=c302245bda058f6f283d02f8ae67b50dbb746fe9fb9bbaa2a8e3fbdace3557c62d63bdf3bbe2&mpshare=1&scene=1&srcid=0623ZoAVBYLye1NPC4r9KTX2&sharer_shareinfo=36368849e72b2d4485d2973abd30ef96&sharer_shareinfo_first=36368849e72b2d4485d2973abd30ef96)
+*   📝 RAG（检索增强生成）技术面临瓶颈，业界开始探索用SQL替代传统向量检索，以提升数据查询的精确性和效率。这一转变可能重塑AI应用的数据处理范式，尤其适合结构化数据场景，引发对RAG未来走向的深度思考。
+*   ⏰ *01:01*
+
+#### **[大模型]** 从暴力美学转向精细化机制，2026年技术演进新趋势
+*   🔗 [阅读原文](https://cubox.pro/my/card?id=7468582641969660430)
+*   📝 2026年大模型底层技术从追求参数规模的“暴力美学”转向精细化机制创新，强调效率与可解释性。这一转变将推动AI应用落地，降低算力需求，加速行业渗透。
+*   ⏰ *11:53*
+
+#### **[张和]** 闭关三个月，我如何把自己变成全能Builder
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MjM5NzA5OTAwMA==&mid=2650010357&idx=1&sn=5b0727f645b2c00ebfa569bd59233cea&chksm=bfb9a0a3cfebd555dcab6683bbc00e4dfde7d31b597fc17fd1e4d4f07de56cc5b73048d04b6a&mpshare=1&scene=1&srcid=06223OuuyRTb8EwMwMHE9Jp4&sharer_shareinfo=04f6200510b596847668109362c358bf&sharer_shareinfo_first=04f6200510b596847668109362c358bf)
+*   📝 张和老师分享了他闭关三个月，从零开始学习编程、设计、产品等技能，最终成为全能Builder的经历。文章详细介绍了他的学习路径、工具使用和实战项目，为想要转型或提升综合能力的读者提供了宝贵经验。
+*   ⏰ *21:01*
+
+#### **[现代人]** 精神疲劳的真相：为何无所事事却心力交瘁？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247928359&idx=1&sn=c17887c9b8547f48151077b57f8255f7&chksm=9e12d66c7d920747df1c02b58d1fd89f1f24bfcbc8aad06ebbbe90f0316cb90410de8f2828e2&mpshare=1&scene=1&srcid=06221W4j6V5g8ChBSTphdShB&sharer_shareinfo=3e31c14b7baa2d454141311ebb349c75&sharer_shareinfo_first=3e31c14b7baa2d454141311ebb349c75)
+*   📝 文章深入探讨了现代人普遍存在的“心累”现象，指出即使不做任何事，精神消耗依然巨大。通过分析信息过载、多任务处理和社交压力等因素，揭示了这种疲劳感的根源，并提供了缓解建议。
+*   ⏰ *20:53*
+
+### 🔧 工具与应用
+#### **[Harness]** 5个Agent并行预测世界杯，实操拆解多智能体协同
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723661&idx=1&sn=911048aaf1f81ebff0294cd91120f7e5&chksm=e92340f86f09a28a1aea1b6fef6f6b9ffb4717a3042f970574ab5288ea838a38519ce4f1ccab&mpshare=1&scene=1&srcid=0622dJOZruwE35nDd9AuT1pV&sharer_shareinfo=12731f411109d5c2547e590dae84f27d&sharer_shareinfo_first=12731f411109d5c2547e590dae84f27d)
+*   📝 本文深度拆解Harness实操，展示如何通过5个Agent并行预测世界杯。作者详细介绍了多智能体协同的工作流程、任务分配与结果整合，揭示了Agent并行处理在复杂预测任务中的强大能力。对于AI从业者而言，这是一次极具启发性的技术实践。
+*   ⏰ *22:12*
+
+#### **[Obsidian + Codex]** 手把手教你搭建个人知识库，效率翻倍
+*   🔗 [阅读原文](https://www.xiaohongshu.com/discovery/item/6a1e876500000000350338cc?app_platform=ios&app_version=9.34.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBu6e6xNoLnFqkTJ8Gwetg0CVBvU7I-tiDoWScl9nHSuw=&author_share=1&xhsshare=WeixinSession&shareRedId=Nz47Mkk7R0I8SDtDP0E2SDhEOjlFNz87&apptime=1782147647&share_id=59362b1b9b6b4e7f97bf64362cfc8b96)
+*   📝 本文详细介绍了如何使用Obsidian与Codex搭建个人知识库，从工具选择到实操步骤，帮助读者实现高效信息管理。文章包含代码示例与配置技巧，适合追求效率的知识工作者。
+*   ⏰ *01:01*
+
