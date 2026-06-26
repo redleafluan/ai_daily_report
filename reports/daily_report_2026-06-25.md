@@ -1,0 +1,96 @@
+# 📅 Daily AI Report - 2026-06-25
+
+## 1. 今日总结 (Daily Summary)
+今日共收录 **17** 篇内容。
+> **今日看点**: 火山引擎总裁谭待在采访中透露，Seedance 模型将向世界模型演进，而豆包2.1 Pro 已跨过生产力质变点，意味着其性能足以支撑实际业务场景。这一表态标志着火山引擎在 AI 领域的战略重心从单一模型转向更宏大的世界模型，同时豆包2.1 Pro 的成熟度也为企业级应用提供了可靠选择。
+
+## 2. 精选日报 (Daily Feed)
+### 🤖 模型与技术
+#### **[Agentic RL]** 长程智能体训练新范式：框架、实践与前沿探索
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247675180&idx=1&sn=b32575067d213dc6734c2b720c7031ac&chksm=fdb38ede2bcfa7f7c9359d639be1e6f99c6b8a73e4f054188c2151a1f767d7d8843780e40e0f&mpshare=1&scene=1&srcid=0625NMhpYjtjLbL4mgRD2pdR&sharer_shareinfo=c8ba9318e0546a0628db5c1f95151619&sharer_shareinfo_first=c8ba9318e0546a0628db5c1f95151619)
+*   📝 本文系统介绍了Agentic RL框架，聚焦于如何通过强化学习训练长程智能体。文章从理论到实践，深入探讨了训练中的关键挑战与解决方案，为AI智能体在复杂任务中的自主决策提供了新思路。
+*   ⏰ *20:15*
+
+#### **[Seed 2.1 / Seedance 2.5]** 多模态模型同步升级，图像语音能力再突破
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s/Vnv68cHAWfcX2CnszWR6Qg)
+*   📝 Seed 2.1与Seedance 2.5版本正式发布，同时带来图像与语音模型的全新升级。新版本在生成质量、响应速度和多模态融合方面均有显著提升，进一步巩固了其在AI领域的领先地位。
+*   ⏰ *20:28*
+
+#### **[火山引擎]** Seedance 模型瞄准世界模型，豆包2.1 Pro 已达生产力质变点
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516412&idx=2&sn=8fd4d183bb0aa36992648db445552a1c&chksm=ea83f236b311ada048b56e4226b663ee924f023e94277daaad1a9d0d000be2cd9764251c0bc0&mpshare=1&scene=1&srcid=0625CJDE97sWRdzOp0tbqp8Y&sharer_shareinfo=ebf4de2b2f3bbedc0c98150f71286471&sharer_shareinfo_first=ebf4de2b2f3bbedc0c98150f71286471)
+*   📝 火山引擎总裁谭待在采访中透露，Seedance 模型将向世界模型演进，而豆包2.1 Pro 已跨过生产力质变点，意味着其性能足以支撑实际业务场景。这一表态标志着火山引擎在 AI 领域的战略重心从单一模型转向更宏大的世界模型，同时豆包2.1 Pro 的成熟度也为企业级应用提供了可靠选择。
+*   ⏰ *11:17*
+
+#### **[豆包]** Seedance 2.0 支持原生 4K 视频直出
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542002&idx=1&sn=c06bd7fe16d23201373f76216d681aff&chksm=e8d369c97e135beefd067c354e23289323e0c5f8107b1f4b7261d7e5badd073aa2713595b2c3&mpshare=1&scene=1&srcid=0625PCy9yfTRimIoioU0ZDQI&sharer_shareinfo=123839d48408dc049b822eb8bfbd99eb&sharer_shareinfo_first=123839d48408dc049b822eb8bfbd99eb)
+*   📝 豆包视频生成模型 Seedance 2.0 迎来重大升级，新增原生 4K 分辨率直出能力，大幅提升视频清晰度与细节表现。这一技术突破将推动 AI 视频生成迈向更高画质标准，为创作者提供更专业的工具支持。
+*   ⏰ *20:28*
+
+#### **[豆包]** 发布音频生成模型1.0，AI创作进入新纪元
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542042&idx=1&sn=2f56de9568205b8e19d419ae9faa6636&chksm=e8620ab8fd784ef7ecd206b657a7d258411a760640a42f78a8d3d11a8944e7cb2fe226837317&mpshare=1&scene=1&srcid=0625QrZmKgGSZfwZA3CXByqz&sharer_shareinfo=f7ff449965a5a002847c053fda9c5747&sharer_shareinfo_first=f7ff449965a5a002847c053fda9c5747)
+*   📝 豆包音频生成模型1.0正式发布，标志着AI音频创作技术迈入新阶段。该模型在语音合成、音效生成等方面实现突破，为内容创作者提供高效、高质量的音频解决方案。豆包此举将重新定义音频创作流程，推动行业智能化升级。
+*   ⏰ *20:28*
+
+#### **[豆包大模型2.1]** 面向生产级任务的新起点，性能与稳定性全面升级
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542033&idx=1&sn=4fde2095f4bafc0f69c65033d0c7c4fd&chksm=e8da8b8c245df38bcab966bf1e980a9f4dded8bd0c9223a38730446266d4bdee81a913ac28d8&mpshare=1&scene=1&srcid=0625I6cdZrkMEtbE9nyRrkQJ&sharer_shareinfo=1be33eb2e9f63da28fe3b3650a4f137d&sharer_shareinfo_first=1be33eb2e9f63da28fe3b3650a4f137d)
+*   📝 豆包大模型2.1正式发布，专注于生产级任务场景，在推理、代码生成、多轮对话等核心能力上实现显著提升。新版本优化了模型稳定性和响应速度，为企业级应用提供更可靠的AI基础设施。此次更新标志着豆包系列模型从实验性向工业级应用的关键跨越。
+*   ⏰ *20:28*
+
+### 📰 行业新闻
+#### **[同济大学]** 国产AI首次进军土木工程领域，同济大学引领行业变革
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652709171&idx=1&sn=47821baba862270d9465b2f4b583df81&chksm=f07b39b733d8e32ba4d904aa9e37623d09908d0d40e06a60f6c3cf6250b84adc6035d1d67550&mpshare=1&scene=1&srcid=0625cWaU8eDXEkGGkvyyG7bj&sharer_shareinfo=f9dc7e7e2c62887d15ed73ed90d1c207&sharer_shareinfo_first=f9dc7e7e2c62887d15ed73ed90d1c207)
+*   📝 同济大学成功将国产AI技术应用于土木工程，标志着AI在传统基建领域的重大突破。该技术有望提升工程效率与安全性，推动行业数字化转型。
+*   ⏰ *20:56*
+
+#### **[火山引擎]** 四大要点讲透火山引擎FORCE大会，AI云服务再升级
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542047&idx=2&sn=1e2a8dd3501e88df5816b54a1e6ef88a&chksm=e889c769b903c4ee19f0311964523ecc493829bf9cf4ec386d0d65d71825905fb037bc88cebc&mpshare=1&scene=1&srcid=0625kx6KQ8vbCLYeQKH7LNoe&sharer_shareinfo=94e55d01f6e65595b54f892a06c99529&sharer_shareinfo_first=94e55d01f6e65595b54f892a06c99529)
+*   📝 火山引擎FORCE大会发布四大核心要点，聚焦AI云服务创新。从技术架构到行业应用，展示其如何通过全栈AI能力赋能企业数字化转型，推动智能算力与场景化解决方案落地。
+*   ⏰ *20:28*
+
+#### **[火山引擎]** 超200家企业加入万亿Tokens俱乐部，AI落地实效显著
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542252&idx=1&sn=8bd60cf04fc35d4a8af7b72dc7ca9b86&chksm=e865c6d6cf20d79690655757ddb6f8d0082e1f210bb5a887ea3fa6425307338c1126f4d206ff&mpshare=1&scene=1&srcid=0625gzasxygvmgIn4fkq9SST&sharer_shareinfo=55d629ee72f534a9fca7bc0ba40ca3c6&sharer_shareinfo_first=55d629ee72f534a9fca7bc0ba40ca3c6)
+*   📝 火山引擎宣布其「万亿Tokens俱乐部」企业数量突破200家，涵盖金融、电商、游戏等多个行业。通过豆包大模型等产品，企业实现了从降本增效到业务创新的实际收益，标志着AI技术正从概念验证走向规模化应用。
+*   ⏰ *20:28*
+
+#### **[陈勇超]** 放弃DeepMind邀约，押注AI下一个时代，打造中国原创成果
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247516412&idx=1&sn=8682ed7ea1f09c34ef28fe6d69e61286&chksm=ea20ffc63eb3b84813c83d705594a2084d59d2633abafae9a9026a7042fd5d19bebca90aadf2&mpshare=1&scene=1&srcid=0625dtM9OQT32ROPKv3yfh5C&sharer_shareinfo=e987eb9e15e371c8d75f92e20686ccee&sharer_shareinfo_first=e987eb9e15e371c8d75f92e20686ccee)
+*   📝 陈勇超放弃DeepMind高薪邀约，选择回国创业，致力于打造属于中国的原创AI成果。他认为AI的下一个时代需要底层创新，而非仅仅跟随。他的故事展现了中国AI人才的雄心与决心。
+*   ⏰ *11:17*
+
+### 💡 深度观点
+#### **[UserTesting]** AI Agent时代，PM如何精准洞察客户真实需求？
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247488156&idx=1&sn=3ed185e1acf276f3adf4b60c140549a2&chksm=f478529d5fd4efe5c66012296bac79f3458663cd03de5fc904f758993715f6347b7c8a4452e6&mpshare=1&scene=1&srcid=0625S9JrVnfPE3eEM4stW6sj&sharer_shareinfo=3d1a6670301175bee8d642f9f2a22c93&sharer_shareinfo_first=3d1a6670301175bee8d642f9f2a22c93)
+*   📝 AI Agent的兴起让产品经理面临新挑战：用户需求变得更加动态和复杂。本文强调，PM必须回归用户研究本质，通过持续测试和反馈闭环，才能设计出真正解决痛点的智能产品。
+*   ⏰ *23:48*
+
+#### **[洪定坤]** AI Coding实践与探索：字节跳动技术副总裁的深度分享
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542279&idx=1&sn=bf0100cc61c1545a072a948034a3fe7b&chksm=e809da09787872a3b39279514f26b27fcf698c2f8a16d641bb06837d98762e59c41ab58b4f06&mpshare=1&scene=1&srcid=0625xgzl3mcmvVNiqdqTVE8d&sharer_shareinfo=08b708818db9e32f5f5144788d3afaa8&sharer_shareinfo_first=08b708818db9e32f5f5144788d3afaa8)
+*   📝 字节跳动技术副总裁洪定坤在文章中分享了AI Coding的实践与探索，探讨了AI在代码生成、优化和自动化测试中的应用，以及如何提升开发效率。文章提供了字节跳动内部的实际案例，展示了AI Coding的潜力和挑战，为行业提供了宝贵的经验。
+*   ⏰ *20:27*
+
+#### **[黄仁勋]** Prompt 已过时，Loop 成为人机交互新范式
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247899694&idx=1&sn=332bd62f701c1ea2a64838697b10b08d&chksm=e9a7937aa543cfaeb1721139a4b984400a3f0868d64c3ccf69ce7e6593da49f0316ec88d0ff2&mpshare=1&scene=1&srcid=0625v9cpZS4Ce19D52fMeA4P&sharer_shareinfo=354f5bab64796ca3d2d0d2a7b5763749&sharer_shareinfo_first=354f5bab64796ca3d2d0d2a7b5763749)
+*   📝 英伟达 CEO 黄仁勋在最新演讲中提出，传统的 Prompt（提示词）交互模式即将过时，取而代之的是 Loop（循环）范式。这一观点颠覆了当前 AI 应用的主流交互逻辑，强调持续迭代和反馈循环的重要性，为 AI 产品设计带来全新思路。
+*   ⏰ *16:20*
+
+### 🔧 工具与应用
+#### **[Agent开发运营产品]** 三大产品升级，助力企业构建“1+N+X”Agent体系
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542262&idx=1&sn=a8050b3eb77783b95572919a007f4a47&chksm=e87a8438e145c6b2e9826660aa76634f9ed33579cf2b443f2db5404150c930c62d65a32c598c&mpshare=1&scene=1&srcid=0625fQUhh0Gqvm5DcncAluLc&sharer_shareinfo=5521254ff309a6cfe684f76c9663c82f&sharer_shareinfo_first=5521254ff309a6cfe684f76c9663c82f)
+*   📝 本文介绍三大Agent开发运营产品的升级，旨在帮助企业建立高效的“1+N+X”Agent体系。通过优化开发工具、运营平台和集成能力，企业能够更灵活地部署和管理智能代理，提升自动化水平与业务效率。
+*   ⏰ *20:28*
+
+#### **[Claude Code]** /loop 实操教程来了，带你快速上手
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247723707&idx=1&sn=e44dd0cb0a42d6794bf663cc3ba0d653&chksm=e9ab399a5254ede54f47331eae5926d54b11386d9a4ec3814eb90a26ffb4bc53f0f8dca5423c&mpshare=1&scene=1&srcid=0625v2kV9EuL5OBVXmca17ug&sharer_shareinfo=20e30c29b1e20fc20ddbb1408bb14c24&sharer_shareinfo_first=20e30c29b1e20fc20ddbb1408bb14c24)
+*   📝 本文详细介绍了 Claude Code 的 /loop 功能，提供了实操教程，帮助开发者高效利用该工具进行代码迭代和调试。内容涵盖基本用法、常见场景和最佳实践，是 AI 编程工具使用者的必备指南。
+*   ⏰ *23:36*
+
+#### **[Codex]** 实测推荐16个科研神级Skill，从查文献到做网站全搞定
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247518116&idx=1&sn=6bf48f7484b0b1555bafc7309c269a92&chksm=c381d4f9a31faf475f15331fab85c973e67427f5eef9783c7e22e174b875f360704cef592f36&mpshare=1&scene=1&srcid=0625EjD3k0N62OF3IrrIyiAD&sharer_shareinfo=4fc5a20dd186aab66066fdca69a22761&sharer_shareinfo_first=4fc5a20dd186aab66066fdca69a22761)
+*   📝 本文实测推荐了16个基于Codex的科研Skill，覆盖文献检索、论文写作、网站搭建等全流程。每个Skill都经过真实测试，效果惊艳，真正让AI成为科研工作者的得力助手。
+*   ⏰ *11:43*
+
+#### **[火山引擎]** Agent Infra升级，推动AI代理深入企业工作流
+*   🔗 [阅读原文](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ==&mid=2247542269&idx=1&sn=28b111ecd9f065af7aaed80ff6572163&chksm=e80ef93bb0563459d17e08244980009f91bc0815a4639ea8719582c10aa80b35583290a77108&mpshare=1&scene=1&srcid=0625dGVfPUrjjBLG6vh8nowh&sharer_shareinfo=2b9b236202c584a03b815f7e9bc1fafa&sharer_shareinfo_first=2b9b236202c584a03b815f7e9bc1fafa)
+*   📝 火山引擎推出Agent Infra升级，旨在让AI代理真正融入企业工作流。通过优化基础设施，提升代理的稳定性与效率，解决企业部署中的实际痛点。此次升级标志着AI代理从概念走向实用，为企业数字化转型提供新动力。
+*   ⏰ *20:27*
+
